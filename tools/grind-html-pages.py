@@ -8,7 +8,7 @@
 A minimal front end to the Docutils Publisher, producing HTML.
 """
 
-import re
+import re,os,os.path,sys
 
 try:
     import locale
@@ -391,5 +391,11 @@ writer = WriterForLegalCitem()
 description = ('Generates a specificaltion document from reStructuredText '
                'source.  ' + default_description)
 
-publish_cmdline(reader=None, reader_name="standalone", writer=writer,
+output = publish_cmdline(reader=None, reader_name="standalone", writer=writer,
     description=description)
+
+scriptpath = os.path.split(sys.argv[0])[0]
+rootpath = os.path.join(scriptpath,os.path.pardir)
+rootpath = os.path.abspath(rootpath)
+indexpath = os.path.join(rootpath,"public","index.html")
+open(indexpath,"w+").write(output)
