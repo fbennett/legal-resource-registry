@@ -29,12 +29,16 @@ class courtid (nodes.TextElement): pass
 class reporters (nodes.TextElement): pass
 class reporterbox (nodes.TextElement): pass
 class reporter (nodes.TextElement): pass
+class reporterneutral (nodes.TextElement): pass
 class reportername (nodes.TextElement): pass
 class reporterdates (nodes.TextElement): pass
 class descriptionbox (nodes.TextElement): pass
 class featurebox (nodes.TextElement): pass
 class bubble (nodes.Inline, nodes.TextElement): pass
 class label (nodes.Inline, nodes.TextElement): pass
+class value (nodes.Inline, nodes.TextElement): pass
+class valueunconfirmed (nodes.Inline, nodes.TextElement): pass
+class valueneutral (nodes.Inline, nodes.TextElement): pass
 class featurename (nodes.Inline, nodes.TextElement): pass
 
 class Defaults:
@@ -125,6 +129,12 @@ class HTMLTranslatorForLegalCitem(HTMLTranslator):
     def depart_reporter(self, node): 
         self.body.append('</div>\n')
 
+    def visit_reporterneutral(self, node):
+        self.body.append(self.starttag(node, 'div', CLASS="reporter neutral").strip())
+
+    def depart_reporterneutral(self, node): 
+        self.body.append('</div>')
+
     def visit_reportername(self, node):
         self.body.append(self.starttag(node, 'div', CLASS="reporter-name"))
 
@@ -177,6 +187,24 @@ class HTMLTranslatorForLegalCitem(HTMLTranslator):
         self.body.append('<span class="label">')
 
     def depart_label(self, node): 
+        self.body.append('</span>')
+
+    def visit_value(self, node):
+        self.body.append('<span class="value">')
+
+    def depart_value(self, node): 
+        self.body.append('</span>')
+
+    def visit_valueunconfirmed(self, node):
+        self.body.append('<span class="value unconfirmed">')
+
+    def depart_valueunconfirmed(self, node): 
+        self.body.append('</span>')
+
+    def visit_valueneutral(self, node):
+        self.body.append('<span class="value neutral">')
+
+    def depart_valueneutral(self, node): 
         self.body.append('</span>')
 
     def visit_featurename(self, node):
@@ -292,18 +320,19 @@ class ReporterDirective(Directive):
     has_content = False
     option_spec = {
         'series-abbreviation': directives.unchanged,
-        'dates': directives.unchanged
+        'dates': directives.unchanged,
+        'neutral': directives.unchanged,
+        'confirmed': directives.unchanged
     }
 
-    def makeLabelNode(self,val,key=None):
+    def makeLabelNode(self,val,key=None,nodeType=value):
         node = nodes.container()
         if key:
             key = "%s: " % key
-            nodelabel = label(rawsource=key,text=key)
-            node += nodelabel
-        parser = states.Inliner()
-        newnodes, errors = parser.parse(val, self.lineno, self.state_machine, node)
-        node += newnodes
+            label_node = label(rawsource=key,text=key)
+            node += label_node
+        value_node = nodeType(rawsource=val,text=val)
+        node += value_node
         return node
 
     def run (self):
@@ -331,7 +360,11 @@ class ReporterDirective(Directive):
                 endyear = m.group(3)
         
         reporter_box_node = reporterbox()
-        reporter_node = reporter()
+
+        if self.options.has_key("neutral"):
+            reporter_node = reporterneutral()
+        else:
+            reporter_node = reporter()
 
         reporter_name = self.arguments[0].replace("'",u"\u0027")
         reporter_name_node = reportername(rawsource=self.arguments[0],text=reporter_name)
@@ -341,10 +374,21 @@ class ReporterDirective(Directive):
         abbrev = self.makeLabelNode(self.options["series-abbreviation"],key="Abbrev")
         start = self.makeLabelNode(startyear,key="From")
         end = self.makeLabelNode(endyear,key="To")
+        if self.options.has_key("neutral"):
+            neutral =  self.makeLabelNode("yes",key="Neutral",nodeType=valueneutral)
+        else:
+            neutral =  self.makeLabelNode("no",key="Neutral")
+            
+        if self.options.has_key("confirmed"):
+            confirmed = self.makeLabelNode("yes",key="Confirmed")
+        else:
+            confirmed = self.makeLabelNode("no",key="Confirmed",nodeType=valueunconfirmed)
 
         description_node += abbrev
         description_node += start
         description_node += end
+        description_node += neutral
+        description_node += confirmed
 
         feature_node = featurebox()
         keys = FEATURES.local.required.keys()
@@ -394,8 +438,8 @@ description = ('Generates a specificaltion document from reStructuredText '
 output = publish_cmdline(reader=None, reader_name="standalone", writer=writer,
     description=description)
 
-scriptpath = os.path.split(sys.argv[0])[0]
-rootpath = os.path.join(scriptpath,os.path.pardir)
-rootpath = os.path.abspath(rootpath)
-indexpath = os.path.join(rootpath,"public","index.html")
-open(indexpath,"w+").write(output)
+#scriptpath = os.path.split(sys.argv[0])[0]
+#rootpath = os.path.join(scriptpath,os.path.pardir)
+#rootpath = os.path.abspath(rootpath)
+#indexpath = os.path.join(rootpath,"public","index.html")
+#open(indexpath,"w+").write(output)
