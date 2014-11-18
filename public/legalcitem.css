@@ -1,3 +1,36 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h2.citation-group {
+    text-align: left;
+}
+
+div.draft-note {
+    text-align: center;
+    font-size: 150%;
+    font-family: Helvetica, Arial, Sans-Serif;
+    color: #ff6666;
+    font-weight: bold;
+    margin: 1em 0;
+}
+
+div.credits-box {
+    text-align: center;
+}
+
+div.credits-box div {
+    border: double 3px black;
+    width: 60%;
+    display: inline-block;
+    padding: 0 1em;
+    text-align: left;
+}
+
 body {
     width: 80%;
     margin-left: auto;
