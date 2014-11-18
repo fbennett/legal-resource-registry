@@ -1,0 +1,4 @@
+.. reporter:: Tennessee Reports, Cooke
+   :series-abbreviation: Cooke
+   :dates: 1811/1/1-1814/12/31
+

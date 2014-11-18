@@ -1,0 +1,4 @@
+.. reporter:: District of Columbia Reports, Hayward & Hazelton
+   :series-abbreviation: Hay. & Haz.
+   :dates: 1841/1/1-1862/12/31
+

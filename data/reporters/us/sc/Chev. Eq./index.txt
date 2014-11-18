@@ -1,0 +1,4 @@
+.. reporter:: South Carolina Reports, Cheves' Equity
+   :series-abbreviation: Chev. Eq.
+   :dates: 1839/1/1-1840/12/31
+

@@ -1,0 +1,4 @@
+.. reporter:: South Carolina Reports, Riley's Chancery
+   :series-abbreviation: Ril. Eq.
+   :dates: 1836/1/1-1837/12/31
+

@@ -1,0 +1,4 @@
+.. reporter:: Wheaton's Supreme Court Reports
+   :series-abbreviation: Wheat.
+   :dates: 1816/1/1-1827/12/31
+

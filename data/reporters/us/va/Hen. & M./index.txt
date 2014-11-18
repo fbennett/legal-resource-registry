@@ -1,0 +1,4 @@
+.. reporter:: Virginia Reports, Hening & Munford
+   :series-abbreviation: Hen. & M.
+   :dates: 1806/1/1-1810/12/31
+

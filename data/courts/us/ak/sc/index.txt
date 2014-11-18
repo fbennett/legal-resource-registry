@@ -1,0 +1,17 @@
+
+.. court:: Supreme Court of Alaska
+   :court-id: us;ak;sc
+
+   .. reporter:: Alaska
+
+   .. reporter:: Alaska Fed.
+
+   .. reporter:: LEXIS
+
+   .. reporter:: P.
+
+   .. reporter:: P.2d
+
+   .. reporter:: P.3d
+
+   .. reporter:: WL

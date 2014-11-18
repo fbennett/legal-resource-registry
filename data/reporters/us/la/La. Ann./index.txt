@@ -1,0 +1,4 @@
+.. reporter:: Louisiana Annual Reports
+   :series-abbreviation: La. Ann.
+   :dates: 1846/1/1-1900/12/31
+

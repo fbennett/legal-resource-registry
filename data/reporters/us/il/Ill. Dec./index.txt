@@ -1,0 +1,4 @@
+.. reporter:: West's Illinois Decisions
+   :series-abbreviation: Ill. Dec.
+   :dates: 1976/1/1-present
+

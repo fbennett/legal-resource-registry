@@ -1,0 +1,4 @@
+.. reporter:: North Carolina Reports, Jones' Law
+   :series-abbreviation: Jones
+   :dates: 1853/1/1-1862/12/31
+

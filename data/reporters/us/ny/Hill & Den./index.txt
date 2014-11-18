@@ -1,0 +1,4 @@
+.. reporter:: Hill and Denio Supplement (Lalor)
+   :series-abbreviation: Hill & Den.
+   :dates: 1842/1/1-1844/12/31
+

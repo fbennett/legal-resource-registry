@@ -1,0 +1,25 @@
+
+.. court:: Supreme Court of Florida
+   :court-id: us;fl;sc
+
+   .. reporter:: FL
+
+   .. reporter:: Fla.
+
+   .. reporter:: Fla. L. Weekly
+
+   .. reporter:: Fla. L. Weekly Supp.
+
+   .. reporter:: Fla. Supp.
+
+   .. reporter:: Fla. Supp. 2d
+
+   .. reporter:: LEXIS
+
+   .. reporter:: So.
+
+   .. reporter:: So. 2d
+
+   .. reporter:: So. 3d
+
+   .. reporter:: WL

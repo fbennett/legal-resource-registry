@@ -1,0 +1,4 @@
+.. reporter:: Wisconsin Reports
+   :series-abbreviation: Wis. 2d
+   :dates: 1853/1/1-present
+

@@ -1,0 +1,4 @@
+.. reporter:: South Carolina Reports, Strobhart
+   :series-abbreviation: Strob.
+   :dates: 1846/1/1-1850/12/31
+

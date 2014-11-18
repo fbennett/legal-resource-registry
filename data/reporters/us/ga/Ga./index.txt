@@ -1,0 +1,4 @@
+.. reporter:: Georgia Reports
+   :series-abbreviation: Ga.
+   :dates: 1846/1/1-present
+

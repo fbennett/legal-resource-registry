@@ -1,0 +1,4 @@
+.. reporter:: North Carolina Reports, Conference by Cameron & Norwood
+   :series-abbreviation: Cam. & Nor.
+   :dates: 1800/1/1-1804/12/31
+

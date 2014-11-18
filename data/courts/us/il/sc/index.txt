@@ -1,0 +1,31 @@
+
+.. court:: Supreme Court of Illinois
+   :court-id: us;il;sc
+
+   .. reporter:: Breese
+
+   .. reporter:: Gilm.
+
+   .. reporter:: Ill.
+
+   .. reporter:: Ill. 2d
+
+   .. reporter:: Ill. App.
+
+   .. reporter:: Ill. App. 2d
+
+   .. reporter:: Ill. App. 3d
+
+   .. reporter:: Ill. Ct. Cl.
+
+   .. reporter:: Ill. Dec.
+
+   .. reporter:: LEXIS
+
+   .. reporter:: N.E.
+
+   .. reporter:: N.E.2d
+
+   .. reporter:: Scam.
+
+   .. reporter:: WL

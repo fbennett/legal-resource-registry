@@ -1,0 +1,4 @@
+.. reporter:: Connecticut Superior Court Reports
+   :series-abbreviation: Conn. Super. Ct.
+   :dates: 1986/1/1-1994/12/31
+

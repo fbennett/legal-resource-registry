@@ -1,0 +1,4 @@
+.. reporter:: Edwards' Chancery Reports
+   :series-abbreviation: Edw. Ch.
+   :dates: 1831/1/1-1850/12/31
+

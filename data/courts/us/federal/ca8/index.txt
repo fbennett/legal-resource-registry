@@ -1,0 +1,17 @@
+
+.. court:: United States Circuit Court of Appeals for the Eighth Circuit
+   :court-id: us;federal;ca8
+
+   .. reporter:: F.
+
+   .. reporter:: F. App'x
+
+   .. reporter:: F.2d
+
+   .. reporter:: F.3d
+
+   .. reporter:: LEXIS
+
+   .. reporter:: U.S. App. LEXIS
+
+   .. reporter:: WL

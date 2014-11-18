@@ -1,0 +1,4 @@
+.. reporter:: Hoffman's Chancery Reports
+   :series-abbreviation: Hoff. Ch.
+   :dates: 1838/1/1-1840/12/31
+

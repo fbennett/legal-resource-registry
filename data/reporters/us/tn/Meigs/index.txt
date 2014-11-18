@@ -1,0 +1,4 @@
+.. reporter:: Tennessee Reports, Meigs
+   :series-abbreviation: Meigs
+   :dates: 1838/1/1-1839/12/31
+

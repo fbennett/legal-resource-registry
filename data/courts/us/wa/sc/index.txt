@@ -1,0 +1,21 @@
+
+.. court:: Supreme Court of Washington
+   :court-id: us;wa;sc
+
+   .. reporter:: LEXIS
+
+   .. reporter:: P.
+
+   .. reporter:: P.2d
+
+   .. reporter:: P.3d
+
+   .. reporter:: WL
+
+   .. reporter:: Wash.
+
+   .. reporter:: Wash. 2d
+
+   .. reporter:: Wash. App.
+
+   .. reporter:: Wash. Terr.

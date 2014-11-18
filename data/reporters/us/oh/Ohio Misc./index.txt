@@ -1,0 +1,4 @@
+.. reporter:: Ohio Miscellaneous
+   :series-abbreviation: Ohio Misc.
+   :dates: 1962/1/1-present
+

@@ -1,0 +1,4 @@
+.. reporter:: Kentucky Reports, Bibb
+   :series-abbreviation: Bibb
+   :dates: 1808/1/1-1817/12/31
+

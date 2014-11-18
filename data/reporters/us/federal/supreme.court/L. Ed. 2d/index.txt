@@ -1,0 +1,4 @@
+.. reporter:: Lawyer's Edition
+   :series-abbreviation: L. Ed. 2d
+   :dates: 1956/1/1-present
+

@@ -1,0 +1,4 @@
+.. reporter:: South Dakota Reports
+   :series-abbreviation: S.D.
+   :dates: 1890/1/1-1976/12/31
+

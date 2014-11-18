@@ -1,0 +1,4 @@
+.. reporter:: North Carolina Reports, Haywood
+   :series-abbreviation: Hayw.
+   :dates: 1789/1/1-1806/12/31
+

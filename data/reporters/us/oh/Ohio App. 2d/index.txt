@@ -1,0 +1,4 @@
+.. reporter:: Ohio Appellate Reports
+   :series-abbreviation: Ohio App. 2d
+   :dates: 1913/1/1-present
+

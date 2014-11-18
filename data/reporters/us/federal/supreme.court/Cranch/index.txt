@@ -1,0 +1,4 @@
+.. reporter:: Cranch's Supreme Court Reports
+   :series-abbreviation: Cranch
+   :dates: 1801/1/1-1815/12/31
+

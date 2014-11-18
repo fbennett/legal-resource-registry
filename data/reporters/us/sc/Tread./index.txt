@@ -1,0 +1,4 @@
+.. reporter:: South Carolina Reports, Treadway
+   :series-abbreviation: Tread.
+   :dates: 1812/1/1-1816/12/31
+

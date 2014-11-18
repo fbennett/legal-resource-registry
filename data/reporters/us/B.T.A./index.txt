@@ -1,0 +1,4 @@
+.. reporter:: Reports of the United States Board of Tax Appeals
+   :series-abbreviation: B.T.A.
+   :dates: 1924/1/1-1942/12/31
+

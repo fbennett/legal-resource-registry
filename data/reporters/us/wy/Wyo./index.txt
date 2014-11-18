@@ -1,0 +1,4 @@
+.. reporter:: Wyoming Reports
+   :series-abbreviation: Wyo.
+   :dates: 1870/1/1-1959/12/31
+

@@ -1,0 +1,4 @@
+.. reporter:: Delaware Reports, Marvel
+   :series-abbreviation: Marvel
+   :dates: 1893/1/1-1897/12/31
+

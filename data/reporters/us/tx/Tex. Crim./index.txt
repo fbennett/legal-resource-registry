@@ -1,0 +1,4 @@
+.. reporter:: Texas Criminal Reports
+   :series-abbreviation: Tex. Crim.
+   :dates: 1891/1/1-1962/12/31
+

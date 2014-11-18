@@ -1,0 +1,4 @@
+.. reporter:: Virginia Cases, Criminal
+   :series-abbreviation: Va. Cas.
+   :dates: 1789/1/1-1826/12/31
+

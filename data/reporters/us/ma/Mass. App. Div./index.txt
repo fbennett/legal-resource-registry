@@ -1,0 +1,4 @@
+.. reporter:: Reports of Massachusetts Appellate Division
+   :series-abbreviation: Mass. App. Div.
+   :dates: 1936/1/1-present
+

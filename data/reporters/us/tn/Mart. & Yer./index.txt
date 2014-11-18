@@ -1,0 +1,4 @@
+.. reporter:: Tennessee Reports, Martin & Yerger
+   :series-abbreviation: Mart. & Yer.
+   :dates: 1825/1/1-1828/12/31
+

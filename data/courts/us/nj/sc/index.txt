@@ -1,0 +1,29 @@
+
+.. court:: Supreme Court of New Jersey
+   :court-id: us;nj;sc
+
+   .. reporter:: A.
+
+   .. reporter:: A.2d
+
+   .. reporter:: A.3d
+
+   .. reporter:: LEXIS
+
+   .. reporter:: N.J.
+
+   .. reporter:: N.J. Admin.
+
+   .. reporter:: N.J. Admin. 2d
+
+   .. reporter:: N.J. Eq.
+
+   .. reporter:: N.J. Misc.
+
+   .. reporter:: N.J. Super.
+
+   .. reporter:: N.J. Tax.
+
+   .. reporter:: N.J.L.
+
+   .. reporter:: WL

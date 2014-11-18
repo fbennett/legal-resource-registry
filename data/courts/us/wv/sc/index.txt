@@ -1,0 +1,13 @@
+
+.. court:: Supreme Court of West Virginia
+   :court-id: us;wv;sc
+
+   .. reporter:: LEXIS
+
+   .. reporter:: S.E.
+
+   .. reporter:: S.E.2d
+
+   .. reporter:: W. Va.
+
+   .. reporter:: WL

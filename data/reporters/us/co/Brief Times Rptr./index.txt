@@ -1,0 +1,4 @@
+.. reporter:: Brief Times Reporter
+   :series-abbreviation: Brief Times Rptr.
+   :dates: 1750/1/1-present
+

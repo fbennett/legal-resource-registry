@@ -1,0 +1,4 @@
+.. reporter:: Kentucky Reports, Hardin
+   :series-abbreviation: Hard.
+   :dates: 1805/1/1-1808/12/31
+

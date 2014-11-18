@@ -1,0 +1,17 @@
+
+.. court:: Supreme Court of Maine
+   :court-id: us;me;sc
+
+   .. reporter:: A.
+
+   .. reporter:: A.2d
+
+   .. reporter:: A.3d
+
+   .. reporter:: LEXIS
+
+   .. reporter:: ME
+
+   .. reporter:: Me.
+
+   .. reporter:: WL

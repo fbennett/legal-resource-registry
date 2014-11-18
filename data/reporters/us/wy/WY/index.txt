@@ -1,0 +1,5 @@
+.. reporter:: Wyoming Neutral Citation
+   :series-abbreviation: WY
+   :dates: 1750/1/1-present
+   :neutral:
+

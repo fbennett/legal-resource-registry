@@ -1,0 +1,4 @@
+.. reporter:: Arkansas Reports
+   :series-abbreviation: Ark.
+   :dates: 1837/1/1-present
+

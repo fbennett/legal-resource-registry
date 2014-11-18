@@ -1,0 +1,4 @@
+.. reporter:: Pennsylvania State Reports, Wharton
+   :series-abbreviation: Whart.
+   :dates: 1835/1/1-1841/12/31
+

@@ -1,0 +1,4 @@
+.. reporter:: New York Slip Opinion
+   :series-abbreviation: NY Slip Op
+   :dates: 1750/1/1-present
+

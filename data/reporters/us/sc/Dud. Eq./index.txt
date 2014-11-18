@@ -1,0 +1,4 @@
+.. reporter:: South Carolina Reports, Dudley's Equity
+   :series-abbreviation: Dud. Eq.
+   :dates: 1837/1/1-1838/12/31
+

@@ -1,0 +1,4 @@
+.. reporter:: Pennsylvania State Reports, Sadler
+   :series-abbreviation: Sadler
+   :dates: 1885/1/1-1888/12/31
+

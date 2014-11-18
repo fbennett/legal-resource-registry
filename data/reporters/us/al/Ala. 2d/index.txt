@@ -1,0 +1,4 @@
+.. reporter:: Alabama Reports
+   :series-abbreviation: Ala. 2d
+   :dates: 1977/1/1-present
+

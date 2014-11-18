@@ -1,0 +1,57 @@
+
+.. court:: us
+   :court-id: us
+
+   .. reporter:: B.R.
+
+   .. reporter:: B.T.A.
+
+   .. reporter:: B.T.A.M. (P-H)
+
+   .. reporter:: C.C.P.A.
+
+   .. reporter:: C.M.A.
+
+   .. reporter:: C.M.R.
+
+   .. reporter:: Cl. Ct.
+
+   .. reporter:: Ct. Cl.
+
+   .. reporter:: Ct. Cust.
+
+   .. reporter:: Ct. Int'l Trade
+
+   .. reporter:: Cust. B. & Dec.
+
+   .. reporter:: Cust. Ct.
+
+   .. reporter:: F. Cas.
+
+   .. reporter:: F. Supp.
+
+   .. reporter:: F. Supp. 2d
+
+   .. reporter:: F.R.D.
+
+   .. reporter:: Fed. Cl.
+
+   .. reporter:: Fed. R. Serv.
+
+   .. reporter:: Fed. R. Serv. 2d
+
+   .. reporter:: Fed. R. Serv. 3d
+
+   .. reporter:: I.T.R.D. (BNA)
+
+   .. reporter:: M.J.
+
+   .. reporter:: Navajo Rptr.
+
+   .. reporter:: T.C.
+
+   .. reporter:: T.C.M.
+
+   .. reporter:: U.S.L.W.
+
+   .. reporter:: Vet. App.

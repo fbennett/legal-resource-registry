@@ -1,0 +1,4 @@
+.. reporter:: Indian Territory Reports
+   :series-abbreviation: Indian Terr.
+   :dates: 1896/1/1-1907/12/31
+

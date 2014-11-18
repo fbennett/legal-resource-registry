@@ -1,0 +1,4 @@
+.. reporter:: North Carolina Reports, Busbee's Law
+   :series-abbreviation: Busb.
+   :dates: 1852/1/1-1853/12/31
+

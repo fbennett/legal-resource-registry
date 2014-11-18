@@ -1,0 +1,4 @@
+.. reporter:: North Carolina Reports, Devereux's Law
+   :series-abbreviation: Dev.
+   :dates: 1826/1/1-1834/12/31
+

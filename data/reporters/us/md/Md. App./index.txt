@@ -1,0 +1,4 @@
+.. reporter:: Maryland Appellate Reports
+   :series-abbreviation: Md. App.
+   :dates: 1967/1/1-present
+

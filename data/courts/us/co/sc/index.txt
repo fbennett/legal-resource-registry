@@ -1,0 +1,21 @@
+
+.. court:: Supreme Court of Colorado
+   :court-id: us;co;sc
+
+   .. reporter:: Brief Times Rptr.
+
+   .. reporter:: CO
+
+   .. reporter:: Colo.
+
+   .. reporter:: Colo. Law.
+
+   .. reporter:: LEXIS
+
+   .. reporter:: P.
+
+   .. reporter:: P.2d
+
+   .. reporter:: P.3d
+
+   .. reporter:: WL

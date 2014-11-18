@@ -1,0 +1,4 @@
+.. reporter:: Taylor's North Carolina Term Reports
+   :series-abbreviation: Taylor
+   :dates: 1816/1/1-1818/12/31
+

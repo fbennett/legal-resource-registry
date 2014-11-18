@@ -1,0 +1,4 @@
+.. reporter:: Kentucky Reports, Hughes
+   :series-abbreviation: Hughes
+   :dates: 1785/1/1-1801/12/31
+

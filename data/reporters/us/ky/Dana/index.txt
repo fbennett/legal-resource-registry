@@ -1,0 +1,4 @@
+.. reporter:: Kentucky Reports, Dana
+   :series-abbreviation: Dana
+   :dates: 1833/1/1-1840/12/31
+

@@ -1,0 +1,101 @@
+
+.. court:: New York Court of Appeals
+   :court-id: us;ny;ca
+
+   .. reporter:: A.D.
+
+   .. reporter:: A.D.2d
+
+   .. reporter:: A.D.3d
+
+   .. reporter:: Abb. N. Cas.
+
+   .. reporter:: Abb. Pr.
+
+   .. reporter:: Ant. N.P. Cas.
+
+   .. reporter:: Barb.
+
+   .. reporter:: Barb. Ch.
+
+   .. reporter:: Cai. Cas.
+
+   .. reporter:: Cai. R.
+
+   .. reporter:: Cl. Ch.
+
+   .. reporter:: Cole. & Cai. Cas.
+
+   .. reporter:: Cole. Cas.
+
+   .. reporter:: Cow.
+
+   .. reporter:: Denio
+
+   .. reporter:: Edm. Sel. Cas.
+
+   .. reporter:: Edw. Ch.
+
+   .. reporter:: Hill
+
+   .. reporter:: Hill & Den.
+
+   .. reporter:: Hoff. Ch.
+
+   .. reporter:: Hopk. Ch.
+
+   .. reporter:: How. Pr.
+
+   .. reporter:: Johns.
+
+   .. reporter:: Johns. Cas.
+
+   .. reporter:: Johns. Ch.
+
+   .. reporter:: LEXIS
+
+   .. reporter:: Lans.
+
+   .. reporter:: Lans. Ch.
+
+   .. reporter:: Lock. Rev. Cas.
+
+   .. reporter:: Misc.
+
+   .. reporter:: Misc. 2d
+
+   .. reporter:: Misc. 3d
+
+   .. reporter:: N.E.
+
+   .. reporter:: N.E.2d
+
+   .. reporter:: N.Y.
+
+   .. reporter:: N.Y. Ch. Ann.
+
+   .. reporter:: N.Y. Sup. Ct.
+
+   .. reporter:: N.Y.2d
+
+   .. reporter:: N.Y.3d
+
+   .. reporter:: N.Y.S.
+
+   .. reporter:: N.Y.S.2d
+
+   .. reporter:: N.Y.S.3d
+
+   .. reporter:: NY Slip Op
+
+   .. reporter:: Paige Ch.
+
+   .. reporter:: Sand. Ch.
+
+   .. reporter:: Sarat. Ch. Sent.
+
+   .. reporter:: WL
+
+   .. reporter:: Wend.
+
+   .. reporter:: Yates Sel. Cas.

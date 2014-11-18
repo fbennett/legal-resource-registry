@@ -1,0 +1,5 @@
+.. reporter:: Montana Neutral Citation
+   :series-abbreviation: MT
+   :dates: 1750/1/1-present
+   :neutral:
+

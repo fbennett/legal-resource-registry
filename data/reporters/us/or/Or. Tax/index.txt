@@ -1,0 +1,4 @@
+.. reporter:: Oregon Tax Reports
+   :series-abbreviation: Or. Tax
+   :dates: 1962/1/1-present
+

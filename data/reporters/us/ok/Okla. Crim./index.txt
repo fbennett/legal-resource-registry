@@ -1,0 +1,4 @@
+.. reporter:: Oklahoma Criminal Reports
+   :series-abbreviation: Okla. Crim.
+   :dates: 1908/1/1-1953/12/31
+

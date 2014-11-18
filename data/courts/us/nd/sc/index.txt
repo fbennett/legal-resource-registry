@@ -1,0 +1,19 @@
+
+.. court:: Supreme Court of North Dakota
+   :court-id: us;nd;sc
+
+   .. reporter:: Dakota
+
+   .. reporter:: LEXIS
+
+   .. reporter:: N.D.
+
+   .. reporter:: N.W.
+
+   .. reporter:: N.W.2d
+
+   .. reporter:: ND
+
+   .. reporter:: ND App
+
+   .. reporter:: WL

@@ -1,0 +1,4 @@
+.. reporter:: Minor's Alabama Reports
+   :series-abbreviation: Minor
+   :dates: 1820/1/1-1826/1/1
+

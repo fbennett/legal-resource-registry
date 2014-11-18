@@ -1,0 +1,4 @@
+.. reporter:: Kentucky Reports, Metcalf
+   :series-abbreviation: Met.
+   :dates: 1858/1/1-1863/12/31
+

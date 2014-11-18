@@ -1,0 +1,4 @@
+.. reporter:: Kentucky Reports, Littell
+   :series-abbreviation: Litt.
+   :dates: 1822/1/1-1824/12/31
+

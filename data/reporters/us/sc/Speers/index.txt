@@ -1,0 +1,4 @@
+.. reporter:: South Carolina Reports, Speers
+   :series-abbreviation: Speers
+   :dates: 1842/1/1-1844/12/31
+

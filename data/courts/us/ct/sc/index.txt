@@ -1,0 +1,31 @@
+
+.. court:: Supreme Court of Connecticut
+   :court-id: us;ct;sc
+
+   .. reporter:: A.
+
+   .. reporter:: A.2d
+
+   .. reporter:: A.3d
+
+   .. reporter:: Conn.
+
+   .. reporter:: Conn. App.
+
+   .. reporter:: Conn. Cir. Ct
+
+   .. reporter:: Conn. L. Rptr.
+
+   .. reporter:: Conn. Super. Ct.
+
+   .. reporter:: Conn. Supp.
+
+   .. reporter:: Day
+
+   .. reporter:: Kirby
+
+   .. reporter:: LEXIS
+
+   .. reporter:: Root
+
+   .. reporter:: WL

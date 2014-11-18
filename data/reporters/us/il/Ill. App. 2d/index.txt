@@ -1,0 +1,4 @@
+.. reporter:: Illinois Appellate Court Reports
+   :series-abbreviation: Ill. App. 2d
+   :dates: 1877/1/1-present
+

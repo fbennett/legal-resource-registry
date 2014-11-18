@@ -1,0 +1,4 @@
+.. reporter:: Synopses of the Decisions of the Supreme Court of Texas Arising from Restraints by Conscript and Other Military Authorities (Robards)
+   :series-abbreviation: Robards
+   :dates: 1862/1/1-1865/12/31
+

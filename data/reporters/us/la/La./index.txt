@@ -1,0 +1,4 @@
+.. reporter:: Louisiana Reports
+   :series-abbreviation: La.
+   :dates: 1830/1/1-1972/12/31
+

@@ -1,0 +1,4 @@
+.. reporter:: Abbott's Practice Reports
+   :series-abbreviation: Abb. Pr.
+   :dates: 1854/1/1-1875/12/31
+

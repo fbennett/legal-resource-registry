@@ -1,0 +1,4 @@
+.. reporter:: South Carolina Reports, Richardson's Equity
+   :series-abbreviation: Rich. Eq.
+   :dates: 1844/1/1-1868/12/31
+

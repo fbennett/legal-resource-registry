@@ -1,0 +1,4 @@
+.. reporter:: Wisconsin Reports, Pinney
+   :series-abbreviation: Pin.
+   :dates: 1839/1/1-1852/12/31
+

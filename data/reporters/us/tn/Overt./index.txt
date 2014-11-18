@@ -1,0 +1,4 @@
+.. reporter:: Tennessee Reports, Overton
+   :series-abbreviation: Overt.
+   :dates: 1791/1/1-1816/12/31
+

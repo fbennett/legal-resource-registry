@@ -1,0 +1,4 @@
+.. reporter:: Tax Court Memorandum Decisions
+   :series-abbreviation: T.C.M.
+   :dates: 1942/1/1-present
+

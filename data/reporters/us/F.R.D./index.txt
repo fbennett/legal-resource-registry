@@ -1,0 +1,4 @@
+.. reporter:: Federal Rules Decisions
+   :series-abbreviation: F.R.D.
+   :dates: 2001/1/1-present
+

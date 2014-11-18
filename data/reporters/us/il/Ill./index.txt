@@ -1,0 +1,4 @@
+.. reporter:: Illinois Reports
+   :series-abbreviation: Ill.
+   :dates: 1849/1/1-present
+

@@ -1,0 +1,4 @@
+.. reporter:: Florida Law Weekly Supplement
+   :series-abbreviation: Fla. L. Weekly Supp.
+   :dates: 1992/1/1-present
+

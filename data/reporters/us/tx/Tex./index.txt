@@ -1,0 +1,4 @@
+.. reporter:: Texas Reports
+   :series-abbreviation: Tex.
+   :dates: 1846/1/1-1962/12/31
+

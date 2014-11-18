@@ -1,0 +1,4 @@
+.. reporter:: Connecticut Appellate Reports
+   :series-abbreviation: Conn. App.
+   :dates: 1983/1/1-present
+

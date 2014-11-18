@@ -1,0 +1,4 @@
+.. reporter:: Tennessee Reports, Haywood
+   :series-abbreviation: Hayw.
+   :dates: 1816/1/1-1818/12/31
+

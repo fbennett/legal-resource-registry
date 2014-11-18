@@ -1,0 +1,4 @@
+.. reporter:: Gildersleeve Reports
+   :series-abbreviation: Gild.
+   :dates: 1883/1/1-1889/12/31
+

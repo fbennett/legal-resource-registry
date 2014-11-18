@@ -1,0 +1,4 @@
+.. reporter:: South Carolina Reports, Richardson
+   :series-abbreviation: Rich.
+   :dates: 1846/1/1-1868/12/31
+

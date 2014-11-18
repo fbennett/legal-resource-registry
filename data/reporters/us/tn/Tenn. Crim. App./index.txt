@@ -1,0 +1,4 @@
+.. reporter:: Tennessee Criminal Appeals Reports
+   :series-abbreviation: Tenn. Crim. App.
+   :dates: 1967/1/1-1971/12/31
+

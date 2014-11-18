@@ -1,0 +1,4 @@
+.. reporter:: Montana Reports
+   :series-abbreviation: Mont.
+   :dates: 1868/1/1-present
+

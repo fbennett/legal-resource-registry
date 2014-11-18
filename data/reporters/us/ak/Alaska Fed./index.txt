@@ -1,0 +1,4 @@
+.. reporter:: Alaska Federal Reports
+   :series-abbreviation: Alaska Fed.
+   :dates: 1869/1/1-1937/12/31
+

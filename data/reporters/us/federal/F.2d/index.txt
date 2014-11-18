@@ -1,0 +1,4 @@
+.. reporter:: Federal Reporter
+   :series-abbreviation: F.2d
+   :dates: 1924/1/1-1993/12/31
+

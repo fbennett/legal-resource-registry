@@ -1,0 +1,5 @@
+.. reporter:: Oklahoma Neutral Citation (Civic Appeals)
+   :series-abbreviation: OK CIV APP
+   :dates: 1750/1/1-present
+   :neutral:
+

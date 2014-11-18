@@ -1,0 +1,4 @@
+.. reporter:: Nebraska Reports
+   :series-abbreviation: Neb.
+   :dates: 1860/1/1-present
+

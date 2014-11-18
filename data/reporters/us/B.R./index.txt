@@ -1,0 +1,4 @@
+.. reporter:: Bankruptcy Reporter
+   :series-abbreviation: B.R.
+   :dates: 1979/1/1-present
+

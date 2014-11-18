@@ -1,0 +1,4 @@
+.. reporter:: Massachusetts Appeals Court Reports
+   :series-abbreviation: Mass. App. Ct.
+   :dates: 1972/1/1-present
+

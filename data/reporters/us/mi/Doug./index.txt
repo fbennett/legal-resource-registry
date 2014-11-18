@@ -1,0 +1,4 @@
+.. reporter:: Michigan Reports, Douglass
+   :series-abbreviation: Doug.
+   :dates: 1843/1/1-1847/12/31
+

@@ -1,0 +1,4 @@
+.. reporter:: South Carolina Reports, McMullen's Equity
+   :series-abbreviation: McMul. Eq.
+   :dates: 1840/1/1-1842/12/31
+

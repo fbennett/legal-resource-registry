@@ -1,0 +1,4 @@
+.. reporter:: Alaska Reports
+   :series-abbreviation: Alaska
+   :dates: 1884/1/1-1959/12/31
+

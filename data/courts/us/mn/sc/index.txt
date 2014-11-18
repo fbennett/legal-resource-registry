@@ -1,0 +1,13 @@
+
+.. court:: Supreme Court of Minnisota
+   :court-id: us;mn;sc
+
+   .. reporter:: LEXIS
+
+   .. reporter:: Minn.
+
+   .. reporter:: N.W.
+
+   .. reporter:: N.W.2d
+
+   .. reporter:: WL

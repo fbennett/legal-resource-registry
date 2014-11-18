@@ -1,0 +1,4 @@
+.. reporter:: Pennsylvania State Reports, Rawle
+   :series-abbreviation: Rawle
+   :dates: 1828/1/1-1835/12/31
+

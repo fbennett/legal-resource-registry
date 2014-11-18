@@ -1,0 +1,23 @@
+
+.. court:: Supreme Court of Michigan
+   :court-id: us;mi;sc
+
+   .. reporter:: Blume Sup. Ct. Trans.
+
+   .. reporter:: Blume Unrep. Op.
+
+   .. reporter:: Doug.
+
+   .. reporter:: LEXIS
+
+   .. reporter:: Mich.
+
+   .. reporter:: Mich. App.
+
+   .. reporter:: Mich. Ct. Cl.
+
+   .. reporter:: N.W.
+
+   .. reporter:: N.W.2d
+
+   .. reporter:: WL

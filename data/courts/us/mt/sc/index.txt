@@ -1,0 +1,19 @@
+
+.. court:: Supreme Court of Montana
+   :court-id: us;mt;sc
+
+   .. reporter:: LEXIS
+
+   .. reporter:: MT
+
+   .. reporter:: Mont.
+
+   .. reporter:: P.
+
+   .. reporter:: P.2d
+
+   .. reporter:: P.3d
+
+   .. reporter:: State Rptr.
+
+   .. reporter:: WL

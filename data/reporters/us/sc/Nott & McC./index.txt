@@ -1,0 +1,4 @@
+.. reporter:: South Carolina Reports, Nott and McCord
+   :series-abbreviation: Nott & McC.
+   :dates: 1817/1/1-1820/12/31
+

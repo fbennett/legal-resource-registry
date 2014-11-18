@@ -1,0 +1,25 @@
+
+.. court:: Supreme Court of Wisconsin
+   :court-id: us;wi;sc
+
+   .. reporter:: Bur.
+
+   .. reporter:: Chand.
+
+   .. reporter:: LEXIS
+
+   .. reporter:: N.W.
+
+   .. reporter:: N.W.2d
+
+   .. reporter:: Pin.
+
+   .. reporter:: WI
+
+   .. reporter:: WI App
+
+   .. reporter:: WL
+
+   .. reporter:: Wis.
+
+   .. reporter:: Wis. 2d

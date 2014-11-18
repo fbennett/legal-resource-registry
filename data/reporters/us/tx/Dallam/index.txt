@@ -1,0 +1,4 @@
+.. reporter:: Digest of the Laws of Texas (Dallam's Opinions)
+   :series-abbreviation: Dallam
+   :dates: 1840/1/1-1844/12/31
+

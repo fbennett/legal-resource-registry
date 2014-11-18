@@ -1,0 +1,35 @@
+
+.. court:: Supreme Court of Virginia
+   :court-id: us;va;sc
+
+   .. reporter:: Call
+
+   .. reporter:: Gilmer
+
+   .. reporter:: Gratt.
+
+   .. reporter:: Hen. & M.
+
+   .. reporter:: LEXIS
+
+   .. reporter:: Leigh
+
+   .. reporter:: Munf.
+
+   .. reporter:: Rand.
+
+   .. reporter:: Rob.
+
+   .. reporter:: S.E.
+
+   .. reporter:: S.E.2d
+
+   .. reporter:: Va.
+
+   .. reporter:: Va. App.
+
+   .. reporter:: Va. Cas.
+
+   .. reporter:: WL
+
+   .. reporter:: Wash.

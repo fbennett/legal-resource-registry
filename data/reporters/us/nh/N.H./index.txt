@@ -1,0 +1,4 @@
+.. reporter:: New Hampshire Reports
+   :series-abbreviation: N.H.
+   :dates: 1816/1/1-present
+

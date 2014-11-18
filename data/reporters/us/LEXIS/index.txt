@@ -1,0 +1,4 @@
+.. reporter:: Lexis Nexus Citation
+   :series-abbreviation: LEXIS
+   :dates: 1750/1/1-present
+

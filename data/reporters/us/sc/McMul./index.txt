@@ -1,0 +1,4 @@
+.. reporter:: South Carolina Reports, McMullen
+   :series-abbreviation: McMul.
+   :dates: 1840/1/1-1842/12/31
+

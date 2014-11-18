@@ -1,0 +1,4 @@
+.. reporter:: New Jersey Superior Court Reports
+   :series-abbreviation: N.J. Super.
+   :dates: 1948/1/1-present
+

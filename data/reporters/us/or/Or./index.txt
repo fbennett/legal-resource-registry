@@ -1,0 +1,4 @@
+.. reporter:: Oregon Reports
+   :series-abbreviation: Or.
+   :dates: 1853/1/1-present
+

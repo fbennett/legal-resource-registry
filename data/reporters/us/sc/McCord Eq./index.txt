@@ -1,0 +1,4 @@
+.. reporter:: South Carolina Reports, McCord's Chancery
+   :series-abbreviation: McCord Eq.
+   :dates: 1825/1/1-1827/12/31
+

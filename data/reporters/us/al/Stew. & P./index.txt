@@ -1,0 +1,4 @@
+.. reporter:: Alabama Reports, Stewart and Porter
+   :series-abbreviation: Stew. & P.
+   :dates: 1831/1/1-1834/1/1
+

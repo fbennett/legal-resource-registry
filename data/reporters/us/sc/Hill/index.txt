@@ -1,0 +1,4 @@
+.. reporter:: South Carolina Reports, Hill
+   :series-abbreviation: Hill
+   :dates: 1833/1/1-1837/12/31
+

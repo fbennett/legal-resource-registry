@@ -1,0 +1,4 @@
+.. reporter:: Hawaii Reports
+   :series-abbreviation: Haw.
+   :dates: 1847/1/1-present
+

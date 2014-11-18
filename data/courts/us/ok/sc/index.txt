@@ -1,0 +1,25 @@
+
+.. court:: Supreme Court of Oklahoma
+   :court-id: us;ok;sc
+
+   .. reporter:: Indian Terr.
+
+   .. reporter:: LEXIS
+
+   .. reporter:: OK
+
+   .. reporter:: OK CIV APP
+
+   .. reporter:: OK CR
+
+   .. reporter:: Okla.
+
+   .. reporter:: Okla. Crim.
+
+   .. reporter:: P.
+
+   .. reporter:: P.2d
+
+   .. reporter:: P.3d
+
+   .. reporter:: WL

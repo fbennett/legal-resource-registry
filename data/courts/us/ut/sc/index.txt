@@ -1,0 +1,21 @@
+
+.. court:: Supreme Court of Utah
+   :court-id: us;ut;sc
+
+   .. reporter:: LEXIS
+
+   .. reporter:: P.
+
+   .. reporter:: P.2d
+
+   .. reporter:: P.3d
+
+   .. reporter:: UT
+
+   .. reporter:: UT App
+
+   .. reporter:: Utah
+
+   .. reporter:: Utah 2d
+
+   .. reporter:: WL

@@ -1,0 +1,4 @@
+.. reporter:: Louisiana Reports, Robinson
+   :series-abbreviation: Rob.
+   :dates: 1841/1/1-1846/12/31
+

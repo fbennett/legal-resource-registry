@@ -1,0 +1,4 @@
+.. reporter:: South Carolina Reports, Cheves
+   :series-abbreviation: Chev.
+   :dates: 1839/1/1-1840/12/31
+

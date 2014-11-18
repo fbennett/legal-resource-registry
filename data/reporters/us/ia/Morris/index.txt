@@ -1,0 +1,4 @@
+.. reporter:: Iowa Reports, Morris
+   :series-abbreviation: Morris
+   :dates: 1839/1/1-1846/12/31
+

@@ -1,0 +1,4 @@
+.. reporter:: Oregon Reports, Court of Appeals
+   :series-abbreviation: Or. App.
+   :dates: 1969/1/1-present
+

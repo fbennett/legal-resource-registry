@@ -1,0 +1,4 @@
+.. reporter:: Court of Customs Appeals Reports
+   :series-abbreviation: Ct. Cust.
+   :dates: 1910/1/1-1929/12/31
+

@@ -1,0 +1,4 @@
+.. reporter:: Delaware Reports
+   :series-abbreviation: Del.
+   :dates: 1920/1/1-1966/12/31
+

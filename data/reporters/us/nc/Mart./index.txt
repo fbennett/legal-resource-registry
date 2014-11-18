@@ -1,0 +1,4 @@
+.. reporter:: North Carolina Reports, Martin
+   :series-abbreviation: Mart.
+   :dates: 1778/1/1-1797/12/31
+

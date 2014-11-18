@@ -1,0 +1,4 @@
+.. reporter:: Arizona Reporter
+   :series-abbreviation: Ariz.
+   :dates: 1866/1/1-present
+

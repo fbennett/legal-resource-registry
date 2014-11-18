@@ -1,0 +1,4 @@
+.. reporter:: Supreme Court Reports
+   :series-abbreviation: N.Y. Sup. Ct.
+   :dates: 1873/1/1-1896/12/31
+

@@ -1,0 +1,35 @@
+
+.. court:: Supreme Court of Massachusetts
+   :court-id: us;ma;sc
+
+   .. reporter:: Allen
+
+   .. reporter:: Cush.
+
+   .. reporter:: Gray
+
+   .. reporter:: LEXIS
+
+   .. reporter:: Mass.
+
+   .. reporter:: Mass. App. Ct.
+
+   .. reporter:: Mass. App. Dec.
+
+   .. reporter:: Mass. App. Div.
+
+   .. reporter:: Mass. Supp.
+
+   .. reporter:: Met.
+
+   .. reporter:: N.E.
+
+   .. reporter:: N.E.2d
+
+   .. reporter:: Pick.
+
+   .. reporter:: Tyng
+
+   .. reporter:: WL
+
+   .. reporter:: Will.

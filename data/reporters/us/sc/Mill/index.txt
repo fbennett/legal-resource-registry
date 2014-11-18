@@ -1,0 +1,4 @@
+.. reporter:: South Carolina Reports, Mill (Constitutional)
+   :series-abbreviation: Mill
+   :dates: 1817/1/1-1818/12/31
+

@@ -1,0 +1,4 @@
+.. reporter:: South Carolina Reports, Richardson's Cases
+   :series-abbreviation: Rich. Cas.
+   :dates: 1831/1/1-1832/12/31
+

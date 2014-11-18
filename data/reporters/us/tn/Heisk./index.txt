@@ -1,0 +1,4 @@
+.. reporter:: Tennessee Reports, Heiskell
+   :series-abbreviation: Heisk.
+   :dates: 1870/1/1-1879/12/31
+

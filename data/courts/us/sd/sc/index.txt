@@ -1,0 +1,15 @@
+
+.. court:: Supreme Court of South Dakota
+   :court-id: us;sd;sc
+
+   .. reporter:: LEXIS
+
+   .. reporter:: N.W.
+
+   .. reporter:: N.W.2d
+
+   .. reporter:: S.D.
+
+   .. reporter:: SD
+
+   .. reporter:: WL

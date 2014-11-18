@@ -1,0 +1,29 @@
+
+.. court:: District of Columbia Court of Appeals
+   :court-id: us;dc;ca
+
+   .. reporter:: A.
+
+   .. reporter:: A.2d
+
+   .. reporter:: A.3d
+
+   .. reporter:: App. D.C.
+
+   .. reporter:: Cranch
+
+   .. reporter:: Hay. & Haz.
+
+   .. reporter:: LEXIS
+
+   .. reporter:: MacArth.
+
+   .. reporter:: MacArth. & M.
+
+   .. reporter:: Mackey
+
+   .. reporter:: Tuck. & Cl.
+
+   .. reporter:: U.S. App. D.C.
+
+   .. reporter:: WL

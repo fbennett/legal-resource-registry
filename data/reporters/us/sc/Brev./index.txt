@@ -1,0 +1,4 @@
+.. reporter:: South Carolina Reports, Brevard
+   :series-abbreviation: Brev.
+   :dates: 1793/1/1-1816/12/31
+

@@ -1,0 +1,4 @@
+.. reporter:: Vermont Reports, Chipman, D.
+   :series-abbreviation: D. Chip.
+   :dates: 1789/1/1-1824/12/31
+

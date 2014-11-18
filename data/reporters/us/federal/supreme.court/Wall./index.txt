@@ -1,0 +1,4 @@
+.. reporter:: Wallace's Supreme Court Reports
+   :series-abbreviation: Wall.
+   :dates: 1863/1/1-1874/12/31
+

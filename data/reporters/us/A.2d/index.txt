@@ -1,0 +1,4 @@
+.. reporter:: Atlantic Reporter
+   :series-abbreviation: A.2d
+   :dates: 1938/1/1-2010/12/31
+

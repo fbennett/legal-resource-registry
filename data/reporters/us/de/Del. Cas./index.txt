@@ -1,0 +1,4 @@
+.. reporter:: Delaware Cases
+   :series-abbreviation: Del. Cas.
+   :dates: 1792/1/1-1830/12/31
+

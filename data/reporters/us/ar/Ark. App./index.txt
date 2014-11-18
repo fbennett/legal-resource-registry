@@ -1,0 +1,4 @@
+.. reporter:: Arkansas Appellate Reports
+   :series-abbreviation: Ark. App.
+   :dates: 1981/1/1-present
+

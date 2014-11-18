@@ -1,0 +1,45 @@
+
+.. court:: Supreme Court of Tennessee
+   :court-id: us;tn;sc
+
+   .. reporter:: Cold.
+
+   .. reporter:: Cooke
+
+   .. reporter:: Hayw.
+
+   .. reporter:: Head
+
+   .. reporter:: Heisk.
+
+   .. reporter:: Hum.
+
+   .. reporter:: LEXIS
+
+   .. reporter:: Mart. & Yer.
+
+   .. reporter:: Meigs
+
+   .. reporter:: Overt.
+
+   .. reporter:: Peck
+
+   .. reporter:: S.W.
+
+   .. reporter:: S.W.2d
+
+   .. reporter:: S.W.3d
+
+   .. reporter:: Sneed
+
+   .. reporter:: Swan
+
+   .. reporter:: Tenn.
+
+   .. reporter:: Tenn. App.
+
+   .. reporter:: Tenn. Crim. App.
+
+   .. reporter:: WL
+
+   .. reporter:: Yer.

@@ -1,0 +1,4 @@
+.. reporter:: Michigan Reports
+   :series-abbreviation: Mich.
+   :dates: 1847/1/1-present
+

@@ -1,0 +1,4 @@
+.. reporter:: Kentucky Reports, Marshall, A.K.
+   :series-abbreviation: A.K. Marsh.
+   :dates: 1817/1/1-1821/12/31
+

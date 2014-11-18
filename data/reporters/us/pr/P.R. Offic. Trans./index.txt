@@ -1,0 +1,4 @@
+.. reporter:: Official Translations of the Opinions of the Supreme Court of Puerto Rico
+   :series-abbreviation: P.R. Offic. Trans.
+   :dates: 1978/1/1-present
+

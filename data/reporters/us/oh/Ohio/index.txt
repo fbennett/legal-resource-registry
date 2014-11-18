@@ -1,0 +1,4 @@
+.. reporter:: Ohio Reports
+   :series-abbreviation: Ohio
+   :dates: 1821/1/1-1851/12/31
+

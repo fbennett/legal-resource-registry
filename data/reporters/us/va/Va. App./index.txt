@@ -1,0 +1,4 @@
+.. reporter:: Virginia Court of Appeals Reports
+   :series-abbreviation: Va. App.
+   :dates: 1985/1/1-present
+

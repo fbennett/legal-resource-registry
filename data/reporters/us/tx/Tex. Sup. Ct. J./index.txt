@@ -1,0 +1,4 @@
+.. reporter:: Texas Supreme Court Journal
+   :series-abbreviation: Tex. Sup. Ct. J.
+   :dates: 1957/1/1-present
+

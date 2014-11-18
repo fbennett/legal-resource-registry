@@ -1,0 +1,5 @@
+.. reporter:: Pennsylvania Neutral Citation
+   :series-abbreviation: PA
+   :dates: 1750/1/1-present
+   :neutral:
+

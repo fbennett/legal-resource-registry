@@ -1,0 +1,4 @@
+.. reporter:: South Carolina Reports, Bailey's Equity
+   :series-abbreviation: Bail. Eq.
+   :dates: 1830/1/1-1831/12/31
+

@@ -1,0 +1,5 @@
+.. reporter:: Mississippi Neutral Citation
+   :series-abbreviation: MS
+   :dates: 1750/1/1-present
+   :neutral:
+

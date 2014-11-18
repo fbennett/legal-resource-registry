@@ -1,0 +1,4 @@
+.. reporter:: Howard's Supreme Court Reports
+   :series-abbreviation: How.
+   :dates: 1843/1/1-1860/12/31
+

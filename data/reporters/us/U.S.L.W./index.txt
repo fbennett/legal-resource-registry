@@ -1,0 +1,4 @@
+.. reporter:: United States Law Week
+   :series-abbreviation: U.S.L.W.
+   :dates: 1933/1/1-present
+

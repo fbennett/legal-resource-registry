@@ -1,0 +1,4 @@
+.. reporter:: Ohio Circuit Decisions
+   :series-abbreviation: Ohio Cir. Dec.
+   :dates: 1885/1/1-1901/12/31
+

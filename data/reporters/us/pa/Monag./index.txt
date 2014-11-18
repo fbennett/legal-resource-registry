@@ -1,0 +1,4 @@
+.. reporter:: Pennsylvania State Reports, Monaghan
+   :series-abbreviation: Monag.
+   :dates: 1888/1/1-1890/12/31
+

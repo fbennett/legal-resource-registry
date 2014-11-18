@@ -1,0 +1,4 @@
+.. reporter:: Blume, Supreme Court Transactions
+   :series-abbreviation: Blume Sup. Ct. Trans.
+   :dates: 1805/1/1-1836/12/31
+

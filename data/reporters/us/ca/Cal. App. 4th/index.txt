@@ -1,0 +1,4 @@
+.. reporter:: California Appellate Reports
+   :series-abbreviation: Cal. App. 4th
+   :dates: 1991/1/1-present
+

@@ -1,0 +1,4 @@
+.. reporter:: Hawaii Appellate Reports
+   :series-abbreviation: Haw. App.
+   :dates: 1980/1/1-1994/12/31
+

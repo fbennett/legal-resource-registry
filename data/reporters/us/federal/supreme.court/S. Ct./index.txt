@@ -1,0 +1,4 @@
+.. reporter:: West's Supreme Court Reporter
+   :series-abbreviation: S. Ct.
+   :dates: 1882/1/1-present
+

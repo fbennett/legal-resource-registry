@@ -1,0 +1,4 @@
+.. reporter:: Kentucky Reports, Monroe, Ben
+   :series-abbreviation: B. Mon.
+   :dates: 1840/1/1-1857/12/31
+

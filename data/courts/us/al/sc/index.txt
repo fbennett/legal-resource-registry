@@ -1,0 +1,27 @@
+
+.. court:: Supreme Court of Alabama
+   :court-id: us;al;sc
+
+   .. reporter:: Ala.
+
+   .. reporter:: Ala. 2d
+
+   .. reporter:: Ala. App.
+
+   .. reporter:: LEXIS
+
+   .. reporter:: Minor
+
+   .. reporter:: Port.
+
+   .. reporter:: So.
+
+   .. reporter:: So. 2d
+
+   .. reporter:: So. 3d
+
+   .. reporter:: Stew.
+
+   .. reporter:: Stew. & P.
+
+   .. reporter:: WL

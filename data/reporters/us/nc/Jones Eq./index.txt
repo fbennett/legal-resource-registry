@@ -1,0 +1,4 @@
+.. reporter:: North Carolina Reports, Jones' Equity
+   :series-abbreviation: Jones Eq.
+   :dates: 1853/1/1-1863/12/31
+

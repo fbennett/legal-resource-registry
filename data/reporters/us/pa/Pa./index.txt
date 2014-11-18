@@ -1,0 +1,4 @@
+.. reporter:: Pennsylvania State Reports
+   :series-abbreviation: Pa.
+   :dates: 1845/1/1-present
+

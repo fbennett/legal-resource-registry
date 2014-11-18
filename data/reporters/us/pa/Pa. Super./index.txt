@@ -1,0 +1,4 @@
+.. reporter:: Pennsylvania Superior Court Reports
+   :series-abbreviation: Pa. Super.
+   :dates: 1895/1/1-present
+

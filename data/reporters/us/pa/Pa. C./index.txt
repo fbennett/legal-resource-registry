@@ -1,0 +1,4 @@
+.. reporter:: Pennsylvania County Court Reports
+   :series-abbreviation: Pa. C.
+   :dates: 1870/1/1-1921/12/31
+

@@ -1,0 +1,4 @@
+.. reporter:: North Carolina Reports, Devereux & Battle's Law
+   :series-abbreviation: Dev. & Bat.
+   :dates: 1834/1/1-1839/12/31
+

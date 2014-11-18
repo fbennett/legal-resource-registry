@@ -1,0 +1,4 @@
+.. reporter:: Guam Reports
+   :series-abbreviation: Guam
+   :dates: 1955/1/1-present
+

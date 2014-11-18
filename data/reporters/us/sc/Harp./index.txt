@@ -1,0 +1,4 @@
+.. reporter:: South Carolina Reports, Harper
+   :series-abbreviation: Harp.
+   :dates: 1823/1/1-1831/12/31
+

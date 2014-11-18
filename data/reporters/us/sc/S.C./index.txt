@@ -1,0 +1,4 @@
+.. reporter:: South Carolina Reports
+   :series-abbreviation: S.C.
+   :dates: 1868/1/1-present
+

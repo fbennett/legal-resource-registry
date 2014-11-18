@@ -1,0 +1,4 @@
+.. reporter:: North Carolina Court of Appeals Reports
+   :series-abbreviation: N.C. App.
+   :dates: 1968/1/1-present
+

@@ -1,0 +1,4 @@
+.. reporter:: Kentucky Reports, Marshall, J.J.
+   :series-abbreviation: J.J. Marsh.
+   :dates: 1829/1/1-1832/12/31
+

@@ -1,0 +1,4 @@
+.. reporter:: Johnson's Cases
+   :series-abbreviation: Johns. Cas.
+   :dates: 1799/1/1-1803/12/31
+

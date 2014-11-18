@@ -1,0 +1,4 @@
+.. reporter:: Missouri Reports
+   :series-abbreviation: Mo.
+   :dates: 1821/1/1-1956/12/31
+

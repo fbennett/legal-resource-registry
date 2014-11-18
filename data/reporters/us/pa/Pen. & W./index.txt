@@ -1,0 +1,4 @@
+.. reporter:: Pennsylvania State Reports, Penrose and Watts
+   :series-abbreviation: Pen. & W.
+   :dates: 1829/1/1-1832/12/31
+

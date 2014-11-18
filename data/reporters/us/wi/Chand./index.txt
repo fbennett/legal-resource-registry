@@ -1,0 +1,4 @@
+.. reporter:: Wisconsin Reports, Chandler
+   :series-abbreviation: Chand.
+   :dates: 1849/1/1-1852/12/31
+

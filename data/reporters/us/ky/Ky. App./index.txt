@@ -1,0 +1,4 @@
+.. reporter:: Kentucky Appellate Reporter
+   :series-abbreviation: Ky. App.
+   :dates: 1994/1/1-2000/12/31
+

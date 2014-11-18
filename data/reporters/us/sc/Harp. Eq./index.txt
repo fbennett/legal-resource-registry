@@ -1,0 +1,4 @@
+.. reporter:: South Carolina Reports, Harper's Equity
+   :series-abbreviation: Harp. Eq.
+   :dates: 1824/1/1-1824/12/31
+

@@ -1,0 +1,4 @@
+.. reporter:: North Carolina Reports, Philips' Law
+   :series-abbreviation: Phil. Law
+   :dates: 1866/1/1-1868/12/31
+

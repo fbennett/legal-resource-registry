@@ -1,0 +1,5 @@
+.. reporter:: New Mexico Neutral Citation (Court of Appeals)
+   :series-abbreviation: NMCA
+   :dates: 1750/1/1-present
+   :neutral:
+

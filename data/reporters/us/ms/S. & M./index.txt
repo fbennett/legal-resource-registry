@@ -1,0 +1,4 @@
+.. reporter:: Mississippi Reports, Smedes and Marshall
+   :series-abbreviation: S. & M.
+   :dates: 1843/1/1-1850/12/31
+

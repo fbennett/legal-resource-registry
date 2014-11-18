@@ -1,0 +1,4 @@
+.. reporter:: Virginia Reports, Munford
+   :series-abbreviation: Munf.
+   :dates: 1810/1/1-1820/12/31
+

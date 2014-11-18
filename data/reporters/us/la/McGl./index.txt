@@ -1,0 +1,4 @@
+.. reporter:: Louisiana Court of Appeals Reports, McGloin
+   :series-abbreviation: McGl.
+   :dates: 1881/1/1-1884/12/31
+

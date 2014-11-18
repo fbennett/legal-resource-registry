@@ -1,0 +1,4 @@
+.. reporter:: Pennsylvania State Reports, Dallas
+   :series-abbreviation: Dall.
+   :dates: 1754/1/1-1806/12/31
+

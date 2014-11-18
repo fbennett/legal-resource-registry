@@ -1,0 +1,4 @@
+.. reporter:: Tennessee Reports, Peck
+   :series-abbreviation: Peck
+   :dates: 1821/1/1-1824/12/31
+

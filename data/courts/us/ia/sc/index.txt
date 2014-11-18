@@ -1,0 +1,19 @@
+
+.. court:: Supreme Court of Iowa
+   :court-id: us;ia;sc
+
+   .. reporter:: Bradf.
+
+   .. reporter:: Greene
+
+   .. reporter:: Iowa
+
+   .. reporter:: LEXIS
+
+   .. reporter:: Morris
+
+   .. reporter:: N.W.
+
+   .. reporter:: N.W.2d
+
+   .. reporter:: WL

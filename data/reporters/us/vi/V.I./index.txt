@@ -1,0 +1,4 @@
+.. reporter:: Virgin Islands Reports
+   :series-abbreviation: V.I.
+   :dates: 1917/1/1-present
+

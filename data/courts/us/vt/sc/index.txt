@@ -1,0 +1,27 @@
+
+.. court:: Supreme Court of Vermont
+   :court-id: us;vt;sc
+
+   .. reporter:: A.
+
+   .. reporter:: A.2d
+
+   .. reporter:: A.3d
+
+   .. reporter:: Aik.
+
+   .. reporter:: Brayt.
+
+   .. reporter:: D. Chip.
+
+   .. reporter:: LEXIS
+
+   .. reporter:: N. Chip.
+
+   .. reporter:: Tyl.
+
+   .. reporter:: VT
+
+   .. reporter:: Vt.
+
+   .. reporter:: WL

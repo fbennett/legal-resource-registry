@@ -1,0 +1,4 @@
+.. reporter:: Court Martial Records
+   :series-abbreviation: C.M.R.
+   :dates: 1951/1/1-1975/12/31
+

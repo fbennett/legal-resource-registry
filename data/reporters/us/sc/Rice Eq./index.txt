@@ -1,0 +1,4 @@
+.. reporter:: South Carolina Reports, Rice's Equity
+   :series-abbreviation: Rice Eq.
+   :dates: 1838/1/1-1839/12/31
+

@@ -1,0 +1,15 @@
+
+.. court:: Supreme Court of Rhode Island
+   :court-id: us;ri;sc
+
+   .. reporter:: A.
+
+   .. reporter:: A.2d
+
+   .. reporter:: A.3d
+
+   .. reporter:: LEXIS
+
+   .. reporter:: R.I.
+
+   .. reporter:: WL

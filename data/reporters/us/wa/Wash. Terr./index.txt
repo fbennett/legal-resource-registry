@@ -1,0 +1,4 @@
+.. reporter:: Washington Territory Reports
+   :series-abbreviation: Wash. Terr.
+   :dates: 1854/1/1-1888/12/31
+

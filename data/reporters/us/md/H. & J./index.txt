@@ -1,0 +1,4 @@
+.. reporter:: Maryland Reports, Harris and Johnson
+   :series-abbreviation: H. & J.
+   :dates: 1800/1/1-1826/12/31
+

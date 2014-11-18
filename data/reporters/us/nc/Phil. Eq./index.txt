@@ -1,0 +1,4 @@
+.. reporter:: North Carolina Reports, Philips' Equity<
+   :series-abbreviation: Phil. Eq.
+   :dates: 1866/1/1-1868/12/31
+

@@ -1,0 +1,4 @@
+.. reporter:: Michigan Court of Claims Reports
+   :series-abbreviation: Mich. Ct. Cl.
+   :dates: 1938/1/1-1942/12/31
+

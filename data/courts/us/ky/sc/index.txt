@@ -1,0 +1,51 @@
+
+.. court:: Supreme Court of Kentucky
+   :court-id: us;ky;sc
+
+   .. reporter:: A.K. Marsh.
+
+   .. reporter:: B. Mon.
+
+   .. reporter:: Bibb
+
+   .. reporter:: Bush
+
+   .. reporter:: Dana
+
+   .. reporter:: Duv.
+
+   .. reporter:: Hard.
+
+   .. reporter:: Hughes
+
+   .. reporter:: J.J. Marsh.
+
+   .. reporter:: Ky.
+
+   .. reporter:: Ky. App.
+
+   .. reporter:: Ky. L. Rptr.
+
+   .. reporter:: Ky. L. Summ.
+
+   .. reporter:: Ky. Op.
+
+   .. reporter:: LEXIS
+
+   .. reporter:: Litt.
+
+   .. reporter:: Litt. Sel. Cas.
+
+   .. reporter:: Met.
+
+   .. reporter:: S.W.
+
+   .. reporter:: S.W.2d
+
+   .. reporter:: S.W.3d
+
+   .. reporter:: Sneed
+
+   .. reporter:: T.B. Mon.
+
+   .. reporter:: WL

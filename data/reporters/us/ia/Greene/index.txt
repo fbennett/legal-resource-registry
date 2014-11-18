@@ -1,0 +1,4 @@
+.. reporter:: Iowa Reports, Greene
+   :series-abbreviation: Greene
+   :dates: 1847/1/1-1854/12/31
+

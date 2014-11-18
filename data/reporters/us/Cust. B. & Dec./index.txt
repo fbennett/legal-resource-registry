@@ -1,0 +1,4 @@
+.. reporter:: Customs Bulletin and Decisions
+   :series-abbreviation: Cust. B. & Dec.
+   :dates: 1967/1/1-present
+

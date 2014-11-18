@@ -1,0 +1,4 @@
+.. reporter:: South Carolina Reports, Dudley
+   :series-abbreviation: Dud.
+   :dates: 1837/1/1-1838/12/31
+

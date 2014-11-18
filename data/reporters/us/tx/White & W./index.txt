@@ -1,0 +1,4 @@
+.. reporter:: Condensed Reports of Decisions in Civil Causes in the Court of Appeals of Texas (White & Wilson)
+   :series-abbreviation: White & W.
+   :dates: 1876/1/1-1883/12/31
+

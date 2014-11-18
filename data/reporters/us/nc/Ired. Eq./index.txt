@@ -1,0 +1,4 @@
+.. reporter:: North Carolina Reports, Iredell's Equity
+   :series-abbreviation: Ired. Eq.
+   :dates: 1840/1/1-1852/12/31
+

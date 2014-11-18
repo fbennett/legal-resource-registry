@@ -1,0 +1,4 @@
+.. reporter:: Kentucky Reports, Monroe, T.B.
+   :series-abbreviation: T.B. Mon.
+   :dates: 1824/1/1-1828/12/31
+

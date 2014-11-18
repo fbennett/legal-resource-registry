@@ -1,0 +1,4 @@
+.. reporter:: Vermont Reports, Aikens
+   :series-abbreviation: Aik.
+   :dates: 1825/1/1-1828/12/31
+

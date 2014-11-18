@@ -1,0 +1,57 @@
+
+.. court:: Supreme Court of North Carolina
+   :court-id: us;nc;sc
+
+   .. reporter:: Busb.
+
+   .. reporter:: Busb. Eq.
+
+   .. reporter:: Cam. & Nor.
+
+   .. reporter:: Car. L. Rep.
+
+   .. reporter:: Dev.
+
+   .. reporter:: Dev. & Bat.
+
+   .. reporter:: Dev. & Bat. Eq.
+
+   .. reporter:: Dev. Eq.
+
+   .. reporter:: Hawks
+
+   .. reporter:: Hayw.
+
+   .. reporter:: Ired.
+
+   .. reporter:: Ired. Eq.
+
+   .. reporter:: Jones
+
+   .. reporter:: Jones Eq.
+
+   .. reporter:: LEXIS
+
+   .. reporter:: Mart.
+
+   .. reporter:: Mur.
+
+   .. reporter:: N.C.
+
+   .. reporter:: N.C. App.
+
+   .. reporter:: Phil. Eq.
+
+   .. reporter:: Phil. Law
+
+   .. reporter:: S.E.
+
+   .. reporter:: S.E.2d
+
+   .. reporter:: Tay.
+
+   .. reporter:: Taylor
+
+   .. reporter:: WL
+
+   .. reporter:: Win.

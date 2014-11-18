@@ -1,0 +1,4 @@
+.. reporter:: Pennsylvania State Reports, Yeates
+   :series-abbreviation: Yeates
+   :dates: 1791/1/1-1808/12/31
+

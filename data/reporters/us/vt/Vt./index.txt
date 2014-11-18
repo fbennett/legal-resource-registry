@@ -1,0 +1,4 @@
+.. reporter:: Vermont Reports
+   :series-abbreviation: Vt.
+   :dates: 1826/1/1-present
+

@@ -1,0 +1,4 @@
+.. reporter:: Court of Claims Reports
+   :series-abbreviation: Ct. Cl.
+   :dates: 1863/1/1-1982/12/31
+

@@ -1,0 +1,4 @@
+.. reporter:: Connecticut Supplement
+   :series-abbreviation: Conn. Supp.
+   :dates: 1935/1/1-present
+

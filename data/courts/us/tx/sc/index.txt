@@ -1,0 +1,33 @@
+
+.. court:: Supreme Court of Texas
+   :court-id: us;tx;sc
+
+   .. reporter:: Dallam
+
+   .. reporter:: LEXIS
+
+   .. reporter:: Robards
+
+   .. reporter:: S.W.
+
+   .. reporter:: S.W.2d
+
+   .. reporter:: S.W.3d
+
+   .. reporter:: Tex.
+
+   .. reporter:: Tex. Civ. App.
+
+   .. reporter:: Tex. Crim.
+
+   .. reporter:: Tex. Ct. App.
+
+   .. reporter:: Tex. L. Rev.
+
+   .. reporter:: Tex. Sup. Ct. J.
+
+   .. reporter:: WL
+
+   .. reporter:: White & W.
+
+   .. reporter:: Wilson

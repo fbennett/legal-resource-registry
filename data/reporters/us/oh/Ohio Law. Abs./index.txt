@@ -1,0 +1,4 @@
+.. reporter:: Ohio Law Abstracts
+   :series-abbreviation: Ohio Law. Abs.
+   :dates: 1922/1/1-1964/12/31
+

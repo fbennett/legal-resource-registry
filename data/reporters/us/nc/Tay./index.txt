@@ -1,0 +1,4 @@
+.. reporter:: North Carolina Reports, Taylor
+   :series-abbreviation: Tay.
+   :dates: 1798/1/1-1802/12/31
+

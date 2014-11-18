@@ -1,0 +1,61 @@
+
+.. court:: Supreme Court of Pennsylvania
+   :court-id: us;pa;sc
+
+   .. reporter:: A.
+
+   .. reporter:: A.2d
+
+   .. reporter:: A.3d
+
+   .. reporter:: Binn.
+
+   .. reporter:: Dall.
+
+   .. reporter:: Grant
+
+   .. reporter:: LEXIS
+
+   .. reporter:: Monag.
+
+   .. reporter:: PA
+
+   .. reporter:: Pa.
+
+   .. reporter:: Pa. C.
+
+   .. reporter:: Pa. Commw.
+
+   .. reporter:: Pa. D.
+
+   .. reporter:: Pa. D. & C.
+
+   .. reporter:: Pa. D. & C.2d
+
+   .. reporter:: Pa. D. & C.3d
+
+   .. reporter:: Pa. D. & C.4th
+
+   .. reporter:: Pa. Super.
+
+   .. reporter:: Pen. & W.
+
+   .. reporter:: Pennyp.
+
+   .. reporter:: Rawle
+
+   .. reporter:: Sadler
+
+   .. reporter:: Serg. & Rawle
+
+   .. reporter:: WL
+
+   .. reporter:: Walk.
+
+   .. reporter:: Watts
+
+   .. reporter:: Watts & Serg.
+
+   .. reporter:: Whart.
+
+   .. reporter:: Yeates

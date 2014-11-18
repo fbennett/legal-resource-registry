@@ -1,0 +1,4 @@
+.. reporter:: Illinois Reports, Breese
+   :series-abbreviation: Breese
+   :dates: 1819/1/1-1831/12/31
+

@@ -1,0 +1,4 @@
+.. reporter:: Massachusetts Reports
+   :series-abbreviation: Mass.
+   :dates: 1867/1/1-present
+

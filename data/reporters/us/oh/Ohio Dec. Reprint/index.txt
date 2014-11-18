@@ -1,0 +1,4 @@
+.. reporter:: Ohio Decisions, Reprint
+   :series-abbreviation: Ohio Dec. Reprint
+   :dates: 1840/1/1-1873/12/31
+

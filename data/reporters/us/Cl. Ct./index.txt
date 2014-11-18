@@ -1,0 +1,4 @@
+.. reporter:: United States Claims Court Reporter
+   :series-abbreviation: Cl. Ct.
+   :dates: 1983/1/1-1992/12/31
+

@@ -1,0 +1,15 @@
+
+.. court:: Supreme Court of Nebraska
+   :court-id: us;ne;sc
+
+   .. reporter:: LEXIS
+
+   .. reporter:: N.W.
+
+   .. reporter:: N.W.2d
+
+   .. reporter:: Neb.
+
+   .. reporter:: Neb. Ct. App.
+
+   .. reporter:: WL

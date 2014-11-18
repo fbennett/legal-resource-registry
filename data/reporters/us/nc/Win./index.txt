@@ -1,0 +1,4 @@
+.. reporter:: North Carolina Reports, Winston
+   :series-abbreviation: Win.
+   :dates: 1863/1/1-1864/12/31
+

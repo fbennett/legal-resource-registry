@@ -1,0 +1,4 @@
+.. reporter:: Kansas Reports
+   :series-abbreviation: Kan.
+   :dates: 1862/1/1-present
+

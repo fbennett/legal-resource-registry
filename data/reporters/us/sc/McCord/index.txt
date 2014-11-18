@@ -1,0 +1,4 @@
+.. reporter:: South Carolina Reports, McCord
+   :series-abbreviation: McCord
+   :dates: 1821/1/1-1828/12/31
+

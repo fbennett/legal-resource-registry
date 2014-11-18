@@ -1,0 +1,4 @@
+.. reporter:: Oklahoma Reports
+   :series-abbreviation: Okla.
+   :dates: 1890/1/1-1953/12/31
+

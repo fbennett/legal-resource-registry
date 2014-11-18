@@ -1,0 +1,43 @@
+
+.. court:: Supreme Court of California
+   :court-id: us;ca;sc
+
+   .. reporter:: Cal.
+
+   .. reporter:: Cal. 2d
+
+   .. reporter:: Cal. 3d
+
+   .. reporter:: Cal. 4th
+
+   .. reporter:: Cal. App.
+
+   .. reporter:: Cal. App. 2d
+
+   .. reporter:: Cal. App. 3d
+
+   .. reporter:: Cal. App. 4th
+
+   .. reporter:: Cal. App. Supp.
+
+   .. reporter:: Cal. App. Supp. 2d
+
+   .. reporter:: Cal. App. Supp. 3d
+
+   .. reporter:: Cal. Rptr.
+
+   .. reporter:: Cal. Rptr. 2d
+
+   .. reporter:: Cal. Rptr. 3d
+
+   .. reporter:: Cal. Unrep.
+
+   .. reporter:: LEXIS
+
+   .. reporter:: P.
+
+   .. reporter:: P.2d
+
+   .. reporter:: P.3d
+
+   .. reporter:: WL

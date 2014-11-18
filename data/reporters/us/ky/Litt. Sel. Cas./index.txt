@@ -1,0 +1,4 @@
+.. reporter:: Kentucky Reports, Littell's Selected Cases
+   :series-abbreviation: Litt. Sel. Cas.
+   :dates: 1795/1/1-1821/12/31
+

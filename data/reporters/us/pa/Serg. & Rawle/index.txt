@@ -1,0 +1,4 @@
+.. reporter:: Pennsylvania State Reports, Sergeant and Rawle
+   :series-abbreviation: Serg. & Rawle
+   :dates: 1814/1/1-1828/12/31
+
