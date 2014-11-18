@@ -22,6 +22,7 @@ from docutils import nodes
 from docutils.writers.html4css1 import Writer, HTMLTranslator
 from docutils.parsers.rst import Directive
 
+class creditsbox (nodes.TextElement): pass
 class citationgroup (nodes.TextElement): pass
 class court (nodes.TextElement): pass
 class notes (nodes.TextElement): pass
@@ -92,6 +93,12 @@ class HTMLTranslatorForLegalCitem(HTMLTranslator):
         HTMLTranslator.__init__(self, document, **kwargs)
         settings = self.settings
         #self.d_class = DocumentClass(settings.documentclass)
+
+    def visit_creditsbox(self, node):
+        self.body.append(self.starttag(node, 'div', CLASS="credits-box")+'<div>\n')
+
+    def depart_creditsbox(self, node):
+        self.body.append('</div>\n</div>\n')
 
     def visit_citationgroup(self, node):
         self.body.append(self.starttag(node, 'h2', CLASS="citation-group").strip())
@@ -213,6 +220,18 @@ class HTMLTranslatorForLegalCitem(HTMLTranslator):
     def depart_featurename(self, node): 
         self.body.append('</span>')
 
+class CreditsDirective(Directive):
+    required_arguments = 0
+    optional_arguments = 0
+    has_content = True
+    option_spec = {}
+
+    def run (self):
+        nodes = creditsbox()
+        self.state.nested_parse(self.content, self.content_offset,
+                                nodes)
+        return [nodes]
+
 class FieldsDirective(Directive):
     required_arguments = 0
     optional_arguments = 0
@@ -232,20 +251,20 @@ class FieldsDirective(Directive):
                 FEATURES.defaults[m.group(2)] = m.group(1)
                 FEATURES.set_defaults()
         else:
-            m = re.match("^:([a-z][-a-z]+):\s+(required|optional)",line)
-            if not m:
-                error = self.state_machine.reporter.error(
-                    'Invalid context: syntax error in option to subsequent fields directive. Note that default and auxiliary cannot be used here.',
-                    nodes.literal_block(self.block_text, self.block_text), line=self.lineno)
-                return [error]
             FEATURES.set_base()
             for line in self.content:
-                    if not FEATURES.defaults.auxiliary.has_key(m.group(1)) and not FEATURES.defaults.optional.has_key(m.group(1))  and not FEATURES.defaults.default.has_key(m.group(1)):
-                        error = self.state_machine.reporter.error(
-                            'Invalid context: undefined field in subsequent fields directive. Only fields initially declared as default, optional or auxiliary may be declared.',
-                            nodes.literal_block(self.block_text, self.block_text), line=self.lineno)
-                        return [error]
-            FEATURES.local[m.group(2)] = m.group(1)
+                m = re.match("^:([a-z][-a-z]+):\s+(required|optional)",line)
+                if not m:
+                    error = self.state_machine.reporter.error(
+                        'Invalid context: syntax error in option to subsequent fields directive. Note that default and auxiliary cannot be used here.',
+                        nodes.literal_block(self.block_text, self.block_text), line=self.lineno)
+                    return [error]
+                if not FEATURES.defaults.auxiliary.has_key(m.group(1)) and not FEATURES.defaults.optional.has_key(m.group(1))  and not FEATURES.defaults.default.has_key(m.group(1)):
+                    error = self.state_machine.reporter.error(
+                        'Invalid context: undefined field in subsequent fields directive. Only fields initially declared as default, optional or auxiliary may be declared. line=%s' % self.lineno,
+                        nodes.literal_block(self.block_text, self.block_text), line=self.lineno)
+                    return [error]
+                FEATURES.local[m.group(2)] = m.group(1)
         return []
 
 class CitationGroupDirective(Directive):
@@ -418,6 +437,7 @@ class NotesDirective(Directive):
                                 node)
         return [node]
 
+directives.register_directive('credits', CreditsDirective)
 directives.register_directive('fields', FieldsDirective)
 directives.register_directive('court', CourtDirective)
 directives.register_directive('citation-group', CitationGroupDirective)
