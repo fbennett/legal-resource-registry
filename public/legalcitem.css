@@ -27,7 +27,7 @@ div.credits-box div {
     border: double 3px black;
     width: 60%;
     display: inline-block;
-    padding: 0 1em;
+    padding: 1em;
     text-align: left;
 }
 
