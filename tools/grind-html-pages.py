@@ -18,7 +18,7 @@ except:
 
 from docutils.core import publish_cmdline, default_description
 from docutils.parsers.rst import directives, roles, states
-from docutils import nodes
+from docutils import nodes, statemachine
 from docutils.writers.html4css1 import Writer, HTMLTranslator
 from docutils.parsers.rst import Directive
 
@@ -232,6 +232,55 @@ class CreditsDirective(Directive):
                                 nodes)
         return [nodes]
 
+class PathTool:
+    
+    def __init__(self):
+        pass
+
+    def courtPathFromJurisdiction(self,arg):
+        pthlst = ["data","courts"]
+        pthlst.extend(arg.split(";"))
+        pthlst.append("index.txt")
+        pth = os.path.join(*pthlst)
+        return pth
+
+    def reporterPathFromJurisdiction(self,jurisdiction,reporterKey):
+        pthlst = ["data","reporters"]
+        pthlst.extend(jurisdiction.split(";"))
+        # Drill down
+        for i in range(2,len(pthlst),1):
+            pth = os.path.join(*pthlst[0:i+1])
+            filepth = os.path.join(pth,reporterKey,"index.txt")
+            if os.path.exists(filepth):
+                return filepth
+        return "OUCH"
+
+class JurisdictionDirective(Directive,PathTool):
+    required_arguments = 1
+    optional_arguments = 0
+    has_content = False
+    option_spec = {}
+
+    def run (self):
+        pth = self.courtPathFromJurisdiction(self.arguments[0])
+        rawlines = ""
+        ifh = open(pth)
+        while 1:
+            line = ifh.readline()
+            if not line: break
+            if nodes.whitespace_normalize_name(line).startswith(".. reporter-key::"):
+                reporter_key = re.sub("..\s+reporter-key::\s*","",line).strip()
+                pth = self.reporterPathFromJurisdiction(self.arguments[0],reporter_key)
+                rawlines += open(pth).read()
+            else:
+                rawlines += line
+        tab_width = self.options.get(
+            'tab-width', self.state.document.settings.tab_width)
+        include_lines = statemachine.string2lines(rawlines, tab_width,
+                                                  convert_whitespace=True)
+        self.state_machine.insert_input(include_lines, pth)
+        return []
+
 class FieldsDirective(Directive):
     required_arguments = 0
     optional_arguments = 0
@@ -437,6 +486,7 @@ class NotesDirective(Directive):
                                 node)
         return [node]
 
+directives.register_directive('jurisdiction', JurisdictionDirective)
 directives.register_directive('credits', CreditsDirective)
 directives.register_directive('fields', FieldsDirective)
 directives.register_directive('court', CourtDirective)
