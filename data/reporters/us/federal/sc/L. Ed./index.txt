@@ -1,0 +1,4 @@
+.. reporter:: Lawyer's Edition
+   :series-abbreviation: L. Ed.
+   :dates: 1790/1/1-1956/12/31
+

@@ -1,0 +1,4 @@
+.. reporter:: Pacific Reporter
+   :series-abbreviation: P.
+   :dates: 1883/1/1-1931/12/31
+

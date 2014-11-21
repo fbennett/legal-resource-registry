@@ -1,0 +1,4 @@
+.. reporter:: Federal Supplement
+   :series-abbreviation: F. Supp.
+   :dates: 1932/1/1-1988/12/31
+

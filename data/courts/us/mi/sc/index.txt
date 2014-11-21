@@ -2,22 +2,22 @@
 .. court:: Supreme Court of Michigan
    :court-id: us;mi;sc
 
-   .. reporter:: Blume Sup. Ct. Trans.
+   .. reporter-key:: Blume Sup. Ct. Trans.
 
-   .. reporter:: Blume Unrep. Op.
+   .. reporter-key:: Blume Unrep. Op.
 
-   .. reporter:: Doug.
+   .. reporter-key:: Doug.
 
-   .. reporter:: LEXIS
+   .. reporter-key:: LEXIS
 
-   .. reporter:: Mich.
+   .. reporter-key:: Mich.
 
-   .. reporter:: Mich. App.
+   .. reporter-key:: Mich. App.
 
-   .. reporter:: Mich. Ct. Cl.
+   .. reporter-key:: Mich. Ct. Cl.
 
-   .. reporter:: N.W.
+   .. reporter-key:: N.W.
 
-   .. reporter:: N.W.2d
+   .. reporter-key:: N.W.2d
 
-   .. reporter:: WL
+   .. reporter-key:: WL

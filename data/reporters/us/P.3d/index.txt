@@ -1,0 +1,4 @@
+.. reporter:: Pacific Reporter
+   :series-abbreviation: P.3d
+   :dates: 2000/1/1-present
+

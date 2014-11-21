@@ -1,0 +1,4 @@
+.. reporter:: Kansas Court of Appeals Reports
+   :series-abbreviation: Kan. App. 2d
+   :dates: 1977/1/1-present
+

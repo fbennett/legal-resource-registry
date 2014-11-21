@@ -2,16 +2,16 @@
 .. court:: Supreme Court of Wyoming
    :court-id: us;wy;sc
 
-   .. reporter:: LEXIS
+   .. reporter-key:: LEXIS
 
-   .. reporter:: P.
+   .. reporter-key:: P.
 
-   .. reporter:: P.2d
+   .. reporter-key:: P.2d
 
-   .. reporter:: P.3d
+   .. reporter-key:: P.3d
 
-   .. reporter:: WL
+   .. reporter-key:: WL
 
-   .. reporter:: WY
+   .. reporter-key:: WY
 
-   .. reporter:: Wyo.
+   .. reporter-key:: Wyo.

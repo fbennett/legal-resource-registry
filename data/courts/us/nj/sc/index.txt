@@ -2,28 +2,28 @@
 .. court:: Supreme Court of New Jersey
    :court-id: us;nj;sc
 
-   .. reporter:: A.
+   .. reporter-key:: A.
 
-   .. reporter:: A.2d
+   .. reporter-key:: A.2d
 
-   .. reporter:: A.3d
+   .. reporter-key:: A.3d
 
-   .. reporter:: LEXIS
+   .. reporter-key:: LEXIS
 
-   .. reporter:: N.J.
+   .. reporter-key:: N.J.
 
-   .. reporter:: N.J. Admin.
+   .. reporter-key:: N.J. Admin.
 
-   .. reporter:: N.J. Admin. 2d
+   .. reporter-key:: N.J. Admin. 2d
 
-   .. reporter:: N.J. Eq.
+   .. reporter-key:: N.J. Eq.
 
-   .. reporter:: N.J. Misc.
+   .. reporter-key:: N.J. Misc.
 
-   .. reporter:: N.J. Super.
+   .. reporter-key:: N.J. Super.
 
-   .. reporter:: N.J. Tax.
+   .. reporter-key:: N.J. Tax.
 
-   .. reporter:: N.J.L.
+   .. reporter-key:: N.J.L.
 
-   .. reporter:: WL
+   .. reporter-key:: WL

@@ -1,0 +1,4 @@
+.. reporter:: New York Reports
+   :series-abbreviation: N.Y.3d
+   :dates: 2004/1/1-present
+

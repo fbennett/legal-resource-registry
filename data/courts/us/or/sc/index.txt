@@ -2,18 +2,18 @@
 .. court:: Supreme Court of Oregon
    :court-id: us;or;sc
 
-   .. reporter:: LEXIS
+   .. reporter-key:: LEXIS
 
-   .. reporter:: Or.
+   .. reporter-key:: Or.
 
-   .. reporter:: Or. App.
+   .. reporter-key:: Or. App.
 
-   .. reporter:: Or. Tax
+   .. reporter-key:: Or. Tax
 
-   .. reporter:: P.
+   .. reporter-key:: P.
 
-   .. reporter:: P.2d
+   .. reporter-key:: P.2d
 
-   .. reporter:: P.3d
+   .. reporter-key:: P.3d
 
-   .. reporter:: WL
+   .. reporter-key:: WL

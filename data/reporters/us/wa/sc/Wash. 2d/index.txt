@@ -1,0 +1,4 @@
+.. reporter:: Washington Reports
+   :series-abbreviation: Wash. 2d
+   :dates: 1889/1/1-present
+

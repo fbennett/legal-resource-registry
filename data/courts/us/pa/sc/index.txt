@@ -2,60 +2,60 @@
 .. court:: Supreme Court of Pennsylvania
    :court-id: us;pa;sc
 
-   .. reporter:: A.
+   .. reporter-key:: A.
 
-   .. reporter:: A.2d
+   .. reporter-key:: A.2d
 
-   .. reporter:: A.3d
+   .. reporter-key:: A.3d
 
-   .. reporter:: Binn.
+   .. reporter-key:: Binn.
 
-   .. reporter:: Dall.
+   .. reporter-key:: Dall.
 
-   .. reporter:: Grant
+   .. reporter-key:: Grant
 
-   .. reporter:: LEXIS
+   .. reporter-key:: LEXIS
 
-   .. reporter:: Monag.
+   .. reporter-key:: Monag.
 
-   .. reporter:: PA
+   .. reporter-key:: PA
 
-   .. reporter:: Pa.
+   .. reporter-key:: Pa.
 
-   .. reporter:: Pa. C.
+   .. reporter-key:: Pa. C.
 
-   .. reporter:: Pa. Commw.
+   .. reporter-key:: Pa. Commw.
 
-   .. reporter:: Pa. D.
+   .. reporter-key:: Pa. D.
 
-   .. reporter:: Pa. D. & C.
+   .. reporter-key:: Pa. D. & C.
 
-   .. reporter:: Pa. D. & C.2d
+   .. reporter-key:: Pa. D. & C.2d
 
-   .. reporter:: Pa. D. & C.3d
+   .. reporter-key:: Pa. D. & C.3d
 
-   .. reporter:: Pa. D. & C.4th
+   .. reporter-key:: Pa. D. & C.4th
 
-   .. reporter:: Pa. Super.
+   .. reporter-key:: Pa. Super.
 
-   .. reporter:: Pen. & W.
+   .. reporter-key:: Pen. & W.
 
-   .. reporter:: Pennyp.
+   .. reporter-key:: Pennyp.
 
-   .. reporter:: Rawle
+   .. reporter-key:: Rawle
 
-   .. reporter:: Sadler
+   .. reporter-key:: Sadler
 
-   .. reporter:: Serg. & Rawle
+   .. reporter-key:: Serg. & Rawle
 
-   .. reporter:: WL
+   .. reporter-key:: WL
 
-   .. reporter:: Walk.
+   .. reporter-key:: Walk.
 
-   .. reporter:: Watts
+   .. reporter-key:: Watts
 
-   .. reporter:: Watts & Serg.
+   .. reporter-key:: Watts & Serg.
 
-   .. reporter:: Whart.
+   .. reporter-key:: Whart.
 
-   .. reporter:: Yeates
+   .. reporter-key:: Yeates

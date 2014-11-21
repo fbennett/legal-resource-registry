@@ -1,0 +1,4 @@
+.. reporter:: West's California Reporter
+   :series-abbreviation: Cal. Rptr.
+   :dates: 1959/1/1-1991/12/31
+

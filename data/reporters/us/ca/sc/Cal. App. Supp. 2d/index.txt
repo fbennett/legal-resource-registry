@@ -1,0 +1,4 @@
+.. reporter:: California Appellate Reports, Supplement
+   :series-abbreviation: Cal. App. Supp. 2d
+   :dates: 1929/1/1-present
+

@@ -2,4 +2,4 @@
 .. court:: us;gu
    :court-id: us;gu
 
-   .. reporter:: Guam
+   .. reporter-key:: Guam

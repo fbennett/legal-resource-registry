@@ -2,100 +2,100 @@
 .. court:: New York Court of Appeals
    :court-id: us;ny;ca
 
-   .. reporter:: A.D.
+   .. reporter-key:: A.D.
 
-   .. reporter:: A.D.2d
+   .. reporter-key:: A.D.2d
 
-   .. reporter:: A.D.3d
+   .. reporter-key:: A.D.3d
 
-   .. reporter:: Abb. N. Cas.
+   .. reporter-key:: Abb. N. Cas.
 
-   .. reporter:: Abb. Pr.
+   .. reporter-key:: Abb. Pr.
 
-   .. reporter:: Ant. N.P. Cas.
+   .. reporter-key:: Ant. N.P. Cas.
 
-   .. reporter:: Barb.
+   .. reporter-key:: Barb.
 
-   .. reporter:: Barb. Ch.
+   .. reporter-key:: Barb. Ch.
 
-   .. reporter:: Cai. Cas.
+   .. reporter-key:: Cai. Cas.
 
-   .. reporter:: Cai. R.
+   .. reporter-key:: Cai. R.
 
-   .. reporter:: Cl. Ch.
+   .. reporter-key:: Cl. Ch.
 
-   .. reporter:: Cole. & Cai. Cas.
+   .. reporter-key:: Cole. & Cai. Cas.
 
-   .. reporter:: Cole. Cas.
+   .. reporter-key:: Cole. Cas.
 
-   .. reporter:: Cow.
+   .. reporter-key:: Cow.
 
-   .. reporter:: Denio
+   .. reporter-key:: Denio
 
-   .. reporter:: Edm. Sel. Cas.
+   .. reporter-key:: Edm. Sel. Cas.
 
-   .. reporter:: Edw. Ch.
+   .. reporter-key:: Edw. Ch.
 
-   .. reporter:: Hill
+   .. reporter-key:: Hill
 
-   .. reporter:: Hill & Den.
+   .. reporter-key:: Hill & Den.
 
-   .. reporter:: Hoff. Ch.
+   .. reporter-key:: Hoff. Ch.
 
-   .. reporter:: Hopk. Ch.
+   .. reporter-key:: Hopk. Ch.
 
-   .. reporter:: How. Pr.
+   .. reporter-key:: How. Pr.
 
-   .. reporter:: Johns.
+   .. reporter-key:: Johns.
 
-   .. reporter:: Johns. Cas.
+   .. reporter-key:: Johns. Cas.
 
-   .. reporter:: Johns. Ch.
+   .. reporter-key:: Johns. Ch.
 
-   .. reporter:: LEXIS
+   .. reporter-key:: LEXIS
 
-   .. reporter:: Lans.
+   .. reporter-key:: Lans.
 
-   .. reporter:: Lans. Ch.
+   .. reporter-key:: Lans. Ch.
 
-   .. reporter:: Lock. Rev. Cas.
+   .. reporter-key:: Lock. Rev. Cas.
 
-   .. reporter:: Misc.
+   .. reporter-key:: Misc.
 
-   .. reporter:: Misc. 2d
+   .. reporter-key:: Misc. 2d
 
-   .. reporter:: Misc. 3d
+   .. reporter-key:: Misc. 3d
 
-   .. reporter:: N.E.
+   .. reporter-key:: N.E.
 
-   .. reporter:: N.E.2d
+   .. reporter-key:: N.E.2d
 
-   .. reporter:: N.Y.
+   .. reporter-key:: N.Y.
 
-   .. reporter:: N.Y. Ch. Ann.
+   .. reporter-key:: N.Y. Ch. Ann.
 
-   .. reporter:: N.Y. Sup. Ct.
+   .. reporter-key:: N.Y. Sup. Ct.
 
-   .. reporter:: N.Y.2d
+   .. reporter-key:: N.Y.2d
 
-   .. reporter:: N.Y.3d
+   .. reporter-key:: N.Y.3d
 
-   .. reporter:: N.Y.S.
+   .. reporter-key:: N.Y.S.
 
-   .. reporter:: N.Y.S.2d
+   .. reporter-key:: N.Y.S.2d
 
-   .. reporter:: N.Y.S.3d
+   .. reporter-key:: N.Y.S.3d
 
-   .. reporter:: NY Slip Op
+   .. reporter-key:: NY Slip Op
 
-   .. reporter:: Paige Ch.
+   .. reporter-key:: Paige Ch.
 
-   .. reporter:: Sand. Ch.
+   .. reporter-key:: Sand. Ch.
 
-   .. reporter:: Sarat. Ch. Sent.
+   .. reporter-key:: Sarat. Ch. Sent.
 
-   .. reporter:: WL
+   .. reporter-key:: WL
 
-   .. reporter:: Wend.
+   .. reporter-key:: Wend.
 
-   .. reporter:: Yates Sel. Cas.
+   .. reporter-key:: Yates Sel. Cas.

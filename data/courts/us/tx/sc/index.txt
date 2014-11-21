@@ -2,32 +2,32 @@
 .. court:: Supreme Court of Texas
    :court-id: us;tx;sc
 
-   .. reporter:: Dallam
+   .. reporter-key:: Dallam
 
-   .. reporter:: LEXIS
+   .. reporter-key:: LEXIS
 
-   .. reporter:: Robards
+   .. reporter-key:: Robards
 
-   .. reporter:: S.W.
+   .. reporter-key:: S.W.
 
-   .. reporter:: S.W.2d
+   .. reporter-key:: S.W.2d
 
-   .. reporter:: S.W.3d
+   .. reporter-key:: S.W.3d
 
-   .. reporter:: Tex.
+   .. reporter-key:: Tex.
 
-   .. reporter:: Tex. Civ. App.
+   .. reporter-key:: Tex. Civ. App.
 
-   .. reporter:: Tex. Crim.
+   .. reporter-key:: Tex. Crim.
 
-   .. reporter:: Tex. Ct. App.
+   .. reporter-key:: Tex. Ct. App.
 
-   .. reporter:: Tex. L. Rev.
+   .. reporter-key:: Tex. L. Rev.
 
-   .. reporter:: Tex. Sup. Ct. J.
+   .. reporter-key:: Tex. Sup. Ct. J.
 
-   .. reporter:: WL
+   .. reporter-key:: WL
 
-   .. reporter:: White & W.
+   .. reporter-key:: White & W.
 
-   .. reporter:: Wilson
+   .. reporter-key:: Wilson

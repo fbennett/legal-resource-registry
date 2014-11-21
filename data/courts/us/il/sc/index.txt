@@ -2,30 +2,30 @@
 .. court:: Supreme Court of Illinois
    :court-id: us;il;sc
 
-   .. reporter:: Breese
+   .. reporter-key:: Breese
 
-   .. reporter:: Gilm.
+   .. reporter-key:: Gilm.
 
-   .. reporter:: Ill.
+   .. reporter-key:: Ill.
 
-   .. reporter:: Ill. 2d
+   .. reporter-key:: Ill. 2d
 
-   .. reporter:: Ill. App.
+   .. reporter-key:: Ill. App.
 
-   .. reporter:: Ill. App. 2d
+   .. reporter-key:: Ill. App. 2d
 
-   .. reporter:: Ill. App. 3d
+   .. reporter-key:: Ill. App. 3d
 
-   .. reporter:: Ill. Ct. Cl.
+   .. reporter-key:: Ill. Ct. Cl.
 
-   .. reporter:: Ill. Dec.
+   .. reporter-key:: Ill. Dec.
 
-   .. reporter:: LEXIS
+   .. reporter-key:: LEXIS
 
-   .. reporter:: N.E.
+   .. reporter-key:: N.E.
 
-   .. reporter:: N.E.2d
+   .. reporter-key:: N.E.2d
 
-   .. reporter:: Scam.
+   .. reporter-key:: Scam.
 
-   .. reporter:: WL
+   .. reporter-key:: WL

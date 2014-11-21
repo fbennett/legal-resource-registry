@@ -1,0 +1,4 @@
+.. reporter:: Utah Reports
+   :series-abbreviation: Utah 2d
+   :dates: 1851/1/1-1974/12/31
+

@@ -1,0 +1,4 @@
+.. reporter:: California Reports
+   :series-abbreviation: Cal. 4th
+   :dates: 1991/1/1-present
+

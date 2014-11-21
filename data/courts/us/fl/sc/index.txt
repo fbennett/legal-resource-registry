@@ -2,24 +2,24 @@
 .. court:: Supreme Court of Florida
    :court-id: us;fl;sc
 
-   .. reporter:: FL
+   .. reporter-key:: FL
 
-   .. reporter:: Fla.
+   .. reporter-key:: Fla.
 
-   .. reporter:: Fla. L. Weekly
+   .. reporter-key:: Fla. L. Weekly
 
-   .. reporter:: Fla. L. Weekly Supp.
+   .. reporter-key:: Fla. L. Weekly Supp.
 
-   .. reporter:: Fla. Supp.
+   .. reporter-key:: Fla. Supp.
 
-   .. reporter:: Fla. Supp. 2d
+   .. reporter-key:: Fla. Supp. 2d
 
-   .. reporter:: LEXIS
+   .. reporter-key:: LEXIS
 
-   .. reporter:: So.
+   .. reporter-key:: So.
 
-   .. reporter:: So. 2d
+   .. reporter-key:: So. 2d
 
-   .. reporter:: So. 3d
+   .. reporter-key:: So. 3d
 
-   .. reporter:: WL
+   .. reporter-key:: WL

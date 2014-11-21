@@ -2,30 +2,30 @@
 .. court:: Supreme Court of Connecticut
    :court-id: us;ct;sc
 
-   .. reporter:: A.
+   .. reporter-key:: A.
 
-   .. reporter:: A.2d
+   .. reporter-key:: A.2d
 
-   .. reporter:: A.3d
+   .. reporter-key:: A.3d
 
-   .. reporter:: Conn.
+   .. reporter-key:: Conn.
 
-   .. reporter:: Conn. App.
+   .. reporter-key:: Conn. App.
 
-   .. reporter:: Conn. Cir. Ct
+   .. reporter-key:: Conn. Cir. Ct
 
-   .. reporter:: Conn. L. Rptr.
+   .. reporter-key:: Conn. L. Rptr.
 
-   .. reporter:: Conn. Super. Ct.
+   .. reporter-key:: Conn. Super. Ct.
 
-   .. reporter:: Conn. Supp.
+   .. reporter-key:: Conn. Supp.
 
-   .. reporter:: Day
+   .. reporter-key:: Day
 
-   .. reporter:: Kirby
+   .. reporter-key:: Kirby
 
-   .. reporter:: LEXIS
+   .. reporter-key:: LEXIS
 
-   .. reporter:: Root
+   .. reporter-key:: Root
 
-   .. reporter:: WL
+   .. reporter-key:: WL

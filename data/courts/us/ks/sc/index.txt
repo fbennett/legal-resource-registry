@@ -2,20 +2,20 @@
 .. court:: Supreme Court of Kansas
    :court-id: us;ks;sc
 
-   .. reporter:: Kan.
+   .. reporter-key:: Kan.
 
-   .. reporter:: Kan. App.
+   .. reporter-key:: Kan. App.
 
-   .. reporter:: Kan. App. 2d
+   .. reporter-key:: Kan. App. 2d
 
-   .. reporter:: LEXIS
+   .. reporter-key:: LEXIS
 
-   .. reporter:: McCahon
+   .. reporter-key:: McCahon
 
-   .. reporter:: P.
+   .. reporter-key:: P.
 
-   .. reporter:: P.2d
+   .. reporter-key:: P.2d
 
-   .. reporter:: P.3d
+   .. reporter-key:: P.3d
 
-   .. reporter:: WL
+   .. reporter-key:: WL

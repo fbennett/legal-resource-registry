@@ -1,0 +1,4 @@
+.. reporter:: Florida Supplement
+   :series-abbreviation: Fla. Supp.
+   :dates: 1948/1/1-1981/12/31
+

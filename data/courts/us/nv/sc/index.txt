@@ -2,16 +2,16 @@
 .. court:: Supreme Court of Nevada
    :court-id: us;nv;sc
 
-   .. reporter:: LEXIS
+   .. reporter-key:: LEXIS
 
-   .. reporter:: Nev.
+   .. reporter-key:: Nev.
 
-   .. reporter:: Nev. Adv. Op. No.
+   .. reporter-key:: Nev. Adv. Op. No.
 
-   .. reporter:: P.
+   .. reporter-key:: P.
 
-   .. reporter:: P.2d
+   .. reporter-key:: P.2d
 
-   .. reporter:: P.3d
+   .. reporter-key:: P.3d
 
-   .. reporter:: WL
+   .. reporter-key:: WL

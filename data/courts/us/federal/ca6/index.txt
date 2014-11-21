@@ -2,16 +2,16 @@
 .. court:: United States Circuit Court of Appeals for the Sixth Circuit
    :court-id: us;federal;ca6
 
-   .. reporter:: F.
+   .. reporter-key:: F.
 
-   .. reporter:: F. App'x
+   .. reporter-key:: F. App'x
 
-   .. reporter:: F.2d
+   .. reporter-key:: F.2d
 
-   .. reporter:: F.3d
+   .. reporter-key:: F.3d
 
-   .. reporter:: LEXIS
+   .. reporter-key:: LEXIS
 
-   .. reporter:: U.S. App. LEXIS
+   .. reporter-key:: U.S. App. LEXIS
 
-   .. reporter:: WL
+   .. reporter-key:: WL

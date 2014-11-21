@@ -2,18 +2,18 @@
 .. court:: Supreme Court of Iowa
    :court-id: us;ia;sc
 
-   .. reporter:: Bradf.
+   .. reporter-key:: Bradf.
 
-   .. reporter:: Greene
+   .. reporter-key:: Greene
 
-   .. reporter:: Iowa
+   .. reporter-key:: Iowa
 
-   .. reporter:: LEXIS
+   .. reporter-key:: LEXIS
 
-   .. reporter:: Morris
+   .. reporter-key:: Morris
 
-   .. reporter:: N.W.
+   .. reporter-key:: N.W.
 
-   .. reporter:: N.W.2d
+   .. reporter-key:: N.W.2d
 
-   .. reporter:: WL
+   .. reporter-key:: WL

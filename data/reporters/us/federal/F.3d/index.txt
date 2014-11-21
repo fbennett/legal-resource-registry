@@ -1,0 +1,4 @@
+.. reporter:: Federal Reporter
+   :series-abbreviation: F.3d
+   :dates: 1993/1/1-present
+

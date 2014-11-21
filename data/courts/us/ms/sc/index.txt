@@ -2,22 +2,22 @@
 .. court:: Supreme Court of Mississippi
    :court-id: us;ms;sc
 
-   .. reporter:: Howard
+   .. reporter-key:: Howard
 
-   .. reporter:: LEXIS
+   .. reporter-key:: LEXIS
 
-   .. reporter:: MS
+   .. reporter-key:: MS
 
-   .. reporter:: Miss.
+   .. reporter-key:: Miss.
 
-   .. reporter:: S. & M.
+   .. reporter-key:: S. & M.
 
-   .. reporter:: So.
+   .. reporter-key:: So.
 
-   .. reporter:: So. 2d
+   .. reporter-key:: So. 2d
 
-   .. reporter:: So. 3d
+   .. reporter-key:: So. 3d
 
-   .. reporter:: WL
+   .. reporter-key:: WL
 
-   .. reporter:: Walker
+   .. reporter-key:: Walker

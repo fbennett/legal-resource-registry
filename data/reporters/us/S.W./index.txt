@@ -1,0 +1,4 @@
+.. reporter:: South Western Reporter
+   :series-abbreviation: S.W.
+   :dates: 1886/1/1-1928/12/31
+

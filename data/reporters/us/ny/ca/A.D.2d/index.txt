@@ -1,0 +1,4 @@
+.. reporter:: New York Supreme Court Appellate Division Reports
+   :series-abbreviation: A.D.2d
+   :dates: 1955/1/1-2004/12/31
+

@@ -1,0 +1,4 @@
+.. reporter:: Federal Reporter
+   :series-abbreviation: F.
+   :dates: 1880/1/1-1924/12/31
+

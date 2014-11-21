@@ -2,56 +2,56 @@
 .. court:: us
    :court-id: us
 
-   .. reporter:: B.R.
+   .. reporter-key:: B.R.
 
-   .. reporter:: B.T.A.
+   .. reporter-key:: B.T.A.
 
-   .. reporter:: B.T.A.M. (P-H)
+   .. reporter-key:: B.T.A.M. (P-H)
 
-   .. reporter:: C.C.P.A.
+   .. reporter-key:: C.C.P.A.
 
-   .. reporter:: C.M.A.
+   .. reporter-key:: C.M.A.
 
-   .. reporter:: C.M.R.
+   .. reporter-key:: C.M.R.
 
-   .. reporter:: Cl. Ct.
+   .. reporter-key:: Cl. Ct.
 
-   .. reporter:: Ct. Cl.
+   .. reporter-key:: Ct. Cl.
 
-   .. reporter:: Ct. Cust.
+   .. reporter-key:: Ct. Cust.
 
-   .. reporter:: Ct. Int'l Trade
+   .. reporter-key:: Ct. Int'l Trade
 
-   .. reporter:: Cust. B. & Dec.
+   .. reporter-key:: Cust. B. & Dec.
 
-   .. reporter:: Cust. Ct.
+   .. reporter-key:: Cust. Ct.
 
-   .. reporter:: F. Cas.
+   .. reporter-key:: F. Cas.
 
-   .. reporter:: F. Supp.
+   .. reporter-key:: F. Supp.
 
-   .. reporter:: F. Supp. 2d
+   .. reporter-key:: F. Supp. 2d
 
-   .. reporter:: F.R.D.
+   .. reporter-key:: F.R.D.
 
-   .. reporter:: Fed. Cl.
+   .. reporter-key:: Fed. Cl.
 
-   .. reporter:: Fed. R. Serv.
+   .. reporter-key:: Fed. R. Serv.
 
-   .. reporter:: Fed. R. Serv. 2d
+   .. reporter-key:: Fed. R. Serv. 2d
 
-   .. reporter:: Fed. R. Serv. 3d
+   .. reporter-key:: Fed. R. Serv. 3d
 
-   .. reporter:: I.T.R.D. (BNA)
+   .. reporter-key:: I.T.R.D. (BNA)
 
-   .. reporter:: M.J.
+   .. reporter-key:: M.J.
 
-   .. reporter:: Navajo Rptr.
+   .. reporter-key:: Navajo Rptr.
 
-   .. reporter:: T.C.
+   .. reporter-key:: T.C.
 
-   .. reporter:: T.C.M.
+   .. reporter-key:: T.C.M.
 
-   .. reporter:: U.S.L.W.
+   .. reporter-key:: U.S.L.W.
 
-   .. reporter:: Vet. App.
+   .. reporter-key:: Vet. App.

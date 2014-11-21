@@ -2,14 +2,14 @@
 .. court:: Supreme Court of New Hampshire
    :court-id: us;nh;sc
 
-   .. reporter:: A.
+   .. reporter-key:: A.
 
-   .. reporter:: A.2d
+   .. reporter-key:: A.2d
 
-   .. reporter:: A.3d
+   .. reporter-key:: A.3d
 
-   .. reporter:: LEXIS
+   .. reporter-key:: LEXIS
 
-   .. reporter:: N.H.
+   .. reporter-key:: N.H.
 
-   .. reporter:: WL
+   .. reporter-key:: WL

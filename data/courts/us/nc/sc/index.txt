@@ -2,56 +2,56 @@
 .. court:: Supreme Court of North Carolina
    :court-id: us;nc;sc
 
-   .. reporter:: Busb.
+   .. reporter-key:: Busb.
 
-   .. reporter:: Busb. Eq.
+   .. reporter-key:: Busb. Eq.
 
-   .. reporter:: Cam. & Nor.
+   .. reporter-key:: Cam. & Nor.
 
-   .. reporter:: Car. L. Rep.
+   .. reporter-key:: Car. L. Rep.
 
-   .. reporter:: Dev.
+   .. reporter-key:: Dev.
 
-   .. reporter:: Dev. & Bat.
+   .. reporter-key:: Dev. & Bat.
 
-   .. reporter:: Dev. & Bat. Eq.
+   .. reporter-key:: Dev. & Bat. Eq.
 
-   .. reporter:: Dev. Eq.
+   .. reporter-key:: Dev. Eq.
 
-   .. reporter:: Hawks
+   .. reporter-key:: Hawks
 
-   .. reporter:: Hayw.
+   .. reporter-key:: Hayw.
 
-   .. reporter:: Ired.
+   .. reporter-key:: Ired.
 
-   .. reporter:: Ired. Eq.
+   .. reporter-key:: Ired. Eq.
 
-   .. reporter:: Jones
+   .. reporter-key:: Jones
 
-   .. reporter:: Jones Eq.
+   .. reporter-key:: Jones Eq.
 
-   .. reporter:: LEXIS
+   .. reporter-key:: LEXIS
 
-   .. reporter:: Mart.
+   .. reporter-key:: Mart.
 
-   .. reporter:: Mur.
+   .. reporter-key:: Mur.
 
-   .. reporter:: N.C.
+   .. reporter-key:: N.C.
 
-   .. reporter:: N.C. App.
+   .. reporter-key:: N.C. App.
 
-   .. reporter:: Phil. Eq.
+   .. reporter-key:: Phil. Eq.
 
-   .. reporter:: Phil. Law
+   .. reporter-key:: Phil. Law
 
-   .. reporter:: S.E.
+   .. reporter-key:: S.E.
 
-   .. reporter:: S.E.2d
+   .. reporter-key:: S.E.2d
 
-   .. reporter:: Tay.
+   .. reporter-key:: Tay.
 
-   .. reporter:: Taylor
+   .. reporter-key:: Taylor
 
-   .. reporter:: WL
+   .. reporter-key:: WL
 
-   .. reporter:: Win.
+   .. reporter-key:: Win.

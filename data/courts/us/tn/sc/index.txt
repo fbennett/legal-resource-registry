@@ -2,44 +2,44 @@
 .. court:: Supreme Court of Tennessee
    :court-id: us;tn;sc
 
-   .. reporter:: Cold.
+   .. reporter-key:: Cold.
 
-   .. reporter:: Cooke
+   .. reporter-key:: Cooke
 
-   .. reporter:: Hayw.
+   .. reporter-key:: Hayw.
 
-   .. reporter:: Head
+   .. reporter-key:: Head
 
-   .. reporter:: Heisk.
+   .. reporter-key:: Heisk.
 
-   .. reporter:: Hum.
+   .. reporter-key:: Hum.
 
-   .. reporter:: LEXIS
+   .. reporter-key:: LEXIS
 
-   .. reporter:: Mart. & Yer.
+   .. reporter-key:: Mart. & Yer.
 
-   .. reporter:: Meigs
+   .. reporter-key:: Meigs
 
-   .. reporter:: Overt.
+   .. reporter-key:: Overt.
 
-   .. reporter:: Peck
+   .. reporter-key:: Peck
 
-   .. reporter:: S.W.
+   .. reporter-key:: S.W.
 
-   .. reporter:: S.W.2d
+   .. reporter-key:: S.W.2d
 
-   .. reporter:: S.W.3d
+   .. reporter-key:: S.W.3d
 
-   .. reporter:: Sneed
+   .. reporter-key:: Sneed
 
-   .. reporter:: Swan
+   .. reporter-key:: Swan
 
-   .. reporter:: Tenn.
+   .. reporter-key:: Tenn.
 
-   .. reporter:: Tenn. App.
+   .. reporter-key:: Tenn. App.
 
-   .. reporter:: Tenn. Crim. App.
+   .. reporter-key:: Tenn. Crim. App.
 
-   .. reporter:: WL
+   .. reporter-key:: WL
 
-   .. reporter:: Yer.
+   .. reporter-key:: Yer.

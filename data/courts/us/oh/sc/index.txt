@@ -2,58 +2,58 @@
 .. court:: Supreme Court of Ohio
    :court-id: us;oh;sc
 
-   .. reporter:: LEXIS
+   .. reporter-key:: LEXIS
 
-   .. reporter:: N.E.
+   .. reporter-key:: N.E.
 
-   .. reporter:: N.E.2d
+   .. reporter-key:: N.E.2d
 
-   .. reporter:: OH
+   .. reporter-key:: OH
 
-   .. reporter:: Ohio
+   .. reporter-key:: Ohio
 
-   .. reporter:: Ohio App.
+   .. reporter-key:: Ohio App.
 
-   .. reporter:: Ohio App. 2d
+   .. reporter-key:: Ohio App. 2d
 
-   .. reporter:: Ohio App. 3d
+   .. reporter-key:: Ohio App. 3d
 
-   .. reporter:: Ohio App. Unrep.
+   .. reporter-key:: Ohio App. Unrep.
 
-   .. reporter:: Ohio B.
+   .. reporter-key:: Ohio B.
 
-   .. reporter:: Ohio C.C.
+   .. reporter-key:: Ohio C.C.
 
-   .. reporter:: Ohio C.C. (n.s.)
+   .. reporter-key:: Ohio C.C. (n.s.)
 
-   .. reporter:: Ohio C.C. Dec.
+   .. reporter-key:: Ohio C.C. Dec.
 
-   .. reporter:: Ohio Cir. Dec.
+   .. reporter-key:: Ohio Cir. Dec.
 
-   .. reporter:: Ohio Dec.
+   .. reporter-key:: Ohio Dec.
 
-   .. reporter:: Ohio Dec. Reprint
+   .. reporter-key:: Ohio Dec. Reprint
 
-   .. reporter:: Ohio Law. Abs.
+   .. reporter-key:: Ohio Law. Abs.
 
-   .. reporter:: Ohio Misc.
+   .. reporter-key:: Ohio Misc.
 
-   .. reporter:: Ohio Misc. 2d
+   .. reporter-key:: Ohio Misc. 2d
 
-   .. reporter:: Ohio N.P.
+   .. reporter-key:: Ohio N.P.
 
-   .. reporter:: Ohio N.P. (n.s.)
+   .. reporter-key:: Ohio N.P. (n.s.)
 
-   .. reporter:: Ohio Op.
+   .. reporter-key:: Ohio Op.
 
-   .. reporter:: Ohio Op. 2d
+   .. reporter-key:: Ohio Op. 2d
 
-   .. reporter:: Ohio Op. 3d
+   .. reporter-key:: Ohio Op. 3d
 
-   .. reporter:: Ohio St.
+   .. reporter-key:: Ohio St.
 
-   .. reporter:: Ohio St. 2d
+   .. reporter-key:: Ohio St. 2d
 
-   .. reporter:: Ohio St. 3d
+   .. reporter-key:: Ohio St. 3d
 
-   .. reporter:: WL
+   .. reporter-key:: WL

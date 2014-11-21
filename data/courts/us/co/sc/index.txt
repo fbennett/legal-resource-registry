@@ -2,20 +2,20 @@
 .. court:: Supreme Court of Colorado
    :court-id: us;co;sc
 
-   .. reporter:: Brief Times Rptr.
+   .. reporter-key:: Brief Times Rptr.
 
-   .. reporter:: CO
+   .. reporter-key:: CO
 
-   .. reporter:: Colo.
+   .. reporter-key:: Colo.
 
-   .. reporter:: Colo. Law.
+   .. reporter-key:: Colo. Law.
 
-   .. reporter:: LEXIS
+   .. reporter-key:: LEXIS
 
-   .. reporter:: P.
+   .. reporter-key:: P.
 
-   .. reporter:: P.2d
+   .. reporter-key:: P.2d
 
-   .. reporter:: P.3d
+   .. reporter-key:: P.3d
 
-   .. reporter:: WL
+   .. reporter-key:: WL

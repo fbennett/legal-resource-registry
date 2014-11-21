@@ -2,42 +2,42 @@
 .. court:: Supreme Court of California
    :court-id: us;ca;sc
 
-   .. reporter:: Cal.
+   .. reporter-key:: Cal.
 
-   .. reporter:: Cal. 2d
+   .. reporter-key:: Cal. 2d
 
-   .. reporter:: Cal. 3d
+   .. reporter-key:: Cal. 3d
 
-   .. reporter:: Cal. 4th
+   .. reporter-key:: Cal. 4th
 
-   .. reporter:: Cal. App.
+   .. reporter-key:: Cal. App.
 
-   .. reporter:: Cal. App. 2d
+   .. reporter-key:: Cal. App. 2d
 
-   .. reporter:: Cal. App. 3d
+   .. reporter-key:: Cal. App. 3d
 
-   .. reporter:: Cal. App. 4th
+   .. reporter-key:: Cal. App. 4th
 
-   .. reporter:: Cal. App. Supp.
+   .. reporter-key:: Cal. App. Supp.
 
-   .. reporter:: Cal. App. Supp. 2d
+   .. reporter-key:: Cal. App. Supp. 2d
 
-   .. reporter:: Cal. App. Supp. 3d
+   .. reporter-key:: Cal. App. Supp. 3d
 
-   .. reporter:: Cal. Rptr.
+   .. reporter-key:: Cal. Rptr.
 
-   .. reporter:: Cal. Rptr. 2d
+   .. reporter-key:: Cal. Rptr. 2d
 
-   .. reporter:: Cal. Rptr. 3d
+   .. reporter-key:: Cal. Rptr. 3d
 
-   .. reporter:: Cal. Unrep.
+   .. reporter-key:: Cal. Unrep.
 
-   .. reporter:: LEXIS
+   .. reporter-key:: LEXIS
 
-   .. reporter:: P.
+   .. reporter-key:: P.
 
-   .. reporter:: P.2d
+   .. reporter-key:: P.2d
 
-   .. reporter:: P.3d
+   .. reporter-key:: P.3d
 
-   .. reporter:: WL
+   .. reporter-key:: WL

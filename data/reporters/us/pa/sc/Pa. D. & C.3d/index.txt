@@ -1,0 +1,4 @@
+.. reporter:: Pennsylvania District and County Reports
+   :series-abbreviation: Pa. D. & C.3d
+   :dates: 1921/1/1-present
+

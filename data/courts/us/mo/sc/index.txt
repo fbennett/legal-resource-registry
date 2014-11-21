@@ -2,16 +2,16 @@
 .. court:: Supreme Court of Missouri
    :court-id: us;mo;sc
 
-   .. reporter:: LEXIS
+   .. reporter-key:: LEXIS
 
-   .. reporter:: Mo.
+   .. reporter-key:: Mo.
 
-   .. reporter:: Mo. App.
+   .. reporter-key:: Mo. App.
 
-   .. reporter:: S.W.
+   .. reporter-key:: S.W.
 
-   .. reporter:: S.W.2d
+   .. reporter-key:: S.W.2d
 
-   .. reporter:: S.W.3d
+   .. reporter-key:: S.W.3d
 
-   .. reporter:: WL
+   .. reporter-key:: WL

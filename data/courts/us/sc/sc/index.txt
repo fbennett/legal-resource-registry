@@ -2,74 +2,74 @@
 .. court:: Supreme Court of South Carolina
    :court-id: us;sc;sc
 
-   .. reporter:: Bail.
+   .. reporter-key:: Bail.
 
-   .. reporter:: Bail. Eq.
+   .. reporter-key:: Bail. Eq.
 
-   .. reporter:: Bay
+   .. reporter-key:: Bay
 
-   .. reporter:: Brev.
+   .. reporter-key:: Brev.
 
-   .. reporter:: Chev.
+   .. reporter-key:: Chev.
 
-   .. reporter:: Chev. Eq.
+   .. reporter-key:: Chev. Eq.
 
-   .. reporter:: Des.
+   .. reporter-key:: Des.
 
-   .. reporter:: Dud.
+   .. reporter-key:: Dud.
 
-   .. reporter:: Dud. Eq.
+   .. reporter-key:: Dud. Eq.
 
-   .. reporter:: Harp.
+   .. reporter-key:: Harp.
 
-   .. reporter:: Harp. Eq.
+   .. reporter-key:: Harp. Eq.
 
-   .. reporter:: Hill
+   .. reporter-key:: Hill
 
-   .. reporter:: Hill Eq.
+   .. reporter-key:: Hill Eq.
 
-   .. reporter:: LEXIS
+   .. reporter-key:: LEXIS
 
-   .. reporter:: McCord
+   .. reporter-key:: McCord
 
-   .. reporter:: McCord Eq.
+   .. reporter-key:: McCord Eq.
 
-   .. reporter:: McMul.
+   .. reporter-key:: McMul.
 
-   .. reporter:: McMul. Eq.
+   .. reporter-key:: McMul. Eq.
 
-   .. reporter:: Mill
+   .. reporter-key:: Mill
 
-   .. reporter:: Nott & McC.
+   .. reporter-key:: Nott & McC.
 
-   .. reporter:: Rice
+   .. reporter-key:: Rice
 
-   .. reporter:: Rice Eq.
+   .. reporter-key:: Rice Eq.
 
-   .. reporter:: Rich.
+   .. reporter-key:: Rich.
 
-   .. reporter:: Rich. Cas.
+   .. reporter-key:: Rich. Cas.
 
-   .. reporter:: Rich. Eq.
+   .. reporter-key:: Rich. Eq.
 
-   .. reporter:: Ril.
+   .. reporter-key:: Ril.
 
-   .. reporter:: Ril. Eq.
+   .. reporter-key:: Ril. Eq.
 
-   .. reporter:: S.C.
+   .. reporter-key:: S.C.
 
-   .. reporter:: S.E.
+   .. reporter-key:: S.E.
 
-   .. reporter:: S.E.2d
+   .. reporter-key:: S.E.2d
 
-   .. reporter:: Speers
+   .. reporter-key:: Speers
 
-   .. reporter:: Speers Eq.
+   .. reporter-key:: Speers Eq.
 
-   .. reporter:: Strob.
+   .. reporter-key:: Strob.
 
-   .. reporter:: Strob. Eq.
+   .. reporter-key:: Strob. Eq.
 
-   .. reporter:: Tread.
+   .. reporter-key:: Tread.
 
-   .. reporter:: WL
+   .. reporter-key:: WL

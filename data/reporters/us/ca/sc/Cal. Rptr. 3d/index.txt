@@ -1,0 +1,4 @@
+.. reporter:: West's California Reporter
+   :series-abbreviation: Cal. Rptr. 3d
+   :dates: 2003/1/1-present
+

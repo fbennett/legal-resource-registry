@@ -2,22 +2,22 @@
 .. court:: Supreme Court of Maryland
    :court-id: us;md;sc
 
-   .. reporter:: A.
+   .. reporter-key:: A.
 
-   .. reporter:: A.2d
+   .. reporter-key:: A.2d
 
-   .. reporter:: A.3d
+   .. reporter-key:: A.3d
 
-   .. reporter:: G. & J.
+   .. reporter-key:: G. & J.
 
-   .. reporter:: Gill
+   .. reporter-key:: Gill
 
-   .. reporter:: H. & G.
+   .. reporter-key:: H. & G.
 
-   .. reporter:: H. & J.
+   .. reporter-key:: H. & J.
 
-   .. reporter:: H. & McH.
+   .. reporter-key:: H. & McH.
 
-   .. reporter:: Md.
+   .. reporter-key:: Md.
 
-   .. reporter:: Md. App.
+   .. reporter-key:: Md. App.

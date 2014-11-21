@@ -1,0 +1,5 @@
+.. reporter:: Oklahoma Neutral Citation
+   :series-abbreviation: OK CR
+   :dates: 1750/1/1-present
+   :neutral:
+

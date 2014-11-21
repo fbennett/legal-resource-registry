@@ -1,0 +1,4 @@
+.. reporter:: Atlantic Reporter
+   :series-abbreviation: A.3d
+   :dates: 2010/1/1-present
+

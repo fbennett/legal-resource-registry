@@ -2,50 +2,50 @@
 .. court:: Supreme Court of Kentucky
    :court-id: us;ky;sc
 
-   .. reporter:: A.K. Marsh.
+   .. reporter-key:: A.K. Marsh.
 
-   .. reporter:: B. Mon.
+   .. reporter-key:: B. Mon.
 
-   .. reporter:: Bibb
+   .. reporter-key:: Bibb
 
-   .. reporter:: Bush
+   .. reporter-key:: Bush
 
-   .. reporter:: Dana
+   .. reporter-key:: Dana
 
-   .. reporter:: Duv.
+   .. reporter-key:: Duv.
 
-   .. reporter:: Hard.
+   .. reporter-key:: Hard.
 
-   .. reporter:: Hughes
+   .. reporter-key:: Hughes
 
-   .. reporter:: J.J. Marsh.
+   .. reporter-key:: J.J. Marsh.
 
-   .. reporter:: Ky.
+   .. reporter-key:: Ky.
 
-   .. reporter:: Ky. App.
+   .. reporter-key:: Ky. App.
 
-   .. reporter:: Ky. L. Rptr.
+   .. reporter-key:: Ky. L. Rptr.
 
-   .. reporter:: Ky. L. Summ.
+   .. reporter-key:: Ky. L. Summ.
 
-   .. reporter:: Ky. Op.
+   .. reporter-key:: Ky. Op.
 
-   .. reporter:: LEXIS
+   .. reporter-key:: LEXIS
 
-   .. reporter:: Litt.
+   .. reporter-key:: Litt.
 
-   .. reporter:: Litt. Sel. Cas.
+   .. reporter-key:: Litt. Sel. Cas.
 
-   .. reporter:: Met.
+   .. reporter-key:: Met.
 
-   .. reporter:: S.W.
+   .. reporter-key:: S.W.
 
-   .. reporter:: S.W.2d
+   .. reporter-key:: S.W.2d
 
-   .. reporter:: S.W.3d
+   .. reporter-key:: S.W.3d
 
-   .. reporter:: Sneed
+   .. reporter-key:: Sneed
 
-   .. reporter:: T.B. Mon.
+   .. reporter-key:: T.B. Mon.
 
-   .. reporter:: WL
+   .. reporter-key:: WL

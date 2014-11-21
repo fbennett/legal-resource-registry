@@ -2,14 +2,14 @@
 .. court:: Supreme Court of Idaho
    :court-id: us;id;sc
 
-   .. reporter:: Idaho
+   .. reporter-key:: Idaho
 
-   .. reporter:: LEXIS
+   .. reporter-key:: LEXIS
 
-   .. reporter:: P.
+   .. reporter-key:: P.
 
-   .. reporter:: P.2d
+   .. reporter-key:: P.2d
 
-   .. reporter:: P.3d
+   .. reporter-key:: P.3d
 
-   .. reporter:: WL
+   .. reporter-key:: WL

@@ -1,0 +1,4 @@
+.. reporter:: Ohio State Reports
+   :series-abbreviation: Ohio St.
+   :dates: 1840/1/1-1964/12/31
+

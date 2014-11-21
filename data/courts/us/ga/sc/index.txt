@@ -2,14 +2,14 @@
 .. court:: Supreme Court of Georgia
    :court-id: us;ga;sc
 
-   .. reporter:: Ga.
+   .. reporter-key:: Ga.
 
-   .. reporter:: Ga. App.
+   .. reporter-key:: Ga. App.
 
-   .. reporter:: LEXIS
+   .. reporter-key:: LEXIS
 
-   .. reporter:: S.E.
+   .. reporter-key:: S.E.
 
-   .. reporter:: S.E.2d
+   .. reporter-key:: S.E.2d
 
-   .. reporter:: WL
+   .. reporter-key:: WL

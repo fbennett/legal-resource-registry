@@ -1,0 +1,4 @@
+.. reporter:: Atlantic Reporter
+   :series-abbreviation: A.
+   :dates: 1885/1/1-1938/12/31
+

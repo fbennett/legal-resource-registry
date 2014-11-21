@@ -1,0 +1,4 @@
+.. reporter:: Southern Reporter
+   :series-abbreviation: So. 3d
+   :dates: 2008/1/1-present
+

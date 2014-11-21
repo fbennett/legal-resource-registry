@@ -2,34 +2,34 @@
 .. court:: Supreme Court of Virginia
    :court-id: us;va;sc
 
-   .. reporter:: Call
+   .. reporter-key:: Call
 
-   .. reporter:: Gilmer
+   .. reporter-key:: Gilmer
 
-   .. reporter:: Gratt.
+   .. reporter-key:: Gratt.
 
-   .. reporter:: Hen. & M.
+   .. reporter-key:: Hen. & M.
 
-   .. reporter:: LEXIS
+   .. reporter-key:: LEXIS
 
-   .. reporter:: Leigh
+   .. reporter-key:: Leigh
 
-   .. reporter:: Munf.
+   .. reporter-key:: Munf.
 
-   .. reporter:: Rand.
+   .. reporter-key:: Rand.
 
-   .. reporter:: Rob.
+   .. reporter-key:: Rob.
 
-   .. reporter:: S.E.
+   .. reporter-key:: S.E.
 
-   .. reporter:: S.E.2d
+   .. reporter-key:: S.E.2d
 
-   .. reporter:: Va.
+   .. reporter-key:: Va.
 
-   .. reporter:: Va. App.
+   .. reporter-key:: Va. App.
 
-   .. reporter:: Va. Cas.
+   .. reporter-key:: Va. Cas.
 
-   .. reporter:: WL
+   .. reporter-key:: WL
 
-   .. reporter:: Wash.
+   .. reporter-key:: Wash.
