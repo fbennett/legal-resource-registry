@@ -33,6 +33,7 @@ def mkCourt(key):
     ords = ["First","Second","Third","Fourth","Fifth","Sixth","Seventh","Eighth","Ninth","Tenth","Eleventh"]
     tmpl = "United States Circuit Court of Appeals for the %s Circuit"
     keychain = {
+        "us;federal;supreme.court": ["us;federal;sc", "United States Supreme Court"],
         "us;federal;1-cir": ["us;federal;ca1", tmpl % ords[0]],
         "us;federal;2-cir": ["us;federal;ca2", tmpl % ords[1]],
         "us;federal;3-cir": ["us;federal;ca3", tmpl % ords[2]],
@@ -208,23 +209,25 @@ for jkey in jkeys:
         sys.stdout.write(".")
 
         rkey = "%s::%s" % (reporter["name"],reporter["series-abbreviation"])
-        if not names.has_key(reporter["name"]):
-            names[reporter["name"]] = {"content":str,"jurisdictions":[],"abbrev":reporter["series-abbreviation"]}
-        jurisdiction = jkey.split(";")
-        names[reporter["name"]]["jurisdictions"].append(jurisdiction)
+        reporter_key = reporter["name"] + "::" + reporter["series-abbreviation"]
+        if not names.has_key(reporter_key):
+            names[reporter_key] = {"content":str,"jurisdictions":[],"abbrev":reporter["series-abbreviation"]}
+        jurisdiction = mkCourt(jkey)[0].split(";")
+        names[reporter_key]["jurisdictions"].append(jurisdiction)
 
     # Write the court into the courts hierarchy here
     abbrevs.sort()
-    abbrevs = '\n\n   .. reporter:: '.join(abbrevs)
+    abbrevs = '\n\n   .. reporter-key:: '.join(abbrevs)
 
     courtkey = mkCourt(jkey)[0]
     
-    str = '\n.. court:: %s\n   :court-id: %s\n\n   .. reporter:: %s\n' % (jurisdictions[jkey]["name"],courtkey,abbrevs)
+    str = '\n.. court:: %s\n   :court-id: %s\n\n   .. reporter-key:: %s\n' % (jurisdictions[jkey]["name"],courtkey,abbrevs)
     sys.stdout.write("+")
     writeToHierarchy("courts",jkey,str)
 
 # Normalize each reporter to a single jurisdiction level
 for key in names:
+    print key
     name = names[key]
 
     minval = None
