@@ -10,7 +10,7 @@ h2.citation-group {
     text-align: left;
 }
 
-div.draft-note {
+div..container.draft-note {
     font-size: 110%;
     font-family: Helvetica, Arial, Sans-Serif;
     color: #ff6666;
@@ -19,6 +19,8 @@ div.draft-note {
     /* font-weight: bold; */
     font-style: italic;
     margin: 1em 0;
+    text-indent: 0px;
+    padding: 0.5em;
 }
 
 div.credits-box {
