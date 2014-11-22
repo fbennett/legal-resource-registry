@@ -63,12 +63,13 @@ div.court-id {
     margin: 0 2em 1em 2em;
 }
 
-span.bubble {
+a.bubble {
     font-family: ariel,courier,mono;
     font-weight: bold;
     border: solid 2px #666666;
     border-radius: 1em;
     padding: 0.5em;
+    text-decoration: none;
 }
 
 div.reporters {
