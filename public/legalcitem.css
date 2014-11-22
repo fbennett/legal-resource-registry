@@ -14,7 +14,8 @@ div.draft-note {
     font-size: 110%;
     font-family: Helvetica, Arial, Sans-Serif;
     color: #ff6666;
-    border: single 1px #ff6666;
+    border: solid 1px #ff6666;
+    width: 80%;
     /* font-weight: bold; */
     font-style: italic;
     margin: 1em 0;
