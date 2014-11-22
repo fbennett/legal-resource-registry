@@ -52,24 +52,31 @@ h3.court {
 
 div.court-id:before {
     position: relative;
-    top: 0.70em;
+    /* top: 0.70em; */
     left: -0.5em;
     content: url('graphics/down3-40.png');
 }
 
 div.court-id {
     position: relative;
-    top: -0.70em;
+    /* top: -0.70em; */
     margin: 0 2em 1em 2em;
 }
 
 a.bubble {
+    position: absolute;
+    top: 0.5em;
     font-family: ariel,courier,mono;
     font-weight: bold;
     border: solid 2px #666666;
     border-radius: 1em;
     padding: 0.5em;
     text-decoration: none;
+}
+
+a.bubble:hover {
+    background: #eeeeee;
+    cursor: pointer;
 }
 
 div.reporters {
