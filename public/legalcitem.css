@@ -64,14 +64,17 @@ div.court-id {
 }
 
 div.bubbles a, a.bubble {
-    position: absolute;
-    top: 0.5em;
     font-family: ariel,courier,mono;
     font-weight: bold;
     border: solid 2px #666666;
     border-radius: 1em;
     padding: 0.5em;
     text-decoration: none;
+}
+
+a.bubble {
+    position: absolute;
+    top: 0.5em;
 }
 
 div.bubbles a:hover, a.bubble:hover {
