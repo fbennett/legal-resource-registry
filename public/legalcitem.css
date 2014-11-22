@@ -63,7 +63,7 @@ div.court-id {
     margin: 0 2em 1em 2em;
 }
 
-a.bubble {
+div.bubbles a, a.bubble {
     position: absolute;
     top: 0.5em;
     font-family: ariel,courier,mono;
@@ -74,7 +74,7 @@ a.bubble {
     text-decoration: none;
 }
 
-a.bubble:hover {
+div.bubbles a:hover, a.bubble:hover {
     background: #eeeeee;
     cursor: pointer;
 }
