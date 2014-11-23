@@ -103,7 +103,7 @@ class PageSource:
         
     def setBackref(self,backtrack,url):
         
-        self.rst += "\n.. image:: %s/graphics/circle-arrow-down.png\n   :target: %s\n   :class: back-button\n\n" % (backtrack,url)
+        self.rst += "\n.. image:: %s/graphics/circle-arrow-down-white.png\n   :target: %s\n   :class: back-button\n\n" % (backtrack,url)
 
     def setBubbles(self):
         self.rst += "\n.. container:: bubbles\n\n"
