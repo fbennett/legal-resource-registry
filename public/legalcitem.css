@@ -10,29 +10,45 @@ h2.citation-group {
     text-align: left;
 }
 
-div.container.draft-note {
-    font-size: 110%;
-    font-family: Helvetica, Arial, Sans-Serif;
-    color: #ff6666;
-    border: solid 1px #ff6666;
-    width: 80%;
-    /* font-weight: bold; */
-    font-style: italic;
+div.container {
+    text-indent: 0px;
+    margin-left: 0px;
+}
+
+div.container.draft {
+    text-align: center;
     margin: 1em 0;
     text-indent: 0px;
+    font-size: 110%;
+    font-family: Helvetica, Arial, Sans-Serif;
+    font-style: italic;
+}
+
+div.container.draft div.container {    
+    color: #ff4444;
+    border: solid 1px #ff4444;
+    width: 80%;
+    text-indent: 0px;
     padding: 0.5em;
+    display: inline-block;
+    margin: 0px;
+    text-align: left;
 }
 
-div.credits-box {
+div.credits.container {
     text-align: center;
+    margin: 0 0 1em 0;
+    text-indent: 0px;
 }
 
-div.credits-box div {
+div.container.credits div.container {
     border: double 3px black;
     width: 60%;
     display: inline-block;
     padding: 1em;
     text-align: left;
+    text-indent: 0px;
+    margin: 0px;
 }
 
 body {
@@ -41,6 +57,20 @@ body {
     margin-right: auto;
     max-width: 1200px;
     min-width: 1024px;
+}
+
+div.document {
+    position: relative;
+}
+
+a.image-reference {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+a.image-reference:hover {
+    background: url('graphics/circle-arrow-down-grey.png');
 }
 
 div.notes {
@@ -67,23 +97,32 @@ div.court-id {
     margin: 0 2em 1em 2em;
 }
 
-div.bubbles a, a.bubble {
+div.container.bubbles {
     font-family: ariel,courier,mono;
     font-weight: bold;
+    margin: 2em;
+    text-indent: 0px;
+}
+
+div.bubbles a, a.bubble {
     border: solid 2px #666666;
+    color: #444444;
     border-radius: 1em;
     padding: 0.5em;
     text-decoration: none;
+    display: inline-block;
+    text-indent: 0px;
+    margin: 0.25em 0;
 }
 
-a.bubble {
-    position: absolute;
-    top: 0.5em;
+a.bubble.mini {
+    padding: 0.25em 0.5em;
 }
 
 div.bubbles a:hover, a.bubble:hover {
     background: #eeeeee;
     cursor: pointer;
+    color: #222222;
 }
 
 div.reporters {
