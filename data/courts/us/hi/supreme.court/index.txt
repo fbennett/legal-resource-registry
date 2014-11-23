@@ -1,0 +1,17 @@
+
+.. court:: Supreme Court of Hawaii
+   :court-id: us;hi;supreme.court
+
+   .. reporter-key:: Haw.
+
+   .. reporter-key:: Haw. App.
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: P.
+
+   .. reporter-key:: P.2d
+
+   .. reporter-key:: P.3d
+
+   .. reporter-key:: WL

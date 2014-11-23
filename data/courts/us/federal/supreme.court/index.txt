@@ -1,0 +1,25 @@
+
+.. court:: United States Supreme Court
+   :court-id: us;federal;supreme.court
+
+   .. reporter-key:: Black
+
+   .. reporter-key:: Cranch
+
+   .. reporter-key:: Dall.
+
+   .. reporter-key:: How.
+
+   .. reporter-key:: L. Ed.
+
+   .. reporter-key:: L. Ed. 2d
+
+   .. reporter-key:: Pet.
+
+   .. reporter-key:: S. Ct.
+
+   .. reporter-key:: U.S.
+
+   .. reporter-key:: Wall.
+
+   .. reporter-key:: Wheat.

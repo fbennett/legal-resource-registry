@@ -1,0 +1,19 @@
+
+.. court:: Supreme Court of Arizona
+   :court-id: us;az;supreme.court
+
+   .. reporter-key:: AZ
+
+   .. reporter-key:: Ariz.
+
+   .. reporter-key:: Ariz. App.
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: P.
+
+   .. reporter-key:: P.2d
+
+   .. reporter-key:: P.3d
+
+   .. reporter-key:: WL

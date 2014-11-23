@@ -1,0 +1,61 @@
+
+.. court:: Supreme Court of Pennsylvania
+   :court-id: us;pa;supreme.court
+
+   .. reporter-key:: A.
+
+   .. reporter-key:: A.2d
+
+   .. reporter-key:: A.3d
+
+   .. reporter-key:: Binn.
+
+   .. reporter-key:: Dall.
+
+   .. reporter-key:: Grant
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: Monag.
+
+   .. reporter-key:: PA
+
+   .. reporter-key:: Pa.
+
+   .. reporter-key:: Pa. C.
+
+   .. reporter-key:: Pa. Commw.
+
+   .. reporter-key:: Pa. D.
+
+   .. reporter-key:: Pa. D. & C.
+
+   .. reporter-key:: Pa. D. & C.2d
+
+   .. reporter-key:: Pa. D. & C.3d
+
+   .. reporter-key:: Pa. D. & C.4th
+
+   .. reporter-key:: Pa. Super.
+
+   .. reporter-key:: Pen. & W.
+
+   .. reporter-key:: Pennyp.
+
+   .. reporter-key:: Rawle
+
+   .. reporter-key:: Sadler
+
+   .. reporter-key:: Serg. & Rawle
+
+   .. reporter-key:: WL
+
+   .. reporter-key:: Walk.
+
+   .. reporter-key:: Watts
+
+   .. reporter-key:: Watts & Serg.
+
+   .. reporter-key:: Whart.
+
+   .. reporter-key:: Yeates

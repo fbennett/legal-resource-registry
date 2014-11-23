@@ -1,0 +1,29 @@
+
+.. court:: Supreme Court of Delaware
+   :court-id: us;de;supreme.court
+
+   .. reporter-key:: A.
+
+   .. reporter-key:: A.2d
+
+   .. reporter-key:: A.3d
+
+   .. reporter-key:: Boyce
+
+   .. reporter-key:: Del.
+
+   .. reporter-key:: Del. Cas.
+
+   .. reporter-key:: Del. Ch.
+
+   .. reporter-key:: Harrington
+
+   .. reporter-key:: Houston
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: Marvel
+
+   .. reporter-key:: Pennewill
+
+   .. reporter-key:: WL

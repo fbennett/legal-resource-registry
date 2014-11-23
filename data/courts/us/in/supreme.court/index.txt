@@ -1,0 +1,17 @@
+
+.. court:: Supreme Court of Indiana
+   :court-id: us;in;supreme.court
+
+   .. reporter-key:: Blackf.
+
+   .. reporter-key:: Ind.
+
+   .. reporter-key:: Ind. App.
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: N.E.
+
+   .. reporter-key:: N.E.2d
+
+   .. reporter-key:: WL

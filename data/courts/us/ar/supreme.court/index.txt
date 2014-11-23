@@ -1,0 +1,17 @@
+
+.. court:: Supreme Court of Arkansas
+   :court-id: us;ar;supreme.court
+
+   .. reporter-key:: Ark.
+
+   .. reporter-key:: Ark. App.
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: S.W.
+
+   .. reporter-key:: S.W.2d
+
+   .. reporter-key:: S.W.3d
+
+   .. reporter-key:: WL

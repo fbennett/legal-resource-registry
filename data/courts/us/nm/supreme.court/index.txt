@@ -1,0 +1,25 @@
+
+.. court:: Supreme Court of New Mexico
+   :court-id: us;nm;supreme.court
+
+   .. reporter-key:: Gild.
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: N.M.
+
+   .. reporter-key:: NM
+
+   .. reporter-key:: NMCA
+
+   .. reporter-key:: NMCERT
+
+   .. reporter-key:: NMSC
+
+   .. reporter-key:: P.
+
+   .. reporter-key:: P.2d
+
+   .. reporter-key:: P.3d
+
+   .. reporter-key:: WL

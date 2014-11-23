@@ -1,0 +1,11 @@
+
+.. court:: Supreme Court of Puerto Rico
+   :court-id: us;pr;supreme.court
+
+   .. reporter-key:: P.R. Dec.
+
+   .. reporter-key:: P.R. Offic. Trans.
+
+   .. reporter-key:: P.R. Sent.
+
+   .. reporter-key:: P.R.R.

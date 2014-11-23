@@ -1,0 +1,33 @@
+
+.. court:: Supreme Court of Louisiana
+   :court-id: us;la;supreme.court
+
+   .. reporter-key:: Gunby
+
+   .. reporter-key:: LA
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: La.
+
+   .. reporter-key:: La. Ann.
+
+   .. reporter-key:: La. App.
+
+   .. reporter-key:: Mart.
+
+   .. reporter-key:: McGl.
+
+   .. reporter-key:: Pelt.
+
+   .. reporter-key:: Rob.
+
+   .. reporter-key:: So.
+
+   .. reporter-key:: So. 2d
+
+   .. reporter-key:: So. 3d
+
+   .. reporter-key:: Teiss.
+
+   .. reporter-key:: WL
