@@ -43,7 +43,7 @@ div.credits.container {
 
 div.container.credits div.container {
     border: double 3px black;
-    width: 60%;
+    width: 50%;
     display: inline-block;
     padding: 1em;
     text-align: left;
