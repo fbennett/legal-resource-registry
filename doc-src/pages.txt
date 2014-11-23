@@ -1,0 +1,122 @@
+United States Federal Courts <us-federal-courts>
+    us;federal;supreme.court
+    us;federal;ca1
+    us;federal;ca2
+    us;federal;ca3
+    us;federal;ca4
+    us;federal;ca5
+    us;federal;ca6
+    us;federal;ca7
+    us;federal;ca8
+    us;federal;ca9
+    us;federal;ca10
+    us;federal;ca11
+State Court Systems of the United States <us-state-courts>
+    Alaska <alaska>
+        us;ak;supreme.court
+    Alabama <alabama>
+        us;al;supreme.court
+    Arkansas <arkansas>
+        us;ar;supreme.court
+    Arizona <arizona>
+        us;az;supreme.court
+    California <california>
+        us;ca;supreme.court
+    Colorado <colorado>
+        us;co;supreme.court
+    Connecticut <connecticut>
+        us;ct;supreme.court
+    District of Columbia <us-district-of-columbia>
+        us;dc;court.of.appeals
+    Delaware <delaware>
+        us;de;supreme.court
+    Florida <florida>
+        us;fl;supreme.court
+    Georgia <georgia>
+        us;ga;supreme.court
+    Hawaii <hawaii>
+        us;hi;supreme.court
+    Iowa <iowa>
+        us;ia;supreme.court
+    Idaho <idaho>
+        us;id;supreme.court
+    Illinois <illinois>
+        us;il;supreme.court
+    Indiana <indiana>
+        us;in;supreme.court
+    Kansas <kansas>
+        us;ks;supreme.court
+    Kentucky <kentucky>
+        us;ky;supreme.court
+    Louisiana <louisiana>
+        us;la;supreme.court
+    Massachusetts <massachusetts>
+        us;ma;supreme.court
+    Maryland <maryland>
+        us;md;supreme.court
+    Maine <maine>
+        us;me;supreme.court
+    Michigan <michigan>
+        us;mi;supreme.court
+    Minnisota <minnisota>
+        us;mn;supreme.court
+    Missouri <missouri>
+        us;mo;supreme.court
+    Mississippi <mississippi>
+        us;ms;supreme.court
+    Montana <montana>
+        us;mt;supreme.court
+    North Carolina <north-carolina>
+        us;nc;supreme.court
+    North Dakota <north-dakota>
+        us;nd;supreme.court
+    Nebraska <nebraska>
+        us;ne;supreme.court
+    New Hampshire <new-hampshire>
+        us;nh;supreme.court
+    New Jersey <new-jersey>
+        us;nj;supreme.court
+    New Mexico <new-mexico>
+        us;nm;supreme.court
+    Nevada <nevada>
+        us;nv;supreme.court
+    New York <new-york>
+        us;ny;court.of.appeals
+    Ohio <ohio>
+        us;oh;supreme.court
+    Oklahoma <oklahoma>
+        us;ok;supreme.court
+    Oregon <oregon>
+        us;or;supreme.court
+    Pennsylvania <pennsylvania>
+        us;pa;supreme.court
+    Rhode Island <rhode-island>
+        us;ri;supreme.court
+    South Carolina <south-carolina>
+        us;sc;supreme.court
+    South Dakota <south-dakota>
+        us;sd;supreme.court
+    Tennessee <tennessee>
+        us;tn;supreme.court
+    Texas <texas>
+        us;tx;supreme.court
+    Utah <utah>
+        us;ut;supreme.court
+    Virginia <virginia>
+        us;va;supreme.court
+    Vermont <vermont>
+        us;vt;supreme.court
+    Washington <washington>
+        us;wa;supreme.court
+    Wisconsin <wisconsin>
+        us;wi;supreme.court
+    West Virginia <west-virginia>
+        us;wv;supreme.court
+    Wyoming <wyoming>
+        us;wy;supreme.court
+Court Systems of United States Territories <us-territories-courts>
+    Puerto Rico <puerto-rico>
+        us;pr;supreme.court
+
+
+     
