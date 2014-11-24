@@ -7,6 +7,23 @@ div.document {
     position: relative;
 }
 
+div.back-button {
+    position: absolute;
+    top: 0px;
+}
+
+div.back-button.left {
+    left: 0px;
+}
+
+div.back-button.right {
+    right: 0px;
+}
+
+div.back-button a:hover {
+    background: url('graphics/circle-arrow-down-grey.png');
+}
+
 h1 {
     text-align: center;
 }
@@ -58,16 +75,6 @@ div.container.credits div.container {
     text-align: left;
     text-indent: 0px;
     margin: 0px;
-}
-
-a.image-reference {
-    position: absolute;
-    top: 0px;
-    right: 0px;
-}
-
-a.image-reference:hover {
-    background: url('graphics/circle-arrow-down-grey.png');
 }
 
 div.notes {
