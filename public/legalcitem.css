@@ -7,9 +7,18 @@ div.document {
     position: relative;
 }
 
+div.container {
+    text-indent: 0px !important;
+    margin-left: 0px !important;
+}
+
 div.back-button {
     position: absolute;
     top: 0px;
+}
+
+div.back-button:hover {
+    background: url('graphics/circle-arrow-down-grey.png');
 }
 
 div.back-button.left {
@@ -18,10 +27,6 @@ div.back-button.left {
 
 div.back-button.right {
     right: 0px;
-}
-
-div.back-button a:hover {
-    background: url('graphics/circle-arrow-down-grey.png');
 }
 
 h1 {
@@ -34,11 +39,6 @@ h2 {
 
 h2.citation-group {
     text-align: left;
-}
-
-div.container {
-    text-indent: 0px;
-    margin-left: 0px;
 }
 
 div.container.draft {
