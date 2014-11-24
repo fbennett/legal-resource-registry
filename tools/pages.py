@@ -102,8 +102,9 @@ class PageSource:
         self.rst += "\n.. include:: %s\n" % os.path.join(pth,"doc-src","credits.rst")
         
     def setBackref(self,backtrack,url):
-        
-        self.rst += "\n.. image:: %s/graphics/circle-arrow-down-white.png\n   :target: %s\n   :class: back-button\n\n" % (backtrack,url)
+        tmpl = "\n.. container:: back-button %s\n\n   .. image:: %s/graphics/circle-arrow-down-white.png\n      :target: %s\n\n"
+        self.rst += tmpl % ("right",backtrack,url)
+        self.rst += tmpl % ("left",backtrack,url)
 
     def setBubbles(self):
         self.rst += "\n.. container:: bubbles\n\n"
@@ -189,8 +190,11 @@ class PageEngine:
         self.publishPage("index.html",src)
         os.chdir(pwd)
         for key in self.source.keys():
-            print key
+            sys.stdout.write(".")
+            sys.stdout.flush()
             self.publishPage(key,self.source[key].rst)
+        sys.stdout.write("\n")
+        sys.stdout.flush()
 
 pageEngine = PageEngine()
 try:

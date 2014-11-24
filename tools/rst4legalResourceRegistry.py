@@ -265,16 +265,17 @@ class JurisdictionDirective(Directive,PathTool):
             line = ifh.readline()
             if not line: break
             if nodes.whitespace_normalize_name(line).startswith(".. reporter-key::"):
-                reporter_key = re.sub("..\s+reporter-key::\s*","",line).strip()
+                reporter_key = re.sub("\.\.\s+reporter-key::\s*","",line).strip()
                 pth = self.reporterPathFromJurisdiction(self.arguments[0],reporter_key)
-                rawlines += open(pth).read()
+                newlines = open(pth).read()
+                newlines = newlines.split("\n")
+                for i in range(0,len(newlines),1):
+                    newlines[i] = re.sub("^(\s*)(\.\.\s+reporter::.*)","\\1\\2\n\\1      :jurisdiction: %s" % self.arguments[0],newlines[i])
+                    newlines[i] = "   " + newlines[i]
+                newlines = "\n".join(newlines)
+                rawlines += newlines
             else:
                 rawlines += line
-        rawlines = rawlines.split("\n")
-        for i in range(0,len(rawlines),1):
-            rawlines[i] = re.sub("^(\s*)(\.\.\s+reporter::.*)","\\1\\2\n\\1      :jurisdiction: %s" % self.arguments[0],rawlines[i])
-            rawlines[i] = "   " + rawlines[i]
-        rawlines = "\n".join(rawlines)
         tab_width = self.options.get(
             'tab-width', self.state.document.settings.tab_width)
         include_lines = statemachine.string2lines(rawlines, tab_width,
