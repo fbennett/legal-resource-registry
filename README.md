@@ -27,9 +27,8 @@ with the production copy of reporters.json that resides here:
 After round-trip validation is confirmed, future updates to
 reporters.json can be derived from this archive.
 
-^^^^^^^^^^^^^^
 Original Build
-^^^^^^^^^^^^^^
+--------------
 
 The starting point was `resource/resource.js`, taken from here:
 
@@ -54,9 +53,8 @@ The `tools/build-data.py` script resolves incomplete and remapped
 
 The `tools/pages.py` script builds the site.
 
-^^^^^^^^^^
 Production
-^^^^^^^^^^
+----------
 
 Only the `tools/pages.py` script will be used in production; the others
 are one-off tools that will be moved to the attic.
