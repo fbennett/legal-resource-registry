@@ -1,122 +1,518 @@
-United States Federal Courts <us-federal-courts>
+United States Courts <us-courts>
     us;federal;supreme.court
-    us;federal;ca1
-    us;federal;ca2
-    us;federal;ca3
-    us;federal;ca4
-    us;federal;ca5
-    us;federal;ca6
-    us;federal;ca7
-    us;federal;ca8
-    us;federal;ca9
-    us;federal;ca10
-    us;federal;ca11
-State Court Systems of the United States <us-state-courts>
-    Alaska <alaska>
-        us;ak;supreme.court
-    Alabama <alabama>
-        us;al;supreme.court
-    Arkansas <arkansas>
-        us;ar;supreme.court
-    Arizona <arizona>
-        us;az;supreme.court
-    California <california>
-        us;ca;supreme.court
-    Colorado <colorado>
-        us;co;supreme.court
-    Connecticut <connecticut>
-        us;ct;supreme.court
-    District of Columbia <us-district-of-columbia>
-        us;dc;court.of.appeals
-    Delaware <delaware>
-        us;de;supreme.court
-    Florida <florida>
-        us;fl;supreme.court
-    Georgia <georgia>
-        us;ga;supreme.court
-    Hawaii <hawaii>
-        us;hi;supreme.court
-    Iowa <iowa>
-        us;ia;supreme.court
-    Idaho <idaho>
-        us;id;supreme.court
-    Illinois <illinois>
-        us;il;supreme.court
-    Indiana <indiana>
-        us;in;supreme.court
-    Kansas <kansas>
-        us;ks;supreme.court
-    Kentucky <kentucky>
-        us;ky;supreme.court
-    Louisiana <louisiana>
-        us;la;supreme.court
-    Massachusetts <massachusetts>
-        us;ma;supreme.court
-    Maryland <maryland>
-        us;md;supreme.court
-    Maine <maine>
-        us;me;supreme.court
-    Michigan <michigan>
-        us;mi;supreme.court
-    Minnisota <minnisota>
-        us;mn;supreme.court
-    Missouri <missouri>
-        us;mo;supreme.court
-    Mississippi <mississippi>
-        us;ms;supreme.court
-    Montana <montana>
-        us;mt;supreme.court
-    North Carolina <north-carolina>
-        us;nc;supreme.court
-    North Dakota <north-dakota>
-        us;nd;supreme.court
-    Nebraska <nebraska>
-        us;ne;supreme.court
-    New Hampshire <new-hampshire>
-        us;nh;supreme.court
-    New Jersey <new-jersey>
-        us;nj;supreme.court
-    New Mexico <new-mexico>
-        us;nm;supreme.court
-    Nevada <nevada>
-        us;nv;supreme.court
-    New York <new-york>
-        us;ny;court.of.appeals
-    Ohio <ohio>
-        us;oh;supreme.court
-    Oklahoma <oklahoma>
-        us;ok;supreme.court
-    Oregon <oregon>
-        us;or;supreme.court
-    Pennsylvania <pennsylvania>
-        us;pa;supreme.court
-    Rhode Island <rhode-island>
-        us;ri;supreme.court
-    South Carolina <south-carolina>
-        us;sc;supreme.court
-    South Dakota <south-dakota>
-        us;sd;supreme.court
-    Tennessee <tennessee>
-        us;tn;supreme.court
-    Texas <texas>
-        us;tx;supreme.court
-    Utah <utah>
-        us;ut;supreme.court
-    Virginia <virginia>
-        us;va;supreme.court
-    Vermont <vermont>
-        us;vt;supreme.court
-    Washington <washington>
-        us;wa;supreme.court
-    Wisconsin <wisconsin>
-        us;wi;supreme.court
-    West Virginia <west-virginia>
-        us;wv;supreme.court
-    Wyoming <wyoming>
-        us;wy;supreme.court
-Court Systems of United States Territories <us-territories-courts>
-    Puerto Rico <puerto-rico>
-        us;pr;supreme.court
-
+    United States Circuit Courts <us-circuit-courts-of-appeal>
+        us;federal;court.appeals.1.circuit
+        us;federal;court.appeals.2.circuit
+        us;federal;court.appeals.3.circuit
+        us;federal;court.appeals.4.circuit
+        us;federal;court.appeals.5.circuit
+        us;federal;court.appeals.6.circuit
+        us;federal;court.appeals.7.circuit
+        us;federal;court.appeals.8.circuit
+        us;federal;court.appeals.9.circuit
+        us;federal;court.appeals.10.circuit
+        us;federal;court.appeals.11.circuit
+    United States Federal District Courts <us-federal-district-courts>
+        Alaska <alaska>
+            us;federal;ak;d;district.court
+        Alabama <federal-district-courts-in-alabama>
+            us;federal;al;md;district.court
+            us;federal;al;nd;district.court
+            us;federal;al;sd;district.court
+        Arkansas <federal-district-courts-in-arkansas>
+            us;federal;ar;ed;district.court
+            us;federal;ar;wd;district.court
+        Arizona <federal-district-courts-in-arizona>
+            us;federal;az;d;district.court
+        California <federal-district-courts-in-california>
+            us;federal;ca;cd;district.court
+            us;federal;ca;d;district.court
+            us;federal;ca;ed;district.court
+            us;federal;ca;nd;district.court
+            us;federal;ca;sd;district.court
+        Colorado <federal-district-courts-in-colorado>
+            us;federal;co;d;district.court
+        Connecticut <federal-district-courts-in-connecticut>
+            us;federal;ct;d;district.court
+        Delaware <federal-district-courts-in-delaware>
+            us;federal;de;d;district.court
+        Florida <federal-district-courts-in-florida>
+            us;federal;fl;md;district.court
+            us;federal;fl;nd;district.court
+            us;federal;fl;sd;district.court
+        Georgia <federal-district-courts-in-georgia>
+            us;federal;ga;md;district.court
+            us;federal;ga;nd;district.court
+            us;federal;ga;sd;district.court
+        Hawaii <federal-district-courts-in-hawaii>
+            us;federal;hi;d;district.court
+        Iowa <federal-district-courts-in-iowa>
+            us;federal;ia;nd;district.court
+            us;federal;ia;sd;district.court
+        Idaho <federal-district-courts-in-idaho>
+            us;federal;id;d;district.court
+        Illinois <federal-district-courts-in-illinois>
+            us;federal;il;cd;district.court
+            us;federal;il;d;district.court
+            us;federal;il;ed;district.court
+            us;federal;il;nd;district.court
+            us;federal;il;sd;district.court
+        Indiana <federal-district-courts-in-indiana>
+            us;federal;in;d;district.court
+            us;federal;in;nd;district.court
+            us;federal;in;sd;district.court
+        Kansas <federal-district-courts-in-kansas>
+            us;federal;ks;d;district.court
+        Kentucky <federal-district-courts-in-kentucky>
+            us;federal;ky;ed;district.court
+            us;federal;ky;wd;district.court
+        Louisiana <federal-district-courts-in-louisiana>
+            us;federal;la;ed;district.court
+            us;federal;la;md;district.court
+            us;federal;la;wd;district.court
+        Massachusetts <federal-district-courts-in-massachusetts>
+            us;federal;ma;d;district.court
+        Maryland <federal-district-courts-in-maryland>
+            us;federal;md;d;district.court
+        Maine <federal-district-courts-in-maine>
+            us;federal;me;d;district.court
+        Michigan <federal-district-courts-in-michigan>
+            us;federal;mi;ed;district.court
+            us;federal;mi;wd;district.court
+        Minnesota <federal-district-courts-in-minnesota>
+            us;federal;mn;d;district.court
+        Missouri <federal-district-courts-in-missouri>
+            us;federal;mo;cd;district.court
+            us;federal;mo;ed;district.court
+            us;federal;mo;sd;district.court
+            us;federal;mo;wd;district.court
+        Mississippi <federal-district-courts-in-mississippi>
+            us;federal;ms;nd;district.court
+            us;federal;ms;sd;district.court
+        Montana <federal-district-courts-in-montana>
+            us;federal;mt;d;district.court
+        North Carolina <federal-district-courts-in-north-carolina>
+            us;federal;nc;ed;district.court
+            us;federal;nc;md;district.court
+            us;federal;nc;wd;district.court
+        North Dakota <federal-district-courts-in-north-dakota>
+            us;federal;nd;d;district.court
+        Nebraska <federal-district-courts-in-nebraska>
+            us;federal;ne;d;district.court
+        New Hampshire <federal-district-courts-in-new-hampshire>
+            us;federal;nh;d;district.court
+        New Jersey <federal-district-courts-in-new-jersey>
+            us;federal;nj;d;district.court
+        New Mexico <federal-district-courts-in-new-mexico>
+            us;federal;nm;d;district.court
+        Nevada <federal-district-courts-in-nevada>
+            us;federal;nv;d;district.court
+        New York <federal-district-courts-in-new-york>
+            us;federal;ny;ed;district.court
+            us;federal;ny;nd;district.court
+            us;federal;ny;sd;district.court
+            us;federal;ny;wd;district.court
+        Ohio <federal-district-courts-in-ohio>
+            us;federal;oh;d;district.court
+            us;federal;oh;nd;district.court
+            us;federal;oh;sd;district.court
+        Oklahoma <federal-district-courts-in-oklahoma>
+            us;federal;ok;ed;district.court
+            us;federal;ok;nd;district.court
+            us;federal;ok;wd;district.court
+        Oregon <federal-district-courts-in-oregon>
+            us;federal;or;d;district.court
+        Pennsylvania <federal-district-courts-in-pennsylvania>
+            us;federal;pa;d;district.court
+            us;federal;pa;ed;district.court
+            us;federal;pa;md;district.court
+            us;federal;pa;wd;district.court
+        Rhode Island <federal-district-courts-in-rhode-island>
+            us;federal;ri;d;district.court
+        South Carolina <federal-district-courts-in-south-carolina>
+            us;federal;sc;d;district.court
+            us;federal;sc;ed;district.court
+            us;federal;sc;wd;district.court
+        South Dakota <federal-district-courts-in-south-dakota>
+            us;federal;sd;d;district.court
+        Tennessee <federal-district-courts-in-tennessee>
+            us;federal;tn;d;district.court
+            us;federal;tn;ed;district.court
+            us;federal;tn;md;district.court
+            us;federal;tn;wd;district.court
+        Texas <federal-district-courts-in-texas>
+            us;federal;tx;ed;district.court
+            us;federal;tx;nd;district.court
+            us;federal;tx;sd;district.court
+            us;federal;tx;wd;district.court
+            us;federal;tx;wd;district.court
+        Utah <federal-district-courts-in-utah>
+            us;federal;ut;d;district.court
+        Virginia <federal-district-courts-in-virginia>
+            us;federal;va;ed;district.court
+            us;federal;va;wd;district.court
+        Vermont <federal-district-courts-in-vermont>
+            us;federal;vt;d;district.court
+        Washington <federal-district-courts-in-washington>
+            us;federal;wa;ed;district.court
+            us;federal;wa;wd;district.court
+        Wisconsin <federal-district-courts-in-wisconsin>
+            us;federal;wi;ed;district.court
+            us;federal;wi;wd;district.court
+        West Virginia <federal-district-courts-in-west-virginia>
+            us;federal;wv;nd;district.court
+            us;federal;wv;nd;district.court
+            us;federal;wv;sd;district.court
+        Wyoming <federal-district-courts-in-wyoming>
+            us;federal;wy;d;bankruptcy.court
+            us;federal;wy;d;district.court
+    Courts of the District of Columbia <district-of-columbia>    
+        us;federal;district.columbia.court.appeals
+        us;federal;court.appeals.dc.circuit
+        us;federal;district.court.district.columbia
+        us;federal;bankruptcy.court.district.columbia
+    Courts of United States Territories <us-territories>
+        us;federal;district.court.canal.zone
+        us;federal;district.court.d.guam
+        us;federal;bankruptcy.court.d.guam
+        us;federal;district.court.d.puerto.rico
+        us;federal;bankruptcy.court.d.puerto.rico
+        us;federal;district.court.northern.mariana.islands
+        us;federal;bankruptcy.court.northern.mariana.islands
+        us;federal;district.court.virgin.islands
+        us;federal;bankruptcy.court.d.virgin.islands
+    United States Courts of Special Jurisdiction <us-special-courts>
+        us;federal;air.force.court.criminal.appeals
+        us;federal;armed.services.board.contract.appeals
+        us;federal;board.veterans.appeals
+        us;federal;court.appeals.armed.forces
+        us;federal;court.appeals.veterans.claims
+        us;federal;court.appeals.federal.circuit
+        us;federal;customs.court
+        us;federal;court.claims
+        us;federal;court.customs.patent.appeals
+        us;federal;court.federal.claims
+        us;federal;court.international.trade
+        us;federal;court.military.commission.review
+        us;federal;emergency.court.appeals
+        us;federal;foreign.intelligence.surveillance.court
+        us;federal;foreign.intelligence.surveillance.court.review
+        us;federal;judicial.conference.committee
+        us;federal;judicial.panel.multidistrict.litigation
+        us;federal;merit.systems.protection.board
+        us;federal;navy-marine.corps.court.criminal.appeals
+        us;federal;pa;special.tribunal
+        us;federal;special.court.regional.rail.reorganization.act
+        us;federal;tax.court
+    United States Bankruptcy Appellate Panels <us-bankruptcy-appellate-panels>
+        us;federal;me;d;bankruptcy.appellate.panel
+        us;federal;bankruptcy.appellate.panel.1.circuit
+        us;federal;bankruptcy.appellate.panel.10.circuit
+        us;federal;bankruptcy.appellate.panel.2.circuit
+        us;federal;bankruptcy.appellate.panel.6.circuit
+        us;federal;bankruptcy.appellate.panel.8.circuit
+        us;federal;bankruptcy.appellate.panel.9.circuit
+    United States Bankruptcy Courts <us-bankruptcy-courts>
+        Alaska <federal-bankruptcy-courts-in-alaska>
+            us;federal;ak;d;bankruptcy.court
+        Alabama <federal-bankruptcy-courts-in-alabama>
+            us;federal;al;md;bankruptcy.court
+            us;federal;al;nd;bankruptcy.court
+            us;federal;al;sd;bankruptcy.court
+        Arkansas <federal-bankruptcy-courts-in-arkansas>
+            us;federal;ar;ed;bankruptcy.court
+            us;federal;ar;wd;bankruptcy.court
+        Arizona <federal-bankruptcy-courts-in-arizona>
+            us;federal;az;d;bankruptcy.court
+        California <federal-bankruptcy-courts-in-california>
+            us;federal;ca;cd;bankruptcy.court
+            us;federal;ca;ed;bankruptcy.court
+            us;federal;ca;nd;bankruptcy.court
+            us;federal;ca;sd;bankruptcy.court
+        Colorado <federal-bankruptcy-courts-in-colorado>
+            us;federal;co;d;bankruptcy.court
+        Connecticut <federal-bankruptcy-courts-in-connecticut>
+            us;federal;ct;d;bankruptcy.court
+        Delaware <federal-bankruptcy-courts-in-delaware>
+            us;federal;de;d;bankruptcy.court
+        Florida <federal-bankruptcy-courts-in-florida>
+            us;federal;fl;md;bankruptcy.court
+            us;federal;fl;nd;bankruptcy.court
+            us;federal;fl;sd;bankruptcy.court
+        Georgia <federal-bankruptcy-courts-in-georgia>
+            us;federal;ga;md;bankruptcy.court
+            us;federal;ga;nd;bankruptcy.court
+            us;federal;ga;sd;bankruptcy.court
+        Hawaii <federal-bankruptcy-courts-in-hawaii>
+            us;federal;hi;d;bankruptcy.court
+        Iowa <federal-bankruptcy-courts-in-iowa>
+            us;federal;ia;nd;bankruptcy.court
+            us;federal;ia;sd;bankruptcy.court
+        Idaho <federal-bankruptcy-courts-in-idaho>
+            us;federal;id;d;bankruptcy.court
+        Illinois <federal-bankruptcy-courts-in-illinois>
+            us;federal;il;cd;bankruptcy.court
+            us;federal;il;nd;bankruptcy.court
+            us;federal;il;sd;bankruptcy.court
+        Indiana <federal-bankruptcy-courts-in-indiana>
+            us;federal;in;nd;bankruptcy.court
+            us;federal;in;sd;bankruptcy.court
+        Kansas <federal-bankruptcy-courts-in-kansas>
+            us;federal;ks;d;bankruptcy.court
+        Kentucky <federal-bankruptcy-courts-in-kentucky>
+            us;federal;ky;ed;bankruptcy.court
+            us;federal;ky;wd;bankruptcy.court
+        Louisiana <federal-bankruptcy-courts-in-louisiana>
+            us;federal;la;ed;bankruptcy.court
+            us;federal;la;md;bankruptcy.court
+            us;federal;la;wd;bankruptcy.court
+        Massachusetts <federal-bankruptcy-courts-in-massachusetts>
+            us;federal;ma;d;bankruptcy.court
+        Maryland <federal-bankruptcy-courts-in-maryland>
+            us;federal;md;d;bankruptcy.court
+        Maine <federal-bankruptcy-courts-in-maine>
+            us;federal;me;d;bankruptcy.court
+        Michigan <federal-bankruptcy-courts-in-michigan>
+            us;federal;mi;ed;bankruptcy.court
+            us;federal;mi;wd;bankruptcy.court
+        Minnesota <federal-bankruptcy-courts-in-minnesota>
+            us;federal;mn;d;bankruptcy.court
+        Missouri <federal-bankruptcy-courts-in-missouri>
+            us;federal;mo;ed;bankruptcy.court
+            us;federal;mo;wd;bankruptcy.court
+        Mississippi <federal-bankruptcy-courts-in-mississippi>
+            us;federal;ms;nd;bankruptcy.court
+            us;federal;ms;sd;bankruptcy.court
+        Montana <federal-bankruptcy-courts-in-montana>
+            us;federal;mt;d;bankruptcy.court
+        North Carolina <federal-bankruptcy-courts-in-north-carolina>
+            us;federal;nc;ed;bankruptcy.court
+            us;federal;nc;md;bankruptcy.court
+            us;federal;nc;wd;bankruptcy.court
+        North Dakota <federal-bankruptcy-courts-in-north-dakota>
+            us;federal;nd;d;bankruptcy.court
+        Nebraska <federal-bankruptcy-courts-in-nebraska>
+            us;federal;ne;d;bankruptcy.court
+        New Hampshire <federal-bankruptcy-courts-in-new-hampshire>
+            us;federal;nh;d;bankruptcy.court
+        New Jersey <federal-bankruptcy-courts-in-new-jersey>
+            us;federal;nj;d;bankruptcy.court
+        New Mexico <federal-bankruptcy-courts-in-new-mexico>
+            us;federal;nm;d;bankruptcy.court
+        Nevada <federal-bankruptcy-courts-in-nevada>
+            us;federal;nv;d;bankruptcy.court
+        New York <federal-bankruptcy-courts-in-new-york>
+            us;federal;ny;ed;bankruptcy.court
+            us;federal;ny;nd;bankruptcy.court
+            us;federal;ny;sd;bankruptcy.court
+            us;federal;ny;wd;bankruptcy.court
+        Ohio <federal-bankruptcy-courts-in-ohio>
+            us;federal;oh;nd;bankruptcy.court
+            us;federal;oh;sd;bankruptcy.court
+        Oklahoma <federal-bankruptcy-courts-in-oklahoma>
+            us;federal;ok;ed;bankruptcy.court
+            us;federal;ok;nd;bankruptcy.court
+            us;federal;ok;wd;bankruptcy.court
+        Oregon <federal-bankruptcy-courts-in-oregon>
+            us;federal;or;d;bankruptcy.court
+        Pennsylvania <federal-bankruptcy-courts-in-pennsylvania>
+            us;federal;pa;ed;bankruptcy.court
+            us;federal;pa;md;bankruptcy.court
+            us;federal;pa;wd;bankruptcy.court
+        Rhode Island <federal-bankruptcy-courts-in-rhode-island>
+            us;federal;ri;d;bankruptcy.court
+        South Carolina <federal-bankruptcy-courts-in-south-carolina>
+            us;federal;sc;d;bankruptcy.court
+        South Dakota <federal-bankruptcy-courts-in-south-dakota>
+            us;federal;sd;d;bankruptcy.court
+        Tennessee <federal-bankruptcy-courts-in-tennessee>
+            us;federal;tn;d;bankruptcy.court
+            us;federal;tn;ed;bankruptcy.court
+            us;federal;tn;md;bankruptcy.court
+            us;federal;tn;wd;bankruptcy.court
+        Texas <federal-bankruptcy-courts-in-texas>
+            us;federal;tx;ed;bankruptcy.court
+            us;federal;tx;nd;bankruptcy.court
+            us;federal;tx;sd;bankruptcy.court
+        Utah <federal-bankruptcy-courts-in-utah>
+            us;federal;ut;d;bankruptcy.court
+        Virginia <federal-bankruptcy-courts-in-virginia>
+            us;federal;va;ed;bankruptcy.court
+            us;federal;va;wd;bankruptcy.court
+        Vermont <federal-bankruptcy-courts-in-vermont>
+            us;federal;vt;d;bankruptcy.court
+        Washington <federal-bankruptcy-courts-in-washington>
+            us;federal;wa;ed;bankruptcy.court
+            us;federal;wa;wd;bankruptcy.court
+        Wisconsin <federal-bankruptcy-courts-in-wisconsin>
+            us;federal;wi;ed;bankruptcy.court
+            us;federal;wi;wd;bankruptcy.court
+        West Virginia <federal-bankruptcy-courts-in-west-virginia>
+            us;federal;wv;sd;bankruptcy.court
+    State Courts of the United States <us-state-courts>
+        Alaska <alaska>
+            us;ak;court.appeals
+            us;ak;supreme.court
+        Alabama <alabama>
+            us;al;supreme.court
+            us;al;court.appeals
+            us;al;court.civil.appeals
+            us;al;court.criminal.appeals
+        Arkansas <arkansas>
+            us;ar;supreme.court
+            us;ar;court.appeals
+        Arizona <arizona>
+            us;az;supreme.court
+            us;az;court.appeals
+            us;az;tax.court
+        California <california>
+            us;ca;supreme.court
+            us;ca;court.appeal
+        Colorado <colorado>
+            us;co;supreme.court
+            us;co;court.appeals
+        Connecticut <connecticut>
+            us;ct;supreme.court
+            us;ct;appellate.court
+            us;ct;superior.court
+        Delaware <delaware>
+            us;de;supreme.court
+            us;de;court.chancery
+            us;de;court.common.pleas
+            us;de;court.judiciary
+            us;de;family.court
+            us;de;superior.court
+        Florida <florida>
+            us;fl;supreme.court
+            us;fl;district.court.appeal
+        Georgia <georgia>
+            us;ga;supreme.court
+            us;ga;court.appeals
+        Hawaii <hawaii>
+            us;hi;supreme.court
+            us;hi;intermediate.court.appeals
+        Iowa <iowa>
+            us;ia;supreme.court
+            us;ia;court.appeals
+        Idaho <idaho>
+            us;id;supreme.court
+            us;id;court.appeals
+        Illinois <illinois>
+            us;il;supreme.court
+            us;il;appellate.court
+        Indiana <indiana>
+            us;in;supreme.court
+            us;in;court.appeals
+            us;in;tax.court
+        Kansas <kansas>
+            us;ks;supreme.court
+            us;ks;court.appeals
+        Kentucky <kentucky>
+            us;ky;supreme.court
+            us;ky;court.appeals
+        Louisiana <louisiana>
+            us;la;supreme.court
+            us;la;court.appeal
+        Massachusetts <massachusetts>
+            us;ma;supreme.judicial.court
+            us;ma;appeals.court
+            us;ma;bankruptcy.appellate.panel
+        Maryland <maryland>
+            us;md;court.appeals
+            us;md;court.special.appeals
+        Maine <maine>
+            us;me;supreme.judicial.court
+        Michigan <michigan>
+            us;mi;supreme.court
+            us;mi;court.appeals
+        Minnesota <minnesota>
+            us;mn;supreme.court
+            us;mn;court.appeals
+        Missouri <missouri>
+            us;mo;supreme.court
+            us;mo;court.appeals
+        Mississippi <mississippi>
+            us;ms;supreme.court
+            us;ms;court.appeals
+        Montana <montana>
+            us;mt;supreme.court
+        North Carolina <north-carolina>
+            us;nc;supreme.court
+            us;nc;court.appeals
+        North Dakota <north-dakota>
+            us;nd;supreme.court
+            us;nd;court.appeals
+        Nebraska <nebraska>
+            us;ne;supreme.court
+            us;ne;court.appeals
+        New Hampshire <new-hampshire>
+            us;nh;supreme.court
+        New Jersey <new-jersey>
+            us;nj;supreme.court
+            us;nj;superior.court
+            us;nj;tax.court
+        New Mexico <new-mexico>
+            us;nm;supreme.court
+            us;nm;court.appeals
+        Nevada <nevada>
+            us;nv;supreme.court
+        New York <new-york>
+            us;ny;court.appeals
+            us;ny;appellate.division.supreme.court.state
+            us;ny;family.court
+            us;ny;surrogates.court
+        Ohio <ohio>
+            us;oh;supreme.court
+            us;oh;court.appeals
+            us;oh;court.claims
+        Oklahoma <oklahoma>
+            us;ok;supreme.court
+            us;ok;attorney.general.reports
+            us;ok;court.civil.appeals
+            us;ok;court.criminal.appeals
+            us;ok;court.judiciary
+            us;ok;judicial.ethics.advisory.panel
+        Oregon <oregon>
+            us;or;supreme.court
+            us;or;court.appeals
+        Pennsylvania <pennsylvania>
+            us;pa;supreme.court
+            us;pa;commonwealth.court
+            us;pa;court.judicial.discipline
+            us;pa;superior.court
+        Rhode Island <rhode-island>
+            us;ri;supreme.court
+        South Carolina <south-carolina>
+            us;sc;supreme.court
+            us;sc;court.appeals
+        South Dakota <south-dakota>
+            us;sd;supreme.court
+        Tennessee <tennessee>
+            us;tn;supreme.court
+            us;tn;court.appeals
+            us;tn;court.criminal.appeals
+        Texas <texas>
+            us;tx;supreme.court
+            us;tx;court.appeals
+            us;tx;court.criminal.appeals
+            us;tx;special.court.review
+        Utah <utah>
+            us;ut;supreme.court
+            us;ut;court.appeals
+        Virginia <virginia>
+            us;va;supreme.court
+            us;va;court.appeals
+        Vermont <vermont>
+            us;vt;supreme.court
+        Washington <washington>
+            us;wa;supreme.court
+            us;wa;court.appeals
+        Wisconsin <wisconsin>
+            us;wi;supreme.court
+            us;wi;court.appeals
+        West Virginia <west-virginia>
+            us;wv;supreme.court
+        Wyoming <wyoming>
+            us;wy;supreme.court
 
      
