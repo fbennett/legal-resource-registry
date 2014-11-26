@@ -37,7 +37,7 @@ The starting point was `resource/resource.js`, taken from here:
 The original data in `resource/reporters.js` and `resource/courts.json`
 was collected, collated and organized by the Free Law Project:
 
-   https://github.com/mlissner/courtlistener/blob/master/alert/citations/constants.py
+   https://github.com/freelawproject/reporters-db/blob/master/reporters.json
 
 `mlz_jurisdiction` keys are added to the `resource/courts.json` object by the
 `resource/COURTS.py` script, and written to `resource/courts-new.json`
