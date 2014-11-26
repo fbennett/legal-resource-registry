@@ -86,24 +86,34 @@ for key in data:
                 jurisdictions[jdct] = {}
                 jurisdictions[jdct]["name"] = mkCourt(jdct)[1]
                 jurisdictions[jdct]["reporters"] = []
+            variations = {}
+            for variation in obj["variations"].keys():
+                variation_target = obj["variations"][variation]
+                if not variations.has_key(variation_target):
+                    variations[variation_target] = []
+                variations[variation_target].append(variation)
             for ekey in obj["editions"]:
-                edn = obj["editions"][ekey]
+                edition_orig = obj["editions"][ekey]
                 edition = {}
                 edition["title"] = ekey
-                if edn[0]["year"] == False:
+                if edition_orig[0]["year"] == False:
                     edition["start"] = "present"
                 else:
-                    edition["start"] = "%d/%d/%d" % (edn[0]["year"],edn[0]["month"]+1,edn[0]["day"])
-                if edn[1]["year"] == False:
+                    edition["start"] = "%d/%d/%d" % (edition_orig[0]["year"],edition_orig[0]["month"]+1,edition_orig[0]["day"])
+                if edition_orig[1]["year"] == False:
                     edition["end"] = "present"
                 else:
-                    edition["end"] = "%d/%d/%d" % (edn[1]["year"],edn[1]["month"]+1,edn[1]["day"])
+                    edition["end"] = "%d/%d/%d" % (edition_orig[1]["year"],edition_orig[1]["month"]+1,edition_orig[1]["day"])
                 edition["name"] = obj["name"]
                 edition["series-abbreviation"] = ekey
                 if obj["cite_type"] == "neutral":
                     edition["neutral"] = True
                 else:
                     edition["neutral"] = False
+                if variations.has_key(ekey):
+                    edition["variations"] = variations[ekey]
+                else:
+                    edition["variations"] = []
 
                 jurisdictions[jdct]["reporters"].append(edition)
     
@@ -186,8 +196,11 @@ for jkey in jkeys:
         else:
             neutral = ""
         
-        str = '.. reporter:: %s\n   :series-abbreviation: %s\n   :dates: %s-%s\n%s\n' % (reporter["name"],reporter["series-abbreviation"],reporter["start"],reporter["end"],neutral)
+        str = '.. reporter:: %s\n   :series-abbreviation: %s\n   :dates: %s-%s\n%s' % (reporter["name"],reporter["series-abbreviation"],reporter["start"],reporter["end"],neutral)
         sys.stdout.write(".")
+
+        for variation in reporter["variations"]:
+            str += "\n   .. variation: %s\n" % variation
 
         rkey = "%s::%s" % (reporter["name"],reporter["series-abbreviation"])
         reporter_key = reporter["name"] + "::" + reporter["series-abbreviation"]
@@ -200,9 +213,9 @@ for jkey in jkeys:
     abbrevs.sort()
     abbrevs = '\n\n   .. reporter-key:: '.join(abbrevs)
     
-    courtkey = mkCourt(jkey)[0]
+    courtkey,name,url = mkCourt(jkey)
 
-    str = '\n.. court:: %s\n   :court-id: %s\n\n   .. reporter-key:: %s\n' % (jurisdictions[jkey]["name"],courtkey,abbrevs)
+    str = '\n.. court:: %s\n   :court-id: %s\n   :url: %s\n\n   .. reporter-key:: %s\n' % (name,courtkey,url,abbrevs)
     sys.stdout.write("+")
     writeToHierarchy("courts",courtkey,str)
 

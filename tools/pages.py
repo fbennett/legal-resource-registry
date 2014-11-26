@@ -170,11 +170,11 @@ class PageEngine:
         writer = WriterForLegalCitem()
         keylst = key.split("/")
         upset = [".."] * (len(keylst)-1)
-        upset.append("legalcitem.css")
-        css = os.path.sep.join(upset)
+        css = os.path.sep.join(upset + ["legalcitem.css"])
+        octicons = os.path.sep.join(upset + ["bower_components/octicons/octicons/octicons.css"])
         
         options = {
-            "stylesheet": css,
+            "stylesheet": octicons + "," + css,
             "stylesheet_path": None,
             "embed_stylesheet": False
             }

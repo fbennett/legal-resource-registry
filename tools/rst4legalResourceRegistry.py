@@ -42,6 +42,7 @@ class value (nodes.Inline, nodes.TextElement): pass
 class valueunconfirmed (nodes.Inline, nodes.TextElement): pass
 class valueneutral (nodes.Inline, nodes.TextElement): pass
 class featurename (nodes.Inline, nodes.TextElement): pass
+class octiconlink (nodes.Inline, nodes.TextElement): pass
 
 class Defaults:
     def __init__(self):
@@ -228,6 +229,12 @@ class HTMLTranslatorForLegalCitem(HTMLTranslator):
     def depart_featurename(self, node): 
         self.body.append('</span>')
 
+    def visit_octiconlink(self, node):
+        self.body.append('<span class="octicon octicon-link">')
+
+    def depart_octiconlink(self, node): 
+        self.body.append('</span>')
+
 class PathTool:
     
     def __init__(self):
@@ -350,13 +357,25 @@ class CitationGroupDirective(Directive):
                                 newnodes)
         return [newnode,newnodes]
 
+class VariationDirective(Directive):
+    required_arguments = 1
+    optional_arguments = 0
+    final_argument_whitespace = True
+    has_content = False
+    option_spec = {}
+
+    def run (self):
+        pass
+
+
 class CourtDirective(Directive,GitHubUrl):
     required_arguments = 1
     optional_arguments = 0
     final_argument_whitespace = True
     has_content = True
     option_spec = {
-        'court-id': directives.unchanged
+        'court-id': directives.unchanged,
+        'url': directives.unchanged
     }
 
     def run (self):
@@ -369,7 +388,16 @@ class CourtDirective(Directive,GitHubUrl):
         court_id_bubble = courtbubble(rawsource=self.options['court-id'],text=self.options['court-id'])
         court_id_bubble["href"] = self.mkGitHubUrl("courts",self.options["court-id"])
         court_id_node += court_id_bubble
-        court_node = court(rawsource=self.arguments[0],text=self.arguments[0])
+        court_node = court()
+        court_text = nodes.inline(rawsource=self.arguments[0],text=self.arguments[0])
+        if self.options.has_key("url"):
+            court_ref = nodes.reference(refuri=self.options["url"])
+            court_link = octiconlink()
+            court_ref += court_link
+            court_ref += court_text
+            court_node += court_ref
+        else:
+            court_node += court_text
 
         # Split in two here, and validate.
         # notes:: is optional, must be the first element if present, and can occur only once. 
@@ -406,7 +434,7 @@ class ReporterDirective(Directive,GitHubUrl):
     required_arguments = 1
     optional_arguments = 0
     final_argument_whitespace = True
-    has_content = False
+    has_content = True
     option_spec = {
         'series-abbreviation': directives.unchanged,
         'dates': directives.unchanged,
