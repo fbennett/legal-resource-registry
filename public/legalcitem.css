@@ -1,3 +1,17 @@
+span.octicon-link {
+    padding-right: 3px;
+    color: white;
+}
+
+a.reference.external:hover span.octicon-link {
+    color: black;
+}
+
+h3 a {
+    text-decoration: none;
+    color: black;
+}
+
 div.document {
     width: 80%;
     margin-left: auto;
