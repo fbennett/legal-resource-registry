@@ -2,3 +2,4 @@
    :series-abbreviation: N.J. Super.
    :dates: 1948/1/1-present
 
+   .. variation: N.J.S.

@@ -2,3 +2,12 @@
    :series-abbreviation: Tay.
    :dates: 1798/1/1-1802/12/31
 
+   .. variation: N.C.(Tay.)
+
+   .. variation: Taylor
+
+   .. variation: Tayl.N.C.
+
+   .. variation: Tay.J.L.
+
+   .. variation: Tay.N.C.

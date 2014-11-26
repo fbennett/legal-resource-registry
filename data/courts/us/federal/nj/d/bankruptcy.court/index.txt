@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, D. New Jersey
+   :court-id: us;federal;nj;d;bankruptcy.court
+   :url: http://www.njb.uscourts.gov/
+
+   .. reporter-key:: B.R.

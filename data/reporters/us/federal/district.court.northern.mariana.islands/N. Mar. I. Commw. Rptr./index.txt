@@ -1,0 +1,3 @@
+.. reporter:: Northern Mariana Islands Commonwealth Reporter
+   :series-abbreviation: N. Mar. I. Commw. Rptr.
+   :dates: 1979/1/1-present

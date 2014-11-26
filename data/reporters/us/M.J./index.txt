@@ -1,4 +1,0 @@
-.. reporter:: Military Justice Reporter
-   :series-abbreviation: M.J.
-   :dates: 1975/1/1-present
-

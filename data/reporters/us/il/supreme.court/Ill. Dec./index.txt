@@ -2,3 +2,6 @@
    :series-abbreviation: Ill. Dec.
    :dates: 1976/1/1-present
 
+   .. variation: Ill.Dec.
+
+   .. variation: Ill.Decs.

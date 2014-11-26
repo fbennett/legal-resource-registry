@@ -2,3 +2,6 @@
    :series-abbreviation: So. 2d
    :dates: 1941/1/1-2008/12/31
 
+   .. variation: So.2d
+
+   .. variation: South.2d

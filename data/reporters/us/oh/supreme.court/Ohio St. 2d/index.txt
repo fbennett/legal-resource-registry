@@ -2,3 +2,6 @@
    :series-abbreviation: Ohio St. 2d
    :dates: 1965/1/1-1991/12/31
 
+   .. variation: Ohio St.2d
+
+   .. variation: O.S.2d

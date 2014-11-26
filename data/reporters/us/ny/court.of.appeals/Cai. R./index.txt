@@ -1,4 +1,0 @@
-.. reporter:: Caines' Reports
-   :series-abbreviation: Cai. R.
-   :dates: 1803/1/1-1805/12/31
-

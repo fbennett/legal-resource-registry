@@ -1,4 +1,0 @@
-.. reporter:: Board of Tax Appeals Memorandum Decisions
-   :series-abbreviation: B.T.A.M. (P-H)
-   :dates: 1928/1/1-1942/12/31
-

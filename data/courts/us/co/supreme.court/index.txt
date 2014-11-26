@@ -1,6 +1,7 @@
 
 .. court:: Supreme Court of Colorado
    :court-id: us;co;supreme.court
+   :url: http://www.coloradosupremecourt.com/
 
    .. reporter-key:: Brief Times Rptr.
 

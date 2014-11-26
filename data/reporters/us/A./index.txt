@@ -2,3 +2,12 @@
    :series-abbreviation: A.
    :dates: 1885/1/1-1938/12/31
 
+   .. variation: At.
+
+   .. variation: Atl.R.
+
+   .. variation: Atl.
+
+   .. variation: A.Rep.
+
+   .. variation: A.R.

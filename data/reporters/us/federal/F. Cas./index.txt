@@ -1,0 +1,9 @@
+.. reporter:: Federal Cases
+   :series-abbreviation: F. Cas.
+   :dates: 1789/1/1-1880/1/1
+
+   .. variation: F.Cas.
+
+   .. variation: Fed.Ca.
+
+   .. variation: F.C.

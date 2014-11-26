@@ -2,3 +2,10 @@
    :series-abbreviation: Cranch
    :dates: 1801/1/1-1815/12/31
 
+   .. variation: Cra.
+
+   .. variation: Cr.
+
+   .. variation: U.S.(Cranch)
+
+   .. variation: Cranch (US)

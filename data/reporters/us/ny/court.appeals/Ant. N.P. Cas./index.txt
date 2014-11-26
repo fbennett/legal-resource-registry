@@ -1,0 +1,7 @@
+.. reporter:: Anthon's Nisi Prius Cases
+   :series-abbreviation: Ant. N.P. Cas.
+   :dates: 1807/1/1-1851/12/31
+
+   .. variation: Anth.
+
+   .. variation: Anthon N.P.(N.Y.)

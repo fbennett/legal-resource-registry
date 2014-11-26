@@ -1,4 +1,3 @@
 .. reporter:: Nevada Advanced Opinion
    :series-abbreviation: Nev. Adv. Op. No.
    :dates: 1750/1/1-present
-

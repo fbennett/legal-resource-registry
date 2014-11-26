@@ -1,0 +1,5 @@
+.. reporter:: Court of International Trade Reports
+   :series-abbreviation: Ct. Int'l Trade
+   :dates: 1980/1/1-present
+
+   .. variation: Ct.Int'l Trade

@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, E.D. Pennsylvania
+   :court-id: us;federal;pa;ed;bankruptcy.court
+   :url: http://www.paeb.uscourts.gov/
+
+   .. reporter-key:: B.R.

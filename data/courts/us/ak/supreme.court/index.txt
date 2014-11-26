@@ -1,6 +1,7 @@
 
-.. court:: Supreme Court of Alaska
+.. court:: Alaska Supreme Court
    :court-id: us;ak;supreme.court
+   :url: http://courts.alaska.gov/sp.htm
 
    .. reporter-key:: Alaska
 

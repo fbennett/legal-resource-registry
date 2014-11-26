@@ -1,0 +1,26 @@
+
+.. court:: Court of Appeals for the Second Circuit
+   :court-id: us;federal;court.appeals.2.circuit
+   :url: http://www.ca2.uscourts.gov/
+
+   .. reporter-key:: F.
+
+   .. reporter-key:: F. App'x
+
+   .. reporter-key:: F. Cas.
+
+   .. reporter-key:: F.2d
+
+   .. reporter-key:: F.3d
+
+   .. reporter-key:: Fed. R. Serv.
+
+   .. reporter-key:: Fed. R. Serv. 2d
+
+   .. reporter-key:: Fed. R. Serv. 3d
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: U.S. App. LEXIS
+
+   .. reporter-key:: WL

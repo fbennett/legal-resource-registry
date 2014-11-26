@@ -1,0 +1,7 @@
+.. reporter:: Maine Reports
+   :series-abbreviation: Me.
+   :dates: 1820/1/1-1965/12/31
+
+   .. variation: Mai.
+
+   .. variation: Maine

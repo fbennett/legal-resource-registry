@@ -2,3 +2,6 @@
    :series-abbreviation: Bradf.
    :dates: 1838/1/1-1841/12/31
 
+   .. variation: Bradford
+
+   .. variation: Brad.

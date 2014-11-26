@@ -1,4 +1,3 @@
 .. reporter:: Alabama Appellate Courts Reports
    :series-abbreviation: Ala. App.
    :dates: 1910/1/1-1976/12/31
-

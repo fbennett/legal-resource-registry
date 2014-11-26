@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, E.D. North Carolina
+   :court-id: us;federal;nc;ed;bankruptcy.court
+   :url: https://ecf.nceb.uscourts.gov/
+
+   .. reporter-key:: B.R.

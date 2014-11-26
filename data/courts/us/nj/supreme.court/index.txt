@@ -1,6 +1,7 @@
 
 .. court:: Supreme Court of New Jersey
    :court-id: us;nj;supreme.court
+   :url: http://www.judiciary.state.nj.us/supreme/
 
    .. reporter-key:: A.
 

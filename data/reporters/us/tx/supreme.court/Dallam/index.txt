@@ -2,3 +2,8 @@
    :series-abbreviation: Dallam
    :dates: 1840/1/1-1844/12/31
 
+   .. variation: Dallam Dig.(Tex.)
+
+   .. variation: Dall.Dig.
+
+   .. variation: Dall.(Tex.)

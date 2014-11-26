@@ -1,4 +1,3 @@
 .. reporter:: Peltier's Opinions, Parish at Orleans
    :series-abbreviation: Pelt.
    :dates: 1917/1/1-1924/12/31
-

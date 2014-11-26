@@ -1,0 +1,16 @@
+
+.. court:: District Court, S.D. Missouri
+   :court-id: us;federal;mo;sd;district.court
+   :url: http://www.courts.mo.gov/page.jsp?id=208‎
+
+   .. reporter-key:: F. Supp.
+
+   .. reporter-key:: F. Supp. 2d
+
+   .. reporter-key:: F.R.D.
+
+   .. reporter-key:: Fed. R. Serv.
+
+   .. reporter-key:: Fed. R. Serv. 2d
+
+   .. reporter-key:: Fed. R. Serv. 3d

@@ -1,0 +1,3 @@
+
+.. court:: New Mexico Court of Appeals
+   :court-id: us;nm;court.appeals

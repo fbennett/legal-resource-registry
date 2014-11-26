@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, E.D. Texas
+   :court-id: us;federal;tx;ed;bankruptcy.court
+   :url: http://www.txeb.uscourts.gov/
+
+   .. reporter-key:: B.R.

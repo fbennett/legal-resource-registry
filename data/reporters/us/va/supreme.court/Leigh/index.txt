@@ -2,3 +2,6 @@
    :series-abbreviation: Leigh
    :dates: 1829/1/1-1842/12/31
 
+   .. variation: Va.(Leigh)
+
+   .. variation: Leigh (Va.)

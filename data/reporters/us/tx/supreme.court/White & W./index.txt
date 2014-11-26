@@ -2,3 +2,22 @@
    :series-abbreviation: White & W.
    :dates: 1876/1/1-1883/12/31
 
+   .. variation: Tex.Civ.Cas.
+
+   .. variation: W.& W.
+
+   .. variation: Tex.C.C.
+
+   .. variation: Tex.A.Civ.
+
+   .. variation: Tex.App.
+
+   .. variation: Tex.A.Civ.Cas.
+
+   .. variation: Wi.& Will.
+
+   .. variation: Tex.Ct.App.Dec.Civ.
+
+   .. variation: White & W.(Tex.)
+
+   .. variation: White & W.Civ.Cas.Ct.App.

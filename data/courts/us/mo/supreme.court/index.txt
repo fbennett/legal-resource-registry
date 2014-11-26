@@ -1,6 +1,7 @@
 
 .. court:: Supreme Court of Missouri
    :court-id: us;mo;supreme.court
+   :url: http://www.courts.mo.gov/page.jsp?id=27
 
    .. reporter-key:: LEXIS
 

@@ -2,3 +2,6 @@
    :series-abbreviation: Walk.
    :dates: 1855/1/1-1885/12/31
 
+   .. variation: Walker
+
+   .. variation: Walk.Pa.

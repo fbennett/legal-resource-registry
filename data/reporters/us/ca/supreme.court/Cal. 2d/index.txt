@@ -2,3 +2,4 @@
    :series-abbreviation: Cal. 2d
    :dates: 1934/1/1-1969/12/31
 
+   .. variation: Cal.2d

@@ -1,0 +1,17 @@
+.. reporter:: Caines' Cases
+   :series-abbreviation: Cai. Cas.
+   :dates: 1796/1/1-1805/12/31
+
+   .. variation: Caines
+
+   .. variation: Cai.Cas.Err.
+
+   .. variation: N.Y.Cas.Err.
+
+   .. variation: Caines Cas.
+
+   .. variation: Caines (N.Y.)
+
+   .. variation: Cai.
+
+   .. variation: Cain.

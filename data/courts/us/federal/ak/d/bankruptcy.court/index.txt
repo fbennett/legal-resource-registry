@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, D. Alaska
+   :court-id: us;federal;ak;d;bankruptcy.court
+   :url: http://www.akb.uscourts.gov/
+
+   .. reporter-key:: B.R.

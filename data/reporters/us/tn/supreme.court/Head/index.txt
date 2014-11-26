@@ -2,3 +2,6 @@
    :series-abbreviation: Head
    :dates: 1858/1/1-1860/12/31
 
+   .. variation: Tenn.(Head)
+
+   .. variation: Head(Tenn.)

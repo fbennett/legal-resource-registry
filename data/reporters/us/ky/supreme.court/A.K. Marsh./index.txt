@@ -2,3 +2,12 @@
    :series-abbreviation: A.K. Marsh.
    :dates: 1817/1/1-1821/12/31
 
+   .. variation: Ky.(A.K.Marsh.)
+
+   .. variation: Mar.
+
+   .. variation: Marsh.
+
+   .. variation: Marsh.A.K.
+
+   .. variation: Marsh.(Ky.)

@@ -2,3 +2,6 @@
    :series-abbreviation: Peck
    :dates: 1821/1/1-1824/12/31
 
+   .. variation: Peck (Tenn.)
+
+   .. variation: Tenn.(Peck)

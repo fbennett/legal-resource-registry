@@ -2,3 +2,8 @@
    :series-abbreviation: Tex. Crim.
    :dates: 1891/1/1-1962/12/31
 
+   .. variation: Tex.Crim.Rep.
+
+   .. variation: Tex.Cr.App.
+
+   .. variation: Tex.Cr.R.

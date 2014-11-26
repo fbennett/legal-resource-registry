@@ -2,3 +2,6 @@
    :series-abbreviation: Ohio Dec.
    :dates: 1894/1/1-1920/12/31
 
+   .. variation: Oh.Dec.
+
+   .. variation: O.D.

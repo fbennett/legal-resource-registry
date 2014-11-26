@@ -2,3 +2,6 @@
    :series-abbreviation: Black
    :dates: 1861/1/1-1862/12/31
 
+   .. variation: U.S.(Black)
+
+   .. variation: Black R.

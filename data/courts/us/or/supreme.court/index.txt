@@ -1,6 +1,7 @@
 
-.. court:: Supreme Court of Oregon
+.. court:: Oregon Supreme Court
    :court-id: us;or;supreme.court
+   :url: http://www.publications.ojd.state.or.us/Pages/OpinionsSC.aspx
 
    .. reporter-key:: LEXIS
 

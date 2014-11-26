@@ -1,0 +1,7 @@
+.. reporter:: New York Reports
+   :series-abbreviation: N.Y.2d
+   :dates: 1956/1/1-2004/1/1
+
+   .. variation: N.Y. 2d
+
+   .. variation: NY 2d

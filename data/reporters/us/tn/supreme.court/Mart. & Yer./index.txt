@@ -2,3 +2,12 @@
    :series-abbreviation: Mart. & Yer.
    :dates: 1825/1/1-1828/12/31
 
+   .. variation: Mart.& Y.
+
+   .. variation: M.& Y.R.
+
+   .. variation: Mart.& Yerg.
+
+   .. variation: M.& Y.
+
+   .. variation: Mart.& Y.(Tenn.)

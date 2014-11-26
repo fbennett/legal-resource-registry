@@ -2,3 +2,4 @@
    :series-abbreviation: N.J.L.
    :dates: 1790/1/1-1948/12/31
 
+   .. variation: N.J.Law

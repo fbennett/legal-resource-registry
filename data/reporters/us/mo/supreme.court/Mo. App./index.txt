@@ -2,3 +2,4 @@
    :series-abbreviation: Mo. App.
    :dates: 1876/1/1-1954/12/31
 
+   .. variation: Mo.App.Rep.

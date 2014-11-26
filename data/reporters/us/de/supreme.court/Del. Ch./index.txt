@@ -1,4 +1,3 @@
 .. reporter:: Delaware Chancery Reports
    :series-abbreviation: Del. Ch.
    :dates: 1814/1/1-1968/12/31
-

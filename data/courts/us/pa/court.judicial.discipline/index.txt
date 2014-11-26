@@ -1,0 +1,3 @@
+
+.. court:: Court of Judicial Discipline of Pennsylvania
+   :court-id: us;pa;court.judicial.discipline

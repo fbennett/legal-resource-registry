@@ -1,4 +1,0 @@
-.. reporter:: Maryland Reports, Harris and Gill
-   :series-abbreviation: H. & G.
-   :dates: 1826/1/1-1829/12/31
-

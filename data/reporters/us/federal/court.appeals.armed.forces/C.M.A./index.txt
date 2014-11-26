@@ -1,0 +1,3 @@
+.. reporter:: Decisions of the United States Court of Military Appeals
+   :series-abbreviation: C.M.A.
+   :dates: 1951/1/1-1975/12/31

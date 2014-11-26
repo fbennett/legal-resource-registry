@@ -1,0 +1,3 @@
+
+.. court:: Court of Chancery of Delaware
+   :court-id: us;de;court.chancery

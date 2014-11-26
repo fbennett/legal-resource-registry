@@ -1,6 +1,7 @@
 
-.. court:: Supreme Court of Illinois
+.. court:: Illinois Supreme Court
    :court-id: us;il;supreme.court
+   :url: http://www.state.il.us/court/
 
    .. reporter-key:: Breese
 

@@ -2,3 +2,8 @@
    :series-abbreviation: Dall.
    :dates: 1754/1/1-1806/12/31
 
+   .. variation: D.
+
+   .. variation: Dal.
+
+   .. variation: Dallas

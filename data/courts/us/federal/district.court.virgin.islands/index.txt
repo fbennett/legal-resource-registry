@@ -1,0 +1,18 @@
+
+.. court:: District Court, Virgin Islands
+   :court-id: us;federal;district.court.virgin.islands
+   :url: http://www.vid.uscourts.gov/
+
+   .. reporter-key:: F. Supp.
+
+   .. reporter-key:: F. Supp. 2d
+
+   .. reporter-key:: F.R.D.
+
+   .. reporter-key:: Fed. R. Serv.
+
+   .. reporter-key:: Fed. R. Serv. 2d
+
+   .. reporter-key:: Fed. R. Serv. 3d
+
+   .. reporter-key:: V.I.

@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, D. Vermont
+   :court-id: us;federal;vt;d;bankruptcy.court
+   :url: http://www.vtb.uscourts.gov/
+
+   .. reporter-key:: B.R.

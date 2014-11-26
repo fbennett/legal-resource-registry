@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, N.D. New York
+   :court-id: us;federal;ny;nd;bankruptcy.court
+   :url: http://www.nynb.uscourts.gov/
+
+   .. reporter-key:: B.R.

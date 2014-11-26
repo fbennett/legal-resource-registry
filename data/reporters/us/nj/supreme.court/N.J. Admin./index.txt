@@ -1,4 +1,3 @@
 .. reporter:: New Jersey Administrative Reports
    :series-abbreviation: N.J. Admin.
    :dates: 1982/1/1-present
-

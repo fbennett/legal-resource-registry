@@ -1,0 +1,3 @@
+
+.. court:: Court of Appeals of North Carolina
+   :court-id: us;nc;court.appeals

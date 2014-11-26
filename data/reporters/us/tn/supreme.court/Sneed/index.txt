@@ -2,3 +2,4 @@
    :series-abbreviation: Sneed
    :dates: 1853/1/1-1858/12/31
 
+   .. variation: Tenn.(Sneed)

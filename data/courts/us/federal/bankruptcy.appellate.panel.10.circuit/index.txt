@@ -1,0 +1,6 @@
+
+.. court:: Bankruptcy Appellate Panel of the Tenth Circuit
+   :court-id: us;federal;bankruptcy.appellate.panel.10.circuit
+   :url: http://www.bap10.uscourts.gov/
+
+   .. reporter-key:: B.R.

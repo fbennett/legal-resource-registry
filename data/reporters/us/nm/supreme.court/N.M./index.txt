@@ -1,4 +1,3 @@
 .. reporter:: New Mexico Reports
    :series-abbreviation: N.M.
    :dates: 1890/1/1-present
-

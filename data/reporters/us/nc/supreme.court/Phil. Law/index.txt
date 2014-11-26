@@ -2,3 +2,14 @@
    :series-abbreviation: Phil. Law
    :dates: 1866/1/1-1868/12/31
 
+   .. variation: Phill.L.(N.C.)
+
+   .. variation: Phil.
+
+   .. variation: Phillips
+
+   .. variation: Phill.
+
+   .. variation: Phil.N.C.
+
+   .. variation: N.C.(Phil.Law)

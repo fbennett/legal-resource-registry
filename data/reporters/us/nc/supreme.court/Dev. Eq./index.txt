@@ -2,3 +2,6 @@
    :series-abbreviation: Dev. Eq.
    :dates: 1826/1/1-1834/12/31
 
+   .. variation: N.C.(Dev.Eq.)
+
+   .. variation: Dev.

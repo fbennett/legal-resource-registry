@@ -2,3 +2,12 @@
    :series-abbreviation: D. Chip.
    :dates: 1789/1/1-1824/12/31
 
+   .. variation: Chip.
+
+   .. variation: Chip.(Vt.)
+
+   .. variation: D.Chipm.
+
+   .. variation: D.Chip.(Vt.)
+
+   .. variation: Chip.D.

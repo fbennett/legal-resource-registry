@@ -1,0 +1,16 @@
+
+.. court:: District Court, D. Maryland
+   :court-id: us;federal;md;d;district.court
+   :url: https://www.mdd.uscourts.gov/
+
+   .. reporter-key:: F. Supp.
+
+   .. reporter-key:: F. Supp. 2d
+
+   .. reporter-key:: F.R.D.
+
+   .. reporter-key:: Fed. R. Serv.
+
+   .. reporter-key:: Fed. R. Serv. 2d
+
+   .. reporter-key:: Fed. R. Serv. 3d

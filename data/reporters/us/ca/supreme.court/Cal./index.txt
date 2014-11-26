@@ -1,4 +1,3 @@
 .. reporter:: California Reports
    :series-abbreviation: Cal.
    :dates: 1850/1/1-1934/12/31
-

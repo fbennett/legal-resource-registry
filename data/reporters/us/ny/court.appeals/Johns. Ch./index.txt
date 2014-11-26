@@ -1,0 +1,17 @@
+.. reporter:: Johnsons' Chancery Reports
+   :series-abbreviation: Johns. Ch.
+   :dates: 1814/1/1-1823/12/31
+
+   .. variation: Johns.
+
+   .. variation: Johns.Rep.
+
+   .. variation: Johnson
+
+   .. variation: Johns.(N.Y.)
+
+   .. variation: Johns.Ch.Cas.
+
+   .. variation: J.Ch.
+
+   .. variation: Johns.Ch.(N.Y.)

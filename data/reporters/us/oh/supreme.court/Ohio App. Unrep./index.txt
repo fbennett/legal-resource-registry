@@ -1,4 +1,3 @@
 .. reporter:: Unreported Ohio Appellate Cases (Anderson)
    :series-abbreviation: Ohio App. Unrep.
    :dates: 1990/1/1-1990/12/31
-

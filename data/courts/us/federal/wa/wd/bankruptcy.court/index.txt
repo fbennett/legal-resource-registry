@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, W.D. Washington
+   :court-id: us;federal;wa;wd;bankruptcy.court
+   :url: http://www.wawb.uscourts.gov/
+
+   .. reporter-key:: B.R.

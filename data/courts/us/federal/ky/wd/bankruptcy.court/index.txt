@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, W.D. Kentucky
+   :court-id: us;federal;ky;wd;bankruptcy.court
+   :url: http://www.kywb.uscourts.gov/
+
+   .. reporter-key:: B.R.

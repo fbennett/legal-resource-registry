@@ -1,4 +1,0 @@
-.. reporter:: Federal Supplement
-   :series-abbreviation: F. Supp. 2d
-   :dates: 1988/1/1-present
-

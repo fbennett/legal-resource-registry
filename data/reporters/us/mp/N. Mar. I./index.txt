@@ -1,4 +1,0 @@
-.. reporter:: Northern Mariana Islands Reporter
-   :series-abbreviation: N. Mar. I.
-   :dates: 1989/1/1-present
-

@@ -2,3 +2,8 @@
    :series-abbreviation: Ohio N.P. (n.s.)
    :dates: 1894/1/1-1934/12/31
 
+   .. variation: O.N.P.N.S.
+
+   .. variation: Oh.N.P.(N.S).
+
+   .. variation: Ohio N.P.N.S.

@@ -1,0 +1,26 @@
+
+.. court:: Court of Appeals for the Eighth Circuit
+   :court-id: us;federal;court.appeals.8.circuit
+   :url: http://www.ca8.uscourts.gov/
+
+   .. reporter-key:: F.
+
+   .. reporter-key:: F. App'x
+
+   .. reporter-key:: F. Cas.
+
+   .. reporter-key:: F.2d
+
+   .. reporter-key:: F.3d
+
+   .. reporter-key:: Fed. R. Serv.
+
+   .. reporter-key:: Fed. R. Serv. 2d
+
+   .. reporter-key:: Fed. R. Serv. 3d
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: U.S. App. LEXIS
+
+   .. reporter-key:: WL

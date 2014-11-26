@@ -1,6 +1,7 @@
 
-.. court:: Supreme Court of West Virginia
+.. court:: West Virginia Supreme Court
    :court-id: us;wv;supreme.court
+   :url: http://www.courtswv.gov/supreme-court/
 
    .. reporter-key:: LEXIS
 

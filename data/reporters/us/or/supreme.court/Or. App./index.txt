@@ -2,3 +2,8 @@
    :series-abbreviation: Or. App.
    :dates: 1969/1/1-present
 
+   .. variation: Ore. App.
+
+   .. variation: Or.A.
+
+   .. variation: Ore.App.

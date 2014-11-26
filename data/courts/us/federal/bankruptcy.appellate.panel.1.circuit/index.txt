@@ -1,0 +1,6 @@
+
+.. court:: Bankruptcy Appellate Panel of the First Circuit
+   :court-id: us;federal;bankruptcy.appellate.panel.1.circuit
+   :url: http://www.bap1.uscourts.gov/
+
+   .. reporter-key:: B.R.

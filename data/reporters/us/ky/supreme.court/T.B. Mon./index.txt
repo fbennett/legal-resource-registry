@@ -2,3 +2,10 @@
    :series-abbreviation: T.B. Mon.
    :dates: 1824/1/1-1828/12/31
 
+   .. variation: Mon.
+
+   .. variation: T.B.Mon.(Ky.)
+
+   .. variation: Mon.T.B.
+
+   .. variation: Ky.(T.B.Monroe)

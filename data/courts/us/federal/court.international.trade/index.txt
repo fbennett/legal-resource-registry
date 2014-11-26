@@ -1,0 +1,8 @@
+
+.. court:: United States Court of International Trade
+   :court-id: us;federal;court.international.trade
+   :url: http://www.cit.uscourts.gov/
+
+   .. reporter-key:: Ct. Int'l Trade
+
+   .. reporter-key:: I.T.R.D. (BNA)

@@ -1,4 +1,3 @@
 .. reporter:: Alabama Reports
    :series-abbreviation: Ala.
    :dates: 1840/1/1-1976/12/31
-

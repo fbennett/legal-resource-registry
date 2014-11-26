@@ -1,0 +1,7 @@
+.. reporter:: Cowen's Reports
+   :series-abbreviation: Cow.
+   :dates: 1823/1/1-1829/12/31
+
+   .. variation: Cow.N.Y.
+
+   .. variation: C.

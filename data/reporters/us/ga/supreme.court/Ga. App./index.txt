@@ -1,4 +1,3 @@
 .. reporter:: Georgia Appeals Reports
    :series-abbreviation: Ga. App.
    :dates: 1907/1/1-present
-

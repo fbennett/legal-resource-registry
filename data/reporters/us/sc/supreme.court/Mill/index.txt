@@ -2,3 +2,12 @@
    :series-abbreviation: Mill
    :dates: 1817/1/1-1818/12/31
 
+   .. variation: Mill Const.
+
+   .. variation: Const.
+
+   .. variation: S.C.L.(Mill)
+
+   .. variation: Mill Const.(S.C.)
+
+   .. variation: Const.S.C.

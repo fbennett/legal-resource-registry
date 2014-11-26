@@ -1,4 +1,3 @@
 .. reporter:: North Carolina Reports
    :series-abbreviation: N.C.
    :dates: 1868/1/1-present
-

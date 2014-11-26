@@ -2,3 +2,6 @@
    :series-abbreviation: Howard
    :dates: 1834/1/1-1843/12/31
 
+   .. variation: Miss.(Howard)
+
+   .. variation: How.

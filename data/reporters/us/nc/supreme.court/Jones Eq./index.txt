@@ -2,3 +2,6 @@
    :series-abbreviation: Jones Eq.
    :dates: 1853/1/1-1863/12/31
 
+   .. variation: Jones
+
+   .. variation: N.C.(Jones Eq.)

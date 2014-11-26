@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, District of Columbia
+   :court-id: us;federal;bankruptcy.court.district.columbia
+   :url: http://www.dcb.uscourts.gov/
+
+   .. reporter-key:: B.R.

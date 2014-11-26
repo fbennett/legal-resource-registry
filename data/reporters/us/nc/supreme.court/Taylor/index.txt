@@ -2,3 +2,10 @@
    :series-abbreviation: Taylor
    :dates: 1816/1/1-1818/12/31
 
+   .. variation: N.C.Term.Rep.
+
+   .. variation: N.C.T.Rep.
+
+   .. variation: N.C.Term.R.
+
+   .. variation: N.C.(Taylor)

@@ -1,4 +1,3 @@
 .. reporter:: Louisiana Reports, Martin
    :series-abbreviation: Mart.
    :dates: 1809/1/1-1830/12/31
-

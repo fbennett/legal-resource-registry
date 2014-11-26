@@ -1,0 +1,6 @@
+
+.. court:: Board of Veterans' Appeals
+   :court-id: us;federal;board.veterans.appeals
+   :url: http://www.index.va.gov/search/va/bva_search.jsp
+
+   .. reporter-key:: Vet. App.

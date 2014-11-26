@@ -2,3 +2,12 @@
    :series-abbreviation: Sadler
    :dates: 1885/1/1-1888/12/31
 
+   .. variation: Sadl.
+
+   .. variation: Sad.Pa.Cas.
+
+   .. variation: Pa.Cas.
+
+   .. variation: Sadler(Pa.)
+
+   .. variation: Sad.Pa.Cs.

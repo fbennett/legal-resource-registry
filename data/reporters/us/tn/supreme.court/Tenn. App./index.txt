@@ -1,4 +1,3 @@
 .. reporter:: Tennessee Appeals Reports
    :series-abbreviation: Tenn. App.
    :dates: 1925/1/1-1971/12/31
-

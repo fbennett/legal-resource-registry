@@ -2,3 +2,20 @@
    :series-abbreviation: Speers Eq.
    :dates: 1842/1/1-1844/12/31
 
+   .. variation: Spears Eq.
+
+   .. variation: Spear Eq.
+
+   .. variation: Spear Ch.
+
+   .. variation: Sp.Ch.
+
+   .. variation: S.C.Eq.(Speers Eq.)
+
+   .. variation: Speers Eq.(S.C.)
+
+   .. variation: Sp.
+
+   .. variation: Speers
+
+   .. variation: Spears

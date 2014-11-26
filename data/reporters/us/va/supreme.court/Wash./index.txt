@@ -2,3 +2,6 @@
    :series-abbreviation: Wash.
    :dates: 1790/1/1-1796/12/31
 
+   .. variation: Va.(Wash.)
+
+   .. variation: Wash.Va.

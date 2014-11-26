@@ -1,0 +1,5 @@
+.. reporter:: Maryland Reports
+   :series-abbreviation: Md.
+   :dates: 1851/1/1-present
+
+   .. variation: Maryland

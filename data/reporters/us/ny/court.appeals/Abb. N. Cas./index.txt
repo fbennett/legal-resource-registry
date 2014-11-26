@@ -1,0 +1,9 @@
+.. reporter:: Abbott's New Cases
+   :series-abbreviation: Abb. N. Cas.
+   :dates: 1876/1/1-1894/12/31
+
+   .. variation: A.N.
+
+   .. variation: Abb.N.C.
+
+   .. variation: A.N.C.

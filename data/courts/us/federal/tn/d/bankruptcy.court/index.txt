@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, D. Tennessee
+   :court-id: us;federal;tn;d;bankruptcy.court
+   :url: http://www.uscourts.gov/
+
+   .. reporter-key:: B.R.

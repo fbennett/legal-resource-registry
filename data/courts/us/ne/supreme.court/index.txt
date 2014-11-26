@@ -1,6 +1,7 @@
 
-.. court:: Supreme Court of Nebraska
+.. court:: Nebraska Supreme Court
    :court-id: us;ne;supreme.court
+   :url: http://supremecourt.ne.gov/
 
    .. reporter-key:: LEXIS
 

@@ -1,6 +1,7 @@
 
 .. court:: Supreme Court of Florida
    :court-id: us;fl;supreme.court
+   :url: http://www.floridasupremecourt.org/
 
    .. reporter-key:: FL
 

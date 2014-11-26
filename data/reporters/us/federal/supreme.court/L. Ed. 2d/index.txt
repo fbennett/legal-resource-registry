@@ -2,3 +2,14 @@
    :series-abbreviation: L. Ed. 2d
    :dates: 1956/1/1-present
 
+   .. variation: L.Ed.2d
+
+   .. variation: L Ed 2d
+
+   .. variation: L.Ed. 2d
+
+   .. variation: L.E.2d
+
+   .. variation: U.S.L.Ed.2d
+
+   .. variation: L. Ed.2d

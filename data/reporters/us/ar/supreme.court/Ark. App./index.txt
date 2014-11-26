@@ -2,3 +2,4 @@
    :series-abbreviation: Ark. App.
    :dates: 1981/1/1-present
 
+   .. variation: Ak. App.

@@ -1,4 +1,0 @@
-.. reporter:: Reports of the United States Tax Court
-   :series-abbreviation: T.C.
-   :dates: 1942/1/1-present
-

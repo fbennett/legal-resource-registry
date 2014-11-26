@@ -2,3 +2,4 @@
    :series-abbreviation: Ky. Op.
    :dates: 1864/1/1-1886/12/31
 
+   .. variation: Ken.Opin.

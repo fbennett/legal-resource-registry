@@ -2,3 +2,6 @@
    :series-abbreviation: Ill. App.
    :dates: 1877/1/1-present
 
+   .. variation: Ill.App.
+
+   .. variation: Ill.A.

@@ -2,3 +2,4 @@
    :series-abbreviation: Rich. Cas.
    :dates: 1831/1/1-1832/12/31
 
+   .. variation: Rich.Cas.(S.C.)

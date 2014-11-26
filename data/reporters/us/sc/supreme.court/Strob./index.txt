@@ -2,3 +2,6 @@
    :series-abbreviation: Strob.
    :dates: 1846/1/1-1850/12/31
 
+   .. variation: Strobh.L.(S.C.)
+
+   .. variation: S.C.L.(Strob.)

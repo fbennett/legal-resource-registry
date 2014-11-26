@@ -2,3 +2,6 @@
    :series-abbreviation: Bur.
    :dates: 1841/1/1-1843/12/31
 
+   .. variation: Burnett (Wis.)
+
+   .. variation: Burnett

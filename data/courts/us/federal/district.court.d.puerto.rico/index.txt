@@ -1,0 +1,24 @@
+
+.. court:: District Court, D. Puerto Rico
+   :court-id: us;federal;district.court.d.puerto.rico
+   :url: http://www.prd.uscourts.gov/
+
+   .. reporter-key:: F. Supp.
+
+   .. reporter-key:: F. Supp. 2d
+
+   .. reporter-key:: F.R.D.
+
+   .. reporter-key:: Fed. R. Serv.
+
+   .. reporter-key:: Fed. R. Serv. 2d
+
+   .. reporter-key:: Fed. R. Serv. 3d
+
+   .. reporter-key:: P.R. Dec.
+
+   .. reporter-key:: P.R. Offic. Trans.
+
+   .. reporter-key:: P.R. Sent.
+
+   .. reporter-key:: P.R.R.

@@ -2,3 +2,4 @@
    :series-abbreviation: Colo. Law.
    :dates: 1750/1/1-present
 
+   .. variation: Colorado Law.

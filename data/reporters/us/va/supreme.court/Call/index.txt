@@ -2,3 +2,6 @@
    :series-abbreviation: Call
    :dates: 1779/1/1-1825/12/31
 
+   .. variation: Call (Va.)
+
+   .. variation: Va.(Call)

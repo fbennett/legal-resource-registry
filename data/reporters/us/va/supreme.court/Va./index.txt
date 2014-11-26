@@ -2,3 +2,6 @@
    :series-abbreviation: Va.
    :dates: 1880/1/1-present
 
+   .. variation: Virg.
+
+   .. variation: V.

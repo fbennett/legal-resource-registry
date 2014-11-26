@@ -1,4 +1,3 @@
 .. reporter:: Indiana Court of Appeals Reports
    :series-abbreviation: Ind. App.
    :dates: 1890/1/1-1979/12/31
-

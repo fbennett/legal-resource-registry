@@ -2,3 +2,6 @@
    :series-abbreviation: Rob.
    :dates: 1841/1/1-1846/12/31
 
+   .. variation: Rob.La.
+
+   .. variation: Robinson

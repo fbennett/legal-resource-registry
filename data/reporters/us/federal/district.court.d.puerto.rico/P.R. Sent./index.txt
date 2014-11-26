@@ -1,0 +1,3 @@
+.. reporter:: Sentencias del Tribunal Supremo de Puerto Rico
+   :series-abbreviation: P.R. Sent.
+   :dates: 1899/1/1-1902/12/31

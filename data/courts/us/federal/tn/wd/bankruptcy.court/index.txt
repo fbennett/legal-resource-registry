@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, W.D. Tennessee
+   :court-id: us;federal;tn;wd;bankruptcy.court
+   :url: http://www.tnwb.uscourts.gov/
+
+   .. reporter-key:: B.R.

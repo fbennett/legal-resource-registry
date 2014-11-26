@@ -2,3 +2,8 @@
    :series-abbreviation: Binn.
    :dates: 1799/1/1-1814/12/31
 
+   .. variation: Binn.(Pa.)
+
+   .. variation: Binn
+
+   .. variation: Bin.

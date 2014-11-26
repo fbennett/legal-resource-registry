@@ -2,3 +2,4 @@
    :series-abbreviation: Cal. Unrep.
    :dates: 1855/1/1-1910/12/31
 
+   .. variation: Cal.Unrep.Cas.

@@ -2,3 +2,4 @@
    :series-abbreviation: How.
    :dates: 1843/1/1-1860/12/31
 
+   .. variation: U.S.(How.)

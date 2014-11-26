@@ -1,0 +1,7 @@
+.. reporter:: Barbour's Supreme Court Reports
+   :series-abbreviation: Barb.
+   :dates: 1847/1/1-1877/12/31
+
+   .. variation: B.
+
+   .. variation: Barb.S.C.

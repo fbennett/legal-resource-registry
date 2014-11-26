@@ -1,0 +1,9 @@
+.. reporter:: Massachusetts Reports, Cushing
+   :series-abbreviation: Cush.
+   :dates: 1848/1/1-1853/12/31
+
+   .. variation: Mass.(Cush.)
+
+   .. variation: Cushing
+
+   .. variation: Cush.(Mass.)

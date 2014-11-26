@@ -2,3 +2,6 @@
    :series-abbreviation: Litt. Sel. Cas.
    :dates: 1795/1/1-1821/12/31
 
+   .. variation: Lit.Sel.Ca.
+
+   .. variation: Ky.(Lit.Sel.Cas.)

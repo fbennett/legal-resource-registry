@@ -2,3 +2,4 @@
    :series-abbreviation: Ohio Op. 2d
    :dates: 1934/1/1-1982/12/31
 
+   .. variation: Ohio Op.2d

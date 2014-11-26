@@ -2,3 +2,12 @@
    :series-abbreviation: Bail.
    :dates: 1828/1/1-1832/12/31
 
+   .. variation: Bailey
+
+   .. variation: S.C.L.(Bail.)
+
+   .. variation: Bail.L.
+
+   .. variation: Bail.L.(S.C.)
+
+   .. variation: Bai.

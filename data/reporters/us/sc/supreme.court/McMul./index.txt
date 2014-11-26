@@ -2,3 +2,6 @@
    :series-abbreviation: McMul.
    :dates: 1840/1/1-1842/12/31
 
+   .. variation: McMul.L.(S.C.)
+
+   .. variation: S.C.L.(McMul.)

@@ -2,3 +2,6 @@
    :series-abbreviation: F.
    :dates: 1880/1/1-1924/12/31
 
+   .. variation: Fed.R.
+
+   .. variation: Fed.Rep.

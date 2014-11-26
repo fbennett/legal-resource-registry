@@ -1,0 +1,12 @@
+
+.. court:: United States Tax Court
+   :court-id: us;federal;tax.court
+   :url: http://www.ustaxcourt.gov/
+
+   .. reporter-key:: B.T.A.
+
+   .. reporter-key:: B.T.A.M. (P-H)
+
+   .. reporter-key:: T.C.
+
+   .. reporter-key:: T.C.M.

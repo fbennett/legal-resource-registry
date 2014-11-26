@@ -1,0 +1,17 @@
+.. reporter:: Coleman & Caines' Cases
+   :series-abbreviation: Cole. & Cai. Cas.
+   :dates: 1794/1/1-1805/12/31
+
+   .. variation: Col.& C.Cas.
+
+   .. variation: C.& C.
+
+   .. variation: Col.& Cai.
+
+   .. variation: Col.& Caines Cas.(N.Y.)
+
+   .. variation: Cole.& C.Cas.
+
+   .. variation: Colem.& C.Cas.
+
+   .. variation: Cole.& Cai.

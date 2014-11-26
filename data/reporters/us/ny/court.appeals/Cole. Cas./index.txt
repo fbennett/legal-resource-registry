@@ -1,0 +1,13 @@
+.. reporter:: Coleman's Cases
+   :series-abbreviation: Cole. Cas.
+   :dates: 1791/1/1-1800/12/31
+
+   .. variation: C.C.
+
+   .. variation: Cole.Cas.Pr.
+
+   .. variation: Col.Cas.
+
+   .. variation: Colem.Cas.
+
+   .. variation: Col.Cas.(N.Y.)

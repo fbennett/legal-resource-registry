@@ -1,7 +1,0 @@
-
-.. court:: us;am
-   :court-id: us;am
-
-   .. reporter-key:: Am. Samoa
-
-   .. reporter-key:: Am. Samoa 2d

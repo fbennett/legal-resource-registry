@@ -2,3 +2,8 @@
    :series-abbreviation: Ired.
    :dates: 1840/1/1-1852/12/31
 
+   .. variation: Ired.L.
+
+   .. variation: Ired.L.(N.C.)
+
+   .. variation: N.C.(Ired.)

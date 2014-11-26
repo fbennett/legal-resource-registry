@@ -1,0 +1,9 @@
+.. reporter:: Edmond's Select Cases
+   :series-abbreviation: Edm. Sel. Cas.
+   :dates: 1834/1/1-1853/12/31
+
+   .. variation: Edmond
+
+   .. variation: Edm.Sel.Ca.
+
+   .. variation: Edm.Sel.Cas.(N.Y.)

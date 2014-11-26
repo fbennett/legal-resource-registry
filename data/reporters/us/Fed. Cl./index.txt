@@ -1,4 +1,0 @@
-.. reporter:: United States Claims Court Reporter
-   :series-abbreviation: Fed. Cl.
-   :dates: 1992/1/1-present
-

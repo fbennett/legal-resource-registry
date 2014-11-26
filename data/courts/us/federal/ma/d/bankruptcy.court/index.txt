@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, D. Massachusetts
+   :court-id: us;federal;ma;d;bankruptcy.court
+   :url: http://www.mab.uscourts.gov/
+
+   .. reporter-key:: B.R.

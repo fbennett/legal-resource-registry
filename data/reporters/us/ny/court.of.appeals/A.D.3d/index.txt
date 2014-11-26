@@ -1,4 +1,0 @@
-.. reporter:: New York Supreme Court Appellate Division Reports
-   :series-abbreviation: A.D.3d
-   :dates: 2003/1/1-present
-

@@ -1,4 +1,3 @@
 .. reporter:: Lexis Nexus U.S. Appeals Citation
    :series-abbreviation: U.S. App. LEXIS
    :dates: 1750/1/1-present
-

@@ -2,3 +2,8 @@
    :series-abbreviation: Sneed
    :dates: 1801/1/1-1805/12/31
 
+   .. variation: Ky.(Sneed)
+
+   .. variation: Sneed Dec.
+
+   .. variation: Ken.Dec.

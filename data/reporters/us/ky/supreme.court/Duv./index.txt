@@ -2,3 +2,4 @@
    :series-abbreviation: Duv.
    :dates: 1863/1/1-1866/12/31
 
+   .. variation: Ky.(Duv.)

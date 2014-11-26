@@ -2,3 +2,10 @@
    :series-abbreviation: Robards
    :dates: 1862/1/1-1865/12/31
 
+   .. variation: Rob.Cons.Cas.(Tex.)
+
+   .. variation: Rob.
+
+   .. variation: Rob.Consc.Cas.
+
+   .. variation: Robard

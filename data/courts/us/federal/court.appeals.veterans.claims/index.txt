@@ -1,0 +1,3 @@
+
+.. court:: United States Court of Appeals for Veterans Claims
+   :court-id: us;federal;court.appeals.veterans.claims

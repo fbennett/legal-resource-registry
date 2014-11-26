@@ -1,6 +1,7 @@
 
-.. court:: Supreme Court of California
+.. court:: California Supreme Court
    :court-id: us;ca;supreme.court
+   :url: http://www.courts.ca.gov/supremecourt.htm
 
    .. reporter-key:: Cal.
 

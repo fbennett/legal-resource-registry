@@ -2,3 +2,14 @@
    :series-abbreviation: Pa. C.
    :dates: 1870/1/1-1921/12/31
 
+   .. variation: Pa.County Ct.
+
+   .. variation: Penn.Co.Ct.Rep.
+
+   .. variation: Pa.Co.Ct.
+
+   .. variation: Pa.C.C.
+
+   .. variation: Pa.Co.Ct.R.
+
+   .. variation: P.C.R.

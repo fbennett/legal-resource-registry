@@ -1,4 +1,0 @@
-.. reporter:: New York Supreme Court Appellate Division Reports
-   :series-abbreviation: A.D.
-   :dates: 1896/1/1-1955/12/31
-

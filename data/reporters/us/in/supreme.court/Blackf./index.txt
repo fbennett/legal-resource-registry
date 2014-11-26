@@ -2,3 +2,6 @@
    :series-abbreviation: Blackf.
    :dates: 1817/1/1-1847/12/31
 
+   .. variation: Blackf.(Ind.)
+
+   .. variation: Black.

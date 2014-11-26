@@ -2,3 +2,8 @@
    :series-abbreviation: N. Chip.
    :dates: 1789/1/1-1791/12/31
 
+   .. variation: N.Chip.(Vt.)
+
+   .. variation: N.Chipm.
+
+   .. variation: Chip.N.

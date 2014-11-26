@@ -2,3 +2,8 @@
    :series-abbreviation: Pa. Commw.
    :dates: 1970/1/1-1994/12/31
 
+   .. variation: Pa. Commonwealth Ct.
+
+   .. variation: Pa.Commw.Ct.
+
+   .. variation: Pa.C.

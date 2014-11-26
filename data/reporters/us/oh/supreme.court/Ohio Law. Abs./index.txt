@@ -2,3 +2,12 @@
    :series-abbreviation: Ohio Law. Abs.
    :dates: 1922/1/1-1964/12/31
 
+   .. variation: Ohio L.Abs.
+
+   .. variation: O.L.Abs.
+
+   .. variation: Ohio Abs.
+
+   .. variation: O.L.A.
+
+   .. variation: Ohio Law Abst.

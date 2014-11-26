@@ -1,6 +1,7 @@
 
-.. court:: Supreme Court of Idaho
+.. court:: Idaho Supreme Court
    :court-id: us;id;supreme.court
+   :url: http://www.isc.idaho.gov/
 
    .. reporter-key:: Idaho
 

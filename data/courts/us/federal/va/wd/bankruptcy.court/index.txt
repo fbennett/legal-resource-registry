@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, W.D. Virginia
+   :court-id: us;federal;va;wd;bankruptcy.court
+   :url: http://www.vawb.uscourts.gov/
+
+   .. reporter-key:: B.R.

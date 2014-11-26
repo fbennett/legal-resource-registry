@@ -2,3 +2,6 @@
    :series-abbreviation: Ohio Op.
    :dates: 1934/1/1-1982/12/31
 
+   .. variation: O.O.
+
+   .. variation: Ohio Ops.

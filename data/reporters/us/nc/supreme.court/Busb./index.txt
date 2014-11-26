@@ -2,3 +2,6 @@
    :series-abbreviation: Busb.
    :dates: 1852/1/1-1853/12/31
 
+   .. variation: N.C.(Busb.)
+
+   .. variation: Busb.L.

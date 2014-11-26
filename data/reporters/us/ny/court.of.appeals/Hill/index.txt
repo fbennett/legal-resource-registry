@@ -1,4 +1,0 @@
-.. reporter:: Hill's New York Reports
-   :series-abbreviation: Hill
-   :dates: 1841/1/1-1844/12/31
-

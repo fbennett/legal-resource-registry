@@ -2,3 +2,6 @@
    :series-abbreviation: W. Va.
    :dates: 1864/1/1-present
 
+   .. variation: West Va.
+
+   .. variation: W.V.

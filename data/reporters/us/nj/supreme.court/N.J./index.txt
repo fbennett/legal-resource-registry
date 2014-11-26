@@ -1,4 +1,3 @@
 .. reporter:: New Jersey Reports
    :series-abbreviation: N.J.
    :dates: 1948/1/1-present
-

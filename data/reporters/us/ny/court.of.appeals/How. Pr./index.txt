@@ -1,4 +1,0 @@
-.. reporter:: Howard's Practice Reports
-   :series-abbreviation: How. Pr.
-   :dates: 1844/1/1-1886/12/31
-

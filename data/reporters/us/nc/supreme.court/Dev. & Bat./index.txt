@@ -2,3 +2,10 @@
    :series-abbreviation: Dev. & Bat.
    :dates: 1834/1/1-1839/12/31
 
+   .. variation: N.C.(Dev.& Bat.)
+
+   .. variation: Dev.& B.L.
+
+   .. variation: Dev.& B.
+
+   .. variation: D.& B.

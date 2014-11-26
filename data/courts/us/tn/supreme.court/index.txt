@@ -1,6 +1,7 @@
 
-.. court:: Supreme Court of Tennessee
+.. court:: Tennessee Supreme Court
    :court-id: us;tn;supreme.court
+   :url: https://www.tncourts.gov/courts/supreme-court
 
    .. reporter-key:: Cold.
 

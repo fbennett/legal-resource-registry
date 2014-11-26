@@ -2,3 +2,6 @@
    :series-abbreviation: Doug.
    :dates: 1843/1/1-1847/12/31
 
+   .. variation: Dougl.(Mich.)
+
+   .. variation: Doug.(Mich.)

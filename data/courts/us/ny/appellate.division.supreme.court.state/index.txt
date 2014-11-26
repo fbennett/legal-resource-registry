@@ -1,0 +1,3 @@
+
+.. court:: Appellate Division of the Supreme Court of the State of New York
+   :court-id: us;ny;appellate.division.supreme.court.state

@@ -2,3 +2,10 @@
    :series-abbreviation: Gild.
    :dates: 1883/1/1-1889/12/31
 
+   .. variation: N.M.(G.)
+
+   .. variation: Gildr.
+
+   .. variation: N.M.(Gild.)
+
+   .. variation: Gildersleeve

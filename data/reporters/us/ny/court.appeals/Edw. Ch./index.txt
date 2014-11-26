@@ -1,0 +1,11 @@
+.. reporter:: Edwards' Chancery Reports
+   :series-abbreviation: Edw. Ch.
+   :dates: 1831/1/1-1850/12/31
+
+   .. variation: Edw.
+
+   .. variation: Ed.C.R.
+
+   .. variation: Edw.Ch.(N.Y.)
+
+   .. variation: Ed.Ch.

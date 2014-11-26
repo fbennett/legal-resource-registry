@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, E.D. Missouri
+   :court-id: us;federal;mo;ed;bankruptcy.court
+   :url: http://www.moeb.uscourts.gov/
+
+   .. reporter-key:: B.R.

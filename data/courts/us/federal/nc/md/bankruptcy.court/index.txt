@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, M.D. North Carolina
+   :court-id: us;federal;nc;md;bankruptcy.court
+   :url: http://www.ncmb.uscourts.gov/
+
+   .. reporter-key:: B.R.

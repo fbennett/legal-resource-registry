@@ -1,6 +1,7 @@
 
 .. court:: Supreme Court of Arkansas
    :court-id: us;ar;supreme.court
+   :url: https://courts.arkansas.gov/courts/supreme-court
 
    .. reporter-key:: Ark.
 

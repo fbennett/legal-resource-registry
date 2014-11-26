@@ -2,3 +2,4 @@
    :series-abbreviation: Colo.
    :dates: 1864/1/1-1980/12/31
 
+   .. variation: Col.

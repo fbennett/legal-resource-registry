@@ -2,3 +2,8 @@
    :series-abbreviation: Ril.
    :dates: 1836/1/1-1837/12/31
 
+   .. variation: Riley L.(S.C.)
+
+   .. variation: S.C.L.(Riley)
+
+   .. variation: Riley

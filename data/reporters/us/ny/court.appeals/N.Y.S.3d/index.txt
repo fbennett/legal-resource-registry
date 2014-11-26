@@ -1,0 +1,7 @@
+.. reporter:: New York Supplement
+   :series-abbreviation: N.Y.S.3d
+   :dates: 1938/1/1-present
+
+   .. variation: N.Y.S. 3d
+
+   .. variation: NYS 3d

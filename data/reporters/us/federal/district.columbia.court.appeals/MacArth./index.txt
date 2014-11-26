@@ -1,0 +1,9 @@
+.. reporter:: District of Columbia Reports, MacArthur
+   :series-abbreviation: MacArth.
+   :dates: 1873/1/1-1879/12/31
+
+   .. variation: D.C.(MacArth.)
+
+   .. variation: MacArthur
+
+   .. variation: MacAr.

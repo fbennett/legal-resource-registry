@@ -2,3 +2,8 @@
    :series-abbreviation: Gilm.
    :dates: 1844/1/1-1849/12/31
 
+   .. variation: Gilm.(Ill.)
+
+   .. variation: Gilman
+
+   .. variation: Ill.(Gilm.)

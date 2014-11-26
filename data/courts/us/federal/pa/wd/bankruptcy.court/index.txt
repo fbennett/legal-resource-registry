@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, W.D. Pennsylvania
+   :court-id: us;federal;pa;wd;bankruptcy.court
+   :url: http://www.pawb.uscourts.gov/
+
+   .. reporter-key:: B.R.

@@ -1,0 +1,5 @@
+.. reporter:: New York Chancery Reports Annotated
+   :series-abbreviation: N.Y. Ch. Ann.
+   :dates: 1814/1/1-1847/12/31
+
+   .. variation: N.Y.Ch.R.Ann.

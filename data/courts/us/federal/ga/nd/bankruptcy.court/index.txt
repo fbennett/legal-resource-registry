@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, N.D. Georgia
+   :court-id: us;federal;ga;nd;bankruptcy.court
+   :url: http://www.ganb.uscourts.gov/
+
+   .. reporter-key:: B.R.

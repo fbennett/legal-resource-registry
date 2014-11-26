@@ -1,0 +1,3 @@
+
+.. court:: Hawaii Intermediate Court of Appeals
+   :court-id: us;hi;intermediate.court.appeals

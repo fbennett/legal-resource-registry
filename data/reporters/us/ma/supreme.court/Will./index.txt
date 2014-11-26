@@ -1,4 +1,0 @@
-.. reporter:: Massachusetts Reports, Williams
-   :series-abbreviation: Will.
-   :dates: 1804/1/1-1805/12/31
-

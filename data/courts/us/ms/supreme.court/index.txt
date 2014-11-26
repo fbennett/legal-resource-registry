@@ -1,6 +1,7 @@
 
-.. court:: Supreme Court of Mississippi
+.. court:: Mississippi Supreme Court
    :court-id: us;ms;supreme.court
+   :url: http://courts.ms.gov/appellate_courts/sc/sc.html
 
    .. reporter-key:: Howard
 

@@ -2,3 +2,10 @@
    :series-abbreviation: Nott & McC.
    :dates: 1817/1/1-1820/12/31
 
+   .. variation: N.& Mc.
+
+   .. variation: S.C.L.(Nott & McC.)
+
+   .. variation: Nott & McC.
+
+   .. variation: Nott & M'C.(S.C.)

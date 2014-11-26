@@ -1,0 +1,6 @@
+
+.. court:: Bankruptcy Appellate Panel of the Sixth Circuit
+   :court-id: us;federal;bankruptcy.appellate.panel.6.circuit
+   :url: http://www.bap6.uscourts.gov/
+
+   .. reporter-key:: B.R.

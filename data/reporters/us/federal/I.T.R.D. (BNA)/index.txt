@@ -1,0 +1,3 @@
+.. reporter:: International Trade Reporter Decisions
+   :series-abbreviation: I.T.R.D. (BNA)
+   :dates: 1980/1/1-present

@@ -2,3 +2,4 @@
    :series-abbreviation: A.3d
    :dates: 2010/1/1-present
 
+   .. variation: A. 3d

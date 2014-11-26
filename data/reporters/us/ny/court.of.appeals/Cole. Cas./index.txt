@@ -1,4 +1,0 @@
-.. reporter:: Coleman's Cases
-   :series-abbreviation: Cole. Cas.
-   :dates: 1791/1/1-1800/12/31
-

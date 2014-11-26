@@ -2,3 +2,12 @@
    :series-abbreviation: Dud.
    :dates: 1837/1/1-1838/12/31
 
+   .. variation: Dud.L.(S.C.)
+
+   .. variation: Dudl.
+
+   .. variation: Dud.(S.C.)
+
+   .. variation: S.C.L.(Dud.)
+
+   .. variation: Dud.L.

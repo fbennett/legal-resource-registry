@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, S.D. Georgia
+   :court-id: us;federal;ga;sd;bankruptcy.court
+   :url: http://www.gasb.uscourts.gov/
+
+   .. reporter-key:: B.R.

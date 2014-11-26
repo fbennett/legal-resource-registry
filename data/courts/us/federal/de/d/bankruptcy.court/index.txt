@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, D. Delaware
+   :court-id: us;federal;de;d;bankruptcy.court
+   :url: http://www.deb.uscourts.gov/
+
+   .. reporter-key:: B.R.

@@ -1,4 +1,3 @@
 .. reporter:: New Jersey Tax Court
    :series-abbreviation: N.J. Tax.
    :dates: 1979/1/1-present
-

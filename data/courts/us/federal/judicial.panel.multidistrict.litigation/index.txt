@@ -1,0 +1,3 @@
+
+.. court:: United States Judicial Panel on Multidistrict Litigation
+   :court-id: us;federal;judicial.panel.multidistrict.litigation

@@ -1,4 +1,3 @@
 .. reporter:: Connecticut Law Reporter
    :series-abbreviation: Conn. L. Rptr.
    :dates: 1990/1/1-present
-

@@ -2,3 +2,12 @@
    :series-abbreviation: S.C.
    :dates: 1868/1/1-present
 
+   .. variation: S.Car.
+
+   .. variation: S.C.R.
+
+   .. variation: So.Car.
+
+   .. variation: So.C.
+
+   .. variation: South Car.

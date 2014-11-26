@@ -2,3 +2,10 @@
    :series-abbreviation: S.W.2d
    :dates: 1928/1/1-1999/12/31
 
+   .. variation: S. W. 2d
+
+   .. variation: SW 2d
+
+   .. variation: S. W.2d
+
+   .. variation: S.W. 2d

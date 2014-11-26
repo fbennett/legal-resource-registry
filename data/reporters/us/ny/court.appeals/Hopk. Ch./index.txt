@@ -1,0 +1,3 @@
+.. reporter:: Hopkins' Chancery Reports
+   :series-abbreviation: Hopk. Ch.
+   :dates: 1823/1/1-1826/12/31

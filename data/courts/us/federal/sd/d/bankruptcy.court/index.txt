@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, D. South Dakota
+   :court-id: us;federal;sd;d;bankruptcy.court
+   :url: https://ecf.sdb.uscourts.gov/
+
+   .. reporter-key:: B.R.

@@ -2,3 +2,6 @@
    :series-abbreviation: Strob. Eq.
    :dates: 1846/1/1-1850/12/31
 
+   .. variation: Strob.Eq.(S.C.)
+
+   .. variation: S.C.Eq.(Strob.Eq.)

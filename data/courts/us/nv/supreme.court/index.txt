@@ -1,6 +1,7 @@
 
-.. court:: Supreme Court of Nevada
+.. court:: Nevada Supreme Court
    :court-id: us;nv;supreme.court
+   :url: http://www.nevadajudiciary.us/index.php/supremecourt
 
    .. reporter-key:: LEXIS
 

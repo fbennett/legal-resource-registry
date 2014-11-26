@@ -2,3 +2,8 @@
    :series-abbreviation: Pen. & W.
    :dates: 1829/1/1-1832/12/31
 
+   .. variation: P.& W.
+
+   .. variation: P.R.
+
+   .. variation: Penr.& W.

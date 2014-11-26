@@ -1,0 +1,3 @@
+
+.. court:: Delaware Court of Common Pleas
+   :court-id: us;de;court.common.pleas

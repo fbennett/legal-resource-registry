@@ -2,3 +2,6 @@
    :series-abbreviation: S.E.
    :dates: 1887/1/1-1939/12/31
 
+   .. variation: S. E.
+
+   .. variation: SE

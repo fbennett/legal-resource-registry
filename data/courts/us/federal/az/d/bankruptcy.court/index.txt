@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, D. Arizona
+   :court-id: us;federal;az;d;bankruptcy.court
+   :url: https://ecf.azb.uscourts.gov/
+
+   .. reporter-key:: B.R.

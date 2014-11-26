@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, Northern Mariana Islands
+   :court-id: us;federal;bankruptcy.court.northern.mariana.islands
+   :url: http://www.nmid.uscourts.gov/
+
+   .. reporter-key:: B.R.

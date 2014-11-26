@@ -2,3 +2,10 @@
    :series-abbreviation: Gilmer
    :dates: 1820/1/1-1821/12/31
 
+   .. variation: Gilmer (Va.)
+
+   .. variation: Gil.
+
+   .. variation: Gilm.
+
+   .. variation: Va.(Gilmer)

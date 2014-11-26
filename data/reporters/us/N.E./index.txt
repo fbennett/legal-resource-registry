@@ -2,3 +2,10 @@
    :series-abbreviation: N.E.
    :dates: 1884/1/1-1936/12/31
 
+   .. variation: N.E.Rep.
+
+   .. variation: N. E.
+
+   .. variation: NE
+
+   .. variation: No.East Rep.

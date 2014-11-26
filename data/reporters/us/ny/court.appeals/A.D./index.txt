@@ -1,0 +1,17 @@
+.. reporter:: New York Supreme Court Appellate Division Reports
+   :series-abbreviation: A.D.
+   :dates: 1896/1/1-1955/12/31
+
+   .. variation: N.Y.App.Div.
+
+   .. variation: Ap.2d.
+
+   .. variation: App.Div.2d.
+
+   .. variation: App.Div.(N.Y.)
+
+   .. variation: N.Y.App.Dec.
+
+   .. variation: Ap.
+
+   .. variation: App.Div.

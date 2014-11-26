@@ -1,0 +1,8 @@
+
+.. court:: Court of Appeals for the Federal Circuit
+   :court-id: us;federal;court.appeals.federal.circuit
+   :url: http://www.cafc.uscourts.gov/
+
+   .. reporter-key:: Cust. B. & Dec.
+
+   .. reporter-key:: I.T.R.D. (BNA)

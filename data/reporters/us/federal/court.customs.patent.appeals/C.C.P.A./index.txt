@@ -1,0 +1,3 @@
+.. reporter:: Court of Customs and Patent Appeals Reports
+   :series-abbreviation: C.C.P.A.
+   :dates: 1929/1/1-1982/12/31

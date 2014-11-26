@@ -2,3 +2,10 @@
    :series-abbreviation: S.E.2d
    :dates: 1939/1/1-present
 
+   .. variation: S. E.2d
+
+   .. variation: S.E. 2d
+
+   .. variation: S. E. 2d
+
+   .. variation: SE 2d

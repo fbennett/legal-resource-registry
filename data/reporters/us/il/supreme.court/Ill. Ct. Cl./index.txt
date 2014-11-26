@@ -1,4 +1,3 @@
 .. reporter:: Illinois Court of Claims Reports
    :series-abbreviation: Ill. Ct. Cl.
    :dates: 1889/1/1-present
-

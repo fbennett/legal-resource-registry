@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, N.D. Indiana
+   :court-id: us;federal;in;nd;bankruptcy.court
+   :url: http://www.innb.uscourts.gov/
+
+   .. reporter-key:: B.R.

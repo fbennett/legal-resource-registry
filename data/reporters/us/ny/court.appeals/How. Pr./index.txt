@@ -1,0 +1,11 @@
+.. reporter:: Howard's Practice Reports
+   :series-abbreviation: How. Pr.
+   :dates: 1844/1/1-1886/12/31
+
+   .. variation: How.Prac.(N.Y.)
+
+   .. variation: N.Y.Spec.Term Rep.
+
+   .. variation: N.Y.Spec.Term R.
+
+   .. variation: How.P.R.

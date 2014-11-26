@@ -2,3 +2,4 @@
    :series-abbreviation: McCahon
    :dates: 1858/1/1-1868/12/31
 
+   .. variation: McCah.

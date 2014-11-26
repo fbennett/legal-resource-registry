@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, E.D. New York
+   :court-id: us;federal;ny;ed;bankruptcy.court
+   :url: http://www.nyeb.uscourts.gov/
+
+   .. reporter-key:: B.R.

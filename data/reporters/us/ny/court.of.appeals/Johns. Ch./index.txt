@@ -1,4 +1,0 @@
-.. reporter:: Johnsons' Chancery Reports
-   :series-abbreviation: Johns. Ch.
-   :dates: 1814/1/1-1823/12/31
-

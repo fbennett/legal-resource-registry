@@ -1,6 +1,7 @@
 
 .. court:: Supreme Court of North Carolina
    :court-id: us;nc;supreme.court
+   :url: http://www.nccourts.org/courts/appellate/supreme/
 
    .. reporter-key:: Busb.
 

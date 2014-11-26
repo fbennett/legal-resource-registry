@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, W.D. Louisiana
+   :court-id: us;federal;la;wd;bankruptcy.court
+   :url: http://www.lawb.uscourts.gov/
+
+   .. reporter-key:: B.R.

@@ -2,3 +2,4 @@
    :series-abbreviation: Day
    :dates: 1802/1/1-1813/12/31
 
+   .. variation: Day (Conn)

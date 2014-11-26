@@ -1,6 +1,7 @@
 
-.. court:: Supreme Court of North Dakota
+.. court:: North Dakota Supreme Court
    :court-id: us;nd;supreme.court
+   :url: http://www.ndcourts.gov/default.htm
 
    .. reporter-key:: Dakota
 

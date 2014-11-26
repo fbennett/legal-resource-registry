@@ -2,3 +2,8 @@
    :series-abbreviation: Cal. Rptr. 2d
    :dates: 1992/1/1-2003/12/31
 
+   .. variation: Cal.Rptr.2d
+
+   .. variation: Cal. Rptr.2d
+
+   .. variation: Cal.Rptr. 2d

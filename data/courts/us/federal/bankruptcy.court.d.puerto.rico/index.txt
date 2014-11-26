@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, D. Puerto Rico
+   :court-id: us;federal;bankruptcy.court.d.puerto.rico
+   :url: http://www.prb.uscourts.gov/
+
+   .. reporter-key:: B.R.

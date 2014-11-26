@@ -2,3 +2,6 @@
    :series-abbreviation: Fla.
    :dates: 1846/1/1-1948/12/31
 
+   .. variation: Florida
+
+   .. variation: Flor.

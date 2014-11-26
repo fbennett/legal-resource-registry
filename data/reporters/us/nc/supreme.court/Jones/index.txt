@@ -2,3 +2,8 @@
    :series-abbreviation: Jones
    :dates: 1853/1/1-1862/12/31
 
+   .. variation: N.C.(Jones)
+
+   .. variation: Jones L.
+
+   .. variation: Jones N.C.

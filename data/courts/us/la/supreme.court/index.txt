@@ -1,6 +1,7 @@
 
 .. court:: Supreme Court of Louisiana
    :court-id: us;la;supreme.court
+   :url: http://www.lasc.org/
 
    .. reporter-key:: Gunby
 

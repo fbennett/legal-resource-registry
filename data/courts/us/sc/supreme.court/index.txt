@@ -1,6 +1,7 @@
 
 .. court:: Supreme Court of South Carolina
    :court-id: us;sc;supreme.court
+   :url: http://www.judicial.state.sc.us/supreme/
 
    .. reporter-key:: Bail.
 

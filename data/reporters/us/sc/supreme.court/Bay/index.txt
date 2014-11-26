@@ -2,3 +2,4 @@
    :series-abbreviation: Bay
    :dates: 1783/1/1-1804/12/31
 
+   .. variation: S.C.L.(Bay)

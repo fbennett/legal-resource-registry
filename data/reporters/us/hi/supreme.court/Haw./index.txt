@@ -2,3 +2,10 @@
    :series-abbreviation: Haw.
    :dates: 1847/1/1-present
 
+   .. variation: Hawai`i
+
+   .. variation: Hawaii Rep.
+
+   .. variation: H.
+
+   .. variation: Hawaii

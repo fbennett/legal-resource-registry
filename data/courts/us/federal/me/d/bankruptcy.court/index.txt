@@ -1,0 +1,6 @@
+
+.. court::   United States Bankruptcy Court, D. Maine
+   :court-id: us;federal;me;d;bankruptcy.court
+   :url: http://www.meb.uscourts.gov/
+
+   .. reporter-key:: B.R.

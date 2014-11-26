@@ -2,3 +2,6 @@
    :series-abbreviation: N.J. Misc.
    :dates: 1923/1/1-1949/12/31
 
+   .. variation: N.J.M.
+
+   .. variation: NJM

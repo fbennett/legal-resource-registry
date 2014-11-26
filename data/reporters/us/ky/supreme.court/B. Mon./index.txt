@@ -2,3 +2,10 @@
    :series-abbreviation: B. Mon.
    :dates: 1840/1/1-1857/12/31
 
+   .. variation: Mon.
+
+   .. variation: Mon.B.
+
+   .. variation: Ky.(B.Mon.)
+
+   .. variation: Monroe, B.

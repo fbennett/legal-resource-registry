@@ -2,3 +2,10 @@
    :series-abbreviation: Litt.
    :dates: 1822/1/1-1824/12/31
 
+   .. variation: Ky.(Litt.)
+
+   .. variation: Lit.
+
+   .. variation: Litt.(Ky.)
+
+   .. variation: Littell

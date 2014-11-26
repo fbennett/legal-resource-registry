@@ -1,4 +1,0 @@
-.. reporter:: Massachusetts Reports, Gray
-   :series-abbreviation: Gray
-   :dates: 1854/1/1-1860/12/31
-

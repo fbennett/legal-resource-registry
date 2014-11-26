@@ -1,6 +1,7 @@
 
 .. court:: Supreme Court of Alabama
    :court-id: us;al;supreme.court
+   :url: http://judicial.alabama.gov/supreme.cfm
 
    .. reporter-key:: Ala.
 

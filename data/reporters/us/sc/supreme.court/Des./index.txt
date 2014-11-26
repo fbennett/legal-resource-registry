@@ -2,3 +2,8 @@
    :series-abbreviation: Des.
    :dates: 1784/1/1-1817/12/31
 
+   .. variation: Desaus.Eq.
+
+   .. variation: Desaus.
+
+   .. variation: S.C.Eq.(Des.)

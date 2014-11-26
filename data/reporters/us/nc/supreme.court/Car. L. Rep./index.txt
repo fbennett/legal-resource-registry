@@ -2,3 +2,6 @@
    :series-abbreviation: Car. L. Rep.
    :dates: 1811/1/1-1816/12/31
 
+   .. variation: N.C.(Car.L.Rep.)
+
+   .. variation: Car.Law.Repos.

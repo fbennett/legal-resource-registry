@@ -1,0 +1,16 @@
+
+.. court:: District Court, E.D. Illinois
+   :court-id: us;federal;il;ed;district.court
+   :url: https://en.wikipedia.org/wiki/United_States_District_Court_for_the_Eastern_District_of_Illinois
+
+   .. reporter-key:: F. Supp.
+
+   .. reporter-key:: F. Supp. 2d
+
+   .. reporter-key:: F.R.D.
+
+   .. reporter-key:: Fed. R. Serv.
+
+   .. reporter-key:: Fed. R. Serv. 2d
+
+   .. reporter-key:: Fed. R. Serv. 3d

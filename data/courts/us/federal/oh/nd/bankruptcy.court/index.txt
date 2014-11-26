@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, N.D. Ohio
+   :court-id: us;federal;oh;nd;bankruptcy.court
+   :url: http://www.ohnb.uscourts.gov/
+
+   .. reporter-key:: B.R.

@@ -1,0 +1,3 @@
+.. reporter:: Lansing's Reports
+   :series-abbreviation: Lans.
+   :dates: 1869/1/1-1873/12/31

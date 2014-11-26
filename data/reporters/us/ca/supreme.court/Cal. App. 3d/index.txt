@@ -2,3 +2,8 @@
    :series-abbreviation: Cal. App. 3d
    :dates: 1969/1/1-1991/12/31
 
+   .. variation: Cal.App.3d
+
+   .. variation: Cal. App.3d
+
+   .. variation: Cal.App. 3d

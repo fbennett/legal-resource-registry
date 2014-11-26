@@ -2,3 +2,8 @@
    :series-abbreviation: Chev.
    :dates: 1839/1/1-1840/12/31
 
+   .. variation: Cheves L.(S.C.)
+
+   .. variation: S.C.L.(Chev.)
+
+   .. variation: Cheves

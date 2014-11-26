@@ -1,0 +1,102 @@
+
+.. court:: New York Court of Appeals
+   :court-id: us;ny;court.appeals
+   :url: http://www.nycourts.gov/ctapps/
+
+   .. reporter-key:: A.D.
+
+   .. reporter-key:: A.D.2d
+
+   .. reporter-key:: A.D.3d
+
+   .. reporter-key:: Abb. N. Cas.
+
+   .. reporter-key:: Abb. Pr.
+
+   .. reporter-key:: Ant. N.P. Cas.
+
+   .. reporter-key:: Barb.
+
+   .. reporter-key:: Barb. Ch.
+
+   .. reporter-key:: Cai. Cas.
+
+   .. reporter-key:: Cai. R.
+
+   .. reporter-key:: Cl. Ch.
+
+   .. reporter-key:: Cole. & Cai. Cas.
+
+   .. reporter-key:: Cole. Cas.
+
+   .. reporter-key:: Cow.
+
+   .. reporter-key:: Denio
+
+   .. reporter-key:: Edm. Sel. Cas.
+
+   .. reporter-key:: Edw. Ch.
+
+   .. reporter-key:: Hill
+
+   .. reporter-key:: Hill & Den.
+
+   .. reporter-key:: Hoff. Ch.
+
+   .. reporter-key:: Hopk. Ch.
+
+   .. reporter-key:: How. Pr.
+
+   .. reporter-key:: Johns.
+
+   .. reporter-key:: Johns. Cas.
+
+   .. reporter-key:: Johns. Ch.
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: Lans.
+
+   .. reporter-key:: Lans. Ch.
+
+   .. reporter-key:: Lock. Rev. Cas.
+
+   .. reporter-key:: Misc.
+
+   .. reporter-key:: Misc. 2d
+
+   .. reporter-key:: Misc. 3d
+
+   .. reporter-key:: N.E.
+
+   .. reporter-key:: N.E.2d
+
+   .. reporter-key:: N.Y.
+
+   .. reporter-key:: N.Y. Ch. Ann.
+
+   .. reporter-key:: N.Y. Sup. Ct.
+
+   .. reporter-key:: N.Y.2d
+
+   .. reporter-key:: N.Y.3d
+
+   .. reporter-key:: N.Y.S.
+
+   .. reporter-key:: N.Y.S.2d
+
+   .. reporter-key:: N.Y.S.3d
+
+   .. reporter-key:: NY Slip Op
+
+   .. reporter-key:: Paige Ch.
+
+   .. reporter-key:: Sand. Ch.
+
+   .. reporter-key:: Sarat. Ch. Sent.
+
+   .. reporter-key:: WL
+
+   .. reporter-key:: Wend.
+
+   .. reporter-key:: Yates Sel. Cas.

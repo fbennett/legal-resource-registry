@@ -1,4 +1,0 @@
-.. reporter:: United States Court of Appeals Reports
-   :series-abbreviation: U.S. App. D.C.
-   :dates: 1941/1/1-present
-

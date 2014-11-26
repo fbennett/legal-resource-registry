@@ -1,0 +1,10 @@
+
+.. court:: Court of Appeals for the D.C. Circuit
+   :court-id: us;federal;court.appeals.dc.circuit
+   :url: http://www.cadc.uscourts.gov/
+
+   .. reporter-key:: Fed. R. Serv.
+
+   .. reporter-key:: Fed. R. Serv. 2d
+
+   .. reporter-key:: Fed. R. Serv. 3d

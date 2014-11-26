@@ -2,3 +2,8 @@
    :series-abbreviation: Ohio App. 3d
    :dates: 1913/1/1-present
 
+   .. variation: Oh.App.3d
+
+   .. variation: O.A.R.3d
+
+   .. variation: O.App.3d

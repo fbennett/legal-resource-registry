@@ -1,4 +1,3 @@
 .. reporter:: North Dakota Reports
    :series-abbreviation: N.D.
    :dates: 1890/1/1-1953/12/31
-

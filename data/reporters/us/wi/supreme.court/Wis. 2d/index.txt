@@ -2,3 +2,6 @@
    :series-abbreviation: Wis. 2d
    :dates: 1853/1/1-present
 
+   .. variation: Wis.2d
+
+   .. variation: W.2d

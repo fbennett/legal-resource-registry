@@ -1,4 +1,0 @@
-.. reporter:: New York Supplement
-   :series-abbreviation: N.Y.S.
-   :dates: 1888/1/1-1937/12/31
-

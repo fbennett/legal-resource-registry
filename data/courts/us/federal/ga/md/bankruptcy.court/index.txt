@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, M.D. Georgia
+   :court-id: us;federal;ga;md;bankruptcy.court
+   :url: http://www.gamb.uscourts.gov/
+
+   .. reporter-key:: B.R.

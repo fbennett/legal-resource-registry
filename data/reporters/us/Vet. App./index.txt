@@ -1,4 +1,0 @@
-.. reporter:: Veterans Appeals Reporter
-   :series-abbreviation: Vet. App.
-   :dates: 1990/1/1-present
-

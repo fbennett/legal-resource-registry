@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, D. Minnesota
+   :court-id: us;federal;mn;d;bankruptcy.court
+   :url: http://www.mnb.uscourts.gov/
+
+   .. reporter-key:: B.R.

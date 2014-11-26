@@ -1,0 +1,5 @@
+.. reporter:: Federal Rules Service
+   :series-abbreviation: Fed. R. Serv. 2d
+   :dates: 1938/1/1-present
+
+   .. variation: Fed. R. Serv. 2d (Callaghan)

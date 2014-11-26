@@ -1,4 +1,0 @@
-.. reporter:: Maryland Reports, Gill & Johnson
-   :series-abbreviation: G. & J.
-   :dates: 1829/1/1-1842/12/31
-

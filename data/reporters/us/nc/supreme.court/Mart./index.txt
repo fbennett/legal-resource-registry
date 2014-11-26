@@ -2,3 +2,10 @@
    :series-abbreviation: Mart.
    :dates: 1778/1/1-1797/12/31
 
+   .. variation: Mart.Dec.
+
+   .. variation: Mart.N.C.
+
+   .. variation: N.C.(Mart.)
+
+   .. variation: Martin

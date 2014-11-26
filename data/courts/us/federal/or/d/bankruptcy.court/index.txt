@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, D. Oregon
+   :court-id: us;federal;or;d;bankruptcy.court
+   :url: http://www.orb.uscourts.gov/
+
+   .. reporter-key:: B.R.

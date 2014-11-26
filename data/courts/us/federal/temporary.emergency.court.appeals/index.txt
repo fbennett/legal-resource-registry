@@ -1,0 +1,3 @@
+
+.. court:: Temporary Emergency Court of Appeals
+   :court-id: us;federal;temporary.emergency.court.appeals

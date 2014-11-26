@@ -2,3 +2,6 @@
    :series-abbreviation: Hum.
    :dates: 1839/1/1-1851/12/31
 
+   .. variation: Humph.
+
+   .. variation: Tenn.(Hum.)

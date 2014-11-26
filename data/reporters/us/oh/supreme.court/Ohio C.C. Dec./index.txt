@@ -2,3 +2,6 @@
    :series-abbreviation: Ohio C.C. Dec.
    :dates: 1901/1/1-1923/12/31
 
+   .. variation: Ohio Cir.Ct.
+
+   .. variation: O.C.C.

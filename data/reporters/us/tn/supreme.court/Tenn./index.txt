@@ -2,3 +2,4 @@
    :series-abbreviation: Tenn.
    :dates: 1870/1/1-1971/12/31
 
+   .. variation: Ten.

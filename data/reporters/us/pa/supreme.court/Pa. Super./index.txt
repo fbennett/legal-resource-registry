@@ -2,3 +2,8 @@
    :series-abbreviation: Pa. Super.
    :dates: 1895/1/1-present
 
+   .. variation: Pa.Super.Ct.
+
+   .. variation: Pa. Superior Ct.
+
+   .. variation: Pa.S.

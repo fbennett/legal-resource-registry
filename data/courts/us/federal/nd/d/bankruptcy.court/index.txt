@@ -1,0 +1,6 @@
+
+.. court::   United States Bankruptcy Court, D. North Dakota
+   :court-id: us;federal;nd;d;bankruptcy.court
+   :url: http://www.ndd.uscourts.gov/
+
+   .. reporter-key:: B.R.

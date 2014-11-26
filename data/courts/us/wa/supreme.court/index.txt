@@ -1,6 +1,7 @@
 
-.. court:: Supreme Court of Washington
+.. court:: Washington Supreme Court
    :court-id: us;wa;supreme.court
+   :url: https://www.courts.wa.gov/appellate_trial_courts/SupremeCourt/
 
    .. reporter-key:: LEXIS
 

@@ -2,3 +2,14 @@
    :series-abbreviation: J.J. Marsh.
    :dates: 1829/1/1-1832/12/31
 
+   .. variation: J.J.Marsh.(Ky.)
+
+   .. variation: J.J.Mar.
+
+   .. variation: Marsh.J.J.
+
+   .. variation: Ky.(J.J.Marsh.)
+
+   .. variation: Marsh.
+
+   .. variation: Marsh.(Ky.)

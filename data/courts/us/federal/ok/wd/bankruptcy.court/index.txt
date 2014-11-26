@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, W.D. Oklahoma
+   :court-id: us;federal;ok;wd;bankruptcy.court
+   :url: http://www.okwb.uscourts.gov/
+
+   .. reporter-key:: B.R.

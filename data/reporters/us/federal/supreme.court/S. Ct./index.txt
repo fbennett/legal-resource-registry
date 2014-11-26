@@ -2,3 +2,14 @@
    :series-abbreviation: S. Ct.
    :dates: 1882/1/1-present
 
+   .. variation: S Ct
+
+   .. variation: Sup.Ct.Rep.
+
+   .. variation: Supr.Ct.Rep.
+
+   .. variation: Sup.Ct.
+
+   .. variation: S.C.
+
+   .. variation: S.Ct.

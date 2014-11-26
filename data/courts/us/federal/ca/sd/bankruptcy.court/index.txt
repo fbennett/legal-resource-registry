@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, S.D. California
+   :court-id: us;federal;ca;sd;bankruptcy.court
+   :url: http://www.casb.uscourts.gov/
+
+   .. reporter-key:: B.R.

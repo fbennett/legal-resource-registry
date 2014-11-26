@@ -2,3 +2,10 @@
    :series-abbreviation: Okla. Crim.
    :dates: 1908/1/1-1953/12/31
 
+   .. variation: Okla.
+
+   .. variation: Okl.Cr.
+
+   .. variation: Okla.Cr.
+
+   .. variation: O.Cr.

@@ -1,4 +1,3 @@
 .. reporter:: Kentucky Law Summary
    :series-abbreviation: Ky. L. Summ.
    :dates: 1966/1/1-present
-

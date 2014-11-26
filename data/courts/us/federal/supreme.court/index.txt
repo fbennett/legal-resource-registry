@@ -1,6 +1,7 @@
 
-.. court:: United States Supreme Court
+.. court:: Supreme Court of the United States
    :court-id: us;federal;supreme.court
+   :url: http://supremecourt.gov/
 
    .. reporter-key:: Black
 
@@ -19,6 +20,8 @@
    .. reporter-key:: S. Ct.
 
    .. reporter-key:: U.S.
+
+   .. reporter-key:: U.S.L.W.
 
    .. reporter-key:: Wall.
 

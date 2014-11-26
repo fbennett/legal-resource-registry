@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, W.D. Michigan
+   :court-id: us;federal;mi;wd;bankruptcy.court
+   :url: http://www.miwb.uscourts.gov/
+
+   .. reporter-key:: B.R.

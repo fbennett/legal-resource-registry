@@ -2,3 +2,6 @@
    :series-abbreviation: Ohio Dec. Reprint
    :dates: 1840/1/1-1873/12/31
 
+   .. variation: Oh.Dec.(Reprint)
+
+   .. variation: O.Dec.Rep.

@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, D. Virgin Islands
+   :court-id: us;federal;bankruptcy.court.d.virgin.islands
+   :url: http://www.vid.uscourts.gov/
+
+   .. reporter-key:: B.R.

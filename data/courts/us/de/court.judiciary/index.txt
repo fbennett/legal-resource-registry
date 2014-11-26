@@ -1,0 +1,3 @@
+
+.. court:: Court on the Judiciary of Delaware.
+   :court-id: us;de;court.judiciary

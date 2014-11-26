@@ -1,6 +1,7 @@
 
 .. court:: Supreme Court of New Hampshire
    :court-id: us;nh;supreme.court
+   :url: http://www.courts.state.nh.us/supreme/
 
    .. reporter-key:: A.
 

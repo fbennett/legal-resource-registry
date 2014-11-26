@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, S.D. Illinois
+   :court-id: us;federal;il;sd;bankruptcy.court
+   :url: http://www.ilsb.uscourts.gov/
+
+   .. reporter-key:: B.R.

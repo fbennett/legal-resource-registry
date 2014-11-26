@@ -1,4 +1,0 @@
-.. reporter:: Massachusetts Reports, Pickering
-   :series-abbreviation: Pick.
-   :dates: 1822/1/1-1839/12/31
-

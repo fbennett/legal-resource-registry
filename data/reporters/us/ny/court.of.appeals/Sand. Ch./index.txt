@@ -1,4 +1,0 @@
-.. reporter:: Sandford's Chancery Reports
-   :series-abbreviation: Sand. Ch.
-   :dates: 1843/1/1-1847/12/31
-

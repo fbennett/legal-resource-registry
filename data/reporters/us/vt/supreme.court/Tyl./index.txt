@@ -2,3 +2,4 @@
    :series-abbreviation: Tyl.
    :dates: 1800/1/1-1803/12/31
 
+   .. variation: Tyler

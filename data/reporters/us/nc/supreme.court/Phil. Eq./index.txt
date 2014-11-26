@@ -2,3 +2,12 @@
    :series-abbreviation: Phil. Eq.
    :dates: 1866/1/1-1868/12/31
 
+   .. variation: Phillips
+
+   .. variation: N.C.(Phil.Eq.)
+
+   .. variation: Phill.
+
+   .. variation: Phil.
+
+   .. variation: Phil.Eq.(N.C.)

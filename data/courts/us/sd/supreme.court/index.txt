@@ -1,6 +1,7 @@
 
-.. court:: Supreme Court of South Dakota
+.. court:: South Dakota Supreme Court
    :court-id: us;sd;supreme.court
+   :url: http://www.sdjudicial.com/
 
    .. reporter-key:: LEXIS
 

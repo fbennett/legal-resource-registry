@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, D. Colorado
+   :court-id: us;federal;co;d;bankruptcy.court
+   :url: http://www.cob.uscourts.gov/
+
+   .. reporter-key:: B.R.

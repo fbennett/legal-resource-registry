@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, S.D. West Virginia
+   :court-id: us;federal;wv;sd;bankruptcy.court
+   :url: http://www.wvsb.uscourts.gov/
+
+   .. reporter-key:: B.R.

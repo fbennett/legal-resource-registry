@@ -2,3 +2,10 @@
    :series-abbreviation: Dud. Eq.
    :dates: 1837/1/1-1838/12/31
 
+   .. variation: Dudl.
+
+   .. variation: Dud.Eq.(S.C.)
+
+   .. variation: S.C.Eq.(Dud.Eq.)
+
+   .. variation: Dud.Ch.

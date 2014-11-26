@@ -1,5 +1,0 @@
-
-.. court:: us;vi
-   :court-id: us;vi
-
-   .. reporter-key:: V.I.

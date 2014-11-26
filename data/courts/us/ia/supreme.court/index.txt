@@ -1,6 +1,7 @@
 
 .. court:: Supreme Court of Iowa
    :court-id: us;ia;supreme.court
+   :url: http://www.iowacourts.gov/supreme_court/
 
    .. reporter-key:: Bradf.
 

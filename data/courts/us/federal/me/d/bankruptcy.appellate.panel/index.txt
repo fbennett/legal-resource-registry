@@ -1,0 +1,6 @@
+
+.. court:: Bankruptcy Appellate Panel, D. Maine
+   :court-id: us;federal;me;d;bankruptcy.appellate.panel
+   :url: http://www.meb.uscourts.gov/
+
+   .. reporter-key:: B.R.

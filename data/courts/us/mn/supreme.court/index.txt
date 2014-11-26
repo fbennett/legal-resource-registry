@@ -1,6 +1,7 @@
 
-.. court:: Supreme Court of Minnisota
+.. court:: Supreme Court of Minnesota
    :court-id: us;mn;supreme.court
+   :url: http://www.mncourts.gov/?page=550
 
    .. reporter-key:: LEXIS
 

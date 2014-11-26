@@ -2,3 +2,6 @@
    :series-abbreviation: Cooke
    :dates: 1811/1/1-1814/12/31
 
+   .. variation: Tenn.(Cooke)
+
+   .. variation: Cooke (Tenn.)

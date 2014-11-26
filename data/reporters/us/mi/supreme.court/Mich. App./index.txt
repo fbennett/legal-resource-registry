@@ -1,4 +1,3 @@
 .. reporter:: Michigan Appeals Reports
    :series-abbreviation: Mich. App.
    :dates: 1965/1/1-present
-

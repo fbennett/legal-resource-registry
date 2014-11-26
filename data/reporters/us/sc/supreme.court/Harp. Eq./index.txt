@@ -2,3 +2,10 @@
    :series-abbreviation: Harp. Eq.
    :dates: 1824/1/1-1824/12/31
 
+   .. variation: Harper
+
+   .. variation: Harp.
+
+   .. variation: Harp.Eq.(S.C.)
+
+   .. variation: S.C.Eq.(Harp.Eq.)

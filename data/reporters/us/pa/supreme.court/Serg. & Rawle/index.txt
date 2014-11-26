@@ -2,3 +2,8 @@
    :series-abbreviation: Serg. & Rawle
    :dates: 1814/1/1-1828/12/31
 
+   .. variation: Serg.& R.
+
+   .. variation: Serg.& Raw.
+
+   .. variation: Serg.& Rawl.

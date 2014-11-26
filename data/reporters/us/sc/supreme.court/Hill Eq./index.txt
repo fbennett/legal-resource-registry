@@ -2,3 +2,12 @@
    :series-abbreviation: Hill Eq.
    :dates: 1833/1/1-1837/12/31
 
+   .. variation: Hill Eq.(S.C.)
+
+   .. variation: S.C.Eq.(Hill Eq.)
+
+   .. variation: Hill Ch.
+
+   .. variation: Hill
+
+   .. variation: Hill S.C.

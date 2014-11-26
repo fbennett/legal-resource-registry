@@ -1,0 +1,3 @@
+
+.. court:: Idaho Court of Appeals
+   :court-id: us;id;court.appeals

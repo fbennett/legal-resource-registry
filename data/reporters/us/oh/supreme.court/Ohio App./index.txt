@@ -2,3 +2,10 @@
    :series-abbreviation: Ohio App.
    :dates: 1913/1/1-present
 
+   .. variation: Oh.A.
+
+   .. variation: O.App.
+
+   .. variation: App.
+
+   .. variation: O.A.R.

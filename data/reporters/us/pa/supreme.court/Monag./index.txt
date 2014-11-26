@@ -2,3 +2,10 @@
    :series-abbreviation: Monag.
    :dates: 1888/1/1-1890/12/31
 
+   .. variation: Mon.
+
+   .. variation: Mona.
+
+   .. variation: Monaghan
+
+   .. variation: Monaghan(Pa.)

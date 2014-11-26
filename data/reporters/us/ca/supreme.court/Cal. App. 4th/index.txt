@@ -2,3 +2,8 @@
    :series-abbreviation: Cal. App. 4th
    :dates: 1991/1/1-present
 
+   .. variation: Cal. App.4th
+
+   .. variation: Cal.App.4th
+
+   .. variation: Cal.App. 4th

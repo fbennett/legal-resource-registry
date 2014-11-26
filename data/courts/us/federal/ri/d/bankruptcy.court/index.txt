@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, D. Rhode Island
+   :court-id: us;federal;ri;d;bankruptcy.court
+   :url: http://www.rib.uscourts.gov/
+
+   .. reporter-key:: B.R.

@@ -1,0 +1,3 @@
+
+.. court:: Arizona Tax Court
+   :court-id: us;az;tax.court

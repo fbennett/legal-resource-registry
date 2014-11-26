@@ -2,3 +2,10 @@
    :series-abbreviation: Cal. App. Supp. 3d
    :dates: 1929/1/1-present
 
+   .. variation: Cal.App.3d Supp.
+
+   .. variation: Cal.App. Supp. 3d
+
+   .. variation: Cal.App. Supp.3d
+
+   .. variation: Cal.App. 3d Supp.

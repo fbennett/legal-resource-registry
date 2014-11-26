@@ -2,3 +2,6 @@
    :series-abbreviation: Watts & Serg.
    :dates: 1841/1/1-1845/12/31
 
+   .. variation: Watts & S.
+
+   .. variation: W.& S.

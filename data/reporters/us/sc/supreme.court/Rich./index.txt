@@ -2,3 +2,8 @@
    :series-abbreviation: Rich.
    :dates: 1846/1/1-1868/12/31
 
+   .. variation: Rich.L.(S.C.)
+
+   .. variation: Rich.Law(S.C.)
+
+   .. variation: S.C.L.(Rich.)

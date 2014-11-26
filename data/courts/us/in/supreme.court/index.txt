@@ -1,6 +1,7 @@
 
-.. court:: Supreme Court of Indiana
+.. court:: Indiana Supreme Court
    :court-id: us;in;supreme.court
+   :url: http://www.in.gov/judiciary/supreme/
 
    .. reporter-key:: Blackf.
 

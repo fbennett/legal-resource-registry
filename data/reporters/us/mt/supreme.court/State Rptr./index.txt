@@ -1,4 +1,3 @@
 .. reporter:: State Reporter
    :series-abbreviation: State Rptr.
    :dates: 1945/1/1-present
-

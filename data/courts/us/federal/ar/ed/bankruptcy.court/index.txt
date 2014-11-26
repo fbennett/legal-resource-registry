@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, E.D. Arkansas
+   :court-id: us;federal;ar;ed;bankruptcy.court
+   :url: http://www.arb.uscourts.gov/
+
+   .. reporter-key:: B.R.

@@ -1,4 +1,3 @@
 .. reporter:: Nevada Reports
    :series-abbreviation: Nev.
    :dates: 1865/1/1-present
-

@@ -1,4 +1,0 @@
-.. reporter:: Johnson's Reports
-   :series-abbreviation: Johns.
-   :dates: 1806/1/1-1823/12/31
-

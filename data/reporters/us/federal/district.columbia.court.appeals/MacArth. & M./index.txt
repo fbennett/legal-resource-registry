@@ -1,0 +1,13 @@
+.. reporter:: District of Columbia Reports, MacArthur and Mackey
+   :series-abbreviation: MacArth. & M.
+   :dates: 1879/1/1-1880/12/31
+
+   .. variation: MacAr.& Mackey
+
+   .. variation: MacArthur & M.
+
+   .. variation: MacAr.& M.
+
+   .. variation: D.C.(MacArth.& M.)
+
+   .. variation: MacArth.& M.(Dist.Col.)

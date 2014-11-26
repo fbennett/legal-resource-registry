@@ -2,3 +2,18 @@
    :series-abbreviation: L. Ed.
    :dates: 1790/1/1-1956/12/31
 
+   .. variation: U.S.L.Ed.
+
+   .. variation: L.E.
+
+   .. variation: Law.Ed.
+
+   .. variation: L.Ed.(U.S.)
+
+   .. variation: L.Ed.
+
+   .. variation: LAW ED
+
+   .. variation: U.S.Law.Ed.
+
+   .. variation: L Ed

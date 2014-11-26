@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, S.D. Alabama
+   :court-id: us;federal;al;sd;bankruptcy.court
+   :url: http://www.alsb.uscourts.gov/
+
+   .. reporter-key:: B.R.

@@ -1,0 +1,3 @@
+.. reporter:: Maryland Reports, Harris and McHenry
+   :series-abbreviation: H. & McH.
+   :dates: 1770/1/1-1799/12/31

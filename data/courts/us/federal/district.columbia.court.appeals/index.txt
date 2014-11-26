@@ -1,0 +1,36 @@
+
+.. court:: District of Columbia Court of Appeals
+   :court-id: us;federal;district.columbia.court.appeals
+   :url: http://www.dccourts.gov/internet/appellate/main.jsf
+
+   .. reporter-key:: A.
+
+   .. reporter-key:: A.2d
+
+   .. reporter-key:: A.3d
+
+   .. reporter-key:: App. D.C.
+
+   .. reporter-key:: Cranch
+
+   .. reporter-key:: Fed. R. Serv.
+
+   .. reporter-key:: Fed. R. Serv. 2d
+
+   .. reporter-key:: Fed. R. Serv. 3d
+
+   .. reporter-key:: Hay. & Haz.
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: MacArth.
+
+   .. reporter-key:: MacArth. & M.
+
+   .. reporter-key:: Mackey
+
+   .. reporter-key:: Tuck. & Cl.
+
+   .. reporter-key:: U.S. App. D.C.
+
+   .. reporter-key:: WL

@@ -1,4 +1,0 @@
-.. reporter:: Saratoga Chancery Sentinel
-   :series-abbreviation: Sarat. Ch. Sent.
-   :dates: 1841/1/1-1847/12/31
-

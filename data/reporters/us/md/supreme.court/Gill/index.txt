@@ -1,4 +1,0 @@
-.. reporter:: Maryland Reports, Gill
-   :series-abbreviation: Gill
-   :dates: 1843/1/1-1851/12/31
-

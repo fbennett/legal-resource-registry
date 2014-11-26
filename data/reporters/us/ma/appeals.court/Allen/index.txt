@@ -1,0 +1,7 @@
+.. reporter:: Massachusetts Reports, Allen
+   :series-abbreviation: Allen
+   :dates: 1861/1/1-1867/12/31
+
+   .. variation: All.
+
+   .. variation: Mass.(Allen)

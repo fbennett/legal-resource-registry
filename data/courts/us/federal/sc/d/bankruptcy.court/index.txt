@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, D. South Carolina
+   :court-id: us;federal;sc;d;bankruptcy.court
+   :url: http://www.scb.uscourts.gov/
+
+   .. reporter-key:: B.R.

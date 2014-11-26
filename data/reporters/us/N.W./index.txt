@@ -2,3 +2,10 @@
    :series-abbreviation: N.W.
    :dates: 1880/1/1-1942/12/31
 
+   .. variation: N. W.
+
+   .. variation: No.West Rep.
+
+   .. variation: Northw.Rep.
+
+   .. variation: NW

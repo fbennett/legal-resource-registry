@@ -1,0 +1,20 @@
+
+.. court:: District Court, Northern Mariana Islands
+   :court-id: us;federal;district.court.northern.mariana.islands
+   :url: http://www.nmid.uscourts.gov/
+
+   .. reporter-key:: F. Supp.
+
+   .. reporter-key:: F. Supp. 2d
+
+   .. reporter-key:: F.R.D.
+
+   .. reporter-key:: Fed. R. Serv.
+
+   .. reporter-key:: Fed. R. Serv. 2d
+
+   .. reporter-key:: Fed. R. Serv. 3d
+
+   .. reporter-key:: N. Mar. I.
+
+   .. reporter-key:: N. Mar. I. Commw. Rptr.

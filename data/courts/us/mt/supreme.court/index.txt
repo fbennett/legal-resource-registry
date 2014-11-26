@@ -1,6 +1,7 @@
 
-.. court:: Supreme Court of Montana
+.. court:: Montana Supreme Court
    :court-id: us;mt;supreme.court
+   :url: http://courts.mt.gov/supreme/default.mcpx
 
    .. reporter-key:: LEXIS
 

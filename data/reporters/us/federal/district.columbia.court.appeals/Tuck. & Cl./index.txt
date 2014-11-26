@@ -1,0 +1,9 @@
+.. reporter:: District of Columbia Reports, Tucker and Clephane
+   :series-abbreviation: Tuck. & Cl.
+   :dates: 1892/1/1-1893/12/31
+
+   .. variation: D.C.(Tuck.& Cl.)
+
+   .. variation: Tuck.
+
+   .. variation: Tuck.& C.

@@ -2,3 +2,4 @@
    :series-abbreviation: Cal. App.
    :dates: 1905/1/1-1934/12/31
 
+   .. variation: Cal.App.

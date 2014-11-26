@@ -1,4 +1,3 @@
 .. reporter:: Connecticut Reports
    :series-abbreviation: Conn.
    :dates: 1814/1/1-present
-

@@ -1,0 +1,3 @@
+
+.. court:: Court of Appeals of South Carolina
+   :court-id: us;sc;court.appeals

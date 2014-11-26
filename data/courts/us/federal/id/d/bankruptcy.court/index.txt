@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, D. Idaho
+   :court-id: us;federal;id;d;bankruptcy.court
+   :url: http://www.id.uscourts.gov/
+
+   .. reporter-key:: B.R.

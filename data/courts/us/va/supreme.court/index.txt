@@ -1,6 +1,7 @@
 
 .. court:: Supreme Court of Virginia
    :court-id: us;va;supreme.court
+   :url: http://www.courts.state.va.us/courts/scv/
 
    .. reporter-key:: Call
 

@@ -1,4 +1,0 @@
-.. reporter:: Federal Rules Service
-   :series-abbreviation: Fed. R. Serv. 3d
-   :dates: 1938/1/1-present
-

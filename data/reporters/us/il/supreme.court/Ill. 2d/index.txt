@@ -2,3 +2,4 @@
    :series-abbreviation: Ill. 2d
    :dates: 1849/1/1-present
 
+   .. variation: Ill.2d

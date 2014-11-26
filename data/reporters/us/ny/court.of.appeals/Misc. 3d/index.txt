@@ -1,4 +1,0 @@
-.. reporter:: New York Miscellaneous Reports
-   :series-abbreviation: Misc. 3d
-   :dates: 2004/1/1-present
-

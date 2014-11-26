@@ -2,3 +2,4 @@
    :series-abbreviation: Swan
    :dates: 1851/1/1-1853/12/31
 
+   .. variation: Tenn.(Swan)

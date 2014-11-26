@@ -1,0 +1,7 @@
+.. reporter:: Puerto Rico Reports
+   :series-abbreviation: P.R.R.
+   :dates: 1899/1/1-1978/12/31
+
+   .. variation: P.R.
+
+   .. variation: Puerto Rico

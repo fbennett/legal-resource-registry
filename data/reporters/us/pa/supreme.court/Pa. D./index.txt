@@ -2,3 +2,10 @@
    :series-abbreviation: Pa. D.
    :dates: 1892/1/1-1921/12/31
 
+   .. variation: Pa.Dist.
+
+   .. variation: Dist.Rep.
+
+   .. variation: Penn.Dist.Rep.
+
+   .. variation: Pa.Dist.R.

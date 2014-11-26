@@ -2,3 +2,4 @@
    :series-abbreviation: So.
    :dates: 1886/1/1-1941/12/31
 
+   .. variation: South.

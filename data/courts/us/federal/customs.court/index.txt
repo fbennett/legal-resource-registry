@@ -1,0 +1,6 @@
+
+.. court:: United States Customs Court
+   :court-id: us;federal;customs.court
+   :url: http://www.fjc.gov/history/home.nsf/page/courts_special_cc_bib.html
+
+   .. reporter-key:: Cust. Ct.

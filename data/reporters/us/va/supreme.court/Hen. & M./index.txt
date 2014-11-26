@@ -2,3 +2,10 @@
    :series-abbreviation: Hen. & M.
    :dates: 1806/1/1-1810/12/31
 
+   .. variation: H.& M.(Va.)
+
+   .. variation: H.& M.
+
+   .. variation: Va.(Hen.& M.)
+
+   .. variation: Hen.& Mun.

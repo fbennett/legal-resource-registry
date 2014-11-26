@@ -2,3 +2,14 @@
    :series-abbreviation: Bail. Eq.
    :dates: 1830/1/1-1831/12/31
 
+   .. variation: Bailey Ch.
+
+   .. variation: Bailey Eq.
+
+   .. variation: Bail.Eq.(S.C.)
+
+   .. variation: Bailey
+
+   .. variation: Bai.Eq.
+
+   .. variation: S.C.Eq.(Bail.Eq.)

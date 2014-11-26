@@ -1,4 +1,3 @@
 .. reporter:: Florida Supplement
    :series-abbreviation: Fla. Supp. 2d
    :dates: 1983/1/1-1992/12/31
-

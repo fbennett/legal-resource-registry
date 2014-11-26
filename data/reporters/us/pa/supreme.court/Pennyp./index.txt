@@ -2,3 +2,8 @@
    :series-abbreviation: Pennyp.
    :dates: 1881/1/1-1884/12/31
 
+   .. variation: Penny.
+
+   .. variation: Penn.
+
+   .. variation: Pennyp.(Pa.)

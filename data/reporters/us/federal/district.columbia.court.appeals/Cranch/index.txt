@@ -1,0 +1,9 @@
+.. reporter:: District of Columbia Reports, Cranch
+   :series-abbreviation: Cranch
+   :dates: 1801/1/1-1841/12/31
+
+   .. variation: Cranch D.C.
+
+   .. variation: D.C.(Cranch)
+
+   .. variation: Cranch C.C.

@@ -1,6 +1,7 @@
 
-.. court:: Supreme Court of Michigan
+.. court:: Michigan Supreme Court
    :court-id: us;mi;supreme.court
+   :url: http://courts.mi.gov/
 
    .. reporter-key:: Blume Sup. Ct. Trans.
 

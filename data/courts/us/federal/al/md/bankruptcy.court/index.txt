@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, M.D. Alabama
+   :court-id: us;federal;al;md;bankruptcy.court
+   :url: http://www.almb.uscourts.gov/
+
+   .. reporter-key:: B.R.

@@ -2,3 +2,4 @@
    :series-abbreviation: Tex. L. Rev.
    :dates: 1845/1/1-1846/12/31
 
+   .. variation: Texas L.Rev.

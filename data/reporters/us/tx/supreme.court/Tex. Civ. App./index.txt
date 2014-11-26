@@ -2,3 +2,4 @@
    :series-abbreviation: Tex. Civ. App.
    :dates: 1892/1/1-1911/12/31
 
+   .. variation: Tex.Civ.App.

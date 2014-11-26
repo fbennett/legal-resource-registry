@@ -2,3 +2,10 @@
    :series-abbreviation: Cam. & Nor.
    :dates: 1800/1/1-1804/12/31
 
+   .. variation: N.C.Conf.Rep.
+
+   .. variation: N.C.Conf.
+
+   .. variation: N.C.(Cam.& Nor.)
+
+   .. variation: Cam.& N.

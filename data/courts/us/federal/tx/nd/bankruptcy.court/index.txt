@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, N.D. Texas
+   :court-id: us;federal;tx;nd;bankruptcy.court
+   :url: http://www.txnb.uscourts.gov/
+
+   .. reporter-key:: B.R.

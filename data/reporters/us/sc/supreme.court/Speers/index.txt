@@ -2,3 +2,10 @@
    :series-abbreviation: Speers
    :dates: 1842/1/1-1844/12/31
 
+   .. variation: Speers L.(S.C.)
+
+   .. variation: S.C.L.(Speers)
+
+   .. variation: Spears
+
+   .. variation: Sp.

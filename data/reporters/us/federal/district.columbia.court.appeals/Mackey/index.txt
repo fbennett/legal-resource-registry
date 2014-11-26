@@ -1,0 +1,5 @@
+.. reporter:: District of Columbia Reports, Mackey
+   :series-abbreviation: Mackey
+   :dates: 1863/1/1-1892/12/31
+
+   .. variation: D.C.(Mackey)

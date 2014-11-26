@@ -2,3 +2,12 @@
    :series-abbreviation: S. & M.
    :dates: 1843/1/1-1850/12/31
 
+   .. variation: Smed.& M.
+
+   .. variation: Smedes & M.(Miss.)
+
+   .. variation: Sm.& M.
+
+   .. variation: Miss.(S.& M.)
+
+   .. variation: S.& Mar.

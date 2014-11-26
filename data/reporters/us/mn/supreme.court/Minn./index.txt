@@ -2,3 +2,4 @@
    :series-abbreviation: Minn.
    :dates: 1851/1/1-1977/12/31
 
+   .. variation: Min.

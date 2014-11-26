@@ -2,3 +2,10 @@
    :series-abbreviation: Ohio Cir. Dec.
    :dates: 1885/1/1-1901/12/31
 
+   .. variation: Oh.Cir.Dec.
+
+   .. variation: Ohio C.Dec.
+
+   .. variation: O.C.D.
+
+   .. variation: Ohio C.D.

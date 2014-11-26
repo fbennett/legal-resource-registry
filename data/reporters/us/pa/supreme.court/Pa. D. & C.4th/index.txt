@@ -1,4 +1,3 @@
 .. reporter:: Pennsylvania District and County Reports
    :series-abbreviation: Pa. D. & C.4th
    :dates: 1921/1/1-present
-

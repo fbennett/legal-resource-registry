@@ -1,0 +1,6 @@
+
+.. court:: United States Bankruptcy Court, D. Maryland
+   :court-id: us;federal;md;d;bankruptcy.court
+   :url: http://www.mdb.uscourts.gov/
+
+   .. reporter-key:: B.R.

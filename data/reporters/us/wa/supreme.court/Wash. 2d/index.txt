@@ -2,3 +2,10 @@
    :series-abbreviation: Wash. 2d
    :dates: 1889/1/1-present
 
+   .. variation: Wn. 2d
+
+   .. variation: W.2d
+
+   .. variation: Wn.2d
+
+   .. variation: Wa.2d

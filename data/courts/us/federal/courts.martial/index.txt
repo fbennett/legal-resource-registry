@@ -1,0 +1,6 @@
+
+.. court:: United States Courts Martial
+   :court-id: us;federal;courts.martial
+   :url: 
+
+   .. reporter-key:: C.M.R.

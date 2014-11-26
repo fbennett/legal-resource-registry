@@ -1,4 +1,3 @@
 .. reporter:: Delaware Reports, Pennewill
    :series-abbreviation: Pennewill
    :dates: 1897/1/1-1909/12/31
-

@@ -1,0 +1,3 @@
+
+.. court:: Emergency Court of Appeals
+   :court-id: us;federal;emergency.court.appeals

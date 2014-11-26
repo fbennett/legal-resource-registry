@@ -2,3 +2,4 @@
    :series-abbreviation: Greene
    :dates: 1847/1/1-1854/12/31
 
+   .. variation: Greene G.(Iowa)

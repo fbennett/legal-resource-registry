@@ -2,3 +2,10 @@
    :series-abbreviation: Dall.
    :dates: 1790/1/1-1880/12/31
 
+   .. variation: Dal.
+
+   .. variation: Dall.S.C.
+
+   .. variation: U.S.(Dall.)
+
+   .. variation: Dallas
