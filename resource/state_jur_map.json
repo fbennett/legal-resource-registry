@@ -2,2046 +2,2455 @@
   "us;federal;ca;ed;bankruptcy.court": [
     "us;federal;ca;ed;bankruptcy.court", 
     "United States Bankruptcy Court, E.D. California", 
-    "http://www.caeb.uscourts.gov/"
+    "http://www.caeb.uscourts.gov/", 
+    "caeb"
   ], 
   "us;de;court.common.pleas": [
     "us;de;court.common.pleas", 
     "Delaware Court of Common Pleas", 
-    "http://courts.delaware.gov/commonpleas/"
+    "http://courts.delaware.gov/commonpleas/", 
+    "delctcompl"
   ], 
   "us;federal;pa;ed;bankruptcy.court": [
     "us;federal;pa;ed;bankruptcy.court", 
     "United States Bankruptcy Court, E.D. Pennsylvania", 
-    "http://www.paeb.uscourts.gov/"
+    "http://www.paeb.uscourts.gov/", 
+    "paeb"
   ], 
   "us;fl;supreme.court": [
     "us;fl;supreme.court", 
     "Supreme Court of Florida", 
-    "http://www.floridasupremecourt.org/"
+    "http://www.floridasupremecourt.org/", 
+    "fla"
   ], 
   "us;federal;co;d;bankruptcy.court": [
     "us;federal;co;d;bankruptcy.court", 
     "United States Bankruptcy Court, D. Colorado", 
-    "http://www.cob.uscourts.gov/"
+    "http://www.cob.uscourts.gov/", 
+    "cob"
   ], 
   "us;nm;supreme.court": [
     "us;nm;supreme.court", 
     "New Mexico Supreme Court", 
-    "https://nmsupremecourt.nmcourts.gov/index.php"
+    "https://nmsupremecourt.nmcourts.gov/index.php", 
+    "nm"
   ], 
   "us;federal;ny;wd;district.court": [
     "us;federal;ny;wd;district.court", 
     "District Court, W.D. New York", 
-    "http://www.nywd.uscourts.gov/"
+    "http://www.nywd.uscourts.gov/", 
+    "nywd"
   ], 
   "us;federal;la;md;bankruptcy.court": [
     "us;federal;la;md;bankruptcy.court", 
     "United States Bankruptcy Court, M.D. Louisiana", 
-    "http://www.lamb.uscourts.gov/"
+    "http://www.lamb.uscourts.gov/", 
+    "lamb"
   ], 
   "us;federal;ga;nd;bankruptcy.court": [
     "us;federal;ga;nd;bankruptcy.court", 
     "United States Bankruptcy Court, N.D. Georgia", 
-    "http://www.ganb.uscourts.gov/"
+    "http://www.ganb.uscourts.gov/", 
+    "ganb"
   ], 
   "us;federal;wi;wd;district.court": [
     "us;federal;wi;wd;district.court", 
     "District Court, W.D. Wisconsin", 
-    "http://www.wiwd.uscourts.gov/"
+    "http://www.wiwd.uscourts.gov/", 
+    "wiwd"
   ], 
   "us;federal;la;wd;district.court": [
     "us;federal;la;wd;district.court", 
     "District Court, W.D. Louisiana", 
-    "http://www.lawd.uscourts.gov/"
+    "http://www.lawd.uscourts.gov/", 
+    "lawd"
   ], 
   "us;federal;co;d;district.court": [
     "us;federal;co;d;district.court", 
     "District Court, D. Colorado", 
-    "http://www.cod.uscourts.gov/"
+    "http://www.cod.uscourts.gov/", 
+    "cod"
   ], 
   "us;federal;il;cd;bankruptcy.court": [
     "us;federal;il;cd;bankruptcy.court", 
     "  United States Bankruptcy Court, C.D. Illinois", 
-    "http://www.ilcb.uscourts.gov/"
+    "http://www.ilcb.uscourts.gov/", 
+    "ilcb"
   ], 
   "us;federal;nd;d;district.court": [
     "us;federal;nd;d;district.court", 
     "District Court, D. North Dakota", 
-    "http://www.ndd.uscourts.gov/"
+    "http://www.ndd.uscourts.gov/", 
+    "ndd"
   ], 
   "us;nj;supreme.court": [
     "us;nj;supreme.court", 
     "Supreme Court of New Jersey", 
-    "http://www.judiciary.state.nj.us/supreme/"
+    "http://www.judiciary.state.nj.us/supreme/", 
+    "nj"
   ], 
   "us;de;court.judiciary": [
     "us;de;court.judiciary", 
     "Court on the Judiciary of Delaware.", 
-    "http://courts.delaware.gov/\u200e"
+    "http://courts.delaware.gov/\u200e", 
+    "deljudct"
   ], 
   "us;federal;court.federal.claims": [
     "us;federal;court.federal.claims", 
     "United States Court of Federal Claims", 
-    "http://www.uscfc.uscourts.gov/"
+    "http://www.uscfc.uscourts.gov/", 
+    "uscfc"
   ], 
   "us;in;tax.court": [
     "us;in;tax.court", 
     "Indiana Tax Court", 
-    "http://www.in.gov/judiciary/tax/"
+    "http://www.in.gov/judiciary/tax/", 
+    "indtc"
   ], 
   "us;federal;az;d;district.court": [
     "us;federal;az;d;district.court", 
     "District Court, D. Arizona", 
-    "http://www.azd.uscourts.gov/"
+    "http://www.azd.uscourts.gov/", 
+    "azd"
   ], 
   "us;federal;mi;wd;bankruptcy.court": [
     "us;federal;mi;wd;bankruptcy.court", 
     "United States Bankruptcy Court, W.D. Michigan", 
-    "http://www.miwb.uscourts.gov/"
+    "http://www.miwb.uscourts.gov/", 
+    "miwb"
   ], 
   "us;nm;court.appeals": [
     "us;nm;court.appeals", 
     "New Mexico Court of Appeals", 
-    "https://coa.nmcourts.gov/index.php"
+    "https://coa.nmcourts.gov/index.php", 
+    "nmctapp"
   ], 
   "us;de;supreme.court": [
     "us;de;supreme.court", 
     "Supreme Court of Delaware", 
-    "http://courts.delaware.gov/supreme/"
+    "http://courts.delaware.gov/supreme/", 
+    "del"
   ], 
   "us;federal;mo;wd;district.court": [
     "us;federal;mo;wd;district.court", 
     "District Court, W.D. Missouri", 
-    "http://www.mow.uscourts.gov/"
+    "http://www.mow.uscourts.gov/", 
+    "mowd"
   ], 
   "us;federal;fl;sd;bankruptcy.court": [
     "us;federal;fl;sd;bankruptcy.court", 
     "United States Bankruptcy Court, S.D. Florida.", 
-    "http://www.flsb.uscourts.gov/"
+    "http://www.flsb.uscourts.gov/", 
+    "flsb"
   ], 
   "us;federal;mn;d;district.court": [
     "us;federal;mn;d;district.court", 
     "District Court, D. Minnesota", 
-    "http://www.mnd.uscourts.gov/"
+    "http://www.mnd.uscourts.gov/", 
+    "mnd"
   ], 
   "us;oh;court.claims": [
     "us;oh;court.claims", 
     "Ohio Court of Claims", 
-    "http://www.cco.state.oh.us/"
+    "http://www.cco.state.oh.us/", 
+    "ohioctcl"
   ], 
   "us;federal;ca;sd;district.court": [
     "us;federal;ca;sd;district.court", 
     "District Court, S.D. California", 
-    "http://www.casd.uscourts.gov/"
+    "http://www.casd.uscourts.gov/", 
+    "casd"
   ], 
   "us;federal;supreme.court": [
     "us;federal;supreme.court", 
     "Supreme Court of the United States", 
-    "http://supremecourt.gov/"
+    "http://supremecourt.gov/", 
+    "scotus"
   ], 
   "us;federal;court.appeals.veterans.claims": [
     "us;federal;court.appeals.veterans.claims", 
     "United States Court of Appeals for Veterans Claims", 
-    "http://www.uscourts.cavc.gov/"
+    "http://www.uscourts.cavc.gov/", 
+    "cavc"
   ], 
   "us;federal;mo;ed;district.court": [
     "us;federal;mo;ed;district.court", 
     "District Court, E.D. Missouri", 
-    "http://www.moed.uscourts.gov/"
+    "http://www.moed.uscourts.gov/", 
+    "moed"
   ], 
   "us;federal;mn;d;bankruptcy.court": [
     "us;federal;mn;d;bankruptcy.court", 
     "United States Bankruptcy Court, D. Minnesota", 
-    "http://www.mnb.uscourts.gov/"
+    "http://www.mnb.uscourts.gov/", 
+    "mnb"
   ], 
   "us;federal;fl;md;bankruptcy.court": [
     "us;federal;fl;md;bankruptcy.court", 
     "United States Bankruptcy Court, M.D. Florida", 
-    "http://www.flmb.uscourts.gov/"
+    "http://www.flmb.uscourts.gov/", 
+    "flmb"
   ], 
   "us;federal;al;nd;district.court": [
     "us;federal;al;nd;district.court", 
     "District Court, N.D. Alabama", 
-    "http://www.alnd.uscourts.gov/"
+    "http://www.alnd.uscourts.gov/", 
+    "alnd"
   ], 
   "us;nh;supreme.court": [
     "us;nh;supreme.court", 
     "Supreme Court of New Hampshire", 
-    "http://www.courts.state.nh.us/supreme/"
+    "http://www.courts.state.nh.us/supreme/", 
+    "nh"
   ], 
   "us;federal;nc;md;district.court": [
     "us;federal;nc;md;district.court", 
     "District Court, M.D. North Carolina", 
-    "http://www.ncmd.uscourts.gov/"
+    "http://www.ncmd.uscourts.gov/", 
+    "ncmd"
   ], 
   "us;federal;fl;md;district.court": [
     "us;federal;fl;md;district.court", 
     "District Court, M.D. Florida", 
-    "http://www.flmd.uscourts.gov/"
+    "http://www.flmd.uscourts.gov/", 
+    "flmd"
   ], 
   "us;ut;court.appeals": [
     "us;ut;court.appeals", 
     "Court of Appeals of Utah", 
-    "http://www.utcourts.gov/courts/appell/"
+    "http://www.utcourts.gov/courts/appell/", 
+    "utahctapp"
   ], 
   "us;federal;ct;d;bankruptcy.court": [
     "us;federal;ct;d;bankruptcy.court", 
     "United States Bankruptcy Court, D. Connecticut", 
-    "http://www.ctb.uscourts.gov/"
+    "http://www.ctb.uscourts.gov/", 
+    "ctb"
   ], 
   "us;federal;bankruptcy.court.d.puerto.rico": [
     "us;federal;bankruptcy.court.d.puerto.rico", 
     "United States Bankruptcy Court, D. Puerto Rico", 
-    "http://www.prb.uscourts.gov/"
+    "http://www.prb.uscourts.gov/", 
+    "prb"
   ], 
   "us;federal;mo;wd;bankruptcy.court": [
     "us;federal;mo;wd;bankruptcy.court", 
     "United States Bankruptcy Court, W.D. Missouri", 
-    "http://www.mow.uscourts.gov/bankruptcy/"
+    "http://www.mow.uscourts.gov/bankruptcy/", 
+    "mowb"
   ], 
   "us;federal;ia;sd;bankruptcy.court": [
     "us;federal;ia;sd;bankruptcy.court", 
     "United States Bankruptcy Court, S.D. Iowa", 
-    "http://www.iasb.uscourts.gov/"
+    "http://www.iasb.uscourts.gov/", 
+    "iasb"
   ], 
   "us;ut": [
     "us;ut;supreme.court", 
     "Utah Supreme Court", 
-    "http://www.utcourts.gov/opinions/supopin/index.htm"
+    "http://www.utcourts.gov/opinions/supopin/index.htm", 
+    "utah"
   ], 
   "us;federal;in;sd;district.court": [
     "us;federal;in;sd;district.court", 
     "District Court, S.D. Indiana", 
-    "http://www.insd.uscourts.gov/"
+    "http://www.insd.uscourts.gov/", 
+    "insd"
   ], 
   "us;mn;supreme.court": [
     "us;mn;supreme.court", 
     "Supreme Court of Minnesota", 
-    "http://www.mncourts.gov/?page=550"
+    "http://www.mncourts.gov/?page=550", 
+    "minn"
   ], 
   "us;federal;commerce.court": [
     "us;federal;commerce.court", 
     "Commerce Court", 
-    "http://www.fjc.gov/history/home.nsf/page/courts_special_com.html"
+    "http://www.fjc.gov/history/home.nsf/page/courts_special_com.html", 
+    "com"
   ], 
   "us;federal;in;d;district.court": [
     "us;federal;in;d;district.court", 
     "District Court, D. Indiana", 
-    "http://www.insd.uscourts.gov/"
+    "http://www.insd.uscourts.gov/", 
+    "indianad"
   ], 
   "us;me;supreme.judicial.court": [
     "us;me;supreme.judicial.court", 
     "Supreme Judicial Court of Maine", 
-    "http://www.courts.state.me.us/maine_courts/supreme/"
+    "http://www.courts.state.me.us/maine_courts/supreme/", 
+    "me"
   ], 
   "us;ri": [
     "us;ri;supreme.court", 
     "Supreme Court of Rhode Island", 
-    "http://www.courts.ri.gov/courts/supremecourt/default.aspx"
+    "http://www.courts.ri.gov/courts/supremecourt/default.aspx", 
+    "ri"
   ], 
   "us;federal;ri;d;bankruptcy.court": [
     "us;federal;ri;d;bankruptcy.court", 
     "United States Bankruptcy Court, D. Rhode Island", 
-    "http://www.rib.uscourts.gov/"
+    "http://www.rib.uscourts.gov/", 
+    "rib"
   ], 
   "us;federal;il;nd;bankruptcy.court": [
     "us;federal;il;nd;bankruptcy.court", 
     "  United States Bankruptcy Court, N.D. Illinois", 
-    "http://www.ilnb.uscourts.gov/"
+    "http://www.ilnb.uscourts.gov/", 
+    "ilnb"
   ], 
   "us;federal;sd;d;bankruptcy.court": [
     "us;federal;sd;d;bankruptcy.court", 
     "United States Bankruptcy Court, D. South Dakota", 
-    "https://ecf.sdb.uscourts.gov/"
+    "https://ecf.sdb.uscourts.gov/", 
+    "sdb"
   ], 
   "us;federal;nc;wd;district.court": [
     "us;federal;nc;wd;district.court", 
     "District Court, W.D. North Carolina", 
-    "http://www.ncwd.uscourts.gov/"
+    "http://www.ncwd.uscourts.gov/", 
+    "ncwd"
   ], 
   "us;federal;ia;sd;district.court": [
     "us;federal;ia;sd;district.court", 
     "District Court, S.D. Iowa", 
-    "http://www.iasd.uscourts.gov/"
+    "http://www.iasd.uscourts.gov/", 
+    "iasd"
   ], 
   "us;federal;il;cd;district.court": [
     "us;federal;il;cd;district.court", 
     "District Court, C.D. Illinois", 
-    "http://www.ilcd.uscourts.gov/"
+    "http://www.ilcd.uscourts.gov/", 
+    "ilcd"
   ], 
   "us;federal;bankruptcy.court.northern.mariana.islands": [
     "us;federal;bankruptcy.court.northern.mariana.islands", 
     "United States Bankruptcy Court, Northern Mariana Islands", 
-    "http://www.nmid.uscourts.gov/"
+    "http://www.nmid.uscourts.gov/", 
+    "nmib"
   ], 
   "us;ks": [
     "us;ks;supreme.court", 
     "Supreme Court of Kansas", 
-    "http://www.kscourts.org/kansas-courts/supreme-court/"
+    "http://www.kscourts.org/kansas-courts/supreme-court/", 
+    "kan"
   ], 
   "us;federal;nc;wd;bankruptcy.court": [
     "us;federal;nc;wd;bankruptcy.court", 
     "United States Bankruptcy Court, W.D. North Carolina", 
-    "http://www.ncwb.uscourts.gov/"
+    "http://www.ncwb.uscourts.gov/", 
+    "ncwb"
   ], 
   "us;federal;il;ed;district.court": [
     "us;federal;il;ed;district.court", 
     "District Court, E.D. Illinois", 
-    "https://en.wikipedia.org/wiki/United_States_District_Court_for_the_Eastern_District_of_Illinois"
+    "https://en.wikipedia.org/wiki/United_States_District_Court_for_the_Eastern_District_of_Illinois", 
+    "illinoised"
   ], 
   "us;ky": [
     "us;ky;supreme.court", 
     "Kentucky Supreme Court", 
-    "http://courts.ky.gov/courts/supreme/\u200e"
+    "http://courts.ky.gov/courts/supreme/\u200e", 
+    "ky"
   ], 
   "us;va;court.appeals": [
     "us;va;court.appeals", 
     "Court of Appeals of Virginia", 
-    "http://www.courts.state.va.us/courts/cav/"
+    "http://www.courts.state.va.us/courts/cav/", 
+    "vactapp"
   ], 
   "us;il;appellate.court": [
     "us;il;appellate.court", 
     "Appellate Court of Illinois", 
-    "http://www.state.il.us/court/appellatecourt/"
+    "http://www.state.il.us/court/appellatecourt/", 
+    "illappct"
   ], 
   "us;federal;wy;d;district.court": [
     "us;federal;wy;d;district.court", 
     "District Court, D. Wyoming", 
-    "http://www.wyd.uscourts.gov/"
+    "http://www.wyd.uscourts.gov/", 
+    "wyd"
   ], 
   "us;federal;hi;d;district.court": [
     "us;federal;hi;d;district.court", 
     "District Court, D. Hawaii", 
-    "http://www.hid.uscourts.gov/"
+    "http://www.hid.uscourts.gov/", 
+    "hid"
   ], 
   "us;federal;ky;wd;district.court": [
     "us;federal;ky;wd;district.court", 
     "District Court, W.D. Kentucky", 
-    "http://www.kywd.uscourts.gov/"
+    "http://www.kywd.uscourts.gov/", 
+    "kywd"
   ], 
   "us;vt;supreme.court": [
     "us;vt;supreme.court", 
     "Supreme Court of Vermont", 
-    "http://www.vermontjudiciary.org/gtc/supreme/default.aspx"
+    "http://www.vermontjudiciary.org/gtc/supreme/default.aspx", 
+    "vt"
   ], 
   "us;oh;supreme.court": [
     "us;oh;supreme.court", 
     "Ohio Supreme Court", 
-    "http://www.supremecourt.ohio.gov/"
+    "http://www.supremecourt.ohio.gov/", 
+    "ohio"
   ], 
   "us;federal;al;md;district.court": [
     "us;federal;al;md;district.court", 
     "District Court, M.D. Alabama", 
-    "http://www.almd.uscourts.gov/"
+    "http://www.almd.uscourts.gov/", 
+    "almd"
   ], 
   "us;federal;al;sd;bankruptcy.court": [
     "us;federal;al;sd;bankruptcy.court", 
     "United States Bankruptcy Court, S.D. Alabama", 
-    "http://www.alsb.uscourts.gov/"
+    "http://www.alsb.uscourts.gov/", 
+    "alsb"
   ], 
   "us;la;supreme.court": [
     "us;la;supreme.court", 
     "Supreme Court of Louisiana", 
-    "http://www.lasc.org/"
+    "http://www.lasc.org/", 
+    "la"
   ], 
   "us;federal;tn;md;district.court": [
     "us;federal;tn;md;district.court", 
     "District Court, M.D. Tennessee", 
-    "http://www.tnmd.uscourts.gov/"
+    "http://www.tnmd.uscourts.gov/", 
+    "tnmd"
   ], 
   "us;federal;district.court.canal.zone": [
     "us;federal;district.court.canal.zone", 
     "District Court, Canal Zone", 
-    "https://en.wikipedia.org/wiki/United_States_District_Court_for_the_Canal_Zone"
+    "https://en.wikipedia.org/wiki/United_States_District_Court_for_the_Canal_Zone", 
+    "canalzoned"
   ], 
   "us;ma;supreme.judicial.court": [
     "us;ma;supreme.judicial.court", 
     "Massachusetts Supreme Judicial Court", 
-    "http://www.mass.gov/courts/sjc/"
+    "http://www.mass.gov/courts/sjc/", 
+    "mass"
   ], 
   "us;ks;court.appeals": [
     "us;ks;court.appeals", 
     "Court of Appeals of Kansas", 
-    "http://www.kscourts.org/kansas-courts/court-of-appeals/"
+    "http://www.kscourts.org/kansas-courts/court-of-appeals/", 
+    "kanctapp"
   ], 
   "us;federal;ia;nd;district.court": [
     "us;federal;ia;nd;district.court", 
     "District Court, N.D. Iowa", 
-    "http://www.iand.uscourts.gov/"
+    "http://www.iand.uscourts.gov/", 
+    "iand"
   ], 
   "us;federal;ma;d;bankruptcy.court": [
     "us;federal;ma;d;bankruptcy.court", 
     "United States Bankruptcy Court, D. Massachusetts", 
-    "http://www.mab.uscourts.gov/"
+    "http://www.mab.uscourts.gov/", 
+    "mab"
   ], 
   "us;federal;ca;nd;district.court": [
     "us;federal;ca;nd;district.court", 
     "District Court, N.D. California", 
-    "http://www.cand.uscourts.gov/"
+    "http://www.cand.uscourts.gov/", 
+    "cand"
   ], 
   "us;nj;superior.court": [
     "us;nj;superior.court", 
     "New Jersey Superior Court", 
-    "http://www.judiciary.state.nj.us/appdiv/index.htm"
+    "http://www.judiciary.state.nj.us/appdiv/index.htm", 
+    "njsuperctappdiv"
   ], 
   "us;wi;court.appeals": [
     "us;wi;court.appeals", 
     "Court of Appeals of Wisconsin", 
-    "http://www.wicourts.gov/courts/appeals/"
+    "http://www.wicourts.gov/courts/appeals/", 
+    "wisctapp"
   ], 
   "us;tn;court.appeals": [
     "us;tn;court.appeals", 
     "Court of Appeals of Tennessee", 
-    "http://www.tncourts.gov/courts/court-appeals"
+    "http://www.tncourts.gov/courts/court-appeals", 
+    "tennctapp"
   ], 
   "us;federal;la;md;district.court": [
     "us;federal;la;md;district.court", 
     "District Court, M.D. Louisiana", 
-    "http://www.lamd.uscourts.gov/"
+    "http://www.lamd.uscourts.gov/", 
+    "lamd"
   ], 
   "us;federal;ga;sd;bankruptcy.court": [
     "us;federal;ga;sd;bankruptcy.court", 
     "United States Bankruptcy Court, S.D. Georgia", 
-    "http://www.gasb.uscourts.gov/"
+    "http://www.gasb.uscourts.gov/", 
+    "gasb"
   ], 
   "us;sc;supreme.court": [
     "us;sc;supreme.court", 
     "Supreme Court of South Carolina", 
-    "http://www.judicial.state.sc.us/supreme/"
+    "http://www.judicial.state.sc.us/supreme/", 
+    "sc"
   ], 
   "us;federal;ks;d;district.court": [
     "us;federal;ks;d;district.court", 
     "District Court, D. Kansas", 
-    "http://www.ksd.uscourts.gov/"
+    "http://www.ksd.uscourts.gov/", 
+    "ksd"
   ], 
   "us;pa": [
     "us;pa;supreme.court", 
     "Supreme Court of Pennsylvania", 
-    "http://www.pacourts.us/courts/supreme-court/"
+    "http://www.pacourts.us/courts/supreme-court/", 
+    "pa"
   ], 
   "us;federal;customs.court": [
     "us;federal;customs.court", 
     "United States Customs Court", 
-    "http://www.fjc.gov/history/home.nsf/page/courts_special_cc_bib.html"
+    "http://www.fjc.gov/history/home.nsf/page/courts_special_cc_bib.html", 
+    "cusc"
   ], 
   "us;id;court.appeals": [
     "us;id;court.appeals", 
     "Idaho Court of Appeals", 
-    "http://www.isc.idaho.gov/"
+    "http://www.isc.idaho.gov/", 
+    "idahoctapp"
   ], 
   "us;mo;court.appeals": [
     "us;mo;court.appeals", 
     "Missouri Court of Appeals", 
-    "http://www.courts.mo.gov/page.jsp?id=261"
+    "http://www.courts.mo.gov/page.jsp?id=261", 
+    "moctapp"
   ], 
   "us;nc;court.appeals": [
     "us;nc;court.appeals", 
     "Court of Appeals of North Carolina", 
-    "http://www.nccourts.org/courts/appellate/appeal/"
+    "http://www.nccourts.org/courts/appellate/appeal/", 
+    "ncctapp"
   ], 
   "us;federal;court.appeals.armed.forces": [
     "us;federal;court.appeals.armed.forces", 
     "Court of Appeals for the Armed Forces", 
-    "http://www.armfor.uscourts.gov/"
+    "http://www.armfor.uscourts.gov/", 
+    "armfor"
   ], 
   "us;ky;supreme.court": [
     "us;ky;supreme.court", 
     "Kentucky Supreme Court", 
-    "http://courts.ky.gov/courts/supreme/\u200e"
+    "http://courts.ky.gov/courts/supreme/\u200e", 
+    "ky"
   ], 
   "us;federal;mo;ed;bankruptcy.court": [
     "us;federal;mo;ed;bankruptcy.court", 
     "United States Bankruptcy Court, E.D. Missouri", 
-    "http://www.moeb.uscourts.gov/"
+    "http://www.moeb.uscourts.gov/", 
+    "moeb"
   ], 
   "us;federal;fl;sd;district.court": [
     "us;federal;fl;sd;district.court", 
     "District Court, S.D. Florida", 
-    "http://www.flsd.uscourts.gov/"
+    "http://www.flsd.uscourts.gov/", 
+    "flsd"
   ], 
   "us;federal;district.columbia.court.appeals": [
     "us;federal;district.columbia.court.appeals", 
     "District of Columbia Court of Appeals", 
-    "http://www.dccourts.gov/internet/appellate/main.jsf"
+    "http://www.dccourts.gov/internet/appellate/main.jsf", 
+    "dc"
   ], 
   "us;ny": [
     "us;ny;court.appeals", 
     "New York Court of Appeals", 
-    "http://www.nycourts.gov/ctapps/"
+    "http://www.nycourts.gov/ctapps/", 
+    "ny"
   ], 
   "us;federal;in;sd;bankruptcy.court": [
     "us;federal;in;sd;bankruptcy.court", 
     "United States Bankruptcy Court, S.D. Indiana", 
-    "http://www.insb.uscourts.gov/"
+    "http://www.insb.uscourts.gov/", 
+    "insb"
   ], 
   "us;federal;tx;sd;bankruptcy.court": [
     "us;federal;tx;sd;bankruptcy.court", 
     "United States Bankruptcy Court, S.D. Texas", 
-    "http://www.txs.uscourts.gov/bankruptcy/"
+    "http://www.txs.uscourts.gov/bankruptcy/", 
+    "txsb"
   ], 
   "us;nm": [
     "us;nm;supreme.court", 
     "New Mexico Supreme Court", 
-    "https://nmsupremecourt.nmcourts.gov/index.php"
+    "https://nmsupremecourt.nmcourts.gov/index.php", 
+    "nm"
   ], 
   "us;nh": [
     "us;nh;supreme.court", 
     "Supreme Court of New Hampshire", 
-    "http://www.courts.state.nh.us/supreme/"
+    "http://www.courts.state.nh.us/supreme/", 
+    "nh"
   ], 
   "us;nj": [
     "us;nj;supreme.court", 
     "Supreme Court of New Jersey", 
-    "http://www.judiciary.state.nj.us/supreme/"
+    "http://www.judiciary.state.nj.us/supreme/", 
+    "nj"
   ], 
   "us;nd": [
     "us;nd;supreme.court", 
     "North Dakota Supreme Court", 
-    "http://www.ndcourts.gov/default.htm"
+    "http://www.ndcourts.gov/default.htm", 
+    "nd"
   ], 
   "us;ne": [
     "us;ne;supreme.court", 
     "Nebraska Supreme Court", 
-    "http://supremecourt.ne.gov/"
+    "http://supremecourt.ne.gov/", 
+    "neb"
   ], 
   "us;federal;pa;wd;district.court": [
     "us;federal;pa;wd;district.court", 
     "District Court, W.D. Pennsylvania", 
-    "http://www.pawd.uscourts.gov/"
+    "http://www.pawd.uscourts.gov/", 
+    "pawd"
   ], 
   "us;nc": [
     "us;nc;supreme.court", 
     "Supreme Court of North Carolina", 
-    "http://www.nccourts.org/courts/appellate/supreme/"
+    "http://www.nccourts.org/courts/appellate/supreme/", 
+    "nc"
   ], 
   "us;federal;sc;wd;district.court": [
     "us;federal;sc;wd;district.court", 
     "District Court, W.D. South Carolina", 
-    "http://www.ncwd.uscourts.gov/"
+    "http://www.ncwd.uscourts.gov/", 
+    "southcarolinawd"
   ], 
   "us;federal;ok;nd;district.court": [
     "us;federal;ok;nd;district.court", 
     "District Court, N.D. Oklahoma", 
-    "http://www.oknd.uscourts.gov/"
+    "http://www.oknd.uscourts.gov/", 
+    "oknd"
   ], 
   "us;federal;ky;wd;bankruptcy.court": [
     "us;federal;ky;wd;bankruptcy.court", 
     "United States Bankruptcy Court, W.D. Kentucky", 
-    "http://www.kywb.uscourts.gov/"
+    "http://www.kywb.uscourts.gov/", 
+    "kywb"
   ], 
   "us;ga": [
     "us;ga;supreme.court", 
     "Supreme Court of Georgia", 
-    "http://www.gasupreme.us/"
+    "http://www.gasupreme.us/", 
+    "ga"
   ], 
   "us;ny;appellate.division.supreme.court.state": [
     "us;ny;appellate.division.supreme.court.state", 
     "Appellate Division of the Supreme Court of the State of New York", 
-    "http://www.courts.state.ny.us/courts/appellatedivisions.shtml\u200e"
+    "http://www.courts.state.ny.us/courts/appellatedivisions.shtml\u200e", 
+    "nyappdiv"
   ], 
   "us;federal;al;sd;district.court": [
     "us;federal;al;sd;district.court", 
     "District Court, S.D. Alabama", 
-    "http://www.als.uscourts.gov/"
+    "http://www.als.uscourts.gov/", 
+    "alsd"
   ], 
   "us;ca": [
     "us;ca;supreme.court", 
     "California Supreme Court", 
-    "http://www.courts.ca.gov/supremecourt.htm"
+    "http://www.courts.ca.gov/supremecourt.htm", 
+    "cal"
   ], 
   "us;federal;nd;d;bankruptcy.court": [
     "us;federal;nd;d;bankruptcy.court", 
     "  United States Bankruptcy Court, D. North Dakota", 
-    "http://www.ndd.uscourts.gov/"
+    "http://www.ndd.uscourts.gov/", 
+    "ndb"
   ], 
   "us;federal;merit.systems.protection.board": [
     "us;federal;merit.systems.protection.board", 
     "Merit Systems Protection Board", 
-    "http://www.mspb.gov/"
+    "http://www.mspb.gov/", 
+    "mspb"
   ], 
   "us;federal;ma;d;district.court": [
     "us;federal;ma;d;district.court", 
     "District Court, D. Massachusetts", 
-    "http://www.mad.uscourts.gov/"
+    "http://www.mad.uscourts.gov/", 
+    "mad"
   ], 
   "us;federal;bankruptcy.appellate.panel.9.circuit": [
     "us;federal;bankruptcy.appellate.panel.9.circuit", 
     "United States Bankruptcy Appellate Panel for the Ninth Circuit", 
-    "http://www.ca9.uscourts.gov/bap/"
+    "http://www.ca9.uscourts.gov/bap/", 
+    "bap9"
   ], 
   "us;wa": [
     "us;wa;supreme.court", 
     "Washington Supreme Court", 
-    "https://www.courts.wa.gov/appellate_trial_courts/SupremeCourt/"
+    "https://www.courts.wa.gov/appellate_trial_courts/SupremeCourt/", 
+    "wash"
   ], 
   "us;federal;district.court.northern.mariana.islands": [
     "us;federal;district.court.northern.mariana.islands", 
     "District Court, Northern Mariana Islands", 
-    "http://www.nmid.uscourts.gov/"
+    "http://www.nmid.uscourts.gov/", 
+    "nmid"
   ], 
   "us;federal;court.international.trade": [
     "us;federal;court.international.trade", 
     "United States Court of International Trade", 
-    "http://www.cit.uscourts.gov/"
+    "http://www.cit.uscourts.gov/", 
+    "cit"
   ], 
   "us;federal;vt;d;bankruptcy.court": [
     "us;federal;vt;d;bankruptcy.court", 
     "United States Bankruptcy Court, D. Vermont", 
-    "http://www.vtb.uscourts.gov/"
+    "http://www.vtb.uscourts.gov/", 
+    "vtb"
   ], 
   "us;tn;supreme.court": [
     "us;tn;supreme.court", 
     "Tennessee Supreme Court", 
-    "https://www.tncourts.gov/courts/supreme-court"
+    "https://www.tncourts.gov/courts/supreme-court", 
+    "tenn"
   ], 
   "us;ma;appeals.court": [
     "us;ma;appeals.court", 
     "Massachusetts Appeals Court", 
-    "http://www.mass.gov/courts/appealscourt/"
+    "http://www.mass.gov/courts/appealscourt/", 
+    "massappct"
   ], 
   "us;pa;commonwealth.court": [
     "us;pa;commonwealth.court", 
     "Commonwealth Court of Pennsylvania.", 
-    "http://www.pacourts.us/courts/commonwealth-court/"
+    "http://www.pacourts.us/courts/commonwealth-court/", 
+    "pacommwct"
   ], 
   "us;federal;ca;nd;bankruptcy.court": [
     "us;federal;ca;nd;bankruptcy.court", 
     "United States Bankruptcy Court, N.D. California", 
-    "http://www.canb.uscourts.gov/"
+    "http://www.canb.uscourts.gov/", 
+    "canb"
   ], 
   "us;federal;al;nd;bankruptcy.court": [
     "us;federal;al;nd;bankruptcy.court", 
     "United States Bankruptcy Court, N.D. Alabama", 
-    "http://www.alnb.uscourts.gov/"
+    "http://www.alnb.uscourts.gov/", 
+    "alnb"
   ], 
   "us;federal;il;sd;district.court": [
     "us;federal;il;sd;district.court", 
     "District Court, S.D. Illinois", 
-    "http://www.ilsd.uscourts.gov/"
+    "http://www.ilsd.uscourts.gov/", 
+    "ilsd"
   ], 
   "us;federal;hi;d;bankruptcy.court": [
     "us;federal;hi;d;bankruptcy.court", 
     "United States Bankruptcy Court, D. Hawaii", 
-    "http://www.hib.uscourts.gov/"
+    "http://www.hib.uscourts.gov/", 
+    "hib"
   ], 
   "us;federal;wa;wd;bankruptcy.court": [
     "us;federal;wa;wd;bankruptcy.court", 
     "United States Bankruptcy Court, W.D. Washington", 
-    "http://www.wawb.uscourts.gov/"
+    "http://www.wawb.uscourts.gov/", 
+    "wawb"
   ], 
   "us;federal;ia;nd;bankruptcy.court": [
     "us;federal;ia;nd;bankruptcy.court", 
     "United States Bankruptcy Court, N.D. Iowa", 
-    "http://www.ianb.uscourts.gov/"
+    "http://www.ianb.uscourts.gov/", 
+    "ianb"
   ], 
   "us;de;superior.court": [
     "us;de;superior.court", 
     "Superior Court of Delaware", 
-    "http://courts.delaware.gov/Superior/"
+    "http://courts.delaware.gov/Superior/", 
+    "delsuperct"
   ], 
   "us;mt": [
     "us;mt;supreme.court", 
     "Montana Supreme Court", 
-    "http://courts.mt.gov/supreme/default.mcpx"
+    "http://courts.mt.gov/supreme/default.mcpx", 
+    "mont"
   ], 
   "us;ms": [
     "us;ms;supreme.court", 
     "Mississippi Supreme Court", 
-    "http://courts.ms.gov/appellate_courts/sc/sc.html"
+    "http://courts.ms.gov/appellate_courts/sc/sc.html", 
+    "miss"
   ], 
   "us;pa;superior.court": [
     "us;pa;superior.court", 
     "Superior Court of Pennsylvania", 
-    "http://www.pacourts.us/courts/superior-court/"
+    "http://www.pacourts.us/courts/superior-court/", 
+    "pasuperct"
   ], 
   "us;federal;foreign.intelligence.surveillance.court.review": [
     "us;federal;foreign.intelligence.surveillance.court.review", 
     "Foreign Intelligence Surveillance Court of Review", 
-    "http://www.fisc.uscourts.gov/"
+    "http://www.fisc.uscourts.gov/", 
+    "fiscr"
   ], 
   "us;me": [
     "us;me;supreme.judicial.court", 
     "Supreme Judicial Court of Maine", 
-    "http://www.courts.state.me.us/maine_courts/supreme/"
+    "http://www.courts.state.me.us/maine_courts/supreme/", 
+    "me"
   ], 
   "us;md": [
     "us;md;court.appeals", 
     "Court of Appeals of Maryland", 
-    "http://www.courts.state.md.us/coappeals/"
+    "http://www.courts.state.md.us/coappeals/", 
+    "md"
   ], 
   "us;federal;az;d;bankruptcy.court": [
     "us;federal;az;d;bankruptcy.court", 
     "United States Bankruptcy Court, D. Arizona", 
-    "https://ecf.azb.uscourts.gov/"
+    "https://ecf.azb.uscourts.gov/", 
+    "arb"
   ], 
   "us;ma": [
     "us;ma;appeals.court", 
     "Massachusetts Appeals Court", 
-    "http://www.mass.gov/courts/appealscourt/"
+    "http://www.mass.gov/courts/appealscourt/", 
+    "massappct"
   ], 
   "us;ok;court.civil.appeals": [
     "us;ok;court.civil.appeals", 
     "Court of Civil Appeals of Oklahoma", 
-    "http://www.oscn.net/oscn/schome/civilappeals.htm"
+    "http://www.oscn.net/oscn/schome/civilappeals.htm", 
+    "oklacivapp"
   ], 
   "us;mo": [
     "us;mo;supreme.court", 
     "Supreme Court of Missouri", 
-    "http://www.courts.mo.gov/page.jsp?id=27"
+    "http://www.courts.mo.gov/page.jsp?id=27", 
+    "mo"
   ], 
   "us;mn": [
     "us;mn;supreme.court", 
     "Supreme Court of Minnesota", 
-    "http://www.mncourts.gov/?page=550"
+    "http://www.mncourts.gov/?page=550", 
+    "minn"
   ], 
   "us;mi": [
     "us;mi;supreme.court", 
     "Michigan Supreme Court", 
-    "http://courts.mi.gov/"
+    "http://courts.mi.gov/", 
+    "mich"
   ], 
   "us;federal;oh;nd;district.court": [
     "us;federal;oh;nd;district.court", 
     "District Court, N.D. Ohio", 
-    "http://www.ohnd.uscourts.gov/"
+    "http://www.ohnd.uscourts.gov/", 
+    "ohnd"
   ], 
   "us;federal;pa;md;district.court": [
     "us;federal;pa;md;district.court", 
     "District Court, M.D. Pennsylvania", 
-    "http://www.pamd.uscourts.gov/"
+    "http://www.pamd.uscourts.gov/", 
+    "pamd"
   ], 
   "us;federal;tx;sd;district.court": [
     "us;federal;tx;sd;district.court", 
     "District Court, S.D. Texas", 
-    "http://www.txs.uscourts.gov/"
+    "http://www.txs.uscourts.gov/", 
+    "txsd"
   ], 
   "us;il;supreme.court": [
     "us;il;supreme.court", 
     "Illinois Supreme Court", 
-    "http://www.state.il.us/court/"
+    "http://www.state.il.us/court/", 
+    "ill"
   ], 
   "us;federal;bankruptcy.court.district.columbia": [
     "us;federal;bankruptcy.court.district.columbia", 
     "United States Bankruptcy Court, District of Columbia", 
-    "http://www.dcb.uscourts.gov/"
+    "http://www.dcb.uscourts.gov/", 
+    "dcb"
   ], 
   "us;federal;me;d;district.court": [
     "us;federal;me;d;district.court", 
     "District Court, D. Maine", 
-    "http://www.med.uscourts.gov/"
+    "http://www.med.uscourts.gov/", 
+    "med"
   ], 
   "us;federal;bankruptcy.appellate.panel.8.circuit": [
     "us;federal;bankruptcy.appellate.panel.8.circuit", 
     "United States Bankruptcy Appellate Panel for the Eighth Circuit", 
-    "http://www.ca8.uscourts.gov/bankruptcy-appellate-panel"
+    "http://www.ca8.uscourts.gov/bankruptcy-appellate-panel", 
+    "bap8"
   ], 
   "us;federal;nh;d;district.court": [
     "us;federal;nh;d;district.court", 
     "District Court, D. New Hampshire", 
-    "http://www.nhd.uscourts.gov/"
+    "http://www.nhd.uscourts.gov/", 
+    "nhd"
   ], 
   "us;federal;ms;sd;bankruptcy.court": [
     "us;federal;ms;sd;bankruptcy.court", 
     "United States Bankruptcy Court, S.D. Mississippi", 
-    "http://www.mssb.uscourts.gov/"
+    "http://www.mssb.uscourts.gov/", 
+    "mssb"
   ], 
   "us;ne;court.appeals": [
     "us;ne;court.appeals", 
     "Nebraska Court of Appeals", 
-    "http://supremecourt.ne.gov/"
+    "http://supremecourt.ne.gov/", 
+    "nebctapp"
   ], 
   "us;federal;de;d;bankruptcy.court": [
     "us;federal;de;d;bankruptcy.court", 
     "United States Bankruptcy Court, D. Delaware", 
-    "http://www.deb.uscourts.gov/"
+    "http://www.deb.uscourts.gov/", 
+    "deb"
   ], 
   "us;federal;court.claims": [
     "us;federal;court.claims", 
     "United States Court of Claims", 
-    "http://www.fjc.gov/history/home.nsf/page/courts_special_coc.html"
+    "http://www.fjc.gov/history/home.nsf/page/courts_special_coc.html", 
+    "cc"
   ], 
   "us;federal;la;wd;bankruptcy.court": [
     "us;federal;la;wd;bankruptcy.court", 
     "United States Bankruptcy Court, W.D. Louisiana", 
-    "http://www.lawb.uscourts.gov/"
+    "http://www.lawb.uscourts.gov/", 
+    "lawb"
   ], 
   "us;ct;appellate.court": [
     "us;ct;appellate.court", 
     "Connecticut Appellate Court", 
-    "http://www.jud.ct.gov/external/supapp/appellate.htm\u200e"
+    "http://www.jud.ct.gov/external/supapp/appellate.htm\u200e", 
+    "connappct"
   ], 
   "us;federal;sc;d;district.court": [
     "us;federal;sc;d;district.court", 
     "United States District Court, D. South Carolina", 
-    "http://www.scd.uscourts.gov/"
+    "http://www.scd.uscourts.gov/", 
+    "scd"
   ], 
   "us;ct": [
     "us;ct;supreme.court", 
     "Supreme Court of Connecticut", 
-    "http://www.jud.state.ct.us/external/supapp/"
+    "http://www.jud.state.ct.us/external/supapp/", 
+    "conn"
   ], 
   "us;co": [
     "us;co;supreme.court", 
     "Supreme Court of Colorado", 
-    "http://www.coloradosupremecourt.com/"
+    "http://www.coloradosupremecourt.com/", 
+    "colo"
   ], 
   "us;federal;court.appeals.dc.circuit": [
     "us;federal;court.appeals.dc.circuit", 
     "Court of Appeals for the D.C. Circuit", 
-    "http://www.cadc.uscourts.gov/"
+    "http://www.cadc.uscourts.gov/", 
+    "cadc"
   ], 
   "us;federal;sd;d;district.court": [
     "us;federal;sd;d;district.court", 
     "District Court, D. South Dakota", 
-    "http://www.sdd.uscourts.gov/"
+    "http://www.sdd.uscourts.gov/", 
+    "sdd"
   ], 
   "us;federal;ar;ed;district.court": [
     "us;federal;ar;ed;district.court", 
     "District Court, E.D. Arkansas", 
-    "http://www.are.uscourts.gov/"
+    "http://www.are.uscourts.gov/", 
+    "ared"
   ], 
   "us;md;court.special.appeals": [
     "us;md;court.special.appeals", 
     "Court of Special Appeals of Maryland", 
-    "http://www.courts.state.md.us/cosappeals/"
+    "http://www.courts.state.md.us/cosappeals/", 
+    "mdctspecapp"
   ], 
   "us;federal;in;nd;bankruptcy.court": [
     "us;federal;in;nd;bankruptcy.court", 
     "United States Bankruptcy Court, N.D. Indiana", 
-    "http://www.innb.uscourts.gov/"
+    "http://www.innb.uscourts.gov/", 
+    "innb"
   ], 
   "us;federal;ga;sd;district.court": [
     "us;federal;ga;sd;district.court", 
     "District Court, S.D. Georgia", 
-    "http://www.gasd.uscourts.gov/"
+    "http://www.gasd.uscourts.gov/", 
+    "gasd"
   ], 
   "us;federal;sc;d;bankruptcy.court": [
     "us;federal;sc;d;bankruptcy.court", 
     "United States Bankruptcy Court, D. South Carolina", 
-    "http://www.scb.uscourts.gov/"
+    "http://www.scb.uscourts.gov/", 
+    "scb"
   ], 
   "us;or;court.appeals": [
     "us;or;court.appeals", 
     "Court of Appeals of Oregon", 
-    "http://courts.oregon.gov/COA/"
+    "http://courts.oregon.gov/COA/", 
+    "orctapp"
   ], 
   "us;ny;court.appeals": [
     "us;ny;court.appeals", 
     "New York Court of Appeals", 
-    "http://www.nycourts.gov/ctapps/"
+    "http://www.nycourts.gov/ctapps/", 
+    "ny"
   ], 
   "us;federal;emergency.court.appeals": [
     "us;federal;emergency.court.appeals", 
     "Emergency Court of Appeals", 
-    "https://secure.wikimedia.org/wikipedia/en/wiki/Emergency_Court_of_Appeals"
+    "https://secure.wikimedia.org/wikipedia/en/wiki/Emergency_Court_of_Appeals", 
+    "eca"
   ], 
   "us;federal;court.appeals.11.circuit": [
     "us;federal;court.appeals.11.circuit", 
     "Court of Appeals for the Eleventh Circuit", 
-    "http://www.ca11.uscourts.gov/"
+    "http://www.ca11.uscourts.gov/", 
+    "ca11"
   ], 
   "us;ar;supreme.court": [
     "us;ar;supreme.court", 
     "Supreme Court of Arkansas", 
-    "https://courts.arkansas.gov/courts/supreme-court"
+    "https://courts.arkansas.gov/courts/supreme-court", 
+    "ark"
   ], 
   "us;federal;nj;d;bankruptcy.court": [
     "us;federal;nj;d;bankruptcy.court", 
     "United States Bankruptcy Court, D. New Jersey", 
-    "http://www.njb.uscourts.gov/"
+    "http://www.njb.uscourts.gov/", 
+    "njb"
   ], 
   "us;federal;ca;cd;bankruptcy.court": [
     "us;federal;ca;cd;bankruptcy.court", 
     "United States Bankruptcy Court, C.D. California", 
-    "http://www.cacb.uscourts.gov/"
+    "http://www.cacb.uscourts.gov/", 
+    "cacb"
   ], 
   "us;federal;ny;nd;district.court": [
     "us;federal;ny;nd;district.court", 
     "District Court, N.D. New York", 
-    "http://www.nynd.uscourts.gov/"
+    "http://www.nynd.uscourts.gov/", 
+    "nynd"
   ], 
   "us;ct;superior.court": [
     "us;ct;superior.court", 
     "Connecticut Superior Court", 
-    "http://www.jud.ct.gov/external/super/\u200e"
+    "http://www.jud.ct.gov/external/super/\u200e", 
+    "connsuperct"
   ], 
   "us;al;court.civil.appeals": [
     "us;al;court.civil.appeals", 
     "Court of Civil Appeals of Alabama", 
-    "http://judicial.alabama.gov/civil.cfm"
+    "http://judicial.alabama.gov/civil.cfm", 
+    "alacivapp"
   ], 
   "us;wa;court.appeals": [
     "us;wa;court.appeals", 
     "Court of Appeals of Washington", 
-    "https://www.courts.wa.gov/appellate_trial_courts/"
+    "https://www.courts.wa.gov/appellate_trial_courts/", 
+    "washctapp"
   ], 
   "us;federal;bankruptcy.appellate.panel.6.circuit": [
     "us;federal;bankruptcy.appellate.panel.6.circuit", 
     "Bankruptcy Appellate Panel of the Sixth Circuit", 
-    "http://www.bap6.uscourts.gov/"
+    "http://www.bap6.uscourts.gov/", 
+    "bap6"
   ], 
   "us;tx": [
     "us;tx;supreme.court", 
     "Texas Supreme Court", 
-    "http://www.supreme.courts.state.tx.us/"
+    "http://www.supreme.courts.state.tx.us/", 
+    "tex"
   ], 
   "us;federal;wi;ed;bankruptcy.court": [
     "us;federal;wi;ed;bankruptcy.court", 
     "United States Bankruptcy Court, E.D. Wisconsin", 
-    "http://www.wieb.uscourts.gov/"
+    "http://www.wieb.uscourts.gov/", 
+    "wieb"
   ], 
   "us;federal;tn;ed;bankruptcy.court": [
     "us;federal;tn;ed;bankruptcy.court", 
     "United States Bankruptcy Court, E.D. Tennessee", 
-    "http://www.tneb.uscourts.gov/"
+    "http://www.tneb.uscourts.gov/", 
+    "tneb"
   ], 
   "us;tn": [
     "us;tn;supreme.court", 
     "Tennessee Supreme Court", 
-    "https://www.tncourts.gov/courts/supreme-court"
+    "https://www.tncourts.gov/courts/supreme-court", 
+    "tenn"
   ], 
   "us;federal;tn;md;bankruptcy.court": [
     "us;federal;tn;md;bankruptcy.court", 
     "United States Bankruptcy Court, M.D. Tennessee", 
-    "http://www.tnmb.uscourts.gov/"
+    "http://www.tnmb.uscourts.gov/", 
+    "tnmb"
   ], 
   "us;federal;ga;md;bankruptcy.court": [
     "us;federal;ga;md;bankruptcy.court", 
     "United States Bankruptcy Court, M.D. Georgia", 
-    "http://www.gamb.uscourts.gov/"
+    "http://www.gamb.uscourts.gov/", 
+    "gamb"
   ], 
   "us;federal;ny;sd;bankruptcy.court": [
     "us;federal;ny;sd;bankruptcy.court", 
     "United States Bankruptcy Court, S.D. New York", 
-    "http://www.nysb.uscourts.gov/"
+    "http://www.nysb.uscourts.gov/", 
+    "nysb"
   ], 
   "us;federal;court.appeals.10.circuit": [
     "us;federal;court.appeals.10.circuit", 
     "Court of Appeals for the Tenth Circuit", 
-    "http://www.ca10.uscourts.gov/"
+    "http://www.ca10.uscourts.gov/", 
+    "ca10"
   ], 
   "us;federal;tn;d;district.court": [
     "us;federal;tn;d;district.court", 
     "District Court, D. Tennessee", 
-    "http://www.uscourts.gov/"
+    "http://www.uscourts.gov/", 
+    "tennessed"
   ], 
   "us;il": [
     "us;il;supreme.court", 
     "Illinois Supreme Court", 
-    "http://www.state.il.us/court/"
+    "http://www.state.il.us/court/", 
+    "ill"
   ], 
   "us;in": [
     "us;in;supreme.court", 
     "Indiana Supreme Court", 
-    "http://www.in.gov/judiciary/supreme/"
+    "http://www.in.gov/judiciary/supreme/", 
+    "ind"
   ], 
   "us;ia": [
     "us;ia;supreme.court", 
     "Supreme Court of Iowa", 
-    "http://www.iowacourts.gov/supreme_court/"
+    "http://www.iowacourts.gov/supreme_court/", 
+    "iowa"
   ], 
   "us;nv;supreme.court": [
     "us;nv;supreme.court", 
     "Nevada Supreme Court", 
-    "http://www.nevadajudiciary.us/index.php/supremecourt"
+    "http://www.nevadajudiciary.us/index.php/supremecourt", 
+    "nev"
   ], 
   "us;id": [
     "us;id;supreme.court", 
     "Idaho Supreme Court", 
-    "http://www.isc.idaho.gov/"
+    "http://www.isc.idaho.gov/", 
+    "idaho"
   ], 
   "us;federal;pa;d;district.court": [
     "us;federal;pa;d;district.court", 
     "District Court, D. Pennsylvania", 
-    "http://www.uscourts.gov/"
+    "http://www.uscourts.gov/", 
+    "pennsylvaniad"
   ], 
   "us;ri;supreme.court": [
     "us;ri;supreme.court", 
     "Supreme Court of Rhode Island", 
-    "http://www.courts.ri.gov/courts/supremecourt/default.aspx"
+    "http://www.courts.ri.gov/courts/supremecourt/default.aspx", 
+    "ri"
   ], 
   "us;fl;district.court.appeal": [
     "us;fl;district.court.appeal", 
     "District Court of Appeal of Florida", 
-    "http://www.flcourts.org/courts/dca/dca.shtml"
+    "http://www.flcourts.org/courts/dca/dca.shtml", 
+    "fladistctapp"
   ], 
   "us;federal;mi;ed;bankruptcy.court": [
     "us;federal;mi;ed;bankruptcy.court", 
     "United States Bankruptcy Court, E.D. Michigan", 
-    "http://www.mieb.uscourts.gov/"
+    "http://www.mieb.uscourts.gov/", 
+    "mieb"
   ], 
   "us;federal;ky;ed;district.court": [
     "us;federal;ky;ed;district.court", 
     "District Court, E.D. Kentucky", 
-    "http://www.kyed.uscourts.gov/"
+    "http://www.kyed.uscourts.gov/", 
+    "kyed"
   ], 
   "us;pa;court.judicial.discipline": [
     "us;pa;court.judicial.discipline", 
     "Court of Judicial Discipline of Pennsylvania", 
-    "http://www.pacourts.us/courts/court-of-judicial-discipline\u200e"
+    "http://www.pacourts.us/courts/court-of-judicial-discipline\u200e", 
+    "cjdpa"
   ], 
   "us;fl": [
     "us;fl;supreme.court", 
     "Supreme Court of Florida", 
-    "http://www.floridasupremecourt.org/"
+    "http://www.floridasupremecourt.org/", 
+    "fla"
   ], 
   "us;federal;nh;d;bankruptcy.court": [
     "us;federal;nh;d;bankruptcy.court", 
     "United States Bankruptcy Court, D. New Hampshire", 
-    "http://www.nhb.uscourts.gov/"
+    "http://www.nhb.uscourts.gov/", 
+    "nhb"
   ], 
   "us;federal;tx;wd;district.court": [
     "us;federal;tx;wd;district.court", 
     "District Court, W.D. Texas", 
-    "http://www.txwd.uscourts.gov/"
+    "http://www.txwd.uscourts.gov/", 
+    "txwd"
   ], 
   "us;sd;supreme.court": [
     "us;sd;supreme.court", 
     "South Dakota Supreme Court", 
-    "http://www.sdjudicial.com/"
+    "http://www.sdjudicial.com/", 
+    "sd"
   ], 
   "us;federal;wv;sd;bankruptcy.court": [
     "us;federal;wv;sd;bankruptcy.court", 
     "United States Bankruptcy Court, S.D. West Virginia", 
-    "http://www.wvsb.uscourts.gov/"
+    "http://www.wvsb.uscourts.gov/", 
+    "wvsb"
   ], 
   "us;federal;ne;d;bankruptcy.court": [
     "us;federal;ne;d;bankruptcy.court", 
     "United States Bankruptcy Court, D. Nebraska", 
-    "http://www.neb.uscourts.gov/"
+    "http://www.neb.uscourts.gov/", 
+    "nebraskab"
   ], 
   "us;federal;ri;d;district.court": [
     "us;federal;ri;d;district.court", 
     "District Court, D. Rhode Island", 
-    "http://www.rid.uscourts.gov/"
+    "http://www.rid.uscourts.gov/", 
+    "rid"
   ], 
   "us;federal;wy;d;bankruptcy.court": [
     "us;federal;wy;d;bankruptcy.court", 
     "United States Bankruptcy Court, D. Wyoming", 
-    "http://www.wyb.uscourts.gov/"
+    "http://www.wyb.uscourts.gov/", 
+    "wyb"
   ], 
   "us;federal;va;wd;bankruptcy.court": [
     "us;federal;va;wd;bankruptcy.court", 
     "United States Bankruptcy Court, W.D. Virginia", 
-    "http://www.vawb.uscourts.gov/"
+    "http://www.vawb.uscourts.gov/", 
+    "vawb"
   ], 
   "us;federal;pa;wd;bankruptcy.court": [
     "us;federal;pa;wd;bankruptcy.court", 
     "United States Bankruptcy Court, W.D. Pennsylvania", 
-    "http://www.pawb.uscourts.gov/"
+    "http://www.pawb.uscourts.gov/", 
+    "pawb"
   ], 
   "us;federal;bankruptcy.court.d.guam": [
     "us;federal;bankruptcy.court.d.guam", 
     "United States Bankruptcy Court, D. Guam", 
-    "https://en.wikipedia.org/wiki/District_Court_of_Guam"
+    "https://en.wikipedia.org/wiki/District_Court_of_Guam", 
+    "gub"
   ], 
   "us;federal;testing.supreme.court": [
     "us;federal;testing.supreme.court", 
     "Testing Supreme Court", 
-    "http://www.example.com/"
+    "http://www.example.com/", 
+    "test"
   ], 
   "us;mi;supreme.court": [
     "us;mi;supreme.court", 
     "Michigan Supreme Court", 
-    "http://courts.mi.gov/"
+    "http://courts.mi.gov/", 
+    "mich"
   ], 
   "us;federal;pa;special.tribunal": [
     "us;federal;pa;special.tribunal", 
     "U.S. Special Tribunal of Pennsylvania", 
-    "https://www.courtlistener.com/?court=stp"
+    "https://www.courtlistener.com/?court=stp", 
+    "stp"
   ], 
   "us;federal;board.veterans.appeals": [
     "us;federal;board.veterans.appeals", 
     "Board of Veterans' Appeals", 
-    "http://www.index.va.gov/search/va/bva_search.jsp"
+    "http://www.index.va.gov/search/va/bva_search.jsp", 
+    "bva"
   ], 
   "us;ok;judicial.ethics.advisory.panel": [
     "us;ok;judicial.ethics.advisory.panel", 
     "Oklahoma Judicial Ethics Advisory Panel", 
-    "http://www.oscn.net/applications/oscn/index.asp?ftdb=STOKCSJE&level=1"
+    "http://www.oscn.net/applications/oscn/index.asp?ftdb=STOKCSJE&level=1", 
+    "oklajeap"
   ], 
   "us;ga;supreme.court": [
     "us;ga;supreme.court", 
     "Supreme Court of Georgia", 
-    "http://www.gasupreme.us/"
+    "http://www.gasupreme.us/", 
+    "ga"
   ], 
   "us;federal;ar;wd;district.court": [
     "us;federal;ar;wd;district.court", 
     "District Court, W.D. Arkansas", 
-    "http://www.arwd.uscourts.gov/"
+    "http://www.arwd.uscourts.gov/", 
+    "arwd"
   ], 
   "us;federal;court.appeals.6.circuit": [
     "us;federal;court.appeals.6.circuit", 
     "Court of Appeals for the Sixth Circuit", 
-    "http://www.ca6.uscourts.gov/"
+    "http://www.ca6.uscourts.gov/", 
+    "ca6"
   ], 
   "us;federal;ny;nd;bankruptcy.court": [
     "us;federal;ny;nd;bankruptcy.court", 
     "United States Bankruptcy Court, N.D. New York", 
-    "http://www.nynb.uscourts.gov/"
+    "http://www.nynb.uscourts.gov/", 
+    "nynb"
   ], 
   "us;ok;court.criminal.appeals": [
     "us;ok;court.criminal.appeals", 
     "Court of Criminal Appeals of Oklahoma", 
-    "http://www.okcca.net/"
+    "http://www.okcca.net/", 
+    "oklacrimapp"
   ], 
   "us;federal;ca;sd;bankruptcy.court": [
     "us;federal;ca;sd;bankruptcy.court", 
     "United States Bankruptcy Court, S.D. California", 
-    "http://www.casb.uscourts.gov/"
+    "http://www.casb.uscourts.gov/", 
+    "casb"
   ], 
   "us;federal;mt;d;district.court": [
     "us;federal;mt;d;district.court", 
     "District Court, D. Montana", 
-    "http://www.mtd.uscourts.gov/"
+    "http://www.mtd.uscourts.gov/", 
+    "mtd"
   ], 
   "us;ms;court.appeals": [
     "us;ms;court.appeals", 
     "Court of Appeals of Mississippi", 
-    "http://courts.ms.gov/appellate_courts/coa/coa.html"
+    "http://courts.ms.gov/appellate_courts/coa/coa.html", 
+    "missctapp"
   ], 
   "us;federal;la;ed;bankruptcy.court": [
     "us;federal;la;ed;bankruptcy.court", 
     "United States Bankruptcy Court, E.D. Louisiana", 
-    "http://www.laeb.uscourts.gov/"
+    "http://www.laeb.uscourts.gov/", 
+    "laeb"
   ], 
   "us;federal;ga;nd;district.court": [
     "us;federal;ga;nd;district.court", 
     "District Court, N.D. Georgia", 
-    "http://www.gand.uscourts.gov/"
+    "http://www.gand.uscourts.gov/", 
+    "gand"
   ], 
   "us;federal;il;d;district.court": [
     "us;federal;il;d;district.court", 
     "District Court, D. Illinois", 
-    "http://www.uscourts.gov/"
+    "http://www.uscourts.gov/", 
+    "illinoisd"
   ], 
   "us;ut;supreme.court": [
     "us;ut;supreme.court", 
     "Utah Supreme Court", 
-    "http://www.utcourts.gov/opinions/supopin/index.htm"
+    "http://www.utcourts.gov/opinions/supopin/index.htm", 
+    "utah"
   ], 
   "us;federal;ut;d;district.court": [
     "us;federal;ut;d;district.court", 
     "United States District Court, D. Utah", 
-    "http://www.utd.uscourts.gov/"
+    "http://www.utd.uscourts.gov/", 
+    "utd"
   ], 
   "us;ny;surrogates.court": [
     "us;ny;surrogates.court", 
     "New York Surrogate's Court", 
-    "https://en.wikipedia.org/wiki/New_York_Surrogate%27s_Court"
+    "https://en.wikipedia.org/wiki/New_York_Surrogate%27s_Court", 
+    "nysurct"
   ], 
   "us;wv;supreme.court": [
     "us;wv;supreme.court", 
     "West Virginia Supreme Court", 
-    "http://www.courtswv.gov/supreme-court/"
+    "http://www.courtswv.gov/supreme-court/", 
+    "wva"
   ], 
   "us;sc;court.appeals": [
     "us;sc;court.appeals", 
     "Court of Appeals of South Carolina", 
-    "http://www.judicial.state.sc.us/appeals/"
+    "http://www.judicial.state.sc.us/appeals/", 
+    "scctapp"
   ], 
   "us;federal;pa;md;bankruptcy.court": [
     "us;federal;pa;md;bankruptcy.court", 
     "United States Bankruptcy Court, M.D. Pennsylvania", 
-    "http://www.pamb.uscourts.gov/"
+    "http://www.pamb.uscourts.gov/", 
+    "pamb"
   ], 
   "us;wi;supreme.court": [
     "us;wi;supreme.court", 
     "Wisconsin Supreme Court", 
-    "http://www.wicourts.gov/courts/supreme/index.htm"
+    "http://www.wicourts.gov/courts/supreme/index.htm", 
+    "wis"
   ], 
   "us;ia;court.appeals": [
     "us;ia;court.appeals", 
     "Court of Appeals of Iowa", 
-    "http://www.iowacourts.gov/court_of_appeals/"
+    "http://www.iowacourts.gov/court_of_appeals/", 
+    "iowactapp"
   ], 
   "us;federal;nm;d;bankruptcy.court": [
     "us;federal;nm;d;bankruptcy.court", 
     "United States Bankruptcy Court, D. New Mexico", 
-    "http://www.nmb.uscourts.gov/"
+    "http://www.nmb.uscourts.gov/", 
+    "nmb"
   ], 
   "us;federal;or;d;district.court": [
     "us;federal;or;d;district.court", 
     "District Court, D. Oregon", 
-    "http://www.ord.uscourts.gov/"
+    "http://www.ord.uscourts.gov/", 
+    "ord"
   ], 
   "us;federal;judicial.conference.committee": [
     "us;federal;judicial.conference.committee", 
     "United States Judicial Conference Committee", 
-    "http://www.uscourts.gov/FederalCourts/JudicialConference/Committees.aspx"
+    "http://www.uscourts.gov/FederalCourts/JudicialConference/Committees.aspx", 
+    "usjc"
   ], 
   "us;ok;attorney.general.reports": [
     "us;ok;attorney.general.reports", 
     "Oklahoma Attorney General Reports", 
-    "http://www.oscn.net/applications/oscn/Index.asp?ftdb=STOKAG&level=1"
+    "http://www.oscn.net/applications/oscn/Index.asp?ftdb=STOKAG&level=1", 
+    "oklaag"
   ], 
   "us;federal;mo;cd;district.court": [
     "us;federal;mo;cd;district.court", 
     "District Court, C.D. Missouri", 
-    "http://www.uscourts.gov/"
+    "http://www.uscourts.gov/", 
+    "mocd"
   ], 
   "us;federal;ny;ed;bankruptcy.court": [
     "us;federal;ny;ed;bankruptcy.court", 
     "United States Bankruptcy Court, E.D. New York", 
-    "http://www.nyeb.uscourts.gov/"
+    "http://www.nyeb.uscourts.gov/", 
+    "nyeb"
   ], 
   "us;ca;court.appeal": [
     "us;ca;court.appeal", 
     "California Court of Appeal", 
-    "http://www.courts.ca.gov/courtsofappeal.htm"
+    "http://www.courts.ca.gov/courtsofappeal.htm", 
+    "calctapp"
   ], 
   "us;federal;temporary.emergency.court.appeals": [
     "us;federal;temporary.emergency.court.appeals", 
     "Temporary Emergency Court of Appeals", 
-    "http://www.fjc.gov/history/home.nsf/page/courts_special_tecoa.html"
+    "http://www.fjc.gov/history/home.nsf/page/courts_special_tecoa.html", 
+    "tecoa"
   ], 
   "us;mi;court.appeals": [
     "us;mi;court.appeals", 
     "Michigan Court of Appeals", 
-    "http://courts.mi.gov/courts/coa/pages/default.aspx"
+    "http://courts.mi.gov/courts/coa/pages/default.aspx", 
+    "michctapp"
   ], 
   "us;federal;pa;ed;district.court": [
     "us;federal;pa;ed;district.court", 
     "District Court, E.D. Pennsylvania", 
-    "http://www.paed.uscourts.gov/"
+    "http://www.paed.uscourts.gov/", 
+    "paed"
   ], 
   "us;federal;id;d;bankruptcy.court": [
     "us;federal;id;d;bankruptcy.court", 
     "United States Bankruptcy Court, D. Idaho", 
-    "http://www.id.uscourts.gov/"
+    "http://www.id.uscourts.gov/", 
+    "idb"
   ], 
   "us;federal;ok;wd;bankruptcy.court": [
     "us;federal;ok;wd;bankruptcy.court", 
     "United States Bankruptcy Court, W.D. Oklahoma", 
-    "http://www.okwb.uscourts.gov/"
+    "http://www.okwb.uscourts.gov/", 
+    "okwb"
   ], 
   "us;federal;ok;ed;bankruptcy.court": [
     "us;federal;ok;ed;bankruptcy.court", 
     "United States Bankruptcy Court, E.D. Oklahoma", 
-    "http://www.okeb.uscourts.gov/"
+    "http://www.okeb.uscourts.gov/", 
+    "okeb"
   ], 
   "us;federal;de;d;district.court": [
     "us;federal;de;d;district.court", 
     "District Court, D. Delaware", 
-    "http://www.ded.uscourts.gov/"
+    "http://www.ded.uscourts.gov/", 
+    "ded"
   ], 
   "us;federal;district.court.d.puerto.rico": [
     "us;federal;district.court.d.puerto.rico", 
     "District Court, D. Puerto Rico", 
-    "http://www.prd.uscourts.gov/"
+    "http://www.prd.uscourts.gov/", 
+    "prd"
   ], 
   "us;federal;tx;ed;bankruptcy.court": [
     "us;federal;tx;ed;bankruptcy.court", 
     "United States Bankruptcy Court, E.D. Texas", 
-    "http://www.txeb.uscourts.gov/"
+    "http://www.txeb.uscourts.gov/", 
+    "txeb"
   ], 
   "us;federal;armed.services.board.contract.appeals": [
     "us;federal;armed.services.board.contract.appeals", 
     "Armed Services Board of Contract Appeals", 
-    "http://www.asbca.mil/"
+    "http://www.asbca.mil/", 
+    "asbca"
   ], 
   "us;federal;court.appeals.7.circuit": [
     "us;federal;court.appeals.7.circuit", 
     "Court of Appeals for the Seventh Circuit", 
-    "http://www.ca7.uscourts.gov/"
+    "http://www.ca7.uscourts.gov/", 
+    "ca7"
   ], 
   "us;ok;supreme.court": [
     "us;ok;supreme.court", 
     "Supreme Court of Oklahoma", 
-    "http://www.oscn.net/oscn/schome/start.htm"
+    "http://www.oscn.net/oscn/schome/start.htm", 
+    "okla"
   ], 
   "us;nj;tax.court": [
     "us;nj;tax.court", 
     "New Jersey Tax Court", 
-    "http://www.judiciary.state.nj.us/taxcourt/\u200e"
+    "http://www.judiciary.state.nj.us/taxcourt/\u200e", 
+    "njtaxct"
   ], 
   "us;de;family.court": [
     "us;de;family.court", 
     "Delaware Family Court", 
-    "http://courts.delaware.gov/family/\u200e"
+    "http://courts.delaware.gov/family/\u200e", 
+    "delfamct"
   ], 
   "us;in;court.appeals": [
     "us;in;court.appeals", 
     "Indiana Court of Appeals", 
-    "http://www.in.gov/judiciary/appeals/"
+    "http://www.in.gov/judiciary/appeals/", 
+    "indctapp"
   ], 
   "us;co;court.appeals": [
     "us;co;court.appeals", 
     "Colorado Court of Appeals", 
-    "http://www.courts.state.co.us/Courts/Court_Of_Appeals/"
+    "http://www.courts.state.co.us/Courts/Court_Of_Appeals/", 
+    "coloctapp"
   ], 
   "us;federal;ak;d;district.court": [
     "us;federal;ak;d;district.court", 
     "District Court, D. Alaska", 
-    "http://www.akd.uscourts.gov/"
+    "http://www.akd.uscourts.gov/", 
+    "akd"
   ], 
   "us;federal;in;nd;district.court": [
     "us;federal;in;nd;district.court", 
     "District Court, N.D. Indiana", 
-    "http://www.innd.uscourts.gov/"
+    "http://www.innd.uscourts.gov/", 
+    "innd"
   ], 
   "us;federal;ne;d;district.court": [
     "us;federal;ne;d;district.court", 
     "District Court, D. Nebraska", 
-    "http://www.ned.uscourts.gov/"
+    "http://www.ned.uscourts.gov/", 
+    "ned"
   ], 
   "us;federal;foreign.intelligence.surveillance.court": [
     "us;federal;foreign.intelligence.surveillance.court", 
     "Foreign Intelligence Surveillance Court", 
-    "http://www.fisc.uscourts.gov/"
+    "http://www.fisc.uscourts.gov/", 
+    "fisc"
   ], 
   "us;federal;court.appeals.3.circuit": [
     "us;federal;court.appeals.3.circuit", 
     "Court of Appeals for the Third Circuit", 
-    "http://www.ca3.uscourts.gov/"
+    "http://www.ca3.uscourts.gov/", 
+    "ca3"
   ], 
   "us;mn;court.appeals": [
     "us;mn;court.appeals", 
     "Court of Appeals of Minnesota", 
-    "http://www.mncourts.gov/?page=551"
+    "http://www.mncourts.gov/?page=551", 
+    "minnctapp"
   ], 
   "us;mo;supreme.court": [
     "us;mo;supreme.court", 
     "Supreme Court of Missouri", 
-    "http://www.courts.mo.gov/page.jsp?id=27"
+    "http://www.courts.mo.gov/page.jsp?id=27", 
+    "mo"
   ], 
   "us;md;court.appeals": [
     "us;md;court.appeals", 
     "Court of Appeals of Maryland", 
-    "http://www.courts.state.md.us/coappeals/"
+    "http://www.courts.state.md.us/coappeals/", 
+    "md"
   ], 
   "us;wy": [
     "us;wy;supreme.court", 
     "Wyoming Supreme Court", 
-    "http://www.courts.state.wy.us/"
+    "http://www.courts.state.wy.us/", 
+    "wyo"
   ], 
   "us;hi;supreme.court": [
     "us;hi;supreme.court", 
     "Hawaii Supreme Court", 
-    "http://www.courts.state.hi.us/"
+    "http://www.courts.state.hi.us/", 
+    "haw"
   ], 
   "us;wv": [
     "us;wv;supreme.court", 
     "West Virginia Supreme Court", 
-    "http://www.courtswv.gov/supreme-court/"
+    "http://www.courtswv.gov/supreme-court/", 
+    "wva"
   ], 
   "us;wi": [
     "us;wi;supreme.court", 
     "Wisconsin Supreme Court", 
-    "http://www.wicourts.gov/courts/supreme/index.htm"
+    "http://www.wicourts.gov/courts/supreme/index.htm", 
+    "wis"
   ], 
   "us;federal;ar;wd;bankruptcy.court": [
     "us;federal;ar;wd;bankruptcy.court", 
     "United States Bankruptcy Court, W.D. Arkansas", 
-    "http://www.arb.uscourts.gov/"
+    "http://www.arb.uscourts.gov/", 
+    "arwb"
   ], 
   "us;federal;me;d;bankruptcy.appellate.panel": [
     "us;federal;me;d;bankruptcy.appellate.panel", 
     "Bankruptcy Appellate Panel, D. Maine", 
-    "http://www.meb.uscourts.gov/"
+    "http://www.meb.uscourts.gov/", 
+    "bapme"
   ], 
   "us;federal;ak;d;bankruptcy.court": [
     "us;federal;ak;d;bankruptcy.court", 
     "United States Bankruptcy Court, D. Alaska", 
-    "http://www.akb.uscourts.gov/"
+    "http://www.akb.uscourts.gov/", 
+    "akb"
   ], 
   "us;federal;court.appeals.1.circuit": [
     "us;federal;court.appeals.1.circuit", 
     "Court of Appeals for the First Circuit", 
-    "http://www.ca1.uscourts.gov/"
+    "http://www.ca1.uscourts.gov/", 
+    "ca1"
   ], 
   "us;la": [
     "us;la;supreme.court", 
     "Supreme Court of Louisiana", 
-    "http://www.lasc.org/"
+    "http://www.lasc.org/", 
+    "la"
   ], 
   "us;federal;md;d;bankruptcy.court": [
     "us;federal;md;d;bankruptcy.court", 
     "United States Bankruptcy Court, D. Maryland", 
-    "http://www.mdb.uscourts.gov/"
+    "http://www.mdb.uscourts.gov/", 
+    "mdb"
   ], 
   "us;federal;court.appeals.2.circuit": [
     "us;federal;court.appeals.2.circuit", 
     "Court of Appeals for the Second Circuit", 
-    "http://www.ca2.uscourts.gov/"
+    "http://www.ca2.uscourts.gov/", 
+    "ca2"
   ], 
   "us;ia;supreme.court": [
     "us;ia;supreme.court", 
     "Supreme Court of Iowa", 
-    "http://www.iowacourts.gov/supreme_court/"
+    "http://www.iowacourts.gov/supreme_court/", 
+    "iowa"
   ], 
   "us;federal;fl;nd;bankruptcy.court": [
     "us;federal;fl;nd;bankruptcy.court", 
     "United States Bankruptcy Court, N.D. Florida", 
-    "http://www.flnb.uscourts.gov/"
+    "http://www.flnb.uscourts.gov/", 
+    "flnb"
   ], 
   "us;tx;court.appeals": [
     "us;tx;court.appeals", 
     "Court of Appeals of Texas", 
-    "http://www.courts.state.tx.us/courts/coa.asp"
+    "http://www.courts.state.tx.us/courts/coa.asp", 
+    "texapp"
   ], 
   "us;ak;supreme.court": [
     "us;ak;supreme.court", 
     "Alaska Supreme Court", 
-    "http://courts.alaska.gov/sp.htm"
+    "http://courts.alaska.gov/sp.htm", 
+    "alaska"
   ], 
   "us;federal;fl;nd;district.court": [
     "us;federal;fl;nd;district.court", 
     "District Court, N.D. Florida", 
-    "http://www.flnd.uscourts.gov/"
+    "http://www.flnd.uscourts.gov/", 
+    "flnd"
   ], 
   "us;federal;mo;sd;district.court": [
     "us;federal;mo;sd;district.court", 
     "District Court, S.D. Missouri", 
-    "http://www.courts.mo.gov/page.jsp?id=208\u200e"
+    "http://www.courts.mo.gov/page.jsp?id=208\u200e", 
+    "mosd"
   ], 
   "us;federal;ca;d;district.court": [
     "us;federal;ca;d;district.court", 
     "District Court, D. California", 
-    "http://www.uscourts.gov/"
+    "http://www.uscourts.gov/", 
+    "californiad"
   ], 
   "us;oh;court.appeals": [
     "us;oh;court.appeals", 
     "Ohio Court of Appeals", 
-    "http://www.supremecourt.ohio.gov/JudSystem/districtCourts/"
+    "http://www.supremecourt.ohio.gov/JudSystem/districtCourts/", 
+    "ohioctapp"
   ], 
   "us;federal;district.court.district.columbia": [
     "us;federal;district.court.district.columbia", 
     "District Court, District of Columbia", 
-    "http://www.dcd.uscourts.gov/"
+    "http://www.dcd.uscourts.gov/", 
+    "dcd"
   ], 
   "us;federal;bankruptcy.appellate.panel.1.circuit": [
     "us;federal;bankruptcy.appellate.panel.1.circuit", 
     "Bankruptcy Appellate Panel of the First Circuit", 
-    "http://www.bap1.uscourts.gov/"
+    "http://www.bap1.uscourts.gov/", 
+    "bap1"
   ], 
   "us;federal;ar;ed;bankruptcy.court": [
     "us;federal;ar;ed;bankruptcy.court", 
     "United States Bankruptcy Court, E.D. Arkansas", 
-    "http://www.arb.uscourts.gov/"
+    "http://www.arb.uscourts.gov/", 
+    "areb"
   ], 
   "us;federal;md;d;district.court": [
     "us;federal;md;d;district.court", 
     "District Court, D. Maryland", 
-    "https://www.mdd.uscourts.gov/"
+    "https://www.mdd.uscourts.gov/", 
+    "mdd"
   ], 
   "us;federal;ok;ed;district.court": [
     "us;federal;ok;ed;district.court", 
     "District Court, E.D. Oklahoma", 
-    "http://www.oked.uscourts.gov/"
+    "http://www.oked.uscourts.gov/", 
+    "oked"
   ], 
   "us;federal;or;d;bankruptcy.court": [
     "us;federal;or;d;bankruptcy.court", 
     "United States Bankruptcy Court, D. Oregon", 
-    "http://www.orb.uscourts.gov/"
+    "http://www.orb.uscourts.gov/", 
+    "orb"
   ], 
   "us;ks;supreme.court": [
     "us;ks;supreme.court", 
     "Supreme Court of Kansas", 
-    "http://www.kscourts.org/kansas-courts/supreme-court/"
+    "http://www.kscourts.org/kansas-courts/supreme-court/", 
+    "kan"
   ], 
   "us;federal;ks;d;bankruptcy.court": [
     "us;federal;ks;d;bankruptcy.court", 
     "United States Bankruptcy Court, D. Kansas", 
-    "http://www.ksb.uscourts.gov/"
+    "http://www.ksb.uscourts.gov/", 
+    "ksb"
   ], 
   "us;federal;ca;ed;district.court": [
     "us;federal;ca;ed;district.court", 
     "District Court, E.D. California", 
-    "http://www.caed.uscourts.gov/"
+    "http://www.caed.uscourts.gov/", 
+    "caed"
   ], 
   "us;federal;tn;ed;district.court": [
     "us;federal;tn;ed;district.court", 
     "District Court, E.D. Tennessee", 
-    "http://www.tned.uscourts.gov/"
+    "http://www.tned.uscourts.gov/", 
+    "tned"
   ], 
   "us;federal;ut;d;bankruptcy.court": [
     "us;federal;ut;d;bankruptcy.court", 
     "United States Bankruptcy Court, D. Utah", 
-    "http://www.utb.uscourts.gov/"
+    "http://www.utb.uscourts.gov/", 
+    "utb"
   ], 
   "us;federal;judicial.panel.multidistrict.litigation": [
     "us;federal;judicial.panel.multidistrict.litigation", 
     "United States Judicial Panel on Multidistrict Litigation", 
-    "http://www.jpml.uscourts.gov/"
+    "http://www.jpml.uscourts.gov/", 
+    "jpml"
   ], 
   "us;federal;navy-marine.corps.court.criminal.appeals": [
     "us;federal;navy-marine.corps.court.criminal.appeals", 
     "Navy-Marine Corps Court of Criminal Appeals", 
-    "http://www.jag.navy.mil/"
+    "http://www.jag.navy.mil/", 
+    "nmcca"
   ], 
   "us;co;supreme.court": [
     "us;co;supreme.court", 
     "Supreme Court of Colorado", 
-    "http://www.coloradosupremecourt.com/"
+    "http://www.coloradosupremecourt.com/", 
+    "colo"
   ], 
   "us;ny;family.court": [
     "us;ny;family.court", 
     "New York Family Court", 
-    "http://www.courts.state.ny.us/courts/cts-outside-nyc-FAMILY.shtml"
+    "http://www.courts.state.ny.us/courts/cts-outside-nyc-FAMILY.shtml", 
+    "nyfamct"
   ], 
   "us;wy;supreme.court": [
     "us;wy;supreme.court", 
     "Wyoming Supreme Court", 
-    "http://www.courts.state.wy.us/"
+    "http://www.courts.state.wy.us/", 
+    "wyo"
   ], 
   "us;federal;ms;sd;district.court": [
     "us;federal;ms;sd;district.court", 
     "District Court, S.D. Mississippi", 
-    "http://www.mssd.uscourts.gov/"
+    "http://www.mssd.uscourts.gov/", 
+    "mssd"
   ], 
   "us;federal;nv;d;district.court": [
     "us;federal;nv;d;district.court", 
     "District Court, D. Nevada", 
-    "http://www.nvd.uscourts.gov/"
+    "http://www.nvd.uscourts.gov/", 
+    "nvd"
   ], 
   "us;de;court.chancery": [
     "us;de;court.chancery", 
     "Court of Chancery of Delaware", 
-    "http://courts.delaware.gov/chancery/"
+    "http://courts.delaware.gov/chancery/", 
+    "delch"
   ], 
   "us;federal;district.court.virgin.islands": [
     "us;federal;district.court.virgin.islands", 
     "District Court, Virgin Islands", 
-    "http://www.vid.uscourts.gov/"
+    "http://www.vid.uscourts.gov/", 
+    "vid"
   ], 
   "us;federal;district.court.d.guam": [
     "us;federal;district.court.d.guam", 
     "District Court, D. Guam", 
-    "http://www.gud.uscourts.gov/"
+    "http://www.gud.uscourts.gov/", 
+    "gud"
   ], 
   "us;ok;court.judiciary": [
     "us;ok;court.judiciary", 
     "Court on the Judiciary of Oklahoma", 
-    "http://en.wikipedia.org/wiki/Oklahoma_Court_on_the_Judiciary"
+    "http://en.wikipedia.org/wiki/Oklahoma_Court_on_the_Judiciary", 
+    "oklacoj"
   ], 
   "us;federal;tx;nd;district.court": [
     "us;federal;tx;nd;district.court", 
     "District Court, N.D. Texas", 
-    "http://www.txnd.uscourts.gov/"
+    "http://www.txnd.uscourts.gov/", 
+    "txnd"
   ], 
   "us;az;court.appeals": [
     "us;az;court.appeals", 
     "Court of Appeals of Arizona", 
-    "http://www.azcourts.gov/AZCourts/CourtofAppeals.aspx\u200e"
+    "http://www.azcourts.gov/AZCourts/CourtofAppeals.aspx\u200e", 
+    "arizctapp"
   ], 
   "us;al;court.criminal.appeals": [
     "us;al;court.criminal.appeals", 
     "Court of Criminal Appeals of Alabama", 
-    "http://judicial.alabama.gov/criminal.cfm"
+    "http://judicial.alabama.gov/criminal.cfm", 
+    "alacrimapp"
   ], 
   "us;hi": [
     "us;hi;supreme.court", 
     "Hawaii Supreme Court", 
-    "http://www.courts.state.hi.us/"
+    "http://www.courts.state.hi.us/", 
+    "haw"
   ], 
   "us;federal;va;ed;bankruptcy.court": [
     "us;federal;va;ed;bankruptcy.court", 
     "United States Bankruptcy Court, E.D. Virginia", 
-    "https://www.vaeb.uscourts.gov/"
+    "https://www.vaeb.uscourts.gov/", 
+    "vaeb"
   ], 
   "us;pa;supreme.court": [
     "us;pa;supreme.court", 
     "Supreme Court of Pennsylvania", 
-    "http://www.pacourts.us/courts/supreme-court/"
+    "http://www.pacourts.us/courts/supreme-court/", 
+    "pa"
   ], 
   "us;federal;ky;ed;bankruptcy.court": [
     "us;federal;ky;ed;bankruptcy.court", 
     "United States Bankruptcy Court, E.D. Kentucky", 
-    "http://www.kyeb.uscourts.gov/"
+    "http://www.kyeb.uscourts.gov/", 
+    "kyeb"
   ], 
   "us;federal;tx;nd;bankruptcy.court": [
     "us;federal;tx;nd;bankruptcy.court", 
     "United States Bankruptcy Court, N.D. Texas", 
-    "http://www.txnb.uscourts.gov/"
+    "http://www.txnb.uscourts.gov/", 
+    "txnb"
   ], 
   "us;ca;supreme.court": [
     "us;ca;supreme.court", 
     "California Supreme Court", 
-    "http://www.courts.ca.gov/supremecourt.htm"
+    "http://www.courts.ca.gov/supremecourt.htm", 
+    "cal"
   ], 
   "us;nv": [
     "us;nv;supreme.court", 
     "Nevada Supreme Court", 
-    "http://www.nevadajudiciary.us/index.php/supremecourt"
+    "http://www.nevadajudiciary.us/index.php/supremecourt", 
+    "nev"
   ], 
   "us;sd": [
     "us;sd;supreme.court", 
     "South Dakota Supreme Court", 
-    "http://www.sdjudicial.com/"
+    "http://www.sdjudicial.com/", 
+    "sd"
   ], 
   "us;sc": [
     "us;sc;supreme.court", 
     "Supreme Court of South Carolina", 
-    "http://www.judicial.state.sc.us/supreme/"
+    "http://www.judicial.state.sc.us/supreme/", 
+    "sc"
   ], 
   "us;nc;supreme.court": [
     "us;nc;supreme.court", 
     "Supreme Court of North Carolina", 
-    "http://www.nccourts.org/courts/appellate/supreme/"
+    "http://www.nccourts.org/courts/appellate/supreme/", 
+    "nc"
   ], 
   "us;federal;ga;md;district.court": [
     "us;federal;ga;md;district.court", 
     "District Court, M.D. Georgia", 
-    "http://www.gamd.uscourts.gov/"
+    "http://www.gamd.uscourts.gov/", 
+    "gamd"
   ], 
   "us;federal;al;md;bankruptcy.court": [
     "us;federal;al;md;bankruptcy.court", 
     "United States Bankruptcy Court, M.D. Alabama", 
-    "http://www.almb.uscourts.gov/"
+    "http://www.almb.uscourts.gov/", 
+    "almb"
   ], 
   "us;federal;ny;sd;district.court": [
     "us;federal;ny;sd;district.court", 
     "District Court, S.D. New York", 
-    "http://www.nysd.uscourts.gov/"
+    "http://www.nysd.uscourts.gov/", 
+    "nysd"
   ], 
   "us;federal;ms;nd;district.court": [
     "us;federal;ms;nd;district.court", 
     "District Court, N.D. Mississippi", 
-    "http://www.msnd.uscourts.gov/"
+    "http://www.msnd.uscourts.gov/", 
+    "msnd"
   ], 
   "us;al;court.appeals": [
     "us;al;court.appeals", 
     "Alabama Court of Appeals", 
-    "http://judicial.alabama.gov/"
+    "http://judicial.alabama.gov/", 
+    "alactapp"
   ], 
   "us;federal;ny;ed;district.court": [
     "us;federal;ny;ed;district.court", 
     "District Court, E.D. New York", 
-    "http://www.nyed.uscourts.gov/"
+    "http://www.nyed.uscourts.gov/", 
+    "nyed"
   ], 
   "us;federal;wa;wd;district.court": [
     "us;federal;wa;wd;district.court", 
     "District Court, W.D. Washington", 
-    "http://www.wawd.uscourts.gov/"
+    "http://www.wawd.uscourts.gov/", 
+    "wawd"
   ], 
   "us;tx;supreme.court": [
     "us;tx;supreme.court", 
     "Texas Supreme Court", 
-    "http://www.supreme.courts.state.tx.us/"
+    "http://www.supreme.courts.state.tx.us/", 
+    "tex"
   ], 
   "us;federal;mt;d;bankruptcy.court": [
     "us;federal;mt;d;bankruptcy.court", 
     "United States Bankruptcy Court, D. Montana", 
-    "http://www.mtb.uscourts.gov/"
+    "http://www.mtb.uscourts.gov/", 
+    "mtb"
   ], 
   "us;federal;court.appeals.9.circuit": [
     "us;federal;court.appeals.9.circuit", 
     "Court of Appeals for the Ninth Circuit", 
-    "http://www.ca9.uscourts.gov/"
+    "http://www.ca9.uscourts.gov/", 
+    "ca9"
   ], 
   "us;wa;supreme.court": [
     "us;wa;supreme.court", 
     "Washington Supreme Court", 
-    "https://www.courts.wa.gov/appellate_trial_courts/SupremeCourt/"
+    "https://www.courts.wa.gov/appellate_trial_courts/SupremeCourt/", 
+    "wash"
   ], 
   "us;federal;nc;ed;bankruptcy.court": [
     "us;federal;nc;ed;bankruptcy.court", 
     "United States Bankruptcy Court, E.D. North Carolina", 
-    "https://ecf.nceb.uscourts.gov/"
+    "https://ecf.nceb.uscourts.gov/", 
+    "nceb"
   ], 
   "us;federal;mi;ed;district.court": [
     "us;federal;mi;ed;district.court", 
     "District Court, E.D. Michigan", 
-    "http://www.mied.uscourts.gov/"
+    "http://www.mied.uscourts.gov/", 
+    "mied"
   ], 
   "us;federal;court.appeals.4.circuit": [
     "us;federal;court.appeals.4.circuit", 
     "Court of Appeals for the Fourth Circuit", 
-    "http://www.ca4.uscourts.gov/"
+    "http://www.ca4.uscourts.gov/", 
+    "ca4"
   ], 
   "us;federal;la;ed;district.court": [
     "us;federal;la;ed;district.court", 
     "District Court, E.D. Louisiana.", 
-    "http://www.laed.uscourts.gov/"
+    "http://www.laed.uscourts.gov/", 
+    "laed"
   ], 
   "us;federal;va;wd;district.court": [
     "us;federal;va;wd;district.court", 
     "District Court, W.D. Virginia", 
-    "http://www.vawd.uscourts.gov/"
+    "http://www.vawd.uscourts.gov/", 
+    "vawd"
   ], 
   "us;federal;wi;wd;bankruptcy.court": [
     "us;federal;wi;wd;bankruptcy.court", 
     "United States Bankruptcy Court, W.D. Wisconsin", 
-    "http://www.wiwb.uscourts.gov/"
+    "http://www.wiwb.uscourts.gov/", 
+    "wiwb"
   ], 
   "us;federal;tx;ed;district.court": [
     "us;federal;tx;ed;district.court", 
     "District Court, E.D. Texas", 
-    "http://www.txed.uscourts.gov/"
+    "http://www.txed.uscourts.gov/", 
+    "txed"
   ], 
   "us;ar": [
     "us;ar;supreme.court", 
     "Supreme Court of Arkansas", 
-    "https://courts.arkansas.gov/courts/supreme-court"
+    "https://courts.arkansas.gov/courts/supreme-court", 
+    "ark"
   ], 
   "us;tx;special.court.review": [
     "us;tx;special.court.review", 
     "Texas Special Court of Review", 
-    "http://www.scjc.state.tx.us/"
+    "http://www.scjc.state.tx.us/", 
+    "texreview"
   ], 
   "us;federal;oh;sd;bankruptcy.court": [
     "us;federal;oh;sd;bankruptcy.court", 
     "United States Bankruptcy Court, S.D. Ohio", 
-    "http://www.ohsb.uscourts.gov/"
+    "http://www.ohsb.uscourts.gov/", 
+    "ohsb"
   ], 
   "us;federal;va;ed;district.court": [
     "us;federal;va;ed;district.court", 
     "District Court, E.D. Virginia", 
-    "http://www.vaed.uscourts.gov/"
+    "http://www.vaed.uscourts.gov/", 
+    "vaed"
   ], 
   "us;federal;il;nd;district.court": [
     "us;federal;il;nd;district.court", 
     "District Court, N.D. Illinois", 
-    "http://www.ilnd.uscourts.gov/"
+    "http://www.ilnd.uscourts.gov/", 
+    "ilnd"
   ], 
   "us;az": [
     "us;az;supreme.court", 
     "Arizona Supreme Court", 
-    "http://www.azcourts.gov/azsupremecourt.aspx"
+    "http://www.azcourts.gov/azsupremecourt.aspx", 
+    "ariz"
   ], 
   "us;federal;air.force.court.criminal.appeals": [
     "us;federal;air.force.court.criminal.appeals", 
     "United States Air Force Court of Criminal Appeals", 
-    "http://afcca.law.af.mil/"
+    "http://afcca.law.af.mil/", 
+    "afcca"
   ], 
   "us;federal;nc;md;bankruptcy.court": [
     "us;federal;nc;md;bankruptcy.court", 
     "United States Bankruptcy Court, M.D. North Carolina", 
-    "http://www.ncmb.uscourts.gov/"
+    "http://www.ncmb.uscourts.gov/", 
+    "ncmb"
   ], 
   "us;ak": [
     "us;ak;supreme.court", 
     "Alaska Supreme Court", 
-    "http://courts.alaska.gov/sp.htm"
+    "http://courts.alaska.gov/sp.htm", 
+    "alaska"
   ], 
   "us;al": [
     "us;al;supreme.court", 
     "Supreme Court of Alabama", 
-    "http://judicial.alabama.gov/supreme.cfm"
+    "http://judicial.alabama.gov/supreme.cfm", 
+    "ala"
   ], 
   "us;federal;wv;nd;district.court": [
     "us;federal;wv;nd;district.court", 
     "District Court, N.D. West Virginia", 
-    "http://www.wvnd.uscourts.gov/"
+    "http://www.wvnd.uscourts.gov/", 
+    "wvnd"
   ], 
   "us;federal;court.appeals.8.circuit": [
     "us;federal;court.appeals.8.circuit", 
     "Court of Appeals for the Eighth Circuit", 
-    "http://www.ca8.uscourts.gov/"
+    "http://www.ca8.uscourts.gov/", 
+    "ca8"
   ], 
   "us;federal;ct;d;district.court": [
     "us;federal;ct;d;district.court", 
     "District Court, D. Connecticut", 
-    "http://www.ctd.uscourts.gov/"
+    "http://www.ctd.uscourts.gov/", 
+    "ctd"
   ], 
   "us;tx;court.criminal.appeals": [
     "us;tx;court.criminal.appeals", 
     "Court of Criminal Appeals of Texas", 
-    "http://www.cca.courts.state.tx.us/"
+    "http://www.cca.courts.state.tx.us/", 
+    "texcrimapp"
   ], 
   "us;federal;me;d;bankruptcy.court": [
     "us;federal;me;d;bankruptcy.court", 
     "  United States Bankruptcy Court, D. Maine", 
-    "http://www.meb.uscourts.gov/"
+    "http://www.meb.uscourts.gov/", 
+    "meb"
   ], 
   "us;federal;mi;wd;district.court": [
     "us;federal;mi;wd;district.court", 
     "District Court, W.D. Michigan", 
-    "http://www.miwd.uscourts.gov/"
+    "http://www.miwd.uscourts.gov/", 
+    "miwd"
   ], 
   "us;ne;supreme.court": [
     "us;ne;supreme.court", 
     "Nebraska Supreme Court", 
-    "http://supremecourt.ne.gov/"
+    "http://supremecourt.ne.gov/", 
+    "neb"
   ], 
   "us;federal;oh;nd;bankruptcy.court": [
     "us;federal;oh;nd;bankruptcy.court", 
     "United States Bankruptcy Court, N.D. Ohio", 
-    "http://www.ohnb.uscourts.gov/"
+    "http://www.ohnb.uscourts.gov/", 
+    "ohnb"
   ], 
   "us;az;supreme.court": [
     "us;az;supreme.court", 
     "Arizona Supreme Court", 
-    "http://www.azcourts.gov/azsupremecourt.aspx"
+    "http://www.azcourts.gov/azsupremecourt.aspx", 
+    "ariz"
   ], 
   "us;federal;bankruptcy.appellate.panel.2.circuit": [
     "us;federal;bankruptcy.appellate.panel.2.circuit", 
     "Bankruptcy Appellate Panel of the Second Circuit", 
-    "http://www.bap2.uscourts.gov/"
+    "http://www.bap2.uscourts.gov/", 
+    "bap2"
   ], 
   "us;in;supreme.court": [
     "us;in;supreme.court", 
     "Indiana Supreme Court", 
-    "http://www.in.gov/judiciary/supreme/"
+    "http://www.in.gov/judiciary/supreme/", 
+    "ind"
   ], 
   "us;federal;ms;nd;bankruptcy.court": [
     "us;federal;ms;nd;bankruptcy.court", 
     "United States Bankruptcy Court, N.D. Mississippi", 
-    "http://www.msnb.uscourts.gov/"
+    "http://www.msnb.uscourts.gov/", 
+    "msnb"
   ], 
   "us;federal;tn;wd;district.court": [
     "us;federal;tn;wd;district.court", 
     "District Court, W.D. Tennessee", 
-    "http://www.tnwd.uscourts.gov/"
+    "http://www.tnwd.uscourts.gov/", 
+    "tnwd"
   ], 
   "us;federal;nc;ed;district.court": [
     "us;federal;nc;ed;district.court", 
     "District Court, E.D. North Carolina", 
-    "http://www.nced.uscourts.gov/"
+    "http://www.nced.uscourts.gov/", 
+    "nced"
   ], 
   "us;federal;bankruptcy.court.d.virgin.islands": [
     "us;federal;bankruptcy.court.d.virgin.islands", 
     "United States Bankruptcy Court, D. Virgin Islands", 
-    "http://www.vid.uscourts.gov/"
+    "http://www.vid.uscourts.gov/", 
+    "vib"
   ], 
   "us;federal;vt;d;district.court": [
     "us;federal;vt;d;district.court", 
     "District Court, D. Vermont", 
-    "http://www.vtd.uscourts.gov/"
+    "http://www.vtd.uscourts.gov/", 
+    "vtd"
   ], 
   "us;nd;court.appeals": [
     "us;nd;court.appeals", 
     "North Dakota Court of Appeals", 
-    "http://www.ndcourts.gov/default.htm"
+    "http://www.ndcourts.gov/default.htm", 
+    "ndctapp"
   ], 
   "us;federal;oh;sd;district.court": [
     "us;federal;oh;sd;district.court", 
     "District Court, S.D. Ohio", 
-    "http://www.ohsd.uscourts.gov/"
+    "http://www.ohsd.uscourts.gov/", 
+    "ohsd"
   ], 
   "us;az;tax.court": [
     "us;az;tax.court", 
     "Arizona Tax Court", 
-    "http://www.superiorcourt.maricopa.gov/SuperiorCourt/TaxCourt/"
+    "http://www.superiorcourt.maricopa.gov/SuperiorCourt/TaxCourt/", 
+    "ariztaxct"
   ], 
   "us;ar;court.appeals": [
     "us;ar;court.appeals", 
     "Court of Appeals of Arkansas", 
-    "https://courts.arkansas.gov/courts/court-of-appeals"
+    "https://courts.arkansas.gov/courts/court-of-appeals", 
+    "arkctapp"
   ], 
   "us;or;supreme.court": [
     "us;or;supreme.court", 
     "Oregon Supreme Court", 
-    "http://www.publications.ojd.state.or.us/Pages/OpinionsSC.aspx"
+    "http://www.publications.ojd.state.or.us/Pages/OpinionsSC.aspx", 
+    "or"
   ], 
   "us;federal;ca;cd;district.court": [
     "us;federal;ca;cd;district.court", 
     "District Court, C.D. California", 
-    "http://www.cacd.uscourts.gov/"
+    "http://www.cacd.uscourts.gov/", 
+    "cacd"
   ], 
   "us;federal;special.court.regional.rail.reorganization.act": [
     "us;federal;special.court.regional.rail.reorganization.act", 
     "Special Court under the Regional Rail Reorganization Act", 
-    "http://www.uscourts.gov/news/TheThirdBranch/96-11-01/Special_Railroad_Court_to_Close_Doors.aspx"
+    "http://www.uscourts.gov/news/TheThirdBranch/96-11-01/Special_Railroad_Court_to_Close_Doors.aspx", 
+    "reglrailreorgct"
   ], 
   "us;federal;ok;nd;bankruptcy.court": [
     "us;federal;ok;nd;bankruptcy.court", 
     "United States Bankruptcy Court, N.D. Oklahoma", 
-    "http://www.oknb.uscourts.gov/"
+    "http://www.oknb.uscourts.gov/", 
+    "oknb"
   ], 
   "us;federal;tn;d;bankruptcy.court": [
     "us;federal;tn;d;bankruptcy.court", 
     "United States Bankruptcy Court, D. Tennessee", 
-    "http://www.uscourts.gov/"
+    "http://www.uscourts.gov/", 
+    "tennesseeb"
   ], 
   "us;mt;supreme.court": [
     "us;mt;supreme.court", 
     "Montana Supreme Court", 
-    "http://courts.mt.gov/supreme/default.mcpx"
+    "http://courts.mt.gov/supreme/default.mcpx", 
+    "mont"
   ], 
   "us;or": [
     "us;or;supreme.court", 
     "Oregon Supreme Court", 
-    "http://www.publications.ojd.state.or.us/Pages/OpinionsSC.aspx"
+    "http://www.publications.ojd.state.or.us/Pages/OpinionsSC.aspx", 
+    "or"
   ], 
   "us;al;supreme.court": [
     "us;al;supreme.court", 
     "Supreme Court of Alabama", 
-    "http://judicial.alabama.gov/supreme.cfm"
+    "http://judicial.alabama.gov/supreme.cfm", 
+    "ala"
   ], 
   "us;ok": [
     "us;ok;supreme.court", 
     "Supreme Court of Oklahoma", 
-    "http://www.oscn.net/oscn/schome/start.htm"
+    "http://www.oscn.net/oscn/schome/start.htm", 
+    "okla"
   ], 
   "us;oh": [
     "us;oh;supreme.court", 
     "Ohio Supreme Court", 
-    "http://www.supremecourt.ohio.gov/"
+    "http://www.supremecourt.ohio.gov/", 
+    "ohio"
   ], 
   "us;ct;supreme.court": [
     "us;ct;supreme.court", 
     "Supreme Court of Connecticut", 
-    "http://www.jud.state.ct.us/external/supapp/"
+    "http://www.jud.state.ct.us/external/supapp/", 
+    "conn"
   ], 
   "us;de": [
     "us;de;supreme.court", 
     "Supreme Court of Delaware", 
-    "http://courts.delaware.gov/supreme/"
+    "http://courts.delaware.gov/supreme/", 
+    "del"
   ], 
   "us;federal;id;d;district.court": [
     "us;federal;id;d;district.court", 
     "District Court, D. Idaho", 
-    "http://www.id.uscourts.gov/"
+    "http://www.id.uscourts.gov/", 
+    "idd"
   ], 
   "us;ga;court.appeals": [
     "us;ga;court.appeals", 
     "Court of Appeals of Georgia.", 
-    "http://www.gaappeals.us/"
+    "http://www.gaappeals.us/", 
+    "gactapp"
   ], 
   "us;federal;sc;ed;district.court": [
     "us;federal;sc;ed;district.court", 
     "District Court, E.D. South Carolina", 
-    "http://www.scd.uscourts.gov/"
+    "http://www.scd.uscourts.gov/", 
+    "southcarolinaed"
   ], 
   "us;federal;court.appeals.5.circuit": [
     "us;federal;court.appeals.5.circuit", 
     "Court of Appeals for the Fifth Circuit", 
-    "http://www.ca5.uscourts.gov/"
+    "http://www.ca5.uscourts.gov/", 
+    "ca5"
   ], 
   "us;hi;intermediate.court.appeals": [
     "us;hi;intermediate.court.appeals", 
     "Hawaii Intermediate Court of Appeals", 
-    "http://www.courts.state.hi.us/"
+    "http://www.courts.state.hi.us/", 
+    "hawapp"
   ], 
   "us;federal;wi;ed;district.court": [
     "us;federal;wi;ed;district.court", 
     "District Court, E.D. Wisconsin", 
-    "http://www.wied.uscourts.gov/"
+    "http://www.wied.uscourts.gov/", 
+    "wied"
   ], 
   "us;ms;supreme.court": [
     "us;ms;supreme.court", 
     "Mississippi Supreme Court", 
-    "http://courts.ms.gov/appellate_courts/sc/sc.html"
+    "http://courts.ms.gov/appellate_courts/sc/sc.html", 
+    "miss"
   ], 
   "us;federal;bankruptcy.appellate.panel.10.circuit": [
     "us;federal;bankruptcy.appellate.panel.10.circuit", 
     "Bankruptcy Appellate Panel of the Tenth Circuit", 
-    "http://www.bap10.uscourts.gov/"
+    "http://www.bap10.uscourts.gov/", 
+    "bap10"
   ], 
   "us;ma;bankruptcy.appellate.panel": [
     "us;ma;bankruptcy.appellate.panel", 
     "Bankruptcy Appellate Panel of Massachusetts", 
-    "http://www.uscourts.gov/"
+    "http://www.uscourts.gov/", 
+    "bapma"
   ], 
   "us;federal;nj;d;district.court": [
     "us;federal;nj;d;district.court", 
     "District Court, D. New Jersey", 
-    "http://www.njd.uscourts.gov/"
+    "http://www.njd.uscourts.gov/", 
+    "njd"
   ], 
   "us;tn;court.criminal.appeals": [
     "us;tn;court.criminal.appeals", 
     "Court of Criminal Appeals of Tennessee", 
-    "http://www.tsc.state.tn.us/courts/court-criminal-appeals"
+    "http://www.tsc.state.tn.us/courts/court-criminal-appeals", 
+    "tenncrimapp"
   ], 
   "us;ky;court.appeals": [
     "us;ky;court.appeals", 
     "Court of Appeals of Kentucky", 
-    "http://courts.ky.gov/courts/coa/Pages/coa.aspx"
+    "http://courts.ky.gov/courts/coa/Pages/coa.aspx", 
+    "kyctapp"
   ], 
   "us;va;supreme.court": [
     "us;va;supreme.court", 
     "Supreme Court of Virginia", 
-    "http://www.courts.state.va.us/courts/scv/"
+    "http://www.courts.state.va.us/courts/scv/", 
+    "va"
   ], 
   "us;federal;wv;sd;district.court": [
     "us;federal;wv;sd;district.court", 
     "District Court, S.D. West Virginia.", 
-    "http://www.wvsd.uscourts.gov/"
+    "http://www.wvsd.uscourts.gov/", 
+    "wvsd"
   ], 
   "us;ak;court.appeals": [
     "us;ak;court.appeals", 
     "Court of Appeals of Alaska", 
-    "http://courts.alaska.gov/appcts.htm"
+    "http://courts.alaska.gov/appcts.htm", 
+    "alaskactapp"
   ], 
   "us;la;court.appeal": [
     "us;la;court.appeal", 
     "Louisiana Court of Appeal", 
-    "http://louisiana.gov/Government/Judicial_Branch/#courtsofappeal"
+    "http://louisiana.gov/Government/Judicial_Branch/#courtsofappeal", 
+    "lactapp"
   ], 
   "us;federal;nm;d;district.court": [
     "us;federal;nm;d;district.court", 
     "District Court, D. New Mexico", 
-    "http://www.nmcourt.fed.us/web/DCDOCS/dcindex.html"
+    "http://www.nmcourt.fed.us/web/DCDOCS/dcindex.html", 
+    "nmd"
   ], 
   "us;federal;ny;wd;bankruptcy.court": [
     "us;federal;ny;wd;bankruptcy.court", 
     "United States Bankruptcy Court, W.D. New York", 
-    "http://www.nywb.uscourts.gov/"
+    "http://www.nywb.uscourts.gov/", 
+    "nywb"
   ], 
   "us;federal;court.customs.patent.appeals": [
     "us;federal;court.customs.patent.appeals", 
     "Court of Customs and Patent Appeals", 
-    "http://www.cafc.uscourts.gov/"
+    "http://www.cafc.uscourts.gov/", 
+    "ccpa"
   ], 
   "us;nd;supreme.court": [
     "us;nd;supreme.court", 
     "North Dakota Supreme Court", 
-    "http://www.ndcourts.gov/default.htm"
+    "http://www.ndcourts.gov/default.htm", 
+    "nd"
   ], 
   "us;id;supreme.court": [
     "us;id;supreme.court", 
     "Idaho Supreme Court", 
-    "http://www.isc.idaho.gov/"
+    "http://www.isc.idaho.gov/", 
+    "idaho"
   ], 
   "us;federal;court.appeals.federal.circuit": [
     "us;federal;court.appeals.federal.circuit", 
     "Court of Appeals for the Federal Circuit", 
-    "http://www.cafc.uscourts.gov/"
+    "http://www.cafc.uscourts.gov/", 
+    "cafc"
   ], 
   "us;federal;nv;d;bankruptcy.court": [
     "us;federal;nv;d;bankruptcy.court", 
     "United States Bankruptcy Court, D. Nevada", 
-    "http://www.nvb.uscourts.gov/"
+    "http://www.nvb.uscourts.gov/", 
+    "nvb"
   ], 
   "us;federal;court.military.commission.review": [
     "us;federal;court.military.commission.review", 
     "U.S. Court of Military Commission Review", 
-    "http://www.mc.mil/cases/USCourtofMilitaryCommissionReview.aspx"
+    "http://www.mc.mil/cases/USCourtofMilitaryCommissionReview.aspx", 
+    "mc"
   ], 
   "us;va": [
     "us;va;supreme.court", 
     "Supreme Court of Virginia", 
-    "http://www.courts.state.va.us/courts/scv/"
+    "http://www.courts.state.va.us/courts/scv/", 
+    "va"
   ], 
   "us;federal;tax.court": [
     "us;federal;tax.court", 
     "United States Tax Court", 
-    "http://www.ustaxcourt.gov/"
+    "http://www.ustaxcourt.gov/", 
+    "tax"
   ], 
   "us;vt": [
     "us;vt;supreme.court", 
     "Supreme Court of Vermont", 
-    "http://www.vermontjudiciary.org/gtc/supreme/default.aspx"
+    "http://www.vermontjudiciary.org/gtc/supreme/default.aspx", 
+    "vt"
   ], 
   "us;federal;oh;d;district.court": [
     "us;federal;oh;d;district.court", 
     "District Court, D. Ohio", 
-    "http://www.uscourts.gov/"
+    "http://www.uscourts.gov/", 
+    "ohiod"
   ], 
   "us;federal;ok;wd;district.court": [
     "us;federal;ok;wd;district.court", 
     "District Court, W.D. Oklahoma", 
-    "http://www.uscourts.gov/"
+    "http://www.uscourts.gov/", 
+    "okwd"
   ], 
   "us;federal;tn;wd;bankruptcy.court": [
     "us;federal;tn;wd;bankruptcy.court", 
     "United States Bankruptcy Court, W.D. Tennessee", 
-    "http://www.tnwb.uscourts.gov/"
+    "http://www.tnwb.uscourts.gov/", 
+    "tnwb"
   ], 
   "us;federal;il;sd;bankruptcy.court": [
     "us;federal;il;sd;bankruptcy.court", 
     "United States Bankruptcy Court, S.D. Illinois", 
-    "http://www.ilsb.uscourts.gov/"
+    "http://www.ilsb.uscourts.gov/", 
+    "ilsb"
   ], 
   "us;federal;wa;ed;district.court": [
     "us;federal;wa;ed;district.court", 
     "District Court, E.D. Washington", 
-    "http://www.waed.uscourts.gov/"
+    "http://www.waed.uscourts.gov/", 
+    "waed"
   ], 
   "us;federal;wa;ed;bankruptcy.court": [
     "us;federal;wa;ed;bankruptcy.court", 
     "United States Bankruptcy Court, E.D. Washington", 
-    "http://www.waeb.uscourts.gov/"
+    "http://www.waeb.uscourts.gov/", 
+    "waeb"
   ]
 }
