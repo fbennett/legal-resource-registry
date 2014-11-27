@@ -18,20 +18,6 @@ ifh.seek(0)
 obj = json.loads(ifh.read())
 ifh.close()
 
-xxx = '''
-    aSupreme = False
-    if a.find("supreme.court") > -1 or a.find("ny;court.appeals"):
-        print "HIT"
-        aSupreme = True
-    if b.find("supreme.court") > -1 or a.find("ny;court.appeals"):
-        bSupreme = True
-    if aSupreme and not bSupreme:
-        print "Found"
-        return 1
-    elif not aSupreme and bSupreme:
-        return -1
-'''
-
 def sortme(a,b):
     a = a["fields"]["mlz_jurisdiction"]
     b = b["fields"]["mlz_jurisdiction"]
@@ -59,7 +45,7 @@ last_jurisdiction = None
 for i in range(0,len(obj),1):
     jurisdiction = obj[i]["fields"]["mlz_jurisdiction"]
     fields = obj[i]["fields"]
-    state_jur_map[jurisdiction] = [fields["mlz_jurisdiction"],fields["full_name"],fields["url"]]
+    state_jur_map[jurisdiction] = [fields["mlz_jurisdiction"],fields["full_name"],fields["url"],obj[i]["pk"]]
     if jurisdiction.startswith("us;federal;"):
         continue
     m = re.match("^(us;[a-z]{2}(?=;)).*",jurisdiction)
@@ -67,8 +53,7 @@ for i in range(0,len(obj),1):
         this_jurisdiction = m.group(1)
     if this_jurisdiction != last_jurisdiction:
         # print fields["mlz_jurisdiction"].upper()
-        #print this_jurisdiction
-        state_jur_map[this_jurisdiction] = [fields["mlz_jurisdiction"],fields["full_name"],fields["url"]]
+        state_jur_map[this_jurisdiction] = [fields["mlz_jurisdiction"],fields["full_name"],fields["url"],obj[i]["pk"]]
     else:
         #print "  " + fields["mlz_jurisdiction"]
         pass

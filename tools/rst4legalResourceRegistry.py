@@ -91,6 +91,7 @@ FEATURES = Features()
 reporters_json = {}
 traveling_jurisdiction = [[]]
 traveling_variations = [{}]
+courts_map = {}
 
 class FeaturesController:
     def __init__(self):
@@ -379,7 +380,8 @@ class CourtDirective(Directive,GitHubUrl):
     has_content = True
     option_spec = {
         'court-id': directives.unchanged,
-        'url': directives.unchanged
+        'url': directives.unchanged,
+        'flp-key': directives.unchanged
     }
 
     def run (self):
@@ -390,6 +392,8 @@ class CourtDirective(Directive,GitHubUrl):
             return [error]
 
         traveling_jurisdiction[0] = self.options["court-id"]
+        if self.options.has_key("flp-key"):
+            courts_map[self.options["flp-key"]] = self.options["court-id"]
 
         court_id_node = courtid()
         court_id_bubble = courtbubble(rawsource=self.options['court-id'],text=self.options['court-id'])

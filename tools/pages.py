@@ -4,7 +4,7 @@ import re,sys,os,os.path,json
 
 from docutils.core import publish_string
 from docutils.parsers.rst import directives
-from rst4legalResourceRegistry import WriterForLegalCitem, JurisdictionDirective, FieldsDirective, CourtDirective, CitationGroupDirective, ReporterDirective, NotesDirective, FEATURES, reporters_json
+from rst4legalResourceRegistry import WriterForLegalCitem, JurisdictionDirective, FieldsDirective, CourtDirective, CitationGroupDirective, ReporterDirective, NotesDirective, FEATURES, reporters_json, courts_map
 
 directives.register_directive('jurisdiction', JurisdictionDirective)
 directives.register_directive('fields', FieldsDirective)
@@ -207,3 +207,4 @@ except GeneralSyntaxException as err:
 pageEngine.dumpPages()
 
 open("reporters-new.json","w+").write(json.dumps(reporters_json,indent=2,sort_keys=True))
+open("courts-map-flp.json","w+").write(json.dumps(courts_map,indent=2,sort_keys=True))

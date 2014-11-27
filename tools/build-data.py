@@ -60,10 +60,10 @@ remap = {
 
 keychain = {}
 keychain.update(state_jur_map)
-keychain["us;federal;court.customs.appeals"] = ["us;federal;court.customs.appeals","United States Court of Customs Appeals",""]
-keychain["us;judicial.branch.navajo.nation"] = ["us;judicial.branch.navajo.nation","Judicial Branch of the Navajo Nation","http://www.navajocourts.org/"]
-keychain["us;federal;courts.martial"] = ["us;federal;courts.martial","United States Courts Martial",""]
-keychain["us;federal;high.court.american.samoa"] = ["us;federal;high.court.american.samoa","High Court of American Samoa",""]
+keychain["us;federal;court.customs.appeals"] = ["us;federal;court.customs.appeals","United States Court of Customs Appeals","http://en.wikipedia.org/wiki/United_States_Court_of_Customs_and_Patent_Appeals",None]
+keychain["us;judicial.branch.navajo.nation"] = ["us;judicial.branch.navajo.nation","Judicial Branch of the Navajo Nation","http://www.navajocourts.org/",None]
+keychain["us;federal;courts.martial"] = ["us;federal;courts.martial","United States Courts Martial","http://en.wikipedia.org/wiki/Courts-martial_in_the_United_States",None]
+keychain["us;federal;high.court.american.samoa"] = ["us;federal;high.court.american.samoa","High Court of American Samoa","http://en.wikipedia.org/wiki/High_Court_of_American_Samoa",None]
 
 def mkCourt(key):
     if remap.has_key(key):
@@ -213,11 +213,15 @@ for jkey in jkeys:
 
     # Write the court into the courts hierarchy here
     abbrevs.sort()
-    abbrevs = '\n\n   .. reporter-key:: '.join(abbrevs)
+    if len(abbrevs):
+        abbrevs = '\n   .. reporter-key:: ' + '\n\n   .. reporter-key:: '.join(abbrevs) + '\n'
     
-    courtkey,name,url = mkCourt(jkey)
+    courtkey,name,url,flp_key = mkCourt(jkey)
 
-    str = '\n.. court:: %s\n   :court-id: %s\n   :url: %s\n\n   .. reporter-key:: %s\n' % (name,courtkey,url,abbrevs)
+    if flp_key:
+        flp_key = '   :flp-key: ' + flp_key + '\n'
+
+    str = '\n.. court:: %s\n   :court-id: %s\n   :url: %s\n%s%s' % (name,courtkey,url,flp_key,abbrevs)
     sys.stdout.write("+")
     writeToHierarchy("courts",courtkey,str)
 
