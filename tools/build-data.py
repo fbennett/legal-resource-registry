@@ -105,15 +105,18 @@ for key in data:
                 else:
                     edition["end"] = "%d/%d/%d" % (edition_orig[1]["year"],edition_orig[1]["month"]+1,edition_orig[1]["day"])
                 edition["name"] = obj["name"]
-                edition["series-abbreviation"] = ekey
+                edition["edition-abbreviation"] = ekey
                 if obj["cite_type"] == "neutral":
                     edition["neutral"] = True
                 else:
                     edition["neutral"] = False
+                edition["flp-series-cite-type"] = obj["cite_type"]
                 if variations.has_key(ekey):
                     edition["variations"] = variations[ekey]
                 else:
                     edition["variations"] = []
+
+                edition["common-key"] = key
 
                 jurisdictions[jdct]["reporters"].append(edition)
     
@@ -189,23 +192,22 @@ for jkey in jkeys:
 
     abbrevs = [];
     for reporter in reporters:
-        #reporter = jurisdiction["reporters"][rkey]
-        abbrevs.append(reporter["series-abbreviation"])
+        abbrevs.append(reporter["edition-abbreviation"])
         if reporter["neutral"]:
             neutral = "   :neutral:\n"
         else:
             neutral = ""
         
-        str = '.. reporter:: %s\n   :series-abbreviation: %s\n   :dates: %s-%s\n%s' % (reporter["name"],reporter["series-abbreviation"],reporter["start"],reporter["end"],neutral)
+        str = '.. reporter:: %s\n   :flp-series-cite-type: %s\n   :flp-common-abbreviation: %s\n   :edition-abbreviation: %s\n   :dates: %s-%s\n%s' % (reporter["name"],reporter["flp-series-cite-type"],reporter["common-key"],reporter["edition-abbreviation"],reporter["start"],reporter["end"],neutral)
         sys.stdout.write(".")
 
         for variation in reporter["variations"]:
-            str += "\n   .. variation: %s\n" % variation
+            str += "\n   .. variation:: %s\n" % variation
 
-        rkey = "%s::%s" % (reporter["name"],reporter["series-abbreviation"])
-        reporter_key = reporter["name"] + "::" + reporter["series-abbreviation"]
+        rkey = "%s::%s" % (reporter["name"],reporter["edition-abbreviation"])
+        reporter_key = reporter["name"] + "::" + reporter["edition-abbreviation"]
         if not names.has_key(reporter_key):
-            names[reporter_key] = {"content":str,"jurisdictions":[],"abbrev":reporter["series-abbreviation"]}
+            names[reporter_key] = {"content":str,"jurisdictions":[],"abbrev":reporter["edition-abbreviation"]}
         jurisdiction = mkCourt(jkey)[0].split(";")
         names[reporter_key]["jurisdictions"].append(jurisdiction)
 

@@ -88,6 +88,9 @@ class Features:
         self.local.optional = self.defaults.optional.copy()
 
 FEATURES = Features()
+reporters_json = {}
+traveling_jurisdiction = [[]]
+traveling_variations = [{}]
 
 class FeaturesController:
     def __init__(self):
@@ -365,7 +368,8 @@ class VariationDirective(Directive):
     option_spec = {}
 
     def run (self):
-        pass
+        traveling_variations[0][self.arguments[0]] = True
+        return []
 
 
 class CourtDirective(Directive,GitHubUrl):
@@ -384,6 +388,9 @@ class CourtDirective(Directive,GitHubUrl):
                 'Invalid context: missing court-id option in court directive',
                 nodes.literal_block(self.block_text, self.block_text), line=self.lineno)
             return [error]
+
+        traveling_jurisdiction[0] = self.options["court-id"]
+
         court_id_node = courtid()
         court_id_bubble = courtbubble(rawsource=self.options['court-id'],text=self.options['court-id'])
         court_id_bubble["href"] = self.mkGitHubUrl("courts",self.options["court-id"])
@@ -436,10 +443,12 @@ class ReporterDirective(Directive,GitHubUrl):
     final_argument_whitespace = True
     has_content = True
     option_spec = {
-        'series-abbreviation': directives.unchanged,
+        'edition-abbreviation': directives.unchanged,
         'dates': directives.unchanged,
         'neutral': directives.unchanged,
         'confirmed': directives.unchanged,
+        'flp-series-cite-type': directives.unchanged,
+        'flp-common-abbreviation': directives.unchanged,
         'jurisdiction': directives.unchanged
     }
 
@@ -458,10 +467,17 @@ class ReporterDirective(Directive,GitHubUrl):
         node["href"] =  self.mkGitHubUrl("reporters",jurisdiction + ";" + abbrev)
         return node
 
+    def findReporterSeries(self,bundle,name):
+        for series in bundle:
+            if series["name"] == name:
+                return series
+        return False
+
     def run (self):
-        if not self.options.has_key('series-abbreviation'):
+        global reporters_json
+        if not self.options.has_key('edition-abbreviation'):
             error = self.state_machine.reporter.error(
-                'Invalid context: missing series-abbreviation option in reporter directive',
+                'Invalid context: missing edition-abbreviation option in reporter directive',
                 nodes.literal_block(self.block_text, self.block_text), line=self.lineno)
             return [error]
         if not self.options.has_key('dates'):
@@ -469,19 +485,73 @@ class ReporterDirective(Directive,GitHubUrl):
                 'Invalid context: missing dates in reporter directive',
                 nodes.literal_block(self.block_text, self.block_text), line=self.lineno)
             return [error]
-        m = re.match("^([0-9]{4})/[0-9]{1,2}/[0-9]{1,2}-(?:([0-9]{4})/[0-9]{1,2}/[0-9]{1,2}|(present))",self.options["dates"])
+        m = re.match("^([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})-(?:([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})|(present))",self.options["dates"])
         if not m:
             error = self.state_machine.reporter.error(
                 'Invalid context: misformatted dates range in reporter directive. Format must be YYYY/MM/DD-YYYY/MM/DD or YYYY/MM/DD-present',
                 nodes.literal_block(self.block_text, self.block_text), line=self.lineno)
             return [error]
+
+        startyearDisplay = m.group(1)
+        startyear = m.group(1)
+        startmonth = m.group(2)
+        startday = m.group(3)
+        if m.group(4):
+            endyear = m.group(4)
+            endyearDisplay = m.group(4)
+            endmonth = m.group(5)
+            endday = m.group(6)
         else:
-            startyear = m.group(1)
-            if m.group(2):
-                endyear = m.group(2)
-            else:
-                endyear = m.group(3)
+            endyearDisplay = m.group(7)
+            endyear = False
+            endmonth = False
+            endday = False
+
+        ## Save segments as short names to avoid going crazy.
+
+        bundle_key = self.options["flp-common-abbreviation"]
+        if not reporters_json.has_key(bundle_key):
+            bundle = []
+            reporters_json[self.options["flp-common-abbreviation"]] = bundle
+        else:
+            bundle = reporters_json[bundle_key]
+        series_name = self.arguments[0]
+        edition_key = self.options["edition-abbreviation"]
+        series = self.findReporterSeries(bundle,series_name)
+        if not series:
+            series = {}
+            series["cite_type"] = self.options["flp-series-cite-type"]
+            series["editions"] = {}
+            series["mlz_jurisdiction"] = []
+            series["name"] = series_name
+            series["variations"] = {}
+            bundle.append(series)
+        if not series["mlz_jurisdiction"].count(traveling_jurisdiction[0]):
+            series["mlz_jurisdiction"].append(traveling_jurisdiction[0])
+            series["mlz_jurisdiction"].sort()
+        series["editions"][edition_key] = [
+            {
+                "year": startyear,
+                "month": startmonth,
+                "day": startday
+                },
+            {
+                "year": endyear,
+                "month": endmonth,
+                "day": endday
+                }
+            ]
+
+        # That's everything but variations, which are handled by the directive.
         
+        dummy = nodes.generated()
+        self.state.nested_parse(self.content, self.content_offset,
+                                dummy)
+        for key in traveling_variations[0].keys():
+            traveling_variations[0][key] = edition_key
+        series["variations"].update(traveling_variations[0])
+        traveling_variations[0] = {}
+
         reporter_box_node = reporterbox()
 
         if self.options.has_key("neutral"):
@@ -494,9 +564,9 @@ class ReporterDirective(Directive,GitHubUrl):
 
         description_node = descriptionbox()
 
-        abbrev = self.makeMiniBubble(self.options["jurisdiction"],self.options["series-abbreviation"])
-        start = self.makeLabelNode(startyear,key="From")
-        end = self.makeLabelNode(endyear,key="To")
+        abbrev = self.makeMiniBubble(self.options["jurisdiction"],self.options["edition-abbreviation"])
+        start = self.makeLabelNode(startyearDisplay,key="From")
+        end = self.makeLabelNode(endyearDisplay,key="To")
         if self.options.has_key("neutral"):
             neutral =  self.makeLabelNode("yes",key="Neutral",nodeType=valueneutral)
         else:
@@ -541,6 +611,7 @@ class NotesDirective(Directive):
                                 node)
         return [node]
 
+directives.register_directive('variation', VariationDirective)
 directives.register_directive('jurisdiction', JurisdictionDirective)
 directives.register_directive('fields', FieldsDirective)
 directives.register_directive('court', CourtDirective)

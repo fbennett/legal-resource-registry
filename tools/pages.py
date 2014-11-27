@@ -1,10 +1,10 @@
 #!/usr/bin/python
 
-import re,sys,os,os.path
+import re,sys,os,os.path,json
 
 from docutils.core import publish_string
 from docutils.parsers.rst import directives
-from rst4legalResourceRegistry import WriterForLegalCitem, JurisdictionDirective, FieldsDirective, CourtDirective, CitationGroupDirective, ReporterDirective, NotesDirective, FEATURES
+from rst4legalResourceRegistry import WriterForLegalCitem, JurisdictionDirective, FieldsDirective, CourtDirective, CitationGroupDirective, ReporterDirective, NotesDirective, FEATURES, reporters_json
 
 directives.register_directive('jurisdiction', JurisdictionDirective)
 directives.register_directive('fields', FieldsDirective)
@@ -205,3 +205,5 @@ except GeneralSyntaxException as err:
     print "Error in pages.txt: unable to parse entry at line %d." % (err.lineno)
 
 pageEngine.dumpPages()
+
+open("reporters-new.json","w+").write(json.dumps(reporters_json,indent=2,sort_keys=True))
