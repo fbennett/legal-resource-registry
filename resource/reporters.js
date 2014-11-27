@@ -133,7 +133,7 @@
                    "editions": {"App. D.C.": [{"year":1893, "month":0, "day":1},
                                               {"year":1941, "month":11, "day":31}]},
                    "mlz_jurisdiction": ["us;dc"],
-                   "name": "Appeal Cases, District of Colombia",
+                   "name": "Appeal Cases, District of Columbia",
                    "variations":{"U.S. App. D.C.":"App. D.C.",
                                  "U.S.App.D.C.":"App. D.C.",
                                  "U. S. App. D. C.":"App. D.C."}}],
