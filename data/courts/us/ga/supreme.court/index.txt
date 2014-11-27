@@ -2,6 +2,7 @@
 .. court:: Supreme Court of Georgia
    :court-id: us;ga;supreme.court
    :url: http://www.gasupreme.us/
+   :flp-key: ga
 
    .. reporter-key:: Ga.
 

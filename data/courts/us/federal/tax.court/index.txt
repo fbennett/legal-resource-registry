@@ -2,6 +2,7 @@
 .. court:: United States Tax Court
    :court-id: us;federal;tax.court
    :url: http://www.ustaxcourt.gov/
+   :flp-key: tax
 
    .. reporter-key:: B.T.A.
 

@@ -2,5 +2,6 @@
 .. court:: United States Bankruptcy Appellate Panel for the Ninth Circuit
    :court-id: us;federal;bankruptcy.appellate.panel.9.circuit
    :url: http://www.ca9.uscourts.gov/bap/
+   :flp-key: bap9
 
    .. reporter-key:: B.R.

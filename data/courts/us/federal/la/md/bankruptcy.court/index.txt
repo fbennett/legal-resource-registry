@@ -2,5 +2,6 @@
 .. court:: United States Bankruptcy Court, M.D. Louisiana
    :court-id: us;federal;la;md;bankruptcy.court
    :url: http://www.lamb.uscourts.gov/
+   :flp-key: lamb
 
    .. reporter-key:: B.R.

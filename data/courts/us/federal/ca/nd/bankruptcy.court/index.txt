@@ -2,5 +2,6 @@
 .. court:: United States Bankruptcy Court, N.D. California
    :court-id: us;federal;ca;nd;bankruptcy.court
    :url: http://www.canb.uscourts.gov/
+   :flp-key: canb
 
    .. reporter-key:: B.R.

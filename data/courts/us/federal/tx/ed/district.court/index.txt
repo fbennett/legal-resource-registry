@@ -2,6 +2,7 @@
 .. court:: District Court, E.D. Texas
    :court-id: us;federal;tx;ed;district.court
    :url: http://www.txed.uscourts.gov/
+   :flp-key: txed
 
    .. reporter-key:: F. Supp.
 

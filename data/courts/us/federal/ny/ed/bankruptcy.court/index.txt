@@ -2,5 +2,6 @@
 .. court:: United States Bankruptcy Court, E.D. New York
    :court-id: us;federal;ny;ed;bankruptcy.court
    :url: http://www.nyeb.uscourts.gov/
+   :flp-key: nyeb
 
    .. reporter-key:: B.R.

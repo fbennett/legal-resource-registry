@@ -2,5 +2,6 @@
 .. court:: United States Bankruptcy Court, D. Nevada
    :court-id: us;federal;nv;d;bankruptcy.court
    :url: http://www.nvb.uscourts.gov/
+   :flp-key: nvb
 
    .. reporter-key:: B.R.

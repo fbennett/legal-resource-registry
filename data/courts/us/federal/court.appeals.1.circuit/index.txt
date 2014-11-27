@@ -2,6 +2,7 @@
 .. court:: Court of Appeals for the First Circuit
    :court-id: us;federal;court.appeals.1.circuit
    :url: http://www.ca1.uscourts.gov/
+   :flp-key: ca1
 
    .. reporter-key:: F.
 

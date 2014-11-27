@@ -2,6 +2,7 @@
 .. court:: District Court, E.D. Wisconsin
    :court-id: us;federal;wi;ed;district.court
    :url: http://www.wied.uscourts.gov/
+   :flp-key: wied
 
    .. reporter-key:: F. Supp.
 

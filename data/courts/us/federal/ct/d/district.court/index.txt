@@ -2,6 +2,7 @@
 .. court:: District Court, D. Connecticut
    :court-id: us;federal;ct;d;district.court
    :url: http://www.ctd.uscourts.gov/
+   :flp-key: ctd
 
    .. reporter-key:: F. Supp.
 

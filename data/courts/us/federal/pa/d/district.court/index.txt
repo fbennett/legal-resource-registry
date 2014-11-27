@@ -2,6 +2,7 @@
 .. court:: District Court, D. Pennsylvania
    :court-id: us;federal;pa;d;district.court
    :url: http://www.uscourts.gov/
+   :flp-key: pennsylvaniad
 
    .. reporter-key:: F. Supp.
 

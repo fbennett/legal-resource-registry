@@ -2,6 +2,7 @@
 .. court:: District Court, W.D. South Carolina
    :court-id: us;federal;sc;wd;district.court
    :url: http://www.ncwd.uscourts.gov/
+   :flp-key: southcarolinawd
 
    .. reporter-key:: F. Supp.
 

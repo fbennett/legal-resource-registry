@@ -2,6 +2,7 @@
 .. court:: District Court, W.D. Wisconsin
    :court-id: us;federal;wi;wd;district.court
    :url: http://www.wiwd.uscourts.gov/
+   :flp-key: wiwd
 
    .. reporter-key:: F. Supp.
 

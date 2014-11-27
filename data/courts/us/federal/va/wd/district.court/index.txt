@@ -2,6 +2,7 @@
 .. court:: District Court, W.D. Virginia
    :court-id: us;federal;va;wd;district.court
    :url: http://www.vawd.uscourts.gov/
+   :flp-key: vawd
 
    .. reporter-key:: F. Supp.
 

@@ -2,6 +2,7 @@
 .. court:: Idaho Supreme Court
    :court-id: us;id;supreme.court
    :url: http://www.isc.idaho.gov/
+   :flp-key: idaho
 
    .. reporter-key:: Idaho
 

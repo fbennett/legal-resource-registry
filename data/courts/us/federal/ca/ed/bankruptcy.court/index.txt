@@ -2,5 +2,6 @@
 .. court:: United States Bankruptcy Court, E.D. California
    :court-id: us;federal;ca;ed;bankruptcy.court
    :url: http://www.caeb.uscourts.gov/
+   :flp-key: caeb
 
    .. reporter-key:: B.R.

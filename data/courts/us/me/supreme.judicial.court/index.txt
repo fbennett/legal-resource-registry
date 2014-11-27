@@ -2,6 +2,7 @@
 .. court:: Supreme Judicial Court of Maine
    :court-id: us;me;supreme.judicial.court
    :url: http://www.courts.state.me.us/maine_courts/supreme/
+   :flp-key: me
 
    .. reporter-key:: A.
 

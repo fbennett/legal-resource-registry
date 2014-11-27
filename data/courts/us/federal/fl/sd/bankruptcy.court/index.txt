@@ -2,5 +2,6 @@
 .. court:: United States Bankruptcy Court, S.D. Florida.
    :court-id: us;federal;fl;sd;bankruptcy.court
    :url: http://www.flsb.uscourts.gov/
+   :flp-key: flsb
 
    .. reporter-key:: B.R.

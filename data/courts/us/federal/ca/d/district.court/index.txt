@@ -2,6 +2,7 @@
 .. court:: District Court, D. California
    :court-id: us;federal;ca;d;district.court
    :url: http://www.uscourts.gov/
+   :flp-key: californiad
 
    .. reporter-key:: F. Supp.
 

@@ -2,6 +2,7 @@
 .. court:: District Court, W.D. New York
    :court-id: us;federal;ny;wd;district.court
    :url: http://www.nywd.uscourts.gov/
+   :flp-key: nywd
 
    .. reporter-key:: F. Supp.
 

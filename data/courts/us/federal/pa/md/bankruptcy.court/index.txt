@@ -2,5 +2,6 @@
 .. court:: United States Bankruptcy Court, M.D. Pennsylvania
    :court-id: us;federal;pa;md;bankruptcy.court
    :url: http://www.pamb.uscourts.gov/
+   :flp-key: pamb
 
    .. reporter-key:: B.R.

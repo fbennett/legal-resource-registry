@@ -2,6 +2,7 @@
 .. court:: United States Court of Claims
    :court-id: us;federal;court.claims
    :url: http://www.fjc.gov/history/home.nsf/page/courts_special_coc.html
+   :flp-key: cc
 
    .. reporter-key:: Cl. Ct.
 

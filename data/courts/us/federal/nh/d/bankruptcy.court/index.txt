@@ -2,5 +2,6 @@
 .. court:: United States Bankruptcy Court, D. New Hampshire
    :court-id: us;federal;nh;d;bankruptcy.court
    :url: http://www.nhb.uscourts.gov/
+   :flp-key: nhb
 
    .. reporter-key:: B.R.

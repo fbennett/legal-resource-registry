@@ -2,6 +2,7 @@
 .. court:: South Dakota Supreme Court
    :court-id: us;sd;supreme.court
    :url: http://www.sdjudicial.com/
+   :flp-key: sd
 
    .. reporter-key:: LEXIS
 

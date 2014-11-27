@@ -2,6 +2,7 @@
 .. court:: District Court, D. Oregon
    :court-id: us;federal;or;d;district.court
    :url: http://www.ord.uscourts.gov/
+   :flp-key: ord
 
    .. reporter-key:: F. Supp.
 

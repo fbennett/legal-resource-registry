@@ -2,6 +2,7 @@
 .. court:: Supreme Court of Oklahoma
    :court-id: us;ok;supreme.court
    :url: http://www.oscn.net/oscn/schome/start.htm
+   :flp-key: okla
 
    .. reporter-key:: Indian Terr.
 

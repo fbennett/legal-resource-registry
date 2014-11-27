@@ -2,5 +2,6 @@
 .. court:: United States Bankruptcy Court, N.D. Oklahoma
    :court-id: us;federal;ok;nd;bankruptcy.court
    :url: http://www.oknb.uscourts.gov/
+   :flp-key: oknb
 
    .. reporter-key:: B.R.

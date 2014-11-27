@@ -2,6 +2,7 @@
 .. court:: District Court, E.D. New York
    :court-id: us;federal;ny;ed;district.court
    :url: http://www.nyed.uscourts.gov/
+   :flp-key: nyed
 
    .. reporter-key:: F. Supp.
 

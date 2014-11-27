@@ -2,6 +2,7 @@
 .. court:: District Court, D. Hawaii
    :court-id: us;federal;hi;d;district.court
    :url: http://www.hid.uscourts.gov/
+   :flp-key: hid
 
    .. reporter-key:: F. Supp.
 

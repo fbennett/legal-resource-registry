@@ -2,6 +2,7 @@
 .. court:: District Court, S.D. Mississippi
    :court-id: us;federal;ms;sd;district.court
    :url: http://www.mssd.uscourts.gov/
+   :flp-key: mssd
 
    .. reporter-key:: F. Supp.
 

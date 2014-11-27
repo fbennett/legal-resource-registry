@@ -2,6 +2,7 @@
 .. court:: District Court, W.D. Michigan
    :court-id: us;federal;mi;wd;district.court
    :url: http://www.miwd.uscourts.gov/
+   :flp-key: miwd
 
    .. reporter-key:: F. Supp.
 

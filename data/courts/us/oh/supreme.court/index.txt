@@ -2,6 +2,7 @@
 .. court:: Ohio Supreme Court
    :court-id: us;oh;supreme.court
    :url: http://www.supremecourt.ohio.gov/
+   :flp-key: ohio
 
    .. reporter-key:: LEXIS
 

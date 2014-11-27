@@ -2,6 +2,7 @@
 .. court:: Wyoming Supreme Court
    :court-id: us;wy;supreme.court
    :url: http://www.courts.state.wy.us/
+   :flp-key: wyo
 
    .. reporter-key:: LEXIS
 

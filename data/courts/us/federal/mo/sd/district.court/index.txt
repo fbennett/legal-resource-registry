@@ -2,6 +2,7 @@
 .. court:: District Court, S.D. Missouri
    :court-id: us;federal;mo;sd;district.court
    :url: http://www.courts.mo.gov/page.jsp?id=208‎
+   :flp-key: mosd
 
    .. reporter-key:: F. Supp.
 

@@ -2,5 +2,6 @@
 .. court:: United States Bankruptcy Court, N.D. Mississippi
    :court-id: us;federal;ms;nd;bankruptcy.court
    :url: http://www.msnb.uscourts.gov/
+   :flp-key: msnb
 
    .. reporter-key:: B.R.

@@ -1,6 +1,6 @@
 
 .. court:: United States Courts Martial
    :court-id: us;federal;courts.martial
-   :url: 
-
+   :url: http://en.wikipedia.org/wiki/Courts-martial_in_the_United_States
+None
    .. reporter-key:: C.M.R.

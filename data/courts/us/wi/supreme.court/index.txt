@@ -2,6 +2,7 @@
 .. court:: Wisconsin Supreme Court
    :court-id: us;wi;supreme.court
    :url: http://www.wicourts.gov/courts/supreme/index.htm
+   :flp-key: wis
 
    .. reporter-key:: Bur.
 

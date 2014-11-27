@@ -2,6 +2,7 @@
 .. court:: District Court, Virgin Islands
    :court-id: us;federal;district.court.virgin.islands
    :url: http://www.vid.uscourts.gov/
+   :flp-key: vid
 
    .. reporter-key:: F. Supp.
 

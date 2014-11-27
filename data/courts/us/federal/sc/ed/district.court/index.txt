@@ -2,6 +2,7 @@
 .. court:: District Court, E.D. South Carolina
    :court-id: us;federal;sc;ed;district.court
    :url: http://www.scd.uscourts.gov/
+   :flp-key: southcarolinaed
 
    .. reporter-key:: F. Supp.
 

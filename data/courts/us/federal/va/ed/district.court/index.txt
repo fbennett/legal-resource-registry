@@ -2,6 +2,7 @@
 .. court:: District Court, E.D. Virginia
    :court-id: us;federal;va;ed;district.court
    :url: http://www.vaed.uscourts.gov/
+   :flp-key: vaed
 
    .. reporter-key:: F. Supp.
 

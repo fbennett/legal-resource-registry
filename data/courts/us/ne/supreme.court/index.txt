@@ -2,6 +2,7 @@
 .. court:: Nebraska Supreme Court
    :court-id: us;ne;supreme.court
    :url: http://supremecourt.ne.gov/
+   :flp-key: neb
 
    .. reporter-key:: LEXIS
 

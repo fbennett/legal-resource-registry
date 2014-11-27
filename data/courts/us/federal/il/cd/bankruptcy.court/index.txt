@@ -2,5 +2,6 @@
 .. court::   United States Bankruptcy Court, C.D. Illinois
    :court-id: us;federal;il;cd;bankruptcy.court
    :url: http://www.ilcb.uscourts.gov/
+   :flp-key: ilcb
 
    .. reporter-key:: B.R.

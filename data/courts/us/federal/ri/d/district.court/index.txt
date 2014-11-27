@@ -2,6 +2,7 @@
 .. court:: District Court, D. Rhode Island
    :court-id: us;federal;ri;d;district.court
    :url: http://www.rid.uscourts.gov/
+   :flp-key: rid
 
    .. reporter-key:: F. Supp.
 

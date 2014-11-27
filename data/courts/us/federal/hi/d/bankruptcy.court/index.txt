@@ -2,5 +2,6 @@
 .. court:: United States Bankruptcy Court, D. Hawaii
    :court-id: us;federal;hi;d;bankruptcy.court
    :url: http://www.hib.uscourts.gov/
+   :flp-key: hib
 
    .. reporter-key:: B.R.

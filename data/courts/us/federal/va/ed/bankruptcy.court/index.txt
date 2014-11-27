@@ -2,5 +2,6 @@
 .. court:: United States Bankruptcy Court, E.D. Virginia
    :court-id: us;federal;va;ed;bankruptcy.court
    :url: https://www.vaeb.uscourts.gov/
+   :flp-key: vaeb
 
    .. reporter-key:: B.R.

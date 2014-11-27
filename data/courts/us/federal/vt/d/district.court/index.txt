@@ -2,6 +2,7 @@
 .. court:: District Court, D. Vermont
    :court-id: us;federal;vt;d;district.court
    :url: http://www.vtd.uscourts.gov/
+   :flp-key: vtd
 
    .. reporter-key:: F. Supp.
 

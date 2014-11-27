@@ -2,6 +2,7 @@
 .. court:: District Court, S.D. Illinois
    :court-id: us;federal;il;sd;district.court
    :url: http://www.ilsd.uscourts.gov/
+   :flp-key: ilsd
 
    .. reporter-key:: F. Supp.
 

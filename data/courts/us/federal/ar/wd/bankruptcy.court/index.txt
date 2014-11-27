@@ -2,5 +2,6 @@
 .. court:: United States Bankruptcy Court, W.D. Arkansas
    :court-id: us;federal;ar;wd;bankruptcy.court
    :url: http://www.arb.uscourts.gov/
+   :flp-key: arwb
 
    .. reporter-key:: B.R.

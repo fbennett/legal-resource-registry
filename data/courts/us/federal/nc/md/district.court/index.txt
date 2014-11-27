@@ -2,6 +2,7 @@
 .. court:: District Court, M.D. North Carolina
    :court-id: us;federal;nc;md;district.court
    :url: http://www.ncmd.uscourts.gov/
+   :flp-key: ncmd
 
    .. reporter-key:: F. Supp.
 

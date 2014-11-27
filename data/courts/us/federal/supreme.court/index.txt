@@ -2,6 +2,7 @@
 .. court:: Supreme Court of the United States
    :court-id: us;federal;supreme.court
    :url: http://supremecourt.gov/
+   :flp-key: scotus
 
    .. reporter-key:: Black
 

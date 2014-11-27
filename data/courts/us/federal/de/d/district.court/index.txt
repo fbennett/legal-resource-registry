@@ -2,6 +2,7 @@
 .. court:: District Court, D. Delaware
    :court-id: us;federal;de;d;district.court
    :url: http://www.ded.uscourts.gov/
+   :flp-key: ded
 
    .. reporter-key:: F. Supp.
 

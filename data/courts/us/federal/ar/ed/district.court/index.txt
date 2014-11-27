@@ -2,6 +2,7 @@
 .. court:: District Court, E.D. Arkansas
    :court-id: us;federal;ar;ed;district.court
    :url: http://www.are.uscourts.gov/
+   :flp-key: ared
 
    .. reporter-key:: F. Supp.
 

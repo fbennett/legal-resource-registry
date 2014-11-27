@@ -2,5 +2,6 @@
 .. court:: United States Bankruptcy Court, C.D. California
    :court-id: us;federal;ca;cd;bankruptcy.court
    :url: http://www.cacb.uscourts.gov/
+   :flp-key: cacb
 
    .. reporter-key:: B.R.

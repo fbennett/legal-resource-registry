@@ -2,5 +2,6 @@
 .. court:: United States Bankruptcy Court, W.D. Missouri
    :court-id: us;federal;mo;wd;bankruptcy.court
    :url: http://www.mow.uscourts.gov/bankruptcy/
+   :flp-key: mowb
 
    .. reporter-key:: B.R.

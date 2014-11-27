@@ -2,6 +2,7 @@
 .. court:: District Court, W.D. North Carolina
    :court-id: us;federal;nc;wd;district.court
    :url: http://www.ncwd.uscourts.gov/
+   :flp-key: ncwd
 
    .. reporter-key:: F. Supp.
 

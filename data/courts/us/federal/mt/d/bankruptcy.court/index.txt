@@ -2,5 +2,6 @@
 .. court:: United States Bankruptcy Court, D. Montana
    :court-id: us;federal;mt;d;bankruptcy.court
    :url: http://www.mtb.uscourts.gov/
+   :flp-key: mtb
 
    .. reporter-key:: B.R.

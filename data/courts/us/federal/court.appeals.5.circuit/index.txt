@@ -2,6 +2,7 @@
 .. court:: Court of Appeals for the Fifth Circuit
    :court-id: us;federal;court.appeals.5.circuit
    :url: http://www.ca5.uscourts.gov/
+   :flp-key: ca5
 
    .. reporter-key:: F.
 

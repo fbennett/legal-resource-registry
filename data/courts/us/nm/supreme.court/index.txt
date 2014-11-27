@@ -2,6 +2,7 @@
 .. court:: New Mexico Supreme Court
    :court-id: us;nm;supreme.court
    :url: https://nmsupremecourt.nmcourts.gov/index.php
+   :flp-key: nm
 
    .. reporter-key:: Gild.
 

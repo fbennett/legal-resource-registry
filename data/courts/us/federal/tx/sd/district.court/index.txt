@@ -2,6 +2,7 @@
 .. court:: District Court, S.D. Texas
    :court-id: us;federal;tx;sd;district.court
    :url: http://www.txs.uscourts.gov/
+   :flp-key: txsd
 
    .. reporter-key:: F. Supp.
 

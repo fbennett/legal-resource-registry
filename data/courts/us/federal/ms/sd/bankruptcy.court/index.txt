@@ -2,5 +2,6 @@
 .. court:: United States Bankruptcy Court, S.D. Mississippi
    :court-id: us;federal;ms;sd;bankruptcy.court
    :url: http://www.mssb.uscourts.gov/
+   :flp-key: mssb
 
    .. reporter-key:: B.R.

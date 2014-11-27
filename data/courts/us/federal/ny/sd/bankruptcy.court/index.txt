@@ -2,5 +2,6 @@
 .. court:: United States Bankruptcy Court, S.D. New York
    :court-id: us;federal;ny;sd;bankruptcy.court
    :url: http://www.nysb.uscourts.gov/
+   :flp-key: nysb
 
    .. reporter-key:: B.R.

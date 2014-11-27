@@ -2,6 +2,7 @@
 .. court:: New York Court of Appeals
    :court-id: us;ny;court.appeals
    :url: http://www.nycourts.gov/ctapps/
+   :flp-key: ny
 
    .. reporter-key:: A.D.
 

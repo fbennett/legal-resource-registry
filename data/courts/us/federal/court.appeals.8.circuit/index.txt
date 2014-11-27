@@ -2,6 +2,7 @@
 .. court:: Court of Appeals for the Eighth Circuit
    :court-id: us;federal;court.appeals.8.circuit
    :url: http://www.ca8.uscourts.gov/
+   :flp-key: ca8
 
    .. reporter-key:: F.
 

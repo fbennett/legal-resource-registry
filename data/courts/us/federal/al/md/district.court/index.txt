@@ -2,6 +2,7 @@
 .. court:: District Court, M.D. Alabama
    :court-id: us;federal;al;md;district.court
    :url: http://www.almd.uscourts.gov/
+   :flp-key: almd
 
    .. reporter-key:: F. Supp.
 

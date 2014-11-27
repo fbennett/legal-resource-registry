@@ -2,6 +2,7 @@
 .. court:: District Court, W.D. Arkansas
    :court-id: us;federal;ar;wd;district.court
    :url: http://www.arwd.uscourts.gov/
+   :flp-key: arwd
 
    .. reporter-key:: F. Supp.
 

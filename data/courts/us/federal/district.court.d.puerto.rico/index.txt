@@ -2,6 +2,7 @@
 .. court:: District Court, D. Puerto Rico
    :court-id: us;federal;district.court.d.puerto.rico
    :url: http://www.prd.uscourts.gov/
+   :flp-key: prd
 
    .. reporter-key:: F. Supp.
 

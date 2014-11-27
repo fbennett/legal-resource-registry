@@ -2,6 +2,7 @@
 .. court:: Arizona Supreme Court
    :court-id: us;az;supreme.court
    :url: http://www.azcourts.gov/azsupremecourt.aspx
+   :flp-key: ariz
 
    .. reporter-key:: AZ
 

@@ -2,6 +2,7 @@
 .. court:: Texas Supreme Court
    :court-id: us;tx;supreme.court
    :url: http://www.supreme.courts.state.tx.us/
+   :flp-key: tex
 
    .. reporter-key:: Dallam
 

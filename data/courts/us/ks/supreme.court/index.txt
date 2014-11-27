@@ -2,6 +2,7 @@
 .. court:: Supreme Court of Kansas
    :court-id: us;ks;supreme.court
    :url: http://www.kscourts.org/kansas-courts/supreme-court/
+   :flp-key: kan
 
    .. reporter-key:: Kan.
 

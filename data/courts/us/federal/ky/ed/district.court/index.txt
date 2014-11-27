@@ -2,6 +2,7 @@
 .. court:: District Court, E.D. Kentucky
    :court-id: us;federal;ky;ed;district.court
    :url: http://www.kyed.uscourts.gov/
+   :flp-key: kyed
 
    .. reporter-key:: F. Supp.
 

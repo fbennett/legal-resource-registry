@@ -2,5 +2,6 @@
 .. court:: United States Bankruptcy Court, D. Connecticut
    :court-id: us;federal;ct;d;bankruptcy.court
    :url: http://www.ctb.uscourts.gov/
+   :flp-key: ctb
 
    .. reporter-key:: B.R.

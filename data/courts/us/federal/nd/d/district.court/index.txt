@@ -2,6 +2,7 @@
 .. court:: District Court, D. North Dakota
    :court-id: us;federal;nd;d;district.court
    :url: http://www.ndd.uscourts.gov/
+   :flp-key: ndd
 
    .. reporter-key:: F. Supp.
 

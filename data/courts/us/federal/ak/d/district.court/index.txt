@@ -2,6 +2,7 @@
 .. court:: District Court, D. Alaska
    :court-id: us;federal;ak;d;district.court
    :url: http://www.akd.uscourts.gov/
+   :flp-key: akd
 
    .. reporter-key:: F. Supp.
 

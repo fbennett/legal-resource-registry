@@ -2,5 +2,6 @@
 .. court:: United States Bankruptcy Court, E.D. Michigan
    :court-id: us;federal;mi;ed;bankruptcy.court
    :url: http://www.mieb.uscourts.gov/
+   :flp-key: mieb
 
    .. reporter-key:: B.R.

@@ -2,6 +2,7 @@
 .. court:: District Court, D. Tennessee
    :court-id: us;federal;tn;d;district.court
    :url: http://www.uscourts.gov/
+   :flp-key: tennessed
 
    .. reporter-key:: F. Supp.
 

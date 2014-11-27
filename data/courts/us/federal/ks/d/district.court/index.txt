@@ -2,6 +2,7 @@
 .. court:: District Court, D. Kansas
    :court-id: us;federal;ks;d;district.court
    :url: http://www.ksd.uscourts.gov/
+   :flp-key: ksd
 
    .. reporter-key:: F. Supp.
 

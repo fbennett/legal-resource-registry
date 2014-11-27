@@ -2,6 +2,7 @@
 .. court:: District Court, M.D. Pennsylvania
    :court-id: us;federal;pa;md;district.court
    :url: http://www.pamd.uscourts.gov/
+   :flp-key: pamd
 
    .. reporter-key:: F. Supp.
 

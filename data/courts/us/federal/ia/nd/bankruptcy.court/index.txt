@@ -2,5 +2,6 @@
 .. court:: United States Bankruptcy Court, N.D. Iowa
    :court-id: us;federal;ia;nd;bankruptcy.court
    :url: http://www.ianb.uscourts.gov/
+   :flp-key: ianb
 
    .. reporter-key:: B.R.

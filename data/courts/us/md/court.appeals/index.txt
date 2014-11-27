@@ -2,6 +2,7 @@
 .. court:: Court of Appeals of Maryland
    :court-id: us;md;court.appeals
    :url: http://www.courts.state.md.us/coappeals/
+   :flp-key: md
 
    .. reporter-key:: A.
 

@@ -2,5 +2,6 @@
 .. court:: United States Bankruptcy Court, W.D. New York
    :court-id: us;federal;ny;wd;bankruptcy.court
    :url: http://www.nywb.uscourts.gov/
+   :flp-key: nywb
 
    .. reporter-key:: B.R.

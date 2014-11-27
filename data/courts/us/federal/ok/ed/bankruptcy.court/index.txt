@@ -2,5 +2,6 @@
 .. court:: United States Bankruptcy Court, E.D. Oklahoma
    :court-id: us;federal;ok;ed;bankruptcy.court
    :url: http://www.okeb.uscourts.gov/
+   :flp-key: okeb
 
    .. reporter-key:: B.R.

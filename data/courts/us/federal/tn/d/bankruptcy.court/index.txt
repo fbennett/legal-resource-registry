@@ -2,5 +2,6 @@
 .. court:: United States Bankruptcy Court, D. Tennessee
    :court-id: us;federal;tn;d;bankruptcy.court
    :url: http://www.uscourts.gov/
+   :flp-key: tennesseeb
 
    .. reporter-key:: B.R.

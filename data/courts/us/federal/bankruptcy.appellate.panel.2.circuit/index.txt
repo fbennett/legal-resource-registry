@@ -2,5 +2,6 @@
 .. court:: Bankruptcy Appellate Panel of the Second Circuit
    :court-id: us;federal;bankruptcy.appellate.panel.2.circuit
    :url: http://www.bap2.uscourts.gov/
+   :flp-key: bap2
 
    .. reporter-key:: B.R.

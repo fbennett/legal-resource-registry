@@ -2,6 +2,7 @@
 .. court:: District Court, W.D. Pennsylvania
    :court-id: us;federal;pa;wd;district.court
    :url: http://www.pawd.uscourts.gov/
+   :flp-key: pawd
 
    .. reporter-key:: F. Supp.
 

@@ -2,6 +2,7 @@
 .. court:: District Court, S.D. Alabama
    :court-id: us;federal;al;sd;district.court
    :url: http://www.als.uscourts.gov/
+   :flp-key: alsd
 
    .. reporter-key:: F. Supp.
 

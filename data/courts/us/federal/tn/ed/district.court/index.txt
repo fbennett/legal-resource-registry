@@ -2,6 +2,7 @@
 .. court:: District Court, E.D. Tennessee
    :court-id: us;federal;tn;ed;district.court
    :url: http://www.tned.uscourts.gov/
+   :flp-key: tned
 
    .. reporter-key:: F. Supp.
 

@@ -2,5 +2,6 @@
 .. court:: Court of Customs and Patent Appeals
    :court-id: us;federal;court.customs.patent.appeals
    :url: http://www.cafc.uscourts.gov/
+   :flp-key: ccpa
 
    .. reporter-key:: C.C.P.A.

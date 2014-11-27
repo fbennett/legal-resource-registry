@@ -2,6 +2,7 @@
 .. court:: District Court, D. Minnesota
    :court-id: us;federal;mn;d;district.court
    :url: http://www.mnd.uscourts.gov/
+   :flp-key: mnd
 
    .. reporter-key:: F. Supp.
 

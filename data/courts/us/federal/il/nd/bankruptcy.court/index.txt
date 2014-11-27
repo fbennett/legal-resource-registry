@@ -2,5 +2,6 @@
 .. court::   United States Bankruptcy Court, N.D. Illinois
    :court-id: us;federal;il;nd;bankruptcy.court
    :url: http://www.ilnb.uscourts.gov/
+   :flp-key: ilnb
 
    .. reporter-key:: B.R.

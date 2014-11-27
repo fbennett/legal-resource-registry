@@ -2,6 +2,7 @@
 .. court:: District Court, S.D. Florida
    :court-id: us;federal;fl;sd;district.court
    :url: http://www.flsd.uscourts.gov/
+   :flp-key: flsd
 
    .. reporter-key:: F. Supp.
 

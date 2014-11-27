@@ -2,6 +2,7 @@
 .. court:: District Court, D. New Mexico
    :court-id: us;federal;nm;d;district.court
    :url: http://www.nmcourt.fed.us/web/DCDOCS/dcindex.html
+   :flp-key: nmd
 
    .. reporter-key:: F. Supp.
 

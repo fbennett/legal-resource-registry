@@ -2,6 +2,7 @@
 .. court:: District Court, E.D. Missouri
    :court-id: us;federal;mo;ed;district.court
    :url: http://www.moed.uscourts.gov/
+   :flp-key: moed
 
    .. reporter-key:: F. Supp.
 

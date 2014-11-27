@@ -2,6 +2,7 @@
 .. court:: Michigan Supreme Court
    :court-id: us;mi;supreme.court
    :url: http://courts.mi.gov/
+   :flp-key: mich
 
    .. reporter-key:: Blume Sup. Ct. Trans.
 

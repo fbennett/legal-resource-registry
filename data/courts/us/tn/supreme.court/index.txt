@@ -2,6 +2,7 @@
 .. court:: Tennessee Supreme Court
    :court-id: us;tn;supreme.court
    :url: https://www.tncourts.gov/courts/supreme-court
+   :flp-key: tenn
 
    .. reporter-key:: Cold.
 

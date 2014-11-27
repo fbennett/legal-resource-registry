@@ -2,6 +2,7 @@
 .. court:: District Court, D. Guam
    :court-id: us;federal;district.court.d.guam
    :url: http://www.gud.uscourts.gov/
+   :flp-key: gud
 
    .. reporter-key:: F. Supp.
 

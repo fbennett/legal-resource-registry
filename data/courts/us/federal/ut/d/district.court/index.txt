@@ -2,6 +2,7 @@
 .. court:: United States District Court, D. Utah
    :court-id: us;federal;ut;d;district.court
    :url: http://www.utd.uscourts.gov/
+   :flp-key: utd
 
    .. reporter-key:: F. Supp.
 

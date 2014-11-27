@@ -2,6 +2,7 @@
 .. court:: District Court, S.D. Iowa
    :court-id: us;federal;ia;sd;district.court
    :url: http://www.iasd.uscourts.gov/
+   :flp-key: iasd
 
    .. reporter-key:: F. Supp.
 

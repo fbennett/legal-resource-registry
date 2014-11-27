@@ -2,6 +2,7 @@
 .. court:: District Court, C.D. Missouri
    :court-id: us;federal;mo;cd;district.court
    :url: http://www.uscourts.gov/
+   :flp-key: mocd
 
    .. reporter-key:: F. Supp.
 

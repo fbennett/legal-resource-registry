@@ -2,6 +2,7 @@
 .. court:: District Court, Canal Zone
    :court-id: us;federal;district.court.canal.zone
    :url: https://en.wikipedia.org/wiki/United_States_District_Court_for_the_Canal_Zone
+   :flp-key: canalzoned
 
    .. reporter-key:: F. Supp.
 

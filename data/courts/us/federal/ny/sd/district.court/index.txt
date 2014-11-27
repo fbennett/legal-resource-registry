@@ -2,6 +2,7 @@
 .. court:: District Court, S.D. New York
    :court-id: us;federal;ny;sd;district.court
    :url: http://www.nysd.uscourts.gov/
+   :flp-key: nysd
 
    .. reporter-key:: F. Supp.
 

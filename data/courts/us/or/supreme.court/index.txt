@@ -2,6 +2,7 @@
 .. court:: Oregon Supreme Court
    :court-id: us;or;supreme.court
    :url: http://www.publications.ojd.state.or.us/Pages/OpinionsSC.aspx
+   :flp-key: or
 
    .. reporter-key:: LEXIS
 

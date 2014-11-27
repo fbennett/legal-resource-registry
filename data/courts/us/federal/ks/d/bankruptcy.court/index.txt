@@ -2,5 +2,6 @@
 .. court:: United States Bankruptcy Court, D. Kansas
    :court-id: us;federal;ks;d;bankruptcy.court
    :url: http://www.ksb.uscourts.gov/
+   :flp-key: ksb
 
    .. reporter-key:: B.R.

@@ -2,6 +2,7 @@
 .. court:: District Court, D. New Hampshire
    :court-id: us;federal;nh;d;district.court
    :url: http://www.nhd.uscourts.gov/
+   :flp-key: nhd
 
    .. reporter-key:: F. Supp.
 

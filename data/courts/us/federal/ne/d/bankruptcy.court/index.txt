@@ -2,5 +2,6 @@
 .. court:: United States Bankruptcy Court, D. Nebraska
    :court-id: us;federal;ne;d;bankruptcy.court
    :url: http://www.neb.uscourts.gov/
+   :flp-key: nebraskab
 
    .. reporter-key:: B.R.

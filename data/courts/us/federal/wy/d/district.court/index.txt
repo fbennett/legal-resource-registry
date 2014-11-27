@@ -2,6 +2,7 @@
 .. court:: District Court, D. Wyoming
    :court-id: us;federal;wy;d;district.court
    :url: http://www.wyd.uscourts.gov/
+   :flp-key: wyd
 
    .. reporter-key:: F. Supp.
 

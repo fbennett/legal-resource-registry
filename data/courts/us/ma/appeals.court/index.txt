@@ -2,6 +2,7 @@
 .. court:: Massachusetts Appeals Court
    :court-id: us;ma;appeals.court
    :url: http://www.mass.gov/courts/appealscourt/
+   :flp-key: massappct
 
    .. reporter-key:: Allen
 

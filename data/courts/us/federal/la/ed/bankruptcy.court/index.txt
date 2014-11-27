@@ -2,5 +2,6 @@
 .. court:: United States Bankruptcy Court, E.D. Louisiana
    :court-id: us;federal;la;ed;bankruptcy.court
    :url: http://www.laeb.uscourts.gov/
+   :flp-key: laeb
 
    .. reporter-key:: B.R.

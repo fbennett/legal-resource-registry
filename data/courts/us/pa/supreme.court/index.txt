@@ -2,6 +2,7 @@
 .. court:: Supreme Court of Pennsylvania
    :court-id: us;pa;supreme.court
    :url: http://www.pacourts.us/courts/supreme-court/
+   :flp-key: pa
 
    .. reporter-key:: A.
 

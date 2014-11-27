@@ -2,6 +2,7 @@
 .. court:: District Court, N.D. Oklahoma
    :court-id: us;federal;ok;nd;district.court
    :url: http://www.oknd.uscourts.gov/
+   :flp-key: oknd
 
    .. reporter-key:: F. Supp.
 

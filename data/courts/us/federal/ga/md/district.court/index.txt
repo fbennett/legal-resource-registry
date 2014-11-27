@@ -2,6 +2,7 @@
 .. court:: District Court, M.D. Georgia
    :court-id: us;federal;ga;md;district.court
    :url: http://www.gamd.uscourts.gov/
+   :flp-key: gamd
 
    .. reporter-key:: F. Supp.
 

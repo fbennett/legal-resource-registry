@@ -2,6 +2,7 @@
 .. court:: District Court, E.D. Oklahoma
    :court-id: us;federal;ok;ed;district.court
    :url: http://www.oked.uscourts.gov/
+   :flp-key: oked
 
    .. reporter-key:: F. Supp.
 

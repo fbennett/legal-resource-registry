@@ -2,6 +2,7 @@
 .. court:: District Court, N.D. California
    :court-id: us;federal;ca;nd;district.court
    :url: http://www.cand.uscourts.gov/
+   :flp-key: cand
 
    .. reporter-key:: F. Supp.
 

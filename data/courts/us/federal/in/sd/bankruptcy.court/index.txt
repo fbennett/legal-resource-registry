@@ -2,5 +2,6 @@
 .. court:: United States Bankruptcy Court, S.D. Indiana
    :court-id: us;federal;in;sd;bankruptcy.court
    :url: http://www.insb.uscourts.gov/
+   :flp-key: insb
 
    .. reporter-key:: B.R.

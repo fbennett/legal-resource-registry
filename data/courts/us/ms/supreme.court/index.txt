@@ -2,6 +2,7 @@
 .. court:: Mississippi Supreme Court
    :court-id: us;ms;supreme.court
    :url: http://courts.ms.gov/appellate_courts/sc/sc.html
+   :flp-key: miss
 
    .. reporter-key:: Howard
 

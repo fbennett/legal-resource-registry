@@ -2,6 +2,7 @@
 .. court:: District Court, Northern Mariana Islands
    :court-id: us;federal;district.court.northern.mariana.islands
    :url: http://www.nmid.uscourts.gov/
+   :flp-key: nmid
 
    .. reporter-key:: F. Supp.
 

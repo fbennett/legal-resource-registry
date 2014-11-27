@@ -2,6 +2,7 @@
 .. court:: District Court, C.D. Illinois
    :court-id: us;federal;il;cd;district.court
    :url: http://www.ilcd.uscourts.gov/
+   :flp-key: ilcd
 
    .. reporter-key:: F. Supp.
 

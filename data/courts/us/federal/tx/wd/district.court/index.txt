@@ -2,6 +2,7 @@
 .. court:: District Court, W.D. Texas
    :court-id: us;federal;tx;wd;district.court
    :url: http://www.txwd.uscourts.gov/
+   :flp-key: txwd
 
    .. reporter-key:: F. Supp.
 

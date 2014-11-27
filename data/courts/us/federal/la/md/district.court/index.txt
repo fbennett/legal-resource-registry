@@ -2,6 +2,7 @@
 .. court:: District Court, M.D. Louisiana
    :court-id: us;federal;la;md;district.court
    :url: http://www.lamd.uscourts.gov/
+   :flp-key: lamd
 
    .. reporter-key:: F. Supp.
 

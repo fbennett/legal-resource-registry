@@ -2,6 +2,7 @@
 .. court:: District Court, E.D. Michigan
    :court-id: us;federal;mi;ed;district.court
    :url: http://www.mied.uscourts.gov/
+   :flp-key: mied
 
    .. reporter-key:: F. Supp.
 

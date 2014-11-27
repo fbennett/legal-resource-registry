@@ -2,5 +2,6 @@
 .. court:: United States Bankruptcy Court, E.D. Wisconsin
    :court-id: us;federal;wi;ed;bankruptcy.court
    :url: http://www.wieb.uscourts.gov/
+   :flp-key: wieb
 
    .. reporter-key:: B.R.

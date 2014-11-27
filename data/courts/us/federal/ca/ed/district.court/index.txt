@@ -2,6 +2,7 @@
 .. court:: District Court, E.D. California
    :court-id: us;federal;ca;ed;district.court
    :url: http://www.caed.uscourts.gov/
+   :flp-key: caed
 
    .. reporter-key:: F. Supp.
 

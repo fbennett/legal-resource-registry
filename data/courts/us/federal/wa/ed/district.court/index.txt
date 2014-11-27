@@ -2,6 +2,7 @@
 .. court:: District Court, E.D. Washington
    :court-id: us;federal;wa;ed;district.court
    :url: http://www.waed.uscourts.gov/
+   :flp-key: waed
 
    .. reporter-key:: F. Supp.
 

@@ -2,6 +2,7 @@
 .. court:: District Court, D. Massachusetts
    :court-id: us;federal;ma;d;district.court
    :url: http://www.mad.uscourts.gov/
+   :flp-key: mad
 
    .. reporter-key:: F. Supp.
 

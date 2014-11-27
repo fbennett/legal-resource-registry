@@ -2,5 +2,6 @@
 .. court:: United States Bankruptcy Court, W.D. North Carolina
    :court-id: us;federal;nc;wd;bankruptcy.court
    :url: http://www.ncwb.uscourts.gov/
+   :flp-key: ncwb
 
    .. reporter-key:: B.R.

@@ -2,6 +2,7 @@
 .. court:: District Court, M.D. Tennessee
    :court-id: us;federal;tn;md;district.court
    :url: http://www.tnmd.uscourts.gov/
+   :flp-key: tnmd
 
    .. reporter-key:: F. Supp.
 

@@ -2,6 +2,7 @@
 .. court:: District Court, E.D. Louisiana.
    :court-id: us;federal;la;ed;district.court
    :url: http://www.laed.uscourts.gov/
+   :flp-key: laed
 
    .. reporter-key:: F. Supp.
 

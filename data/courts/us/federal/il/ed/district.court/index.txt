@@ -2,6 +2,7 @@
 .. court:: District Court, E.D. Illinois
    :court-id: us;federal;il;ed;district.court
    :url: https://en.wikipedia.org/wiki/United_States_District_Court_for_the_Eastern_District_of_Illinois
+   :flp-key: illinoised
 
    .. reporter-key:: F. Supp.
 

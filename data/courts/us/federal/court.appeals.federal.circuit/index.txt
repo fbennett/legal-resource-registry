@@ -2,6 +2,7 @@
 .. court:: Court of Appeals for the Federal Circuit
    :court-id: us;federal;court.appeals.federal.circuit
    :url: http://www.cafc.uscourts.gov/
+   :flp-key: cafc
 
    .. reporter-key:: Cust. B. & Dec.
 

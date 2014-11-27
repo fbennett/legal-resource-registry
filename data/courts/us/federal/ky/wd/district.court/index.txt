@@ -2,6 +2,7 @@
 .. court:: District Court, W.D. Kentucky
    :court-id: us;federal;ky;wd;district.court
    :url: http://www.kywd.uscourts.gov/
+   :flp-key: kywd
 
    .. reporter-key:: F. Supp.
 

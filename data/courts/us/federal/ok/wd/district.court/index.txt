@@ -2,6 +2,7 @@
 .. court:: District Court, W.D. Oklahoma
    :court-id: us;federal;ok;wd;district.court
    :url: http://www.uscourts.gov/
+   :flp-key: okwd
 
    .. reporter-key:: F. Supp.
 

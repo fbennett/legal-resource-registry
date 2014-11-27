@@ -2,6 +2,7 @@
 .. court:: District Court, D. Maryland
    :court-id: us;federal;md;d;district.court
    :url: https://www.mdd.uscourts.gov/
+   :flp-key: mdd
 
    .. reporter-key:: F. Supp.
 

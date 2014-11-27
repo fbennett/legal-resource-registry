@@ -2,6 +2,7 @@
 .. court:: District Court, D. Arizona
    :court-id: us;federal;az;d;district.court
    :url: http://www.azd.uscourts.gov/
+   :flp-key: azd
 
    .. reporter-key:: F. Supp.
 

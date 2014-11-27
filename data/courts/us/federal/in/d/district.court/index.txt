@@ -2,6 +2,7 @@
 .. court:: District Court, D. Indiana
    :court-id: us;federal;in;d;district.court
    :url: http://www.insd.uscourts.gov/
+   :flp-key: indianad
 
    .. reporter-key:: F. Supp.
 

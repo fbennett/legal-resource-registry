@@ -2,6 +2,7 @@
 .. court:: District Court, D. South Dakota
    :court-id: us;federal;sd;d;district.court
    :url: http://www.sdd.uscourts.gov/
+   :flp-key: sdd
 
    .. reporter-key:: F. Supp.
 

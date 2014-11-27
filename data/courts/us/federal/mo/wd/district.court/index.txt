@@ -2,6 +2,7 @@
 .. court:: District Court, W.D. Missouri
    :court-id: us;federal;mo;wd;district.court
    :url: http://www.mow.uscourts.gov/
+   :flp-key: mowd
 
    .. reporter-key:: F. Supp.
 

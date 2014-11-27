@@ -2,5 +2,6 @@
 .. court:: United States Bankruptcy Court, M.D. Tennessee
    :court-id: us;federal;tn;md;bankruptcy.court
    :url: http://www.tnmb.uscourts.gov/
+   :flp-key: tnmb
 
    .. reporter-key:: B.R.

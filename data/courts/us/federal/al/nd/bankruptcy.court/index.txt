@@ -2,5 +2,6 @@
 .. court:: United States Bankruptcy Court, N.D. Alabama
    :court-id: us;federal;al;nd;bankruptcy.court
    :url: http://www.alnb.uscourts.gov/
+   :flp-key: alnb
 
    .. reporter-key:: B.R.

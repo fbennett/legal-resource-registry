@@ -2,6 +2,7 @@
 .. court:: District Court, S.D. Georgia
    :court-id: us;federal;ga;sd;district.court
    :url: http://www.gasd.uscourts.gov/
+   :flp-key: gasd
 
    .. reporter-key:: F. Supp.
 

@@ -2,6 +2,7 @@
 .. court:: Supreme Court of Delaware
    :court-id: us;de;supreme.court
    :url: http://courts.delaware.gov/supreme/
+   :flp-key: del
 
    .. reporter-key:: A.
 

@@ -2,6 +2,7 @@
 .. court:: Supreme Court of Rhode Island
    :court-id: us;ri;supreme.court
    :url: http://www.courts.ri.gov/courts/supremecourt/default.aspx
+   :flp-key: ri
 
    .. reporter-key:: A.
 

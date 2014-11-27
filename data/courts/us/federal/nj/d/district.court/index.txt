@@ -2,6 +2,7 @@
 .. court:: District Court, D. New Jersey
    :court-id: us;federal;nj;d;district.court
    :url: http://www.njd.uscourts.gov/
+   :flp-key: njd
 
    .. reporter-key:: F. Supp.
 

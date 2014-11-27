@@ -2,6 +2,7 @@
 .. court:: District Court, S.D. West Virginia.
    :court-id: us;federal;wv;sd;district.court
    :url: http://www.wvsd.uscourts.gov/
+   :flp-key: wvsd
 
    .. reporter-key:: F. Supp.
 

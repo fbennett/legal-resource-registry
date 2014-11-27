@@ -2,6 +2,7 @@
 .. court:: District Court, D. Colorado
    :court-id: us;federal;co;d;district.court
    :url: http://www.cod.uscourts.gov/
+   :flp-key: cod
 
    .. reporter-key:: F. Supp.
 

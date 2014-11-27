@@ -2,6 +2,7 @@
 .. court:: California Supreme Court
    :court-id: us;ca;supreme.court
    :url: http://www.courts.ca.gov/supremecourt.htm
+   :flp-key: cal
 
    .. reporter-key:: Cal.
 

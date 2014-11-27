@@ -2,6 +2,7 @@
 .. court:: District Court, D. Idaho
    :court-id: us;federal;id;d;district.court
    :url: http://www.id.uscourts.gov/
+   :flp-key: idd
 
    .. reporter-key:: F. Supp.
 

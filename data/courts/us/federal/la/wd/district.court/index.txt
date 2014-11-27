@@ -2,6 +2,7 @@
 .. court:: District Court, W.D. Louisiana
    :court-id: us;federal;la;wd;district.court
    :url: http://www.lawd.uscourts.gov/
+   :flp-key: lawd
 
    .. reporter-key:: F. Supp.
 

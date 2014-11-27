@@ -2,6 +2,7 @@
 .. court:: District of Columbia Court of Appeals
    :court-id: us;federal;district.columbia.court.appeals
    :url: http://www.dccourts.gov/internet/appellate/main.jsf
+   :flp-key: dc
 
    .. reporter-key:: A.
 

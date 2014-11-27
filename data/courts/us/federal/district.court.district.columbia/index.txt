@@ -2,6 +2,7 @@
 .. court:: District Court, District of Columbia
    :court-id: us;federal;district.court.district.columbia
    :url: http://www.dcd.uscourts.gov/
+   :flp-key: dcd
 
    .. reporter-key:: F. Supp.
 

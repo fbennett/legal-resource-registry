@@ -2,5 +2,6 @@
 .. court:: United States Bankruptcy Court, W.D. Wisconsin
    :court-id: us;federal;wi;wd;bankruptcy.court
    :url: http://www.wiwb.uscourts.gov/
+   :flp-key: wiwb
 
    .. reporter-key:: B.R.

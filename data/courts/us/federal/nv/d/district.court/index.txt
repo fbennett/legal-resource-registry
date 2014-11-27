@@ -2,6 +2,7 @@
 .. court:: District Court, D. Nevada
    :court-id: us;federal;nv;d;district.court
    :url: http://www.nvd.uscourts.gov/
+   :flp-key: nvd
 
    .. reporter-key:: F. Supp.
 

@@ -2,6 +2,7 @@
 .. court:: District Court, N.D. Georgia
    :court-id: us;federal;ga;nd;district.court
    :url: http://www.gand.uscourts.gov/
+   :flp-key: gand
 
    .. reporter-key:: F. Supp.
 

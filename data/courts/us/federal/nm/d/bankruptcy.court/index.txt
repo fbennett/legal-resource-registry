@@ -2,5 +2,6 @@
 .. court:: United States Bankruptcy Court, D. New Mexico
    :court-id: us;federal;nm;d;bankruptcy.court
    :url: http://www.nmb.uscourts.gov/
+   :flp-key: nmb
 
    .. reporter-key:: B.R.

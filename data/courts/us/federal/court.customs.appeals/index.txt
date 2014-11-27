@@ -1,6 +1,6 @@
 
 .. court:: United States Court of Customs Appeals
    :court-id: us;federal;court.customs.appeals
-   :url: 
-
+   :url: http://en.wikipedia.org/wiki/United_States_Court_of_Customs_and_Patent_Appeals
+None
    .. reporter-key:: Ct. Cust.

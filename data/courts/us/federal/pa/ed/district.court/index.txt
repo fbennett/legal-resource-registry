@@ -2,6 +2,7 @@
 .. court:: District Court, E.D. Pennsylvania
    :court-id: us;federal;pa;ed;district.court
    :url: http://www.paed.uscourts.gov/
+   :flp-key: paed
 
    .. reporter-key:: F. Supp.
 
