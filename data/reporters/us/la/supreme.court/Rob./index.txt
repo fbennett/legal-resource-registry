@@ -1,7 +1,9 @@
 .. reporter:: Louisiana Reports, Robinson
-   :series-abbreviation: Rob.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Rob.
+   :edition-abbreviation: Rob.
    :dates: 1841/1/1-1846/12/31
 
-   .. variation: Rob.La.
+   .. variation:: Rob.La.
 
-   .. variation: Robinson
+   .. variation:: Robinson

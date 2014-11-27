@@ -1,5 +1,7 @@
 .. reporter:: Florida Supplement
-   :series-abbreviation: Fla. Supp.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Fla. Supp.
+   :edition-abbreviation: Fla. Supp.
    :dates: 1948/1/1-1981/12/31
 
-   .. variation: Fl.S.
+   .. variation:: Fl.S.

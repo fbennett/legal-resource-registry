@@ -1,11 +1,13 @@
 .. reporter:: United States Supreme Court Reports
-   :series-abbreviation: U.S.
+   :flp-series-cite-type: fed
+   :flp-common-abbreviation: U.S.
+   :edition-abbreviation: U.S.
    :dates: 1790/1/1-present
 
-   .. variation: U.S.S.C.Rep.
+   .. variation:: U.S.S.C.Rep.
 
-   .. variation: U. S.
+   .. variation:: U. S.
 
-   .. variation: US
+   .. variation:: US
 
-   .. variation: USSCR
+   .. variation:: USSCR

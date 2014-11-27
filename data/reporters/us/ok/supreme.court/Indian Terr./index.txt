@@ -1,3 +1,5 @@
 .. reporter:: Indian Territory Reports
-   :series-abbreviation: Indian Terr.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Indian Terr.
+   :edition-abbreviation: Indian Terr.
    :dates: 1896/1/1-1907/12/31

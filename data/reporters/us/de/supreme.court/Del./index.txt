@@ -1,3 +1,5 @@
 .. reporter:: Delaware Reports
-   :series-abbreviation: Del.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Del.
+   :edition-abbreviation: Del.
    :dates: 1920/1/1-1966/12/31

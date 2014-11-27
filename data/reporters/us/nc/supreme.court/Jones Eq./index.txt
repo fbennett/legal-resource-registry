@@ -1,7 +1,9 @@
 .. reporter:: North Carolina Reports, Jones' Equity
-   :series-abbreviation: Jones Eq.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Jones Eq.
+   :edition-abbreviation: Jones Eq.
    :dates: 1853/1/1-1863/12/31
 
-   .. variation: Jones
+   .. variation:: Jones
 
-   .. variation: N.C.(Jones Eq.)
+   .. variation:: N.C.(Jones Eq.)

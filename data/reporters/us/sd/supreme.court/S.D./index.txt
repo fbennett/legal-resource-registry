@@ -1,5 +1,7 @@
 .. reporter:: South Dakota Reports
-   :series-abbreviation: S.D.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: S.D.
+   :edition-abbreviation: S.D.
    :dates: 1890/1/1-1976/12/31
 
-   .. variation: S.Dak.
+   .. variation:: S.Dak.

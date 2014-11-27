@@ -1,5 +1,7 @@
 .. reporter:: West's California Reporter
-   :series-abbreviation: Cal. Rptr.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Cal. Rptr.
+   :edition-abbreviation: Cal. Rptr.
    :dates: 1959/1/1-1991/12/31
 
-   .. variation: Cal.Rptr.
+   .. variation:: Cal.Rptr.

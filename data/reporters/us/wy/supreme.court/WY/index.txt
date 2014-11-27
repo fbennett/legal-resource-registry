@@ -1,4 +1,6 @@
 .. reporter:: Wyoming Neutral Citation
-   :series-abbreviation: WY
+   :flp-series-cite-type: neutral
+   :flp-common-abbreviation: WY
+   :edition-abbreviation: WY
    :dates: 1750/1/1-present
    :neutral:

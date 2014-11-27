@@ -1,5 +1,7 @@
 .. reporter:: Court of International Trade Reports
-   :series-abbreviation: Ct. Int'l Trade
+   :flp-series-cite-type: fed
+   :flp-common-abbreviation: Ct. Int'l Trade
+   :edition-abbreviation: Ct. Int'l Trade
    :dates: 1980/1/1-present
 
-   .. variation: Ct.Int'l Trade
+   .. variation:: Ct.Int'l Trade

@@ -1,7 +1,9 @@
 .. reporter:: South Carolina Reports, McMullen
-   :series-abbreviation: McMul.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: McMul.
+   :edition-abbreviation: McMul.
    :dates: 1840/1/1-1842/12/31
 
-   .. variation: McMul.L.(S.C.)
+   .. variation:: McMul.L.(S.C.)
 
-   .. variation: S.C.L.(McMul.)
+   .. variation:: S.C.L.(McMul.)

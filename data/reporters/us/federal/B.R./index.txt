@@ -1,7 +1,9 @@
 .. reporter:: Bankruptcy Reporter
-   :series-abbreviation: B.R.
+   :flp-series-cite-type: specialty
+   :flp-common-abbreviation: B.R.
+   :edition-abbreviation: B.R.
    :dates: 1979/1/1-present
 
-   .. variation: B. R.
+   .. variation:: B. R.
 
-   .. variation: BR
+   .. variation:: BR

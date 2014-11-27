@@ -1,4 +1,6 @@
 .. reporter:: Utah Neutral Citation
-   :series-abbreviation: UT App
+   :flp-series-cite-type: neutral
+   :flp-common-abbreviation: UT App
+   :edition-abbreviation: UT App
    :dates: 1750/1/1-present
    :neutral:

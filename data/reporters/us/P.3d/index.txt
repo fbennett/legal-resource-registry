@@ -1,7 +1,9 @@
 .. reporter:: Pacific Reporter
-   :series-abbreviation: P.3d
+   :flp-series-cite-type: state_regional
+   :flp-common-abbreviation: P.
+   :edition-abbreviation: P.3d
    :dates: 2000/1/1-present
 
-   .. variation: P 3d
+   .. variation:: P 3d
 
-   .. variation: P. 3d
+   .. variation:: P. 3d

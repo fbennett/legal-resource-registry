@@ -1,7 +1,9 @@
 .. reporter:: New Jersey Miscellaneous Reports
-   :series-abbreviation: N.J. Misc.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: N.J. Misc.
+   :edition-abbreviation: N.J. Misc.
    :dates: 1923/1/1-1949/12/31
 
-   .. variation: N.J.M.
+   .. variation:: N.J.M.
 
-   .. variation: NJM
+   .. variation:: NJM

@@ -1,7 +1,9 @@
 .. reporter:: Southern Reporter
-   :series-abbreviation: So. 3d
+   :flp-series-cite-type: state_regional
+   :flp-common-abbreviation: So.
+   :edition-abbreviation: So. 3d
    :dates: 2008/1/1-present
 
-   .. variation: So.3d
+   .. variation:: So.3d
 
-   .. variation: South.3d
+   .. variation:: South.3d

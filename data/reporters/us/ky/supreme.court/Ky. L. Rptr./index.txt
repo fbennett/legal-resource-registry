@@ -1,9 +1,11 @@
 .. reporter:: Kentucky Law Reporter
-   :series-abbreviation: Ky. L. Rptr.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Ky. L. Rptr.
+   :edition-abbreviation: Ky. L. Rptr.
    :dates: 1880/1/1-1908/12/31
 
-   .. variation: Ky.Law.Rep.
+   .. variation:: Ky.Law.Rep.
 
-   .. variation: Ky.L.R.
+   .. variation:: Ky.L.R.
 
-   .. variation: Ken.L.Re.
+   .. variation:: Ken.L.Re.

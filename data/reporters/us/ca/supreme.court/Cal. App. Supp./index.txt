@@ -1,5 +1,7 @@
 .. reporter:: California Appellate Reports, Supplement
-   :series-abbreviation: Cal. App. Supp.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Cal. App. Supp.
+   :edition-abbreviation: Cal. App. Supp.
    :dates: 1929/1/1-present
 
-   .. variation: Cal.App.Supp.
+   .. variation:: Cal.App.Supp.

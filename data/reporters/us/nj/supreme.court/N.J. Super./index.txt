@@ -1,5 +1,7 @@
 .. reporter:: New Jersey Superior Court Reports
-   :series-abbreviation: N.J. Super.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: N.J. Super.
+   :edition-abbreviation: N.J. Super.
    :dates: 1948/1/1-present
 
-   .. variation: N.J.S.
+   .. variation:: N.J.S.

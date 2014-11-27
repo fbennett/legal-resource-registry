@@ -1,7 +1,9 @@
 .. reporter:: North Carolina Reports, Busbee's Law
-   :series-abbreviation: Busb.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Busb.
+   :edition-abbreviation: Busb.
    :dates: 1852/1/1-1853/12/31
 
-   .. variation: N.C.(Busb.)
+   .. variation:: N.C.(Busb.)
 
-   .. variation: Busb.L.
+   .. variation:: Busb.L.

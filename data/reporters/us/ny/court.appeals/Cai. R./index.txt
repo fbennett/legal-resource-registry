@@ -1,5 +1,7 @@
 .. reporter:: Caines' Reports
-   :series-abbreviation: Cai. R.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Cai. R.
+   :edition-abbreviation: Cai. R.
    :dates: 1803/1/1-1805/12/31
 
-   .. variation: Cai.R.
+   .. variation:: Cai.R.

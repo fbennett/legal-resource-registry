@@ -1,11 +1,13 @@
 .. reporter:: Kentucky Reports, Monroe, Ben
-   :series-abbreviation: B. Mon.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: B. Mon.
+   :edition-abbreviation: B. Mon.
    :dates: 1840/1/1-1857/12/31
 
-   .. variation: Mon.
+   .. variation:: Mon.
 
-   .. variation: Mon.B.
+   .. variation:: Mon.B.
 
-   .. variation: Ky.(B.Mon.)
+   .. variation:: Ky.(B.Mon.)
 
-   .. variation: Monroe, B.
+   .. variation:: Monroe, B.

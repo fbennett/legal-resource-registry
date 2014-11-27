@@ -1,15 +1,17 @@
 .. reporter:: North Carolina Reports, Philips' Law
-   :series-abbreviation: Phil. Law
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Phil. Law
+   :edition-abbreviation: Phil. Law
    :dates: 1866/1/1-1868/12/31
 
-   .. variation: Phill.L.(N.C.)
+   .. variation:: Phill.L.(N.C.)
 
-   .. variation: Phil.
+   .. variation:: Phil.
 
-   .. variation: Phillips
+   .. variation:: Phillips
 
-   .. variation: Phill.
+   .. variation:: Phill.
 
-   .. variation: Phil.N.C.
+   .. variation:: Phil.N.C.
 
-   .. variation: N.C.(Phil.Law)
+   .. variation:: N.C.(Phil.Law)

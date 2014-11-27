@@ -1,7 +1,9 @@
 .. reporter:: Ohio Decisions
-   :series-abbreviation: Ohio Dec.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Ohio Dec.
+   :edition-abbreviation: Ohio Dec.
    :dates: 1894/1/1-1920/12/31
 
-   .. variation: Oh.Dec.
+   .. variation:: Oh.Dec.
 
-   .. variation: O.D.
+   .. variation:: O.D.

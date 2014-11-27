@@ -1,4 +1,6 @@
 .. reporter:: New Mexico Neutral Citation
-   :series-abbreviation: NM
+   :flp-series-cite-type: neutral
+   :flp-common-abbreviation: NM
+   :edition-abbreviation: NM
    :dates: 1750/1/1-present
    :neutral:

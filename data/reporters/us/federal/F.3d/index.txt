@@ -1,11 +1,13 @@
 .. reporter:: Federal Reporter
-   :series-abbreviation: F.3d
+   :flp-series-cite-type: fed
+   :flp-common-abbreviation: F.
+   :edition-abbreviation: F.3d
    :dates: 1993/1/1-present
 
-   .. variation: Fed.Rep.3d
+   .. variation:: Fed.Rep.3d
 
-   .. variation: F. 3d
+   .. variation:: F. 3d
 
-   .. variation: F.3d.
+   .. variation:: F.3d.
 
-   .. variation: Fed.R.3d
+   .. variation:: Fed.R.3d

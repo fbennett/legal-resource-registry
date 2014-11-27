@@ -1,11 +1,13 @@
 .. reporter:: North Eastern Reporter
-   :series-abbreviation: N.E.
+   :flp-series-cite-type: state_regional
+   :flp-common-abbreviation: N.E.
+   :edition-abbreviation: N.E.
    :dates: 1884/1/1-1936/12/31
 
-   .. variation: N.E.Rep.
+   .. variation:: N.E.Rep.
 
-   .. variation: N. E.
+   .. variation:: N. E.
 
-   .. variation: NE
+   .. variation:: NE
 
-   .. variation: No.East Rep.
+   .. variation:: No.East Rep.

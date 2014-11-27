@@ -1,7 +1,9 @@
 .. reporter:: Tennessee Reports, Humphreys
-   :series-abbreviation: Hum.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Hum.
+   :edition-abbreviation: Hum.
    :dates: 1839/1/1-1851/12/31
 
-   .. variation: Humph.
+   .. variation:: Humph.
 
-   .. variation: Tenn.(Hum.)
+   .. variation:: Tenn.(Hum.)

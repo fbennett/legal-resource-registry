@@ -1,3 +1,5 @@
 .. reporter:: Navajo Reporter
-   :series-abbreviation: Navajo Rptr.
+   :flp-series-cite-type: fed
+   :flp-common-abbreviation: Navajo Rptr.
+   :edition-abbreviation: Navajo Rptr.
    :dates: 1969/1/1-present

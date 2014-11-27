@@ -1,7 +1,9 @@
 .. reporter:: Tennessee Reports, Peck
-   :series-abbreviation: Peck
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Peck
+   :edition-abbreviation: Peck
    :dates: 1821/1/1-1824/12/31
 
-   .. variation: Peck (Tenn.)
+   .. variation:: Peck (Tenn.)
 
-   .. variation: Tenn.(Peck)
+   .. variation:: Tenn.(Peck)

@@ -1,13 +1,15 @@
 .. reporter:: South Carolina Reports, Mill (Constitutional)
-   :series-abbreviation: Mill
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Mill
+   :edition-abbreviation: Mill
    :dates: 1817/1/1-1818/12/31
 
-   .. variation: Mill Const.
+   .. variation:: Mill Const.
 
-   .. variation: Const.
+   .. variation:: Const.
 
-   .. variation: S.C.L.(Mill)
+   .. variation:: S.C.L.(Mill)
 
-   .. variation: Mill Const.(S.C.)
+   .. variation:: Mill Const.(S.C.)
 
-   .. variation: Const.S.C.
+   .. variation:: Const.S.C.

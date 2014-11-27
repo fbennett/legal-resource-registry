@@ -1,9 +1,11 @@
 .. reporter:: Kentucky Reports, Sneed
-   :series-abbreviation: Sneed
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Sneed
+   :edition-abbreviation: Sneed
    :dates: 1801/1/1-1805/12/31
 
-   .. variation: Ky.(Sneed)
+   .. variation:: Ky.(Sneed)
 
-   .. variation: Sneed Dec.
+   .. variation:: Sneed Dec.
 
-   .. variation: Ken.Dec.
+   .. variation:: Ken.Dec.

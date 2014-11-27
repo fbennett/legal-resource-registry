@@ -1,5 +1,7 @@
 .. reporter:: Dakota Reports
-   :series-abbreviation: Dakota
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Dakota
+   :edition-abbreviation: Dakota
    :dates: 1867/1/1-1889/12/31
 
-   .. variation: Dak.
+   .. variation:: Dak.

@@ -1,11 +1,13 @@
 .. reporter:: South Carolina Reports, Dudley's Equity
-   :series-abbreviation: Dud. Eq.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Dud. Eq.
+   :edition-abbreviation: Dud. Eq.
    :dates: 1837/1/1-1838/12/31
 
-   .. variation: Dudl.
+   .. variation:: Dudl.
 
-   .. variation: Dud.Eq.(S.C.)
+   .. variation:: Dud.Eq.(S.C.)
 
-   .. variation: S.C.Eq.(Dud.Eq.)
+   .. variation:: S.C.Eq.(Dud.Eq.)
 
-   .. variation: Dud.Ch.
+   .. variation:: Dud.Ch.

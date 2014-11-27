@@ -1,7 +1,9 @@
 .. reporter:: South Carolina Reports, Strobhart's Equity
-   :series-abbreviation: Strob. Eq.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Strob. Eq.
+   :edition-abbreviation: Strob. Eq.
    :dates: 1846/1/1-1850/12/31
 
-   .. variation: Strob.Eq.(S.C.)
+   .. variation:: Strob.Eq.(S.C.)
 
-   .. variation: S.C.Eq.(Strob.Eq.)
+   .. variation:: S.C.Eq.(Strob.Eq.)

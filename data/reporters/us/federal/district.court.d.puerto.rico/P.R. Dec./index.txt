@@ -1,3 +1,5 @@
 .. reporter:: Decisiones de Puerto Rico
-   :series-abbreviation: P.R. Dec.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: P.R. Dec.
+   :edition-abbreviation: P.R. Dec.
    :dates: 1899/1/1-present

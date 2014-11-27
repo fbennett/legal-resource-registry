@@ -1,4 +1,6 @@
 .. reporter:: Florida Neutral Citation
-   :series-abbreviation: FL
+   :flp-series-cite-type: neutral
+   :flp-common-abbreviation: FL
+   :edition-abbreviation: FL
    :dates: 1750/1/1-present
    :neutral:

@@ -1,13 +1,15 @@
 .. reporter:: Pennsylvania State Reports, Grant
-   :series-abbreviation: Grant
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Grant
+   :edition-abbreviation: Grant
    :dates: 1814/1/1-1863/12/31
 
-   .. variation: Gr.
+   .. variation:: Gr.
 
-   .. variation: Grant Pa.
+   .. variation:: Grant Pa.
 
-   .. variation: Grant Cas.
+   .. variation:: Grant Cas.
 
-   .. variation: Grant Cas.(Pa.)
+   .. variation:: Grant Cas.(Pa.)
 
-   .. variation: Grant (Pa.)
+   .. variation:: Grant (Pa.)

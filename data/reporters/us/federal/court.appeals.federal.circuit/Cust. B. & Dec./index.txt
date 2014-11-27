@@ -1,3 +1,5 @@
 .. reporter:: Customs Bulletin and Decisions
-   :series-abbreviation: Cust. B. & Dec.
+   :flp-series-cite-type: fed
+   :flp-common-abbreviation: Cust. B. & Dec.
+   :edition-abbreviation: Cust. B. & Dec.
    :dates: 1967/1/1-present

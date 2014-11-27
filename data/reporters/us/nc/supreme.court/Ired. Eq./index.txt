@@ -1,9 +1,11 @@
 .. reporter:: North Carolina Reports, Iredell's Equity
-   :series-abbreviation: Ired. Eq.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Ired. Eq.
+   :edition-abbreviation: Ired. Eq.
    :dates: 1840/1/1-1852/12/31
 
-   .. variation: Ired.
+   .. variation:: Ired.
 
-   .. variation: N.C.(Ired.Eq.)
+   .. variation:: N.C.(Ired.Eq.)
 
-   .. variation: Ired.Eq.(N.C.)
+   .. variation:: Ired.Eq.(N.C.)

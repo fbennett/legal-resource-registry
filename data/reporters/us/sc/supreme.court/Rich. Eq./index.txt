@@ -1,7 +1,9 @@
 .. reporter:: South Carolina Reports, Richardson's Equity
-   :series-abbreviation: Rich. Eq.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Rich. Eq.
+   :edition-abbreviation: Rich. Eq.
    :dates: 1844/1/1-1868/12/31
 
-   .. variation: Rich.Eq.Ch.
+   .. variation:: Rich.Eq.Ch.
 
-   .. variation: S.C.Eq.(Rich.Eq.)
+   .. variation:: S.C.Eq.(Rich.Eq.)

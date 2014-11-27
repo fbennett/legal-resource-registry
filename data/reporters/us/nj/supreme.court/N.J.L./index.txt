@@ -1,5 +1,7 @@
 .. reporter:: New Jersey Law Reports
-   :series-abbreviation: N.J.L.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: N.J.L.
+   :edition-abbreviation: N.J.L.
    :dates: 1790/1/1-1948/12/31
 
-   .. variation: N.J.Law
+   .. variation:: N.J.Law

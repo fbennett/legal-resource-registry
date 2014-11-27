@@ -1,9 +1,11 @@
 .. reporter:: Tennessee Reports, Coldwell
-   :series-abbreviation: Cold.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Cold.
+   :edition-abbreviation: Cold.
    :dates: 1860/1/1-1870/12/31
 
-   .. variation: Col.
+   .. variation:: Col.
 
-   .. variation: Tenn.(Cold.)
+   .. variation:: Tenn.(Cold.)
 
-   .. variation: Coldw.
+   .. variation:: Coldw.

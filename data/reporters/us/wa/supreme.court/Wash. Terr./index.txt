@@ -1,21 +1,23 @@
 .. reporter:: Washington Territory Reports
-   :series-abbreviation: Wash. Terr.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Wash. Terr.
+   :edition-abbreviation: Wash. Terr.
    :dates: 1854/1/1-1888/12/31
 
-   .. variation: Wash.Ter.
+   .. variation:: Wash.Ter.
 
-   .. variation: Wash.Ty.
+   .. variation:: Wash.Ty.
 
-   .. variation: Wash.Ter.N.S.
+   .. variation:: Wash.Ter.N.S.
 
-   .. variation: Wn. Terr.
+   .. variation:: Wn. Terr.
 
-   .. variation: Wash.
+   .. variation:: Wash.
 
-   .. variation: W.T.
+   .. variation:: W.T.
 
-   .. variation: Allen
+   .. variation:: Allen
 
-   .. variation: W.Ty.R.
+   .. variation:: W.Ty.R.
 
-   .. variation: Wash.T.
+   .. variation:: Wash.T.

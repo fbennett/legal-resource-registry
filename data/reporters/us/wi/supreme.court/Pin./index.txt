@@ -1,5 +1,7 @@
 .. reporter:: Wisconsin Reports, Pinney
-   :series-abbreviation: Pin.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Pin.
+   :edition-abbreviation: Pin.
    :dates: 1839/1/1-1852/12/31
 
-   .. variation: Pinn.
+   .. variation:: Pinn.

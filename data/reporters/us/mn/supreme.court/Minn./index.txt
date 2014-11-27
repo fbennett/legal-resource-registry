@@ -1,5 +1,7 @@
 .. reporter:: Minnesota Reports
-   :series-abbreviation: Minn.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Minn.
+   :edition-abbreviation: Minn.
    :dates: 1851/1/1-1977/12/31
 
-   .. variation: Min.
+   .. variation:: Min.

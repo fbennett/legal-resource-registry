@@ -1,5 +1,7 @@
 .. reporter:: Military Justice Reporter
-   :series-abbreviation: M.J.
+   :flp-series-cite-type: specialty
+   :flp-common-abbreviation: M.J.
+   :edition-abbreviation: M.J.
    :dates: 1975/1/1-present
 
-   .. variation: M. J.
+   .. variation:: M. J.

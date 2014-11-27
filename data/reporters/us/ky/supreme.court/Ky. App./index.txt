@@ -1,3 +1,5 @@
 .. reporter:: Kentucky Appellate Reporter
-   :series-abbreviation: Ky. App.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Ky. App.
+   :edition-abbreviation: Ky. App.
    :dates: 1994/1/1-2000/12/31

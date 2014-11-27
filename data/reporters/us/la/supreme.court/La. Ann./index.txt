@@ -1,3 +1,5 @@
 .. reporter:: Louisiana Annual Reports
-   :series-abbreviation: La. Ann.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: La. Ann.
+   :edition-abbreviation: La. Ann.
    :dates: 1846/1/1-1900/12/31

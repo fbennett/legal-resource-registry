@@ -1,13 +1,15 @@
 .. reporter:: Hoffman's Chancery Reports
-   :series-abbreviation: Hoff. Ch.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Hoff. Ch.
+   :edition-abbreviation: Hoff. Ch.
    :dates: 1838/1/1-1840/12/31
 
-   .. variation: Hoffm.
+   .. variation:: Hoffm.
 
-   .. variation: Hoffm.Ch.(N.Y.)
+   .. variation:: Hoffm.Ch.(N.Y.)
 
-   .. variation: Hoff.Cha.
+   .. variation:: Hoff.Cha.
 
-   .. variation: Hoff.
+   .. variation:: Hoff.
 
-   .. variation: Hoff.N.Y.
+   .. variation:: Hoff.N.Y.

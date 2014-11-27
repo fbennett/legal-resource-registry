@@ -1,4 +1,6 @@
 .. reporter:: Mississippi Neutral Citation
-   :series-abbreviation: MS
+   :flp-series-cite-type: neutral
+   :flp-common-abbreviation: MS
+   :edition-abbreviation: MS
    :dates: 1750/1/1-present
    :neutral:

@@ -1,7 +1,9 @@
 .. reporter:: Southern Reporter
-   :series-abbreviation: So. 2d
+   :flp-series-cite-type: state_regional
+   :flp-common-abbreviation: So.
+   :edition-abbreviation: So. 2d
    :dates: 1941/1/1-2008/12/31
 
-   .. variation: So.2d
+   .. variation:: So.2d
 
-   .. variation: South.2d
+   .. variation:: South.2d

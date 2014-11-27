@@ -1,4 +1,6 @@
 .. reporter:: North Dakota Neutral Citation
-   :series-abbreviation: ND
+   :flp-series-cite-type: neutral
+   :flp-common-abbreviation: ND
+   :edition-abbreviation: ND
    :dates: 1750/1/1-present
    :neutral:

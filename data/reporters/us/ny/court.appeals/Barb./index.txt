@@ -1,7 +1,9 @@
 .. reporter:: Barbour's Supreme Court Reports
-   :series-abbreviation: Barb.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Barb.
+   :edition-abbreviation: Barb.
    :dates: 1847/1/1-1877/12/31
 
-   .. variation: B.
+   .. variation:: B.
 
-   .. variation: Barb.S.C.
+   .. variation:: Barb.S.C.

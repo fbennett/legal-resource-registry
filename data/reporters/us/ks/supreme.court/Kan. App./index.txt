@@ -1,7 +1,9 @@
 .. reporter:: Kansas Court of Appeals Reports
-   :series-abbreviation: Kan. App.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Kan. App.
+   :edition-abbreviation: Kan. App.
    :dates: 1895/1/1-1901/12/31
 
-   .. variation: Kan.App.
+   .. variation:: Kan.App.
 
-   .. variation: Kans.App.
+   .. variation:: Kans.App.

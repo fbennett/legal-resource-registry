@@ -1,3 +1,5 @@
 .. reporter:: New Jersey Administrative Reports
-   :series-abbreviation: N.J. Admin. 2d
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: N.J. Admin.
+   :edition-abbreviation: N.J. Admin. 2d
    :dates: 1982/1/1-present

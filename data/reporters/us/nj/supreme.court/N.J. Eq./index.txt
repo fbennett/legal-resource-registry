@@ -1,3 +1,5 @@
 .. reporter:: New Jersey Equity Reports
-   :series-abbreviation: N.J. Eq.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: N.J. Eq.
+   :edition-abbreviation: N.J. Eq.
    :dates: 1830/1/1-1948/12/31

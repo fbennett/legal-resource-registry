@@ -1,5 +1,7 @@
 .. reporter:: Missouri Appeals Reports
-   :series-abbreviation: Mo. App.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Mo. App.
+   :edition-abbreviation: Mo. App.
    :dates: 1876/1/1-1954/12/31
 
-   .. variation: Mo.App.Rep.
+   .. variation:: Mo.App.Rep.

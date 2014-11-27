@@ -1,3 +1,5 @@
 .. reporter:: Connecticut Appellate Reports
-   :series-abbreviation: Conn. App.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Conn. App.
+   :edition-abbreviation: Conn. App.
    :dates: 1983/1/1-present

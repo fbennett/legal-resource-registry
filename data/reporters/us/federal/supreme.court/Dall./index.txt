@@ -1,11 +1,13 @@
 .. reporter:: Dallas' Supreme Court Reports
-   :series-abbreviation: Dall.
+   :flp-series-cite-type: scotus_early
+   :flp-common-abbreviation: Dall.
+   :edition-abbreviation: Dall.
    :dates: 1790/1/1-1880/12/31
 
-   .. variation: Dal.
+   .. variation:: Dal.
 
-   .. variation: Dall.S.C.
+   .. variation:: Dall.S.C.
 
-   .. variation: U.S.(Dall.)
+   .. variation:: U.S.(Dall.)
 
-   .. variation: Dallas
+   .. variation:: Dallas

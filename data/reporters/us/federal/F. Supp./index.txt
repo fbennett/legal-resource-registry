@@ -1,5 +1,7 @@
 .. reporter:: Federal Supplement
-   :series-abbreviation: F. Supp.
+   :flp-series-cite-type: fed
+   :flp-common-abbreviation: F. Supp.
+   :edition-abbreviation: F. Supp.
    :dates: 1932/1/1-1988/12/31
 
-   .. variation: F.Supp.
+   .. variation:: F.Supp.

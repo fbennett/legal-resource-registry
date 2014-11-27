@@ -1,11 +1,13 @@
 .. reporter:: North Western Reporter
-   :series-abbreviation: N.W.2d
+   :flp-series-cite-type: state_regional
+   :flp-common-abbreviation: N.W.
+   :edition-abbreviation: N.W.2d
    :dates: 1942/1/1-present
 
-   .. variation: NW 2d
+   .. variation:: NW 2d
 
-   .. variation: N. W.2d
+   .. variation:: N. W.2d
 
-   .. variation: N.W. 2d
+   .. variation:: N.W. 2d
 
-   .. variation: N. W. 2d
+   .. variation:: N. W. 2d

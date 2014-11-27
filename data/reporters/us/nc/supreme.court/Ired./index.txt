@@ -1,9 +1,11 @@
 .. reporter:: North Carolina Reports, Iredell's Law
-   :series-abbreviation: Ired.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Ired.
+   :edition-abbreviation: Ired.
    :dates: 1840/1/1-1852/12/31
 
-   .. variation: Ired.L.
+   .. variation:: Ired.L.
 
-   .. variation: Ired.L.(N.C.)
+   .. variation:: Ired.L.(N.C.)
 
-   .. variation: N.C.(Ired.)
+   .. variation:: N.C.(Ired.)

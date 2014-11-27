@@ -1,13 +1,15 @@
 .. reporter:: South Carolina Reports, Hill's Chancery
-   :series-abbreviation: Hill Eq.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Hill Eq.
+   :edition-abbreviation: Hill Eq.
    :dates: 1833/1/1-1837/12/31
 
-   .. variation: Hill Eq.(S.C.)
+   .. variation:: Hill Eq.(S.C.)
 
-   .. variation: S.C.Eq.(Hill Eq.)
+   .. variation:: S.C.Eq.(Hill Eq.)
 
-   .. variation: Hill Ch.
+   .. variation:: Hill Ch.
 
-   .. variation: Hill
+   .. variation:: Hill
 
-   .. variation: Hill S.C.
+   .. variation:: Hill S.C.

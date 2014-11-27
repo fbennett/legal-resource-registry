@@ -1,5 +1,7 @@
 .. reporter:: Louisiana Court of Appeals Reports, McGloin
-   :series-abbreviation: McGl.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: McGl.
+   :edition-abbreviation: McGl.
    :dates: 1881/1/1-1884/12/31
 
-   .. variation: McGloin
+   .. variation:: McGloin

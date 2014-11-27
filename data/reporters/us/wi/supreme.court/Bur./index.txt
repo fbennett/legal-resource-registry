@@ -1,7 +1,9 @@
 .. reporter:: Wisconsin Reports, Burnett
-   :series-abbreviation: Bur.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Bur.
+   :edition-abbreviation: Bur.
    :dates: 1841/1/1-1843/12/31
 
-   .. variation: Burnett (Wis.)
+   .. variation:: Burnett (Wis.)
 
-   .. variation: Burnett
+   .. variation:: Burnett

@@ -1,6 +1,8 @@
 .. reporter:: Ohio Neutral Citation
-   :series-abbreviation: OH
+   :flp-series-cite-type: neutral
+   :flp-common-abbreviation: OH
+   :edition-abbreviation: OH
    :dates: 1750/1/1-present
    :neutral:
 
-   .. variation: -Ohio-
+   .. variation:: -Ohio-

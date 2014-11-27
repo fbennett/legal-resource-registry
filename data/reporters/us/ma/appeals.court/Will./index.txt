@@ -1,9 +1,11 @@
 .. reporter:: Massachusetts Reports, Williams
-   :series-abbreviation: Will.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Will.
+   :edition-abbreviation: Will.
    :dates: 1804/1/1-1805/12/31
 
-   .. variation: Will.Mass.
+   .. variation:: Will.Mass.
 
-   .. variation: Mass.(Will.)
+   .. variation:: Mass.(Will.)
 
-   .. variation: Williams
+   .. variation:: Williams

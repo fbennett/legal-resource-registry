@@ -1,7 +1,9 @@
 .. reporter:: Massachusetts Reports, Pickering
-   :series-abbreviation: Pick.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Pick.
+   :edition-abbreviation: Pick.
    :dates: 1822/1/1-1839/12/31
 
-   .. variation: Pick.(Mass.)
+   .. variation:: Pick.(Mass.)
 
-   .. variation: Mass.(Pick.)
+   .. variation:: Mass.(Pick.)

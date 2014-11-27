@@ -1,9 +1,11 @@
 .. reporter:: North Carolina Reports, Haywood
-   :series-abbreviation: Hayw.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Hayw.
+   :edition-abbreviation: Hayw.
    :dates: 1789/1/1-1806/12/31
 
-   .. variation: N.C.(Hayw.)
+   .. variation:: N.C.(Hayw.)
 
-   .. variation: Hayw.N.C.
+   .. variation:: Hayw.N.C.
 
-   .. variation: Hay.
+   .. variation:: Hay.

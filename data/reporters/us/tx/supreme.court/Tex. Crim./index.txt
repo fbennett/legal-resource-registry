@@ -1,9 +1,11 @@
 .. reporter:: Texas Criminal Reports
-   :series-abbreviation: Tex. Crim.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Tex. Crim.
+   :edition-abbreviation: Tex. Crim.
    :dates: 1891/1/1-1962/12/31
 
-   .. variation: Tex.Crim.Rep.
+   .. variation:: Tex.Crim.Rep.
 
-   .. variation: Tex.Cr.App.
+   .. variation:: Tex.Cr.App.
 
-   .. variation: Tex.Cr.R.
+   .. variation:: Tex.Cr.R.

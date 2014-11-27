@@ -1,11 +1,13 @@
 .. reporter:: Cranch's Supreme Court Reports
-   :series-abbreviation: Cranch
+   :flp-series-cite-type: scotus_early
+   :flp-common-abbreviation: Cranch
+   :edition-abbreviation: Cranch
    :dates: 1801/1/1-1815/12/31
 
-   .. variation: Cra.
+   .. variation:: Cra.
 
-   .. variation: Cr.
+   .. variation:: Cr.
 
-   .. variation: U.S.(Cranch)
+   .. variation:: U.S.(Cranch)
 
-   .. variation: Cranch (US)
+   .. variation:: Cranch (US)

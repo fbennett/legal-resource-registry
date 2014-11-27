@@ -1,7 +1,9 @@
 .. reporter:: Pennsylvania State Reports, Watts & Sergeant
-   :series-abbreviation: Watts & Serg.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Watts & Serg.
+   :edition-abbreviation: Watts & Serg.
    :dates: 1841/1/1-1845/12/31
 
-   .. variation: Watts & S.
+   .. variation:: Watts & S.
 
-   .. variation: W.& S.
+   .. variation:: W.& S.

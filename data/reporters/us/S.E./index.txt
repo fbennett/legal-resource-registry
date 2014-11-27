@@ -1,7 +1,9 @@
 .. reporter:: South Eastern Reporter
-   :series-abbreviation: S.E.
+   :flp-series-cite-type: state_regional
+   :flp-common-abbreviation: S.E.
+   :edition-abbreviation: S.E.
    :dates: 1887/1/1-1939/12/31
 
-   .. variation: S. E.
+   .. variation:: S. E.
 
-   .. variation: SE
+   .. variation:: SE

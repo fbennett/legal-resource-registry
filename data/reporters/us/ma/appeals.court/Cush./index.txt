@@ -1,9 +1,11 @@
 .. reporter:: Massachusetts Reports, Cushing
-   :series-abbreviation: Cush.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Cush.
+   :edition-abbreviation: Cush.
    :dates: 1848/1/1-1853/12/31
 
-   .. variation: Mass.(Cush.)
+   .. variation:: Mass.(Cush.)
 
-   .. variation: Cushing
+   .. variation:: Cushing
 
-   .. variation: Cush.(Mass.)
+   .. variation:: Cush.(Mass.)

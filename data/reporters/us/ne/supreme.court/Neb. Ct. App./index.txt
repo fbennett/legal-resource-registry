@@ -1,7 +1,9 @@
 .. reporter:: Nebraska Court of Appeals Reports
-   :series-abbreviation: Neb. Ct. App.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Neb. Ct. App.
+   :edition-abbreviation: Neb. Ct. App.
    :dates: 1922/1/1-present
 
-   .. variation: Neb. App.
+   .. variation:: Neb. App.
 
-   .. variation: Neb.App.R.
+   .. variation:: Neb.App.R.

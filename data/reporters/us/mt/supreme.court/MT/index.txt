@@ -1,4 +1,6 @@
 .. reporter:: Montana Neutral Citation
-   :series-abbreviation: MT
+   :flp-series-cite-type: neutral
+   :flp-common-abbreviation: MT
+   :edition-abbreviation: MT
    :dates: 1750/1/1-present
    :neutral:

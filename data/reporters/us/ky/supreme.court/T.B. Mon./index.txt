@@ -1,11 +1,13 @@
 .. reporter:: Kentucky Reports, Monroe, T.B.
-   :series-abbreviation: T.B. Mon.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: T.B. Mon.
+   :edition-abbreviation: T.B. Mon.
    :dates: 1824/1/1-1828/12/31
 
-   .. variation: Mon.
+   .. variation:: Mon.
 
-   .. variation: T.B.Mon.(Ky.)
+   .. variation:: T.B.Mon.(Ky.)
 
-   .. variation: Mon.T.B.
+   .. variation:: Mon.T.B.
 
-   .. variation: Ky.(T.B.Monroe)
+   .. variation:: Ky.(T.B.Monroe)

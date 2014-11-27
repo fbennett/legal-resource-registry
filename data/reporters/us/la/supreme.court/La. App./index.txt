@@ -1,5 +1,7 @@
 .. reporter:: Louisiana Court of Appeals Reports
-   :series-abbreviation: La. App.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: La. App.
+   :edition-abbreviation: La. App.
    :dates: 1924/1/1-1932/12/31
 
-   .. variation: La.A.
+   .. variation:: La.A.

@@ -1,3 +1,5 @@
 .. reporter:: Lansing's Reports
-   :series-abbreviation: Lans.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Lans.
+   :edition-abbreviation: Lans.
    :dates: 1869/1/1-1873/12/31

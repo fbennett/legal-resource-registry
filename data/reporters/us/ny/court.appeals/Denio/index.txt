@@ -1,5 +1,7 @@
 .. reporter:: Denio's Reports
-   :series-abbreviation: Denio
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Denio
+   :edition-abbreviation: Denio
    :dates: 1845/1/1-1848/12/31
 
-   .. variation: Den.
+   .. variation:: Den.

@@ -1,11 +1,13 @@
 .. reporter:: North Western Reporter
-   :series-abbreviation: N.W.
+   :flp-series-cite-type: state_regional
+   :flp-common-abbreviation: N.W.
+   :edition-abbreviation: N.W.
    :dates: 1880/1/1-1942/12/31
 
-   .. variation: N. W.
+   .. variation:: N. W.
 
-   .. variation: No.West Rep.
+   .. variation:: No.West Rep.
 
-   .. variation: Northw.Rep.
+   .. variation:: Northw.Rep.
 
-   .. variation: NW
+   .. variation:: NW

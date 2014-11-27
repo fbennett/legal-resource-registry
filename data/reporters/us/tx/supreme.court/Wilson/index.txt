@@ -1,3 +1,5 @@
 .. reporter:: Condensed Reports of Decisions in Civil Causes in the Court of Appeals of Texas (Wilson)
-   :series-abbreviation: Wilson
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Wilson
+   :edition-abbreviation: Wilson
    :dates: 1883/1/1-1892/12/31

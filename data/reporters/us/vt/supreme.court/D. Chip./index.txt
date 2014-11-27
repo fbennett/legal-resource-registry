@@ -1,13 +1,15 @@
 .. reporter:: Vermont Reports, Chipman, D.
-   :series-abbreviation: D. Chip.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: D. Chip.
+   :edition-abbreviation: D. Chip.
    :dates: 1789/1/1-1824/12/31
 
-   .. variation: Chip.
+   .. variation:: Chip.
 
-   .. variation: Chip.(Vt.)
+   .. variation:: Chip.(Vt.)
 
-   .. variation: D.Chipm.
+   .. variation:: D.Chipm.
 
-   .. variation: D.Chip.(Vt.)
+   .. variation:: D.Chip.(Vt.)
 
-   .. variation: Chip.D.
+   .. variation:: Chip.D.

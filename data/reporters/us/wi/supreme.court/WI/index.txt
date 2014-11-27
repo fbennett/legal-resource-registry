@@ -1,4 +1,6 @@
 .. reporter:: Wisconsin Neutral Citation
-   :series-abbreviation: WI
+   :flp-series-cite-type: neutral
+   :flp-common-abbreviation: WI
+   :edition-abbreviation: WI
    :dates: 1750/1/1-present
    :neutral:

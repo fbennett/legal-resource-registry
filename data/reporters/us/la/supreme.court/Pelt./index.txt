@@ -1,3 +1,5 @@
 .. reporter:: Peltier's Opinions, Parish at Orleans
-   :series-abbreviation: Pelt.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Pelt.
+   :edition-abbreviation: Pelt.
    :dates: 1917/1/1-1924/12/31

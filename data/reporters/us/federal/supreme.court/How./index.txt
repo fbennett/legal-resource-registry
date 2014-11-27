@@ -1,5 +1,7 @@
 .. reporter:: Howard's Supreme Court Reports
-   :series-abbreviation: How.
+   :flp-series-cite-type: scotus_early
+   :flp-common-abbreviation: How.
+   :edition-abbreviation: How.
    :dates: 1843/1/1-1860/12/31
 
-   .. variation: U.S.(How.)
+   .. variation:: U.S.(How.)

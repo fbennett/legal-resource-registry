@@ -1,9 +1,11 @@
 .. reporter:: Oregon Reports, Court of Appeals
-   :series-abbreviation: Or. App.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Or. App.
+   :edition-abbreviation: Or. App.
    :dates: 1969/1/1-present
 
-   .. variation: Ore. App.
+   .. variation:: Ore. App.
 
-   .. variation: Or.A.
+   .. variation:: Or.A.
 
-   .. variation: Ore.App.
+   .. variation:: Ore.App.

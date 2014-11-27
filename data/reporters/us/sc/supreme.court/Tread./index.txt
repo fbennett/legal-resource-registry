@@ -1,5 +1,7 @@
 .. reporter:: South Carolina Reports, Treadway
-   :series-abbreviation: Tread.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Tread.
+   :edition-abbreviation: Tread.
    :dates: 1812/1/1-1816/12/31
 
-   .. variation: S.C.L.(Tread.)
+   .. variation:: S.C.L.(Tread.)

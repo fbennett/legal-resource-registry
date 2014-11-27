@@ -1,7 +1,9 @@
 .. reporter:: Iowa Reports, Morris
-   :series-abbreviation: Morris
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Morris
+   :edition-abbreviation: Morris
    :dates: 1839/1/1-1846/12/31
 
-   .. variation: Morr.
+   .. variation:: Morr.
 
-   .. variation: Mor.Ia.
+   .. variation:: Mor.Ia.

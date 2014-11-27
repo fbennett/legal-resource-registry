@@ -1,7 +1,9 @@
 .. reporter:: Carolina Law Repository
-   :series-abbreviation: Car. L. Rep.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Car. L. Rep.
+   :edition-abbreviation: Car. L. Rep.
    :dates: 1811/1/1-1816/12/31
 
-   .. variation: N.C.(Car.L.Rep.)
+   .. variation:: N.C.(Car.L.Rep.)
 
-   .. variation: Car.Law.Repos.
+   .. variation:: Car.Law.Repos.

@@ -1,3 +1,5 @@
 .. reporter:: Arizona Appeals Reports
-   :series-abbreviation: Ariz. App.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Ariz. App.
+   :edition-abbreviation: Ariz. App.
    :dates: 1965/1/1-1976/12/31

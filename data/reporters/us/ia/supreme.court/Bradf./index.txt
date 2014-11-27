@@ -1,7 +1,9 @@
 .. reporter:: Iowa Reports, Bradford
-   :series-abbreviation: Bradf.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Bradf.
+   :edition-abbreviation: Bradf.
    :dates: 1838/1/1-1841/12/31
 
-   .. variation: Bradford
+   .. variation:: Bradford
 
-   .. variation: Brad.
+   .. variation:: Brad.

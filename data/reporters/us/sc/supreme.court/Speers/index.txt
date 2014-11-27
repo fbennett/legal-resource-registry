@@ -1,11 +1,13 @@
 .. reporter:: South Carolina Reports, Speers
-   :series-abbreviation: Speers
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Speers
+   :edition-abbreviation: Speers
    :dates: 1842/1/1-1844/12/31
 
-   .. variation: Speers L.(S.C.)
+   .. variation:: Speers L.(S.C.)
 
-   .. variation: S.C.L.(Speers)
+   .. variation:: S.C.L.(Speers)
 
-   .. variation: Spears
+   .. variation:: Spears
 
-   .. variation: Sp.
+   .. variation:: Sp.

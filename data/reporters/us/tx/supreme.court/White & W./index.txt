@@ -1,23 +1,25 @@
 .. reporter:: Condensed Reports of Decisions in Civil Causes in the Court of Appeals of Texas (White & Wilson)
-   :series-abbreviation: White & W.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: White & W.
+   :edition-abbreviation: White & W.
    :dates: 1876/1/1-1883/12/31
 
-   .. variation: Tex.Civ.Cas.
+   .. variation:: Tex.Civ.Cas.
 
-   .. variation: W.& W.
+   .. variation:: W.& W.
 
-   .. variation: Tex.C.C.
+   .. variation:: Tex.C.C.
 
-   .. variation: Tex.A.Civ.
+   .. variation:: Tex.A.Civ.
 
-   .. variation: Tex.App.
+   .. variation:: Tex.App.
 
-   .. variation: Tex.A.Civ.Cas.
+   .. variation:: Tex.A.Civ.Cas.
 
-   .. variation: Wi.& Will.
+   .. variation:: Wi.& Will.
 
-   .. variation: Tex.Ct.App.Dec.Civ.
+   .. variation:: Tex.Ct.App.Dec.Civ.
 
-   .. variation: White & W.(Tex.)
+   .. variation:: White & W.(Tex.)
 
-   .. variation: White & W.Civ.Cas.Ct.App.
+   .. variation:: White & W.Civ.Cas.Ct.App.

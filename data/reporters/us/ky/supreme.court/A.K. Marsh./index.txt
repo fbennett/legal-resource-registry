@@ -1,13 +1,15 @@
 .. reporter:: Kentucky Reports, Marshall, A.K.
-   :series-abbreviation: A.K. Marsh.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: A.K. Marsh.
+   :edition-abbreviation: A.K. Marsh.
    :dates: 1817/1/1-1821/12/31
 
-   .. variation: Ky.(A.K.Marsh.)
+   .. variation:: Ky.(A.K.Marsh.)
 
-   .. variation: Mar.
+   .. variation:: Mar.
 
-   .. variation: Marsh.
+   .. variation:: Marsh.
 
-   .. variation: Marsh.A.K.
+   .. variation:: Marsh.A.K.
 
-   .. variation: Marsh.(Ky.)
+   .. variation:: Marsh.(Ky.)

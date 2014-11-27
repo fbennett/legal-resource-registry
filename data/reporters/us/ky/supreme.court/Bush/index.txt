@@ -1,7 +1,9 @@
 .. reporter:: Kentucky Reports, Bush
-   :series-abbreviation: Bush
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Bush
+   :edition-abbreviation: Bush
    :dates: 1866/1/1-1879/12/31
 
-   .. variation: Ky.(Bush)
+   .. variation:: Ky.(Bush)
 
-   .. variation: Bush (Ky.)
+   .. variation:: Bush (Ky.)

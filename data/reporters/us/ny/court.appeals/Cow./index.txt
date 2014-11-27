@@ -1,7 +1,9 @@
 .. reporter:: Cowen's Reports
-   :series-abbreviation: Cow.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Cow.
+   :edition-abbreviation: Cow.
    :dates: 1823/1/1-1829/12/31
 
-   .. variation: Cow.N.Y.
+   .. variation:: Cow.N.Y.
 
-   .. variation: C.
+   .. variation:: C.

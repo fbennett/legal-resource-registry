@@ -1,7 +1,9 @@
 .. reporter:: New York Supreme Court Appellate Division Reports
-   :series-abbreviation: A.D.2d
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: A.D.
+   :edition-abbreviation: A.D.2d
    :dates: 1955/1/1-2004/12/31
 
-   .. variation: A.D. 2d
+   .. variation:: A.D. 2d
 
-   .. variation: AD 2d
+   .. variation:: AD 2d

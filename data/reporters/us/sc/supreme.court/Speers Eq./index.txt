@@ -1,21 +1,23 @@
 .. reporter:: South Carolina Reports, Speers' Equity
-   :series-abbreviation: Speers Eq.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Speers Eq.
+   :edition-abbreviation: Speers Eq.
    :dates: 1842/1/1-1844/12/31
 
-   .. variation: Spears Eq.
+   .. variation:: Spears Eq.
 
-   .. variation: Spear Eq.
+   .. variation:: Spear Eq.
 
-   .. variation: Spear Ch.
+   .. variation:: Spear Ch.
 
-   .. variation: Sp.Ch.
+   .. variation:: Sp.Ch.
 
-   .. variation: S.C.Eq.(Speers Eq.)
+   .. variation:: S.C.Eq.(Speers Eq.)
 
-   .. variation: Speers Eq.(S.C.)
+   .. variation:: Speers Eq.(S.C.)
 
-   .. variation: Sp.
+   .. variation:: Sp.
 
-   .. variation: Speers
+   .. variation:: Speers
 
-   .. variation: Spears
+   .. variation:: Spears

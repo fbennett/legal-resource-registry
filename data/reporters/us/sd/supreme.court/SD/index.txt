@@ -1,4 +1,6 @@
 .. reporter:: South Dakota Neutral Citation
-   :series-abbreviation: SD
+   :flp-series-cite-type: neutral
+   :flp-common-abbreviation: SD
+   :edition-abbreviation: SD
    :dates: 1750/1/1-present
    :neutral:

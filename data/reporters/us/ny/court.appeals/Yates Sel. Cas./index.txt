@@ -1,7 +1,9 @@
 .. reporter:: Yates' Select Cases
-   :series-abbreviation: Yates Sel. Cas.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Yates Sel. Cas.
+   :edition-abbreviation: Yates Sel. Cas.
    :dates: 1809/1/1-1809/12/31
 
-   .. variation: Yates Sel.Cas.(N.Y.)
+   .. variation:: Yates Sel.Cas.(N.Y.)
 
-   .. variation: Yates
+   .. variation:: Yates

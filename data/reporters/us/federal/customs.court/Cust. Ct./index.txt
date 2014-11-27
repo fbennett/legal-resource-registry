@@ -1,3 +1,5 @@
 .. reporter:: Customs Court Reports
-   :series-abbreviation: Cust. Ct.
+   :flp-series-cite-type: fed
+   :flp-common-abbreviation: Cust. Ct.
+   :edition-abbreviation: Cust. Ct.
    :dates: 1938/1/1-1980/12/31

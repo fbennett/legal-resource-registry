@@ -1,3 +1,5 @@
 .. reporter:: Virginia Reports, Munford
-   :series-abbreviation: Munf.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Munf.
+   :edition-abbreviation: Munf.
    :dates: 1810/1/1-1820/12/31

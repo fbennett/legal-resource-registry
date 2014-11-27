@@ -1,3 +1,5 @@
 .. reporter:: Delaware Reports, Houston
-   :series-abbreviation: Houston
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Houston
+   :edition-abbreviation: Houston
    :dates: 1855/1/1-1893/12/31

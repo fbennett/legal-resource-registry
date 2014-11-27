@@ -1,5 +1,7 @@
 .. reporter:: Federal Rules Service
-   :series-abbreviation: Fed. R. Serv.
+   :flp-series-cite-type: specialty
+   :flp-common-abbreviation: Fed. R. Serv.
+   :edition-abbreviation: Fed. R. Serv.
    :dates: 1938/1/1-present
 
-   .. variation: Fed. R. Serv. (Callaghan)
+   .. variation:: Fed. R. Serv. (Callaghan)

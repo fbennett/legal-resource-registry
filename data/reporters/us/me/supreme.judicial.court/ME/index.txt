@@ -1,4 +1,6 @@
 .. reporter:: Maine Neutral Citation
-   :series-abbreviation: ME
+   :flp-series-cite-type: neutral
+   :flp-common-abbreviation: ME
+   :edition-abbreviation: ME
    :dates: 1750/1/1-present
    :neutral:

@@ -1,5 +1,7 @@
 .. reporter:: Hawaii Appellate Reports
-   :series-abbreviation: Haw. App.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Haw. App.
+   :edition-abbreviation: Haw. App.
    :dates: 1980/1/1-1994/12/31
 
-   .. variation: Hawaii App.
+   .. variation:: Hawaii App.

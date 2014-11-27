@@ -1,7 +1,9 @@
 .. reporter:: Florida Reports
-   :series-abbreviation: Fla.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Fla.
+   :edition-abbreviation: Fla.
    :dates: 1846/1/1-1948/12/31
 
-   .. variation: Florida
+   .. variation:: Florida
 
-   .. variation: Flor.
+   .. variation:: Flor.

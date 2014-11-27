@@ -1,9 +1,11 @@
 .. reporter:: Mississippi Reports, Walker
-   :series-abbreviation: Walker
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Walker
+   :edition-abbreviation: Walker
    :dates: 1818/1/1-1832/12/31
 
-   .. variation: Miss.(Walker)
+   .. variation:: Miss.(Walker)
 
-   .. variation: Walk.
+   .. variation:: Walk.
 
-   .. variation: Walk.Miss.
+   .. variation:: Walk.Miss.

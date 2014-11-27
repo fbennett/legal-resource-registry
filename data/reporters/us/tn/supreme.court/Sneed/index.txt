@@ -1,5 +1,7 @@
 .. reporter:: Tennessee Reports, Sneed
-   :series-abbreviation: Sneed
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Sneed
+   :edition-abbreviation: Sneed
    :dates: 1853/1/1-1858/12/31
 
-   .. variation: Tenn.(Sneed)
+   .. variation:: Tenn.(Sneed)

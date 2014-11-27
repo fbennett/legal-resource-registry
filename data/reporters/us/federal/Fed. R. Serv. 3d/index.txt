@@ -1,5 +1,7 @@
 .. reporter:: Federal Rules Service
-   :series-abbreviation: Fed. R. Serv. 3d
+   :flp-series-cite-type: specialty
+   :flp-common-abbreviation: Fed. R. Serv.
+   :edition-abbreviation: Fed. R. Serv. 3d
    :dates: 1938/1/1-present
 
-   .. variation: Fed. R. Serv. 3d (West)
+   .. variation:: Fed. R. Serv. 3d (West)

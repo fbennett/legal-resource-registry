@@ -1,7 +1,9 @@
 .. reporter:: North Carolina Reports, Devereux's Law
-   :series-abbreviation: Dev.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Dev.
+   :edition-abbreviation: Dev.
    :dates: 1826/1/1-1834/12/31
 
-   .. variation: Dev.L.
+   .. variation:: Dev.L.
 
-   .. variation: N.C.(Dev.)
+   .. variation:: N.C.(Dev.)

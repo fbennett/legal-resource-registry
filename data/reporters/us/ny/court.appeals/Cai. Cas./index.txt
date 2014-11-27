@@ -1,17 +1,19 @@
 .. reporter:: Caines' Cases
-   :series-abbreviation: Cai. Cas.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Cai. Cas.
+   :edition-abbreviation: Cai. Cas.
    :dates: 1796/1/1-1805/12/31
 
-   .. variation: Caines
+   .. variation:: Caines
 
-   .. variation: Cai.Cas.Err.
+   .. variation:: Cai.Cas.Err.
 
-   .. variation: N.Y.Cas.Err.
+   .. variation:: N.Y.Cas.Err.
 
-   .. variation: Caines Cas.
+   .. variation:: Caines Cas.
 
-   .. variation: Caines (N.Y.)
+   .. variation:: Caines (N.Y.)
 
-   .. variation: Cai.
+   .. variation:: Cai.
 
-   .. variation: Cain.
+   .. variation:: Cain.

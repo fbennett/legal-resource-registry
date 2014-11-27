@@ -1,3 +1,5 @@
 .. reporter:: North Carolina Court of Appeals Reports
-   :series-abbreviation: N.C. App.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: N.C. App.
+   :edition-abbreviation: N.C. App.
    :dates: 1968/1/1-present

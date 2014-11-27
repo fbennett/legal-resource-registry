@@ -1,13 +1,15 @@
 .. reporter:: Pacific Reporter
-   :series-abbreviation: P.
+   :flp-series-cite-type: state_regional
+   :flp-common-abbreviation: P.
+   :edition-abbreviation: P.
    :dates: 1883/1/1-1931/12/31
 
-   .. variation: Pac.R.
+   .. variation:: Pac.R.
 
-   .. variation: P
+   .. variation:: P
 
-   .. variation: P.R.
+   .. variation:: P.R.
 
-   .. variation: Pac.Rep.
+   .. variation:: Pac.Rep.
 
-   .. variation: Pac.
+   .. variation:: Pac.

@@ -1,9 +1,11 @@
 .. reporter:: Massachusetts Reports, Metcalf
-   :series-abbreviation: Met.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Met.
+   :edition-abbreviation: Met.
    :dates: 1840/1/1-1847/12/31
 
-   .. variation: Mass.(Met.)
+   .. variation:: Mass.(Met.)
 
-   .. variation: Metc.Mass.
+   .. variation:: Metc.Mass.
 
-   .. variation: Metc.
+   .. variation:: Metc.

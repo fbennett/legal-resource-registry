@@ -1,7 +1,9 @@
 .. reporter:: Pennsylvania State Reports, Watts
-   :series-abbreviation: Watts
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Watts
+   :edition-abbreviation: Watts
    :dates: 1832/1/1-1840/12/31
 
-   .. variation: Wa.
+   .. variation:: Wa.
 
-   .. variation: Watts(Pa.)
+   .. variation:: Watts(Pa.)

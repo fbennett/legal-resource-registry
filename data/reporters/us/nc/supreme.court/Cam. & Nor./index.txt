@@ -1,11 +1,13 @@
 .. reporter:: North Carolina Reports, Conference by Cameron & Norwood
-   :series-abbreviation: Cam. & Nor.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Cam. & Nor.
+   :edition-abbreviation: Cam. & Nor.
    :dates: 1800/1/1-1804/12/31
 
-   .. variation: N.C.Conf.Rep.
+   .. variation:: N.C.Conf.Rep.
 
-   .. variation: N.C.Conf.
+   .. variation:: N.C.Conf.
 
-   .. variation: N.C.(Cam.& Nor.)
+   .. variation:: N.C.(Cam.& Nor.)
 
-   .. variation: Cam.& N.
+   .. variation:: Cam.& N.

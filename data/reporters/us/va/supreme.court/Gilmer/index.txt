@@ -1,11 +1,13 @@
 .. reporter:: Virginia Reports, Gilmer
-   :series-abbreviation: Gilmer
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Gilmer
+   :edition-abbreviation: Gilmer
    :dates: 1820/1/1-1821/12/31
 
-   .. variation: Gilmer (Va.)
+   .. variation:: Gilmer (Va.)
 
-   .. variation: Gil.
+   .. variation:: Gil.
 
-   .. variation: Gilm.
+   .. variation:: Gilm.
 
-   .. variation: Va.(Gilmer)
+   .. variation:: Va.(Gilmer)

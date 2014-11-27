@@ -1,7 +1,9 @@
 .. reporter:: Hill's New York Reports
-   :series-abbreviation: Hill
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Hill
+   :edition-abbreviation: Hill
    :dates: 1841/1/1-1844/12/31
 
-   .. variation: H.
+   .. variation:: H.
 
-   .. variation: Hill.N.Y.
+   .. variation:: Hill.N.Y.

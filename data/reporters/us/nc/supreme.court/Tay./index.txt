@@ -1,13 +1,15 @@
 .. reporter:: North Carolina Reports, Taylor
-   :series-abbreviation: Tay.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Tay.
+   :edition-abbreviation: Tay.
    :dates: 1798/1/1-1802/12/31
 
-   .. variation: N.C.(Tay.)
+   .. variation:: N.C.(Tay.)
 
-   .. variation: Taylor
+   .. variation:: Taylor
 
-   .. variation: Tayl.N.C.
+   .. variation:: Tayl.N.C.
 
-   .. variation: Tay.J.L.
+   .. variation:: Tay.J.L.
 
-   .. variation: Tay.N.C.
+   .. variation:: Tay.N.C.

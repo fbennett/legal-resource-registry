@@ -1,5 +1,7 @@
 .. reporter:: California Reports
-   :series-abbreviation: Cal. 4th
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Cal.
+   :edition-abbreviation: Cal. 4th
    :dates: 1991/1/1-present
 
-   .. variation: Cal.4th
+   .. variation:: Cal.4th

@@ -1,5 +1,7 @@
 .. reporter:: Blume, Supreme Court Transactions
-   :series-abbreviation: Blume Sup. Ct. Trans.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Blume Sup. Ct. Trans.
+   :edition-abbreviation: Blume Sup. Ct. Trans.
    :dates: 1805/1/1-1836/12/31
 
-   .. variation: Blume Sup.Ct.Trans.
+   .. variation:: Blume Sup.Ct.Trans.

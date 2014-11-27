@@ -1,7 +1,9 @@
 .. reporter:: Louisiana Court of Appeals Reports, Teisser
-   :series-abbreviation: Teiss.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Teiss.
+   :edition-abbreviation: Teiss.
    :dates: 1903/1/1-1917/12/31
 
-   .. variation: La.App.(Orleans)
+   .. variation:: La.App.(Orleans)
 
-   .. variation: Teissier
+   .. variation:: Teissier

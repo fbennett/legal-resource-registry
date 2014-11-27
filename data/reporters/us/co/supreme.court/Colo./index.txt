@@ -1,5 +1,7 @@
 .. reporter:: Colorado Reports
-   :series-abbreviation: Colo.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Colo.
+   :edition-abbreviation: Colo.
    :dates: 1864/1/1-1980/12/31
 
-   .. variation: Col.
+   .. variation:: Col.

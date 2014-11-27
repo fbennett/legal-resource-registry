@@ -1,5 +1,7 @@
 .. reporter:: Vermont Reports, Tyler
-   :series-abbreviation: Tyl.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Tyl.
+   :edition-abbreviation: Tyl.
    :dates: 1800/1/1-1803/12/31
 
-   .. variation: Tyler
+   .. variation:: Tyler

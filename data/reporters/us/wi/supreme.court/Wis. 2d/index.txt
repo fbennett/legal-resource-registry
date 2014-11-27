@@ -1,7 +1,9 @@
 .. reporter:: Wisconsin Reports
-   :series-abbreviation: Wis. 2d
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Wis.
+   :edition-abbreviation: Wis. 2d
    :dates: 1853/1/1-present
 
-   .. variation: Wis.2d
+   .. variation:: Wis.2d
 
-   .. variation: W.2d
+   .. variation:: W.2d

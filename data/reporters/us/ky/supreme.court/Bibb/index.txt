@@ -1,7 +1,9 @@
 .. reporter:: Kentucky Reports, Bibb
-   :series-abbreviation: Bibb
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Bibb
+   :edition-abbreviation: Bibb
    :dates: 1808/1/1-1817/12/31
 
-   .. variation: Bibb(Ky.)
+   .. variation:: Bibb(Ky.)
 
-   .. variation: Ky.(Bibb)
+   .. variation:: Ky.(Bibb)

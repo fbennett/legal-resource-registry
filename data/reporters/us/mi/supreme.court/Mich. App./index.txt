@@ -1,3 +1,5 @@
 .. reporter:: Michigan Appeals Reports
-   :series-abbreviation: Mich. App.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Mich. App.
+   :edition-abbreviation: Mich. App.
    :dates: 1965/1/1-present

@@ -1,4 +1,6 @@
 .. reporter:: Oklahoma Neutral Citation (Civic Appeals)
-   :series-abbreviation: OK CIV APP
+   :flp-series-cite-type: neutral
+   :flp-common-abbreviation: OK CIV APP
+   :edition-abbreviation: OK CIV APP
    :dates: 1750/1/1-present
    :neutral:

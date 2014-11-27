@@ -1,15 +1,17 @@
 .. reporter:: South Carolina Reports, Bailey's Equity
-   :series-abbreviation: Bail. Eq.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Bail. Eq.
+   :edition-abbreviation: Bail. Eq.
    :dates: 1830/1/1-1831/12/31
 
-   .. variation: Bailey Ch.
+   .. variation:: Bailey Ch.
 
-   .. variation: Bailey Eq.
+   .. variation:: Bailey Eq.
 
-   .. variation: Bail.Eq.(S.C.)
+   .. variation:: Bail.Eq.(S.C.)
 
-   .. variation: Bailey
+   .. variation:: Bailey
 
-   .. variation: Bai.Eq.
+   .. variation:: Bai.Eq.
 
-   .. variation: S.C.Eq.(Bail.Eq.)
+   .. variation:: S.C.Eq.(Bail.Eq.)

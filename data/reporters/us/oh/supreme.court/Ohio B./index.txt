@@ -1,3 +1,5 @@
 .. reporter:: Ohio Bar Reports
-   :series-abbreviation: Ohio B.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Ohio B.
+   :edition-abbreviation: Ohio B.
    :dates: 1982/1/1-1987/12/31

@@ -1,9 +1,11 @@
 .. reporter:: Virginia Reports, Robinson
-   :series-abbreviation: Rob.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Rob.
+   :edition-abbreviation: Rob.
    :dates: 1842/1/1-1844/12/31
 
-   .. variation: Va.(Rob.)
+   .. variation:: Va.(Rob.)
 
-   .. variation: Robinson
+   .. variation:: Robinson
 
-   .. variation: Rob.Va.
+   .. variation:: Rob.Va.

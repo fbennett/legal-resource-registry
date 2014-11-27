@@ -1,13 +1,15 @@
 .. reporter:: Wallace's Supreme Court Reports
-   :series-abbreviation: Wall.
+   :flp-series-cite-type: scotus_early
+   :flp-common-abbreviation: Wall.
+   :edition-abbreviation: Wall.
    :dates: 1863/1/1-1874/12/31
 
-   .. variation: U.S.(Wall.)
+   .. variation:: U.S.(Wall.)
 
-   .. variation: Wall.S.C.
+   .. variation:: Wall.S.C.
 
-   .. variation: Wall.Rep.
+   .. variation:: Wall.Rep.
 
-   .. variation: Wallace
+   .. variation:: Wallace
 
-   .. variation: Wall.
+   .. variation:: Wall.

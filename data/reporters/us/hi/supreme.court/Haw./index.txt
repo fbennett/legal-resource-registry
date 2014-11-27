@@ -1,11 +1,13 @@
 .. reporter:: Hawaii Reports
-   :series-abbreviation: Haw.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Haw.
+   :edition-abbreviation: Haw.
    :dates: 1847/1/1-present
 
-   .. variation: Hawai`i
+   .. variation:: Hawai`i
 
-   .. variation: Hawaii Rep.
+   .. variation:: Hawaii Rep.
 
-   .. variation: H.
+   .. variation:: H.
 
-   .. variation: Hawaii
+   .. variation:: Hawaii

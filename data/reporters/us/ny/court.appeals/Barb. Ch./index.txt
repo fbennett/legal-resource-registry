@@ -1,5 +1,7 @@
 .. reporter:: Barbour's Chancery Reports
-   :series-abbreviation: Barb. Ch.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Barb. Ch.
+   :edition-abbreviation: Barb. Ch.
    :dates: 1845/1/1-1848/12/31
 
-   .. variation: Barb.Ch.(N.Y.)
+   .. variation:: Barb.Ch.(N.Y.)

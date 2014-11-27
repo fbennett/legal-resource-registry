@@ -1,5 +1,7 @@
 .. reporter:: New York Reports
-   :series-abbreviation: N.Y.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: N.Y.
+   :edition-abbreviation: N.Y.
    :dates: 1847/1/1-1956/12/31
 
-   .. variation: N. Y.
+   .. variation:: N. Y.

@@ -1,5 +1,7 @@
 .. reporter:: Louisiana Court of Appeals Reports, Gunby
-   :series-abbreviation: Gunby
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Gunby
+   :edition-abbreviation: Gunby
    :dates: 1885/1/1-1885/12/31
 
-   .. variation: Gunby (La.)
+   .. variation:: Gunby (La.)

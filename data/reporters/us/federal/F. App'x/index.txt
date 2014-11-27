@@ -1,3 +1,5 @@
 .. reporter:: Federal Appendix
-   :series-abbreviation: F. App'x
+   :flp-series-cite-type: fed
+   :flp-common-abbreviation: F. App'x
+   :edition-abbreviation: F. App'x
    :dates: 2001/1/1-present

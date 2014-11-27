@@ -1,5 +1,7 @@
 .. reporter:: United States Claims Court Reporter
-   :series-abbreviation: Fed. Cl.
+   :flp-series-cite-type: specialty
+   :flp-common-abbreviation: Fed. Cl.
+   :edition-abbreviation: Fed. Cl.
    :dates: 1992/1/1-present
 
-   .. variation: Fed.Cl.
+   .. variation:: Fed.Cl.

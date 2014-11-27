@@ -1,7 +1,9 @@
 .. reporter:: Ohio Opinions
-   :series-abbreviation: Ohio Op.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Ohio Op.
+   :edition-abbreviation: Ohio Op.
    :dates: 1934/1/1-1982/12/31
 
-   .. variation: O.O.
+   .. variation:: O.O.
 
-   .. variation: Ohio Ops.
+   .. variation:: Ohio Ops.

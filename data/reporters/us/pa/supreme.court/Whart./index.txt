@@ -1,11 +1,13 @@
 .. reporter:: Pennsylvania State Reports, Wharton
-   :series-abbreviation: Whart.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Whart.
+   :edition-abbreviation: Whart.
    :dates: 1835/1/1-1841/12/31
 
-   .. variation: Wharton
+   .. variation:: Wharton
 
-   .. variation: Wh.
+   .. variation:: Wh.
 
-   .. variation: Whar.
+   .. variation:: Whar.
 
-   .. variation: Whart.Pa.
+   .. variation:: Whart.Pa.

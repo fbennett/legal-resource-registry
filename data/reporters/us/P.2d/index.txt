@@ -1,7 +1,9 @@
 .. reporter:: Pacific Reporter
-   :series-abbreviation: P.2d
+   :flp-series-cite-type: state_regional
+   :flp-common-abbreviation: P.
+   :edition-abbreviation: P.2d
    :dates: 1931/1/1-2000/12/31
 
-   .. variation: P 2d
+   .. variation:: P 2d
 
-   .. variation: P. 2d
+   .. variation:: P. 2d

@@ -1,7 +1,9 @@
 .. reporter:: Kentucky Reports, Dana
-   :series-abbreviation: Dana
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Dana
+   :edition-abbreviation: Dana
    :dates: 1833/1/1-1840/12/31
 
-   .. variation: Ky.(Dana)
+   .. variation:: Ky.(Dana)
 
-   .. variation: Dan.
+   .. variation:: Dan.

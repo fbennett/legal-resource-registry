@@ -1,5 +1,7 @@
 .. reporter:: Blume, Unreported Opinions
-   :series-abbreviation: Blume Unrep. Op.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Blume Unrep. Op.
+   :edition-abbreviation: Blume Unrep. Op.
    :dates: 1836/1/1-1843/12/31
 
-   .. variation: Blume Op.
+   .. variation:: Blume Op.

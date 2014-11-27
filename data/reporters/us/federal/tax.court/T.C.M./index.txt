@@ -1,9 +1,11 @@
 .. reporter:: Tax Court Memorandum Decisions
-   :series-abbreviation: T.C.M.
+   :flp-series-cite-type: specialty
+   :flp-common-abbreviation: T.C.M.
+   :edition-abbreviation: T.C.M.
    :dates: 1942/1/1-present
 
-   .. variation: T.C.M. (CCH)
+   .. variation:: T.C.M. (CCH)
 
-   .. variation: T.C.M. (P-H)
+   .. variation:: T.C.M. (P-H)
 
-   .. variation: T.C.M. (RIA)
+   .. variation:: T.C.M. (RIA)

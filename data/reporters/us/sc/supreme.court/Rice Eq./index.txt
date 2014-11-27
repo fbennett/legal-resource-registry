@@ -1,7 +1,9 @@
 .. reporter:: South Carolina Reports, Rice's Equity
-   :series-abbreviation: Rice Eq.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Rice Eq.
+   :edition-abbreviation: Rice Eq.
    :dates: 1838/1/1-1839/12/31
 
-   .. variation: Rice Ch.
+   .. variation:: Rice Ch.
 
-   .. variation: S.C.Eq.(Rice.Eq.)
+   .. variation:: S.C.Eq.(Rice.Eq.)

@@ -1,3 +1,5 @@
 .. reporter:: Maryland Reports, Gill & Johnson
-   :series-abbreviation: G. & J.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: G. & J.
+   :edition-abbreviation: G. & J.
    :dates: 1829/1/1-1842/12/31

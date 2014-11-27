@@ -1,3 +1,5 @@
 .. reporter:: Iowa Reports
-   :series-abbreviation: Iowa
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Iowa
+   :edition-abbreviation: Iowa
    :dates: 1855/1/1-1968/12/31

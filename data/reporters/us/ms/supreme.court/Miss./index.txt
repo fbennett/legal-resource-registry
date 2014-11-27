@@ -1,5 +1,7 @@
 .. reporter:: Mississippi Reports
-   :series-abbreviation: Miss.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Miss.
+   :edition-abbreviation: Miss.
    :dates: 1851/1/1-1966/12/31
 
-   .. variation: Mis.
+   .. variation:: Mis.

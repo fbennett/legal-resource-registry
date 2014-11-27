@@ -1,9 +1,11 @@
 .. reporter:: South Carolina Reports, Cheves
-   :series-abbreviation: Chev.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Chev.
+   :edition-abbreviation: Chev.
    :dates: 1839/1/1-1840/12/31
 
-   .. variation: Cheves L.(S.C.)
+   .. variation:: Cheves L.(S.C.)
 
-   .. variation: S.C.L.(Chev.)
+   .. variation:: S.C.L.(Chev.)
 
-   .. variation: Cheves
+   .. variation:: Cheves

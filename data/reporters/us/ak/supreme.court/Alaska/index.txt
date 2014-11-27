@@ -1,5 +1,7 @@
 .. reporter:: Alaska Reports
-   :series-abbreviation: Alaska
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Alaska
+   :edition-abbreviation: Alaska
    :dates: 1884/1/1-1959/12/31
 
-   .. variation: Alk.
+   .. variation:: Alk.

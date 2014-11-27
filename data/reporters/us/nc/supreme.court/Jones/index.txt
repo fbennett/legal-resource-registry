@@ -1,9 +1,11 @@
 .. reporter:: North Carolina Reports, Jones' Law
-   :series-abbreviation: Jones
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Jones
+   :edition-abbreviation: Jones
    :dates: 1853/1/1-1862/12/31
 
-   .. variation: N.C.(Jones)
+   .. variation:: N.C.(Jones)
 
-   .. variation: Jones L.
+   .. variation:: Jones L.
 
-   .. variation: Jones N.C.
+   .. variation:: Jones N.C.

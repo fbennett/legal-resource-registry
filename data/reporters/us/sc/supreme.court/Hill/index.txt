@@ -1,9 +1,11 @@
 .. reporter:: South Carolina Reports, Hill
-   :series-abbreviation: Hill
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Hill
+   :edition-abbreviation: Hill
    :dates: 1833/1/1-1837/12/31
 
-   .. variation: S.C.L.(Hill)
+   .. variation:: S.C.L.(Hill)
 
-   .. variation: Hill Law
+   .. variation:: Hill Law
 
-   .. variation: Hill S.C.
+   .. variation:: Hill S.C.

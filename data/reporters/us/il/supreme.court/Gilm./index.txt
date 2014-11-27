@@ -1,9 +1,11 @@
 .. reporter:: Illinois Reports, Gilman
-   :series-abbreviation: Gilm.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Gilm.
+   :edition-abbreviation: Gilm.
    :dates: 1844/1/1-1849/12/31
 
-   .. variation: Gilm.(Ill.)
+   .. variation:: Gilm.(Ill.)
 
-   .. variation: Gilman
+   .. variation:: Gilman
 
-   .. variation: Ill.(Gilm.)
+   .. variation:: Ill.(Gilm.)
