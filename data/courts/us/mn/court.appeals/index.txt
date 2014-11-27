@@ -1,3 +1,5 @@
 
 .. court:: Court of Appeals of Minnesota
    :court-id: us;mn;court.appeals
+   :url: http://www.mncourts.gov/?page=551
+   :flp-key: minnctapp

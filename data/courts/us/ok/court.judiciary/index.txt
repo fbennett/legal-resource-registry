@@ -1,3 +1,5 @@
 
 .. court:: Court on the Judiciary of Oklahoma
    :court-id: us;ok;court.judiciary
+   :url: http://en.wikipedia.org/wiki/Oklahoma_Court_on_the_Judiciary
+   :flp-key: oklacoj

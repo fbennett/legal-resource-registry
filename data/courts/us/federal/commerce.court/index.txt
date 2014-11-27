@@ -1,3 +1,5 @@
 
 .. court:: Commerce Court
    :court-id: us;federal;commerce.court
+   :url: http://www.fjc.gov/history/home.nsf/page/courts_special_com.html
+   :flp-key: com

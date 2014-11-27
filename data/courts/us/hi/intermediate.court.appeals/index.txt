@@ -1,3 +1,5 @@
 
 .. court:: Hawaii Intermediate Court of Appeals
    :court-id: us;hi;intermediate.court.appeals
+   :url: http://www.courts.state.hi.us/
+   :flp-key: hawapp

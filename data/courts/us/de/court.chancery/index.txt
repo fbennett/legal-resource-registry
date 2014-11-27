@@ -1,3 +1,5 @@
 
 .. court:: Court of Chancery of Delaware
    :court-id: us;de;court.chancery
+   :url: http://courts.delaware.gov/chancery/
+   :flp-key: delch

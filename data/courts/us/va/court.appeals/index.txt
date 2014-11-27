@@ -1,3 +1,5 @@
 
 .. court:: Court of Appeals of Virginia
    :court-id: us;va;court.appeals
+   :url: http://www.courts.state.va.us/courts/cav/
+   :flp-key: vactapp

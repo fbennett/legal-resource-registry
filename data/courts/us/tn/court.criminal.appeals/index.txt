@@ -1,3 +1,5 @@
 
 .. court:: Court of Criminal Appeals of Tennessee
    :court-id: us;tn;court.criminal.appeals
+   :url: http://www.tsc.state.tn.us/courts/court-criminal-appeals
+   :flp-key: tenncrimapp

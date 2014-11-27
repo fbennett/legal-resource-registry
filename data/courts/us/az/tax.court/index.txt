@@ -1,3 +1,5 @@
 
 .. court:: Arizona Tax Court
    :court-id: us;az;tax.court
+   :url: http://www.superiorcourt.maricopa.gov/SuperiorCourt/TaxCourt/
+   :flp-key: ariztaxct

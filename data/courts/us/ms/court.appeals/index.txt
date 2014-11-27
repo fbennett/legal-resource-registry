@@ -1,3 +1,5 @@
 
 .. court:: Court of Appeals of Mississippi
    :court-id: us;ms;court.appeals
+   :url: http://courts.ms.gov/appellate_courts/coa/coa.html
+   :flp-key: missctapp

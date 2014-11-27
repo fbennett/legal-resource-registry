@@ -1,3 +1,5 @@
 
 .. court:: New Jersey Superior Court
    :court-id: us;nj;superior.court
+   :url: http://www.judiciary.state.nj.us/appdiv/index.htm
+   :flp-key: njsuperctappdiv

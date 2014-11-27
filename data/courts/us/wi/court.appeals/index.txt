@@ -1,3 +1,5 @@
 
 .. court:: Court of Appeals of Wisconsin
    :court-id: us;wi;court.appeals
+   :url: http://www.wicourts.gov/courts/appeals/
+   :flp-key: wisctapp

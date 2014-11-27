@@ -1,3 +1,5 @@
 
 .. court:: Court of Appeals of Texas
    :court-id: us;tx;court.appeals
+   :url: http://www.courts.state.tx.us/courts/coa.asp
+   :flp-key: texapp

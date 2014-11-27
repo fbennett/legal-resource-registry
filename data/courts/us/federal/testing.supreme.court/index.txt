@@ -1,3 +1,5 @@
 
 .. court:: Testing Supreme Court
    :court-id: us;federal;testing.supreme.court
+   :url: http://www.example.com/
+   :flp-key: test

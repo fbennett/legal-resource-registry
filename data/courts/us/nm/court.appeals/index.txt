@@ -1,3 +1,5 @@
 
 .. court:: New Mexico Court of Appeals
    :court-id: us;nm;court.appeals
+   :url: https://coa.nmcourts.gov/index.php
+   :flp-key: nmctapp

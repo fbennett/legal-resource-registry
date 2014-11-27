@@ -1,3 +1,5 @@
 
 .. court:: Court of Appeals of South Carolina
    :court-id: us;sc;court.appeals
+   :url: http://www.judicial.state.sc.us/appeals/
+   :flp-key: scctapp

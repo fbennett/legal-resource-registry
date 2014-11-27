@@ -1,3 +1,5 @@
 
 .. court:: U.S. Special Tribunal of Pennsylvania
    :court-id: us;federal;pa;special.tribunal
+   :url: https://www.courtlistener.com/?court=stp
+   :flp-key: stp

@@ -1,3 +1,5 @@
 
 .. court:: Court of Special Appeals of Maryland
    :court-id: us;md;court.special.appeals
+   :url: http://www.courts.state.md.us/cosappeals/
+   :flp-key: mdctspecapp

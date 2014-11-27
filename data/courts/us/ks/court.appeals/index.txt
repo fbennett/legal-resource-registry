@@ -1,3 +1,5 @@
 
 .. court:: Court of Appeals of Kansas
    :court-id: us;ks;court.appeals
+   :url: http://www.kscourts.org/kansas-courts/court-of-appeals/
+   :flp-key: kanctapp

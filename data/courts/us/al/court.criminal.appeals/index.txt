@@ -1,3 +1,5 @@
 
 .. court:: Court of Criminal Appeals of Alabama
    :court-id: us;al;court.criminal.appeals
+   :url: http://judicial.alabama.gov/criminal.cfm
+   :flp-key: alacrimapp

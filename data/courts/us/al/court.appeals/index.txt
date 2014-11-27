@@ -1,3 +1,5 @@
 
 .. court:: Alabama Court of Appeals
    :court-id: us;al;court.appeals
+   :url: http://judicial.alabama.gov/
+   :flp-key: alactapp

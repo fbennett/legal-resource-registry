@@ -1,3 +1,5 @@
 
 .. court:: Court of Appeals of Arizona
    :court-id: us;az;court.appeals
+   :url: http://www.azcourts.gov/AZCourts/CourtofAppeals.aspx‎
+   :flp-key: arizctapp

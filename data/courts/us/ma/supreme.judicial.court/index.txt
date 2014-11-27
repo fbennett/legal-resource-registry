@@ -1,3 +1,5 @@
 
 .. court:: Massachusetts Supreme Judicial Court
    :court-id: us;ma;supreme.judicial.court
+   :url: http://www.mass.gov/courts/sjc/
+   :flp-key: mass

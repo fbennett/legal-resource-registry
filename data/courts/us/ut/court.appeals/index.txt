@@ -1,3 +1,5 @@
 
 .. court:: Court of Appeals of Utah
    :court-id: us;ut;court.appeals
+   :url: http://www.utcourts.gov/courts/appell/
+   :flp-key: utahctapp

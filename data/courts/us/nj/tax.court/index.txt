@@ -1,3 +1,5 @@
 
 .. court:: New Jersey Tax Court
    :court-id: us;nj;tax.court
+   :url: http://www.judiciary.state.nj.us/taxcourt/‎
+   :flp-key: njtaxct

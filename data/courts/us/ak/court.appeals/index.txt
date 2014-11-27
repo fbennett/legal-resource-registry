@@ -1,3 +1,5 @@
 
 .. court:: Court of Appeals of Alaska
    :court-id: us;ak;court.appeals
+   :url: http://courts.alaska.gov/appcts.htm
+   :flp-key: alaskactapp

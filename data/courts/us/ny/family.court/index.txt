@@ -1,3 +1,5 @@
 
 .. court:: New York Family Court
    :court-id: us;ny;family.court
+   :url: http://www.courts.state.ny.us/courts/cts-outside-nyc-FAMILY.shtml
+   :flp-key: nyfamct

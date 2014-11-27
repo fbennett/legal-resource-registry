@@ -1,3 +1,5 @@
 
 .. court:: California Court of Appeal
    :court-id: us;ca;court.appeal
+   :url: http://www.courts.ca.gov/courtsofappeal.htm
+   :flp-key: calctapp

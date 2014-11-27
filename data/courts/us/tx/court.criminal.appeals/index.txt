@@ -1,3 +1,5 @@
 
 .. court:: Court of Criminal Appeals of Texas
    :court-id: us;tx;court.criminal.appeals
+   :url: http://www.cca.courts.state.tx.us/
+   :flp-key: texcrimapp

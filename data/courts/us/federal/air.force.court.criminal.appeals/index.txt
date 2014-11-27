@@ -1,3 +1,5 @@
 
 .. court:: United States Air Force Court of Criminal Appeals
    :court-id: us;federal;air.force.court.criminal.appeals
+   :url: http://afcca.law.af.mil/
+   :flp-key: afcca

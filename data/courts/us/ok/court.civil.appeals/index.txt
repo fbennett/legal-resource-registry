@@ -1,3 +1,5 @@
 
 .. court:: Court of Civil Appeals of Oklahoma
    :court-id: us;ok;court.civil.appeals
+   :url: http://www.oscn.net/oscn/schome/civilappeals.htm
+   :flp-key: oklacivapp

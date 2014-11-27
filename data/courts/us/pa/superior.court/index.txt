@@ -1,3 +1,5 @@
 
 .. court:: Superior Court of Pennsylvania
    :court-id: us;pa;superior.court
+   :url: http://www.pacourts.us/courts/superior-court/
+   :flp-key: pasuperct
