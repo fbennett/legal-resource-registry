@@ -233,7 +233,13 @@ for key in keychain:
     if not os.path.exists(os.path.join(pth,"index.txt")):
         # Create the file - with the court URL?
         #print "Create: " + pth + "/index.txt"
-        content = "\n.. court:: %s\n   :court-id: %s\n" % (keychain[key][1],keychain[key][0])
+
+        if keychain[key][2]:
+            url = '   :url: ' + keychain[key][2] + "\n"
+        if keychain[key][3]:
+            flp_key = '   :flp-key: ' + keychain[key][3] + '\n'
+
+        content = "\n.. court:: %s\n   :court-id: %s\n%s" % (keychain[key][1],keychain[key][0],url,flp_key)
         writeToHierarchy("courts",keychain[key][0],content)
 
 # Normalize each reporter to a single jurisdiction level
