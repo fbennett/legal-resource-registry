@@ -239,7 +239,7 @@ for key in keychain:
         if keychain[key][3]:
             flp_key = '   :flp-key: ' + keychain[key][3] + '\n'
 
-        content = "\n.. court:: %s\n   :court-id: %s\n%s" % (keychain[key][1],keychain[key][0],url,flp_key)
+        content = "\n.. court:: %s\n   :court-id: %s\n%s%s" % (keychain[key][1],keychain[key][0],url,flp_key)
         writeToHierarchy("courts",keychain[key][0],content)
 
 # Normalize each reporter to a single jurisdiction level
