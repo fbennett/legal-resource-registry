@@ -220,6 +220,8 @@ for jkey in jkeys:
 
     if flp_key:
         flp_key = '   :flp-key: ' + flp_key + '\n'
+    else:
+        flp_key = ''
 
     str = '\n.. court:: %s\n   :court-id: %s\n   :url: %s\n%s%s' % (name,courtkey,url,flp_key,abbrevs)
     sys.stdout.write("+")
