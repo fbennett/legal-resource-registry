@@ -172,6 +172,7 @@ United States Courts <us-courts>
         us;federal;district.court.district.columbia
         us;federal;bankruptcy.court.district.columbia
     Courts of United States Territories <us-territories>
+        us;federal;high.court.american.samoa
         us;federal;district.court.canal.zone
         us;federal;district.court.d.guam
         us;federal;bankruptcy.court.d.guam
@@ -189,8 +190,10 @@ United States Courts <us-courts>
         us;federal;court.appeals.armed.forces
         us;federal;court.appeals.veterans.claims
         us;federal;court.appeals.federal.circuit
+        us;federal;courts.martial
         us;federal;customs.court
         us;federal;court.claims
+        us;federal;court.customs.appeals
         us;federal;court.customs.patent.appeals
         us;federal;court.federal.claims
         us;federal;court.international.trade
