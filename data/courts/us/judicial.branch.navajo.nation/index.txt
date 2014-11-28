@@ -2,5 +2,5 @@
 .. court:: Judicial Branch of the Navajo Nation
    :court-id: us;judicial.branch.navajo.nation
    :url: http://www.navajocourts.org/
-None
+
    .. reporter-key:: Navajo Rptr.
