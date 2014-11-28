@@ -182,6 +182,7 @@ United States Courts <us-courts>
         us;federal;district.court.virgin.islands
         us;federal;bankruptcy.court.d.virgin.islands
     United States Courts of Special Jurisdiction <us-special-courts>
+        us;judicial.branch.navajo.nation
         us;federal;air.force.court.criminal.appeals
         us;federal;armed.services.board.contract.appeals
         us;federal;board.veterans.appeals
