@@ -579,3 +579,53 @@ Japanese Courts <jp-courts>
         jp;dc;yamagata.chiho.saibansho
         jp;dc;yamaguchi.chiho.saibansho
         jp;dc;yokohama.chiho.saibansho
+    家庭裁判所 <jp-family-courts>
+        jp;dc;matsue.katei.saibansho
+        jp;dc;akita.katei.saibansho
+        jp;dc;aomori.katei.saibansho
+        jp;dc;asahikawa.katei.saibansho
+        jp;dc;chiba.katei.saibansho
+        jp;dc;fukui.katei.saibansho
+        jp;dc;fukuoka.katei.saibansho
+        jp;dc;fukushima.katei.saibansho
+        jp;dc;gifu.katei.saibansho
+        jp;dc;hakodate.katei.saibansho
+        jp;dc;hiroshima.katei.saibansho
+        jp;dc;kagoshima.katei.saibansho
+        jp;dc;kanazawa.katei.saibansho
+        jp;dc;kobe.katei.saibansho
+        jp;dc;kochi.katei.saibansho
+        jp;dc;kofu.katei.saibansho
+        jp;dc;kumamoto.katei.saibansho
+        jp;dc;kushiro.katei.saibansho
+        jp;dc;kyoto.katei.saibansho
+        jp;dc;maebashi.katei.saibansho
+        jp;dc;matsuyama.katei.saibansho
+        jp;dc;mito.katei.saibansho
+        jp;dc;miyazaki.katei.saibansho
+        jp;dc;morioka.katei.saibansho
+        jp;dc;nagano.katei.saibansho
+        jp;dc;nagasaki.katei.saibansho
+        jp;dc;nagoya.katei.saibansho
+        jp;dc;naha.katei.saibansho
+        jp;dc;nara.katei.saibansho
+        jp;dc;niigata.katei.saibansho
+        jp;dc;oita.katei.saibansho
+        jp;dc;osaka.katei.saibansho
+        jp;dc;otsu.katei.saibansho
+        jp;dc;saga.katei.saibansho
+        jp;dc;saitama.katei.saibansho
+        jp;dc;sapporo.katei.saibansho
+        jp;dc;sendai.katei.saibansho
+        jp;dc;shizuoka.katei.saibansho
+        jp;dc;takamatsu.katei.saibansho
+        jp;dc;tokushima.katei.saibansho
+        jp;dc;tokyo.katei.saibansho
+        jp;dc;tottori.katei.saibansho
+        jp;dc;toyama.katei.saibansho
+        jp;dc;tsu.katei.saibansho
+        jp;dc;utsunomiya.katei.saibansho
+        jp;dc;wakayama.katei.saibansho
+        jp;dc;yamagata.katei.saibansho
+        jp;dc;yamaguchi.katei.saibansho
+        jp;dc;yokohama.katei.saibansho
