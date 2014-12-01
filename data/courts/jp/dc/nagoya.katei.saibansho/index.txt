@@ -1,5 +1,5 @@
 .. court:: 名古屋家庭裁判所
    :court-id: jp;dc;nagoya.katei.saibansho
-   :url: http://www.courts.go.jp/nagoya/
+   :url: http://www.courts.go.jp/nagoya-f/
 
    .. reporter-key:: 家月
