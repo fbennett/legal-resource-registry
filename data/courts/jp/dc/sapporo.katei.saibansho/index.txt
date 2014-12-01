@@ -1,0 +1,5 @@
+.. court:: 札幌家庭裁判所
+   :court-id: jp;dc;sapporo.katei.saibansho
+   :url: http://www.courts.go.jp/sapporo/
+
+   .. reporter-key:: 家月

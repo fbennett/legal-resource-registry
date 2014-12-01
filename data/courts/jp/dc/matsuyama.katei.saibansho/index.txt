@@ -1,0 +1,5 @@
+.. court:: 松山家庭裁判所
+   :court-id: jp;dc;matsuyama.katei.saibansho
+   :url: http://www.courts.go.jp/matsuyama/
+
+   .. reporter-key:: 家月

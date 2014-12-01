@@ -1,0 +1,5 @@
+.. court:: 水戸家庭裁判所
+   :court-id: jp;dc;mito.katei.saibansho
+   :url: http://www.courts.go.jp/mito/
+
+   .. reporter-key:: 家月

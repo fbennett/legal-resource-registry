@@ -1,0 +1,5 @@
+.. court:: 鹿児島家庭裁判所
+   :court-id: jp;dc;kagoshima.katei.saibansho
+   :url: http://www.courts.go.jp/kagoshima/
+
+   .. reporter-key:: 家月

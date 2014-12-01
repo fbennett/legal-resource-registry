@@ -1,0 +1,5 @@
+.. court:: 神戸家庭裁判所
+   :court-id: jp;dc;kobe.katei.saibansho
+   :url: http://www.courts.go.jp/kobe/
+
+   .. reporter-key:: 家月

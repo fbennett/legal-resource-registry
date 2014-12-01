@@ -1,0 +1,5 @@
+.. court:: 福島家庭裁判所
+   :court-id: jp;dc;fukushima.katei.saibansho
+   :url: http://www.courts.go.jp/fukushima/
+
+   .. reporter-key:: 家月

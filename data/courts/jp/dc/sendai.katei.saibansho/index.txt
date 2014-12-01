@@ -1,0 +1,5 @@
+.. court:: 仙台家庭裁判所
+   :court-id: jp;dc;sendai.katei.saibansho
+   :url: http://www.courts.go.jp/sendai/
+
+   .. reporter-key:: 家月

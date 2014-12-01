@@ -1,0 +1,5 @@
+.. court::      旭川家庭裁判所
+   :court-id: jp;dc;asahikawa.katei.saibansho
+   :url: http://www.courts.go.jp/asahikawa/
+
+   .. reporter-key:: 家月

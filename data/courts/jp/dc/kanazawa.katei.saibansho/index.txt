@@ -1,0 +1,5 @@
+.. court:: 金沢家庭裁判所
+   :court-id: jp;dc;kanazawa.katei.saibansho
+   :url: http://www.courts.go.jp/kanazawa/
+
+   .. reporter-key:: 家月

@@ -1,0 +1,5 @@
+.. court:: 釧路家庭裁判所
+   :court-id: jp;dc;kushiro.katei.saibansho
+   :url: http://www.courts.go.jp/kushiro/
+
+   .. reporter-key:: 家月

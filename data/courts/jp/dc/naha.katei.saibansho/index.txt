@@ -1,0 +1,5 @@
+.. court:: 那覇家庭裁判所
+   :court-id: jp;dc;naha.katei.saibansho
+   :url: http://www.courts.go.jp/naha/
+
+   .. reporter-key:: 家月

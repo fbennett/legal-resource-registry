@@ -1,0 +1,5 @@
+.. court:: 函館家庭裁判所
+   :court-id: jp;dc;hakodate.katei.saibansho
+   :url: http://www.courts.go.jp/hakodate/
+
+   .. reporter-key:: 家月

@@ -1,0 +1,5 @@
+.. court:: 甲府家庭裁判所
+   :court-id: jp;dc;kofu.katei.saibansho
+   :url: http://www.courts.go.jp/koufu/
+
+   .. reporter-key:: 家月

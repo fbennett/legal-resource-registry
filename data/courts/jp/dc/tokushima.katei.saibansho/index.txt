@@ -1,0 +1,5 @@
+.. court:: 徳島家庭裁判所
+   :court-id: jp;dc;tokushima.katei.saibansho
+   :url: http://www.courts.go.jp/tokushima/
+
+   .. reporter-key:: 家月

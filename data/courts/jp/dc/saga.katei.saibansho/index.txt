@@ -1,0 +1,5 @@
+.. court:: 佐賀家庭裁判所
+   :court-id: jp;dc;saga.katei.saibansho
+   :url: http://www.courts.go.jp/saga/
+
+   .. reporter-key:: 家月

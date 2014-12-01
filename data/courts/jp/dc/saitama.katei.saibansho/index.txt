@@ -1,0 +1,5 @@
+.. court:: 埼玉家庭裁判所
+   :court-id: jp;dc;saitama.katei.saibansho
+   :url: http://www.courts.go.jp/saitama/
+
+   .. reporter-key:: 家月

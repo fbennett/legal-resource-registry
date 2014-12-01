@@ -1,0 +1,5 @@
+.. court:: 新潟家庭裁判所
+   :court-id: jp;dc;niigata.katei.saibansho
+   :url: http://www.courts.go.jp/niigata/
+
+   .. reporter-key:: 家月

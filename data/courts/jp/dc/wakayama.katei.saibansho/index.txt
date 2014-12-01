@@ -1,0 +1,5 @@
+.. court:: 和歌山家庭裁判所
+   :court-id: jp;dc;wakayama.katei.saibansho
+   :url: http://www.courts.go.jp/wakayama/
+
+   .. reporter-key:: 家月

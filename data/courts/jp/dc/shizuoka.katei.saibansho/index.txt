@@ -1,0 +1,5 @@
+.. court:: 静岡家庭裁判所
+   :court-id: jp;dc;shizuoka.katei.saibansho
+   :url: http://www.courts.go.jp/shizuoka/
+
+   .. reporter-key:: 家月

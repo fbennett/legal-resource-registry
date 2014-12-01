@@ -1,0 +1,5 @@
+.. court:: 高知家庭裁判所
+   :court-id: jp;dc;kochi.katei.saibansho
+   :url: http://www.courts.go.jp/kouchi/
+
+   .. reporter-key:: 家月

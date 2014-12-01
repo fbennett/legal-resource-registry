@@ -1,0 +1,5 @@
+.. court:: 山形家庭裁判所
+   :court-id: jp;dc;yamagata.katei.saibansho
+   :url: http://www.courts.go.jp/yamagata/
+
+   .. reporter-key:: 家月

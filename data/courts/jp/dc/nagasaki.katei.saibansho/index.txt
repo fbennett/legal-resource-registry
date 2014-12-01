@@ -1,0 +1,5 @@
+.. court:: 長崎家庭裁判所
+   :court-id: jp;dc;nagasaki.katei.saibansho
+   :url: http://www.courts.go.jp/nagasaki/
+
+   .. reporter-key:: 家月

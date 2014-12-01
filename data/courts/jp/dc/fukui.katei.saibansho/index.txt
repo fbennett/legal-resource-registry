@@ -1,0 +1,5 @@
+.. court:: 福井家庭裁判所
+   :court-id: jp;dc;fukui.katei.saibansho
+   :url: http://www.courts.go.jp/fukui
+
+   .. reporter-key:: 家月

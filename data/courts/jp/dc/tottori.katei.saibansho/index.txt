@@ -1,0 +1,5 @@
+.. court:: 鳥取家庭裁判所
+   :court-id: jp;dc;tottori.katei.saibansho
+   :url: http://www.courts.go.jp/tottori/
+
+   .. reporter-key:: 家月

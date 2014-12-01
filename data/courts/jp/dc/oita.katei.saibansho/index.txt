@@ -1,0 +1,5 @@
+.. court:: 大分家庭裁判所
+   :court-id: jp;dc;oita.katei.saibansho
+   :url: http://www.courts.go.jp/oita/
+
+   .. reporter-key:: 家月

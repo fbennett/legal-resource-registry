@@ -1,0 +1,5 @@
+.. court:: 山口家庭裁判所
+   :court-id: jp;dc;yamaguchi.katei.saibansho
+   :url: http://www.courts.go.jp/yamaguchi/
+
+   .. reporter-key:: 家月

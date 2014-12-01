@@ -1,0 +1,5 @@
+.. court:: 千葉家庭裁判所
+   :court-id: jp;dc;chiba.katei.saibansho
+   :url: http://www.courts.go.jp/chiba/
+
+   .. reporter-key:: 家月

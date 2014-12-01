@@ -1,0 +1,5 @@
+.. court:: 青森家庭裁判所
+   :court-id: jp;dc;aomori.katei.saibansho
+   :url: http://www.courts.go.jp/aomori/
+
+   .. reporter-key:: 家月

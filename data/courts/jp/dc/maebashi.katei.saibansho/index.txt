@@ -1,0 +1,5 @@
+.. court:: 前橋家庭裁判所
+   :court-id: jp;dc;maebashi.katei.saibansho
+   :url: http://www.courts.go.jp/maebashi/
+
+   .. reporter-key:: 家月

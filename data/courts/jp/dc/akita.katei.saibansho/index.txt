@@ -1,0 +1,5 @@
+.. court:: 秋田家庭裁判所
+   :court-id: jp;dc;akita.katei.saibansho
+   :url: http://www.courts.go.jp/akita/
+
+   .. reporter-key:: 家月

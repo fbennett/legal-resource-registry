@@ -1,0 +1,5 @@
+.. court:: 京都家庭裁判所
+   :court-id: jp;dc;kyoto.katei.saibansho
+   :url: http://www.courts.go.jp/kyoto/
+
+   .. reporter-key:: 家月

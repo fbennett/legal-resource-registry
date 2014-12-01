@@ -1,0 +1,5 @@
+.. court:: 宮崎家庭裁判所
+   :court-id: jp;dc;miyazaki.katei.saibansho
+   :url: http://www.courts.go.jp/miyazaki/
+
+   .. reporter-key:: 家月

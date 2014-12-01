@@ -1,0 +1,5 @@
+.. court:: 宇都宮家庭裁判所
+   :court-id: jp;dc;utsunomiya.katei.saibansho
+   :url: http://www.courts.go.jp/utsunomiya
+
+   .. reporter-key:: 家月

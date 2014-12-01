@@ -1,0 +1,5 @@
+.. court:: 奈良家庭裁判所
+   :court-id: jp;dc;nara.katei.saibansho
+   :url: http://www.courts.go.jp/nara/
+
+   .. reporter-key:: 家月

@@ -1,0 +1,5 @@
+.. court:: 松江家庭裁判所
+   :court-id: jp;dc;matsue.katei.saibansho
+   :url: http://www.courts.go.jp/matsue/
+
+   .. reporter-key:: 家月
