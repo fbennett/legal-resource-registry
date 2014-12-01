@@ -520,7 +520,7 @@ United States Courts <us-courts>
             us;wy;supreme.court
 Japanese Courts <jp-courts>
     jp;saiko.saibansho
-    高等裁判所 <jp-high-courts>
+    高等裁判所 [High Courts] <jp-high-courts>
         jp;hc;fukuoka.koto.saibansho
         jp;hc;hiroshima.koto.saibansho
         jp;hc;nagoya.koto.saibansho
@@ -529,7 +529,7 @@ Japanese Courts <jp-courts>
         jp;hc;sendai.koto.saibansho
         jp;hc;takamatsu.koto.saibansho
         jp;hc;tokyo.koto.saibansho
-    地方裁判所 <jp-district-courts>
+    地方裁判所 [District Courts] <jp-district-courts>
         jp;dc;matsue.chiho.saibansho
         jp;dc;akita.chiho.saibansho
         jp;dc;aomori.chiho.saibansho
@@ -579,7 +579,7 @@ Japanese Courts <jp-courts>
         jp;dc;yamagata.chiho.saibansho
         jp;dc;yamaguchi.chiho.saibansho
         jp;dc;yokohama.chiho.saibansho
-    家庭裁判所 <jp-family-courts>
+    家庭裁判所 [Family Courts] <jp-family-courts>
         jp;dc;matsue.katei.saibansho
         jp;dc;akita.katei.saibansho
         jp;dc;aomori.katei.saibansho

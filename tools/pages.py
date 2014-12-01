@@ -28,10 +28,11 @@ class GeneralSyntaxException:
 
 class LineInfo:
     def __init__(self,lineno,line):
-        bubblePageRex = re.compile("^(\s*)([^;<]+)<([^ ]+)>$")
+        bubblePageRex = re.compile("^(\s*)([^\[;<]+)(?:\[([^;<]+)\])*\s*<([^ ]+)>$")
         detailsPageRex = re.compile("^(\s*)([^ ;]+;[^ ]+)\s*$")
         courtTitleRex = re.compile(".. court::\s+(.*)$")
         self.title = None
+        self.title_en = None
         self.page_name = None
         self.line_type = None
         self.level = None
@@ -41,7 +42,8 @@ class LineInfo:
             offset = len(m.group(1))
             self.line_type = "bubblePage"
             self.title = m.group(2)
-            self.page_name = m.group(3)
+            self.title_en = m.group(3)
+            self.page_name = m.group(4)
         if not m:
             m = detailsPageRex.match(line)
             if m:
@@ -84,13 +86,17 @@ class jurisdictionStack:
 class PageSource:
     def __init__(self):
         self.title = None
+        self.title_en = None
         self.rst = ""
 
     def setTopmatter(self):
         self.rst += ".. include:: %s\n\n" % os.path.join(pth,"doc-src","fields.rst")
         self.rst += ".. include:: %s\n\n" % os.path.join(pth,"doc-src","banner.rst")
 
-    def setTitle(self,title,char="-"):
+    def setTitle(self,title,title_en=None,char="-"):
+        if title_en:
+            # XXX This will require a transform in rst4legalResourceRegistry.py
+            # print title_en
         self.title = title
         line = char * len(title)
         self.rst += "%s\n%s\n%s\n" % (line,title,line)
@@ -136,7 +142,7 @@ class PageEngine:
                 if not self.source.has_key(self.stack.current):
                     self.source[self.stack.current] = PageSource()
                     self.source[self.stack.current].setTopmatter()
-                    self.source[self.stack.current].setTitle(lineInfo.title)
+                    self.source[self.stack.current].setTitle(lineInfo.title,title_en=lineInfo.title_en)
                     self.source[self.stack.current].setDraft()
                     self.source[self.stack.current].setCredits()
                     self.source[self.stack.current].setBackref(self.stack.backtrack_path,"../index.html")
@@ -149,7 +155,7 @@ class PageEngine:
                 if not self.source.has_key(self.stack.current):
                     self.source[self.stack.current] = PageSource()
                     self.source[self.stack.current].setTopmatter()
-                    self.source[self.stack.current].setTitle(self.source[self.stack.parent].title)
+                    self.source[self.stack.current].setTitle(self.source[self.stack.parent].title,title_en=self.source[self.stack.parent].title_en)
                     self.source[self.stack.current].setDraft()
                     self.source[self.stack.current].setCredits()
                     self.source[self.stack.current].setBackref(self.stack.backtrack_path,"../index.html")
