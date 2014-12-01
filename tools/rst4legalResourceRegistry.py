@@ -93,6 +93,11 @@ traveling_jurisdiction = [[]]
 traveling_variations = [{}]
 courts_map = {}
 
+class reporterPathException(Exception):
+    def __init__(self,jurisdiction,reporterKey):
+        self.jurisdiction = jurisdiction
+        self.reporterKey = reporterKey
+
 class FeaturesController:
     def __init__(self):
         pass
@@ -260,7 +265,7 @@ class PathTool:
             filepth = os.path.join(pth,reporterKey,"index.txt")
             if os.path.exists(filepth):
                 return filepth
-        return "OUCH"
+        raise reporterPathException(jurisdiction,reporterKey)
 
 class JurisdictionDirective(Directive,PathTool):
     required_arguments = 1
@@ -277,7 +282,11 @@ class JurisdictionDirective(Directive,PathTool):
             if not line: break
             if nodes.whitespace_normalize_name(line).startswith(".. reporter-key::"):
                 reporter_key = re.sub("\.\.\s+reporter-key::\s*","",line).strip()
-                pth = self.reporterPathFromJurisdiction(self.arguments[0],reporter_key)
+                try:
+                    pth = self.reporterPathFromJurisdiction(self.arguments[0],reporter_key)
+                except reporterPathException as err:
+                    print "ERROR: cannot fine reporter for %s + %s" % (err.jurisdiction,err.reporterKey)
+                    sys.exit()
                 newlines = open(pth).read()
                 newlines = newlines.split("\n")
                 for i in range(0,len(newlines),1):
@@ -513,48 +522,51 @@ class ReporterDirective(Directive,GitHubUrl):
 
         ## Save segments as short names to avoid going crazy.
 
-        bundle_key = self.options["flp-common-abbreviation"]
-        if not reporters_json.has_key(bundle_key):
-            bundle = []
-            reporters_json[self.options["flp-common-abbreviation"]] = bundle
-        else:
-            bundle = reporters_json[bundle_key]
-        series_name = self.arguments[0]
-        edition_key = self.options["edition-abbreviation"]
-        series = self.findReporterSeries(bundle,series_name)
-        if not series:
-            series = {}
-            series["cite_type"] = self.options["flp-series-cite-type"]
-            series["editions"] = {}
-            series["mlz_jurisdiction"] = []
-            series["name"] = series_name
-            series["variations"] = {}
-            bundle.append(series)
-        if not series["mlz_jurisdiction"].count(traveling_jurisdiction[0]):
-            series["mlz_jurisdiction"].append(traveling_jurisdiction[0])
-            series["mlz_jurisdiction"].sort()
-        series["editions"][edition_key] = [
-            {
-                "year": startyear,
-                "month": startmonth,
-                "day": startday
-                },
-            {
-                "year": endyear,
-                "month": endmonth,
-                "day": endday
-                }
-            ]
+        if self.options.has_key("flp-common-abbreviation"):
+            bundle_key = self.options["flp-common-abbreviation"]
+            if not reporters_json.has_key(bundle_key):
+                bundle = []
+                reporters_json[self.options["flp-common-abbreviation"]] = bundle
+            else:
+                bundle = reporters_json[bundle_key]
+            series_name = self.arguments[0]
+            edition_key = self.options["edition-abbreviation"]
+            series = self.findReporterSeries(bundle,series_name)
+            if not series:
+                series = {}
+                series["cite_type"] = self.options["flp-series-cite-type"]
+                series["editions"] = {}
+                series["mlz_jurisdiction"] = []
+                series["name"] = series_name
+                series["variations"] = {}
+                bundle.append(series)
+            if not series["mlz_jurisdiction"].count(traveling_jurisdiction[0]):
+                series["mlz_jurisdiction"].append(traveling_jurisdiction[0])
+                series["mlz_jurisdiction"].sort()
+            series["editions"][edition_key] = [
+                {
+                    "year": startyear,
+                    "month": startmonth,
+                    "day": startday
+                    },
+                {
+                    "year": endyear,
+                    "month": endmonth,
+                    "day": endday
+                    }
+                ]
+    
+            # That's everything but variations, which are handled by the directive.
+            
+            dummy = nodes.generated()
+            self.state.nested_parse(self.content, self.content_offset,
+                                    dummy)
+            for key in traveling_variations[0].keys():
+                traveling_variations[0][key] = edition_key
+            series["variations"].update(traveling_variations[0])
+            traveling_variations[0] = {}
 
-        # That's everything but variations, which are handled by the directive.
-        
-        dummy = nodes.generated()
-        self.state.nested_parse(self.content, self.content_offset,
-                                dummy)
-        for key in traveling_variations[0].keys():
-            traveling_variations[0][key] = edition_key
-        series["variations"].update(traveling_variations[0])
-        traveling_variations[0] = {}
+
 
         reporter_box_node = reporterbox()
 
