@@ -1,0 +1,8 @@
+
+.. court:: 横浜地方裁判所
+   :court-id: jp;dc;yokohama.chiho.saibansho
+   :url: http://www.courts.go.jp/yokohama/
+
+   .. reporter-key:: 下刑集
+
+   .. reporter-key:: 下民集

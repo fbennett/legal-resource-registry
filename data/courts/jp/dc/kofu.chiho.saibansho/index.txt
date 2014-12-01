@@ -1,0 +1,8 @@
+
+.. court:: 甲府地方裁判所
+   :court-id: jp;dc;kofu.chiho.saibansho
+   :url: http://www.courts.go.jp/koufu/
+
+   .. reporter-key:: 下刑集
+
+   .. reporter-key:: 下民集

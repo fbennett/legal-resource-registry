@@ -1,0 +1,8 @@
+
+.. court:: 前橋地方裁判所
+   :court-id: jp;dc;maebashi.chiho.saibansho
+   :url: http://www.courts.go.jp/maebashi/
+
+   .. reporter-key:: 下刑集
+
+   .. reporter-key:: 下民集

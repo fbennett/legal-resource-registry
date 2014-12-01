@@ -1,0 +1,8 @@
+
+.. court:: 岐阜地方裁判所
+   :court-id: jp;dc;gifu.chiho.saibansho
+   :url: http://www.courts.go.jp/gifu/
+
+   .. reporter-key:: 下刑集
+
+   .. reporter-key:: 下民集

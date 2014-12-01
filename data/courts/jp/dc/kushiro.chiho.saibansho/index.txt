@@ -1,0 +1,8 @@
+
+.. court:: 釧路地方裁判所
+   :court-id: jp;dc;kushiro.chiho.saibansho
+   :url: http://www.courts.go.jp/kushiro/
+
+   .. reporter-key:: 下刑集
+
+   .. reporter-key:: 下民集

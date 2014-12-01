@@ -1,0 +1,8 @@
+
+.. court:: 山形地方裁判所
+   :court-id: jp;dc;yamagata.chiho.saibansho
+   :url: http://www.courts.go.jp/yamagata/
+
+   .. reporter-key:: 下刑集
+
+   .. reporter-key:: 下民集

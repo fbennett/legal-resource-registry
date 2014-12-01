@@ -1,0 +1,8 @@
+
+.. court:: 長野地方裁判所
+   :court-id: jp;dc;nagano.chiho.saibansho
+   :url: http://www.courts.go.jp/nagano/
+
+   .. reporter-key:: 下刑集
+
+   .. reporter-key:: 下民集

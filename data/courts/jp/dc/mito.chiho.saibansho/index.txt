@@ -1,0 +1,8 @@
+
+.. court:: 水戸地方裁判所
+   :court-id: jp;dc;mito.chiho.saibansho
+   :url: http://www.courts.go.jp/mito/
+
+   .. reporter-key:: 下刑集
+
+   .. reporter-key:: 下民集

@@ -1,0 +1,8 @@
+
+.. court:: 富山地方裁判所
+   :court-id: jp;dc;toyama.chiho.saibansho
+   :url: http://www.courts.go.jp/toyama/
+
+   .. reporter-key:: 下刑集
+
+   .. reporter-key:: 下民集

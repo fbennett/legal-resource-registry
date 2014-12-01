@@ -1,0 +1,8 @@
+
+.. court:: 最高裁判所
+   :court-id: jp;supreme.court
+   :url: http://www.courts.go.jp
+
+   .. reporter-key:: 刑集
+
+   .. reporter-key:: 民集

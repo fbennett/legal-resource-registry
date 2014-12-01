@@ -1,0 +1,8 @@
+
+.. court:: 神戸地方裁判所
+   :court-id: jp;dc;kobe.chiho.saibansho
+   :url: http://www.courts.go.jp/kobe/
+
+   .. reporter-key:: 下刑集
+
+   .. reporter-key:: 下民集

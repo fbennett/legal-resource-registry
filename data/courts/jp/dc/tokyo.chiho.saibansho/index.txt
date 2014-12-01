@@ -1,0 +1,8 @@
+
+.. court:: 東京地方裁判所
+   :court-id: jp;dc;tokyo.chiho.saibansho
+   :url: http://www.courts.go.jp/tokyo/
+
+   .. reporter-key:: 下刑集
+
+   .. reporter-key:: 下民集

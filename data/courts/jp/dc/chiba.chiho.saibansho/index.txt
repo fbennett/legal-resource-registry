@@ -1,0 +1,8 @@
+
+.. court:: 千葉地方裁判所
+   :court-id: jp;dc;chiba.chiho.saibansho
+   :url: http://www.courts.go.jp/chiba/
+
+   .. reporter-key:: 下刑集
+
+   .. reporter-key:: 下民集

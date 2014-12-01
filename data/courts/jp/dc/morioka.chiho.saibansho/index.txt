@@ -1,0 +1,8 @@
+
+.. court:: 盛岡地方裁判所
+   :court-id: jp;dc;morioka.chiho.saibansho
+   :url: http://www.courts.go.jp/morioka/
+
+   .. reporter-key:: 下刑集
+
+   .. reporter-key:: 下民集

@@ -1,0 +1,8 @@
+
+.. court:: 宮崎地方裁判所
+   :court-id: jp;dc;miyazaki.chiho.saibansho
+   :url: http://www.courts.go.jp/miyazaki/
+
+   .. reporter-key:: 下刑集
+
+   .. reporter-key:: 下民集

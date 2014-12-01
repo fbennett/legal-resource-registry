@@ -1,0 +1,8 @@
+
+.. court:: 新潟地方裁判所
+   :court-id: jp;dc;niigata.chiho.saibansho
+   :url: http://www.courts.go.jp/niigata/
+
+   .. reporter-key:: 下刑集
+
+   .. reporter-key:: 下民集

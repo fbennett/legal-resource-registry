@@ -1,0 +1,8 @@
+
+.. court:: 和歌山地方裁判所
+   :court-id: jp;dc;wakayama.chiho.saibansho
+   :url: http://www.courts.go.jp/wakayama/
+
+   .. reporter-key:: 下刑集
+
+   .. reporter-key:: 下民集
