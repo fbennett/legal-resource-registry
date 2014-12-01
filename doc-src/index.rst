@@ -23,4 +23,5 @@ view.
 .. container:: bubbles
 
    `United States Courts <us-courts/index.html>`_
+   `Japanese Courts <jp-courts/index.html>`_
 

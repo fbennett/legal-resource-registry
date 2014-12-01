@@ -518,5 +518,64 @@ United States Courts <us-courts>
             us;wv;supreme.court
         Wyoming <wyoming>
             us;wy;supreme.court
-
-     
+Japanese Courts <jp-courts>
+    jp;saiko.saibansho
+    高等裁判所 <jp-high-courts>
+        jp;hc;fukuoka.koto.saibansho
+        jp;hc;hiroshima.koto.saibansho
+        jp;hc;nagoya.koto.saibansho
+        jp;hc;osaka.koto.saibansho
+        jp;hc;sapporo.koto.saibansho
+        jp;hc;sendai.koto.saibansho
+        jp;hc;takamatsu.koto.saibansho
+        jp;hc;tokyo.koto.saibansho
+    地方裁判所 <jp-district-courts>
+        jp;dc;matsue.chiho.saibansho
+        jp;dc;akita.chiho.saibansho
+        jp;dc;aomori.chiho.saibansho
+        jp;dc;asahikawa.chiho.saibansho
+        jp;dc;chiba.chiho.saibansho
+        jp;dc;fukui.chiho.saibansho
+        jp;dc;fukuoka.chiho.saibansho
+        jp;dc;fukushima.chiho.saibansho
+        jp;dc;gifu.chiho.saibansho
+        jp;dc;hakodate.chiho.saibansho
+        jp;dc;hiroshima.chiho.saibansho
+        jp;dc;kagoshima.chiho.saibansho
+        jp;dc;kanazawa.chiho.saibansho
+        jp;dc;kobe.chiho.saibansho
+        jp;dc;kochi.chiho.saibansho
+        jp;dc;kofu.chiho.saibansho
+        jp;dc;kumamoto.chiho.saibansho
+        jp;dc;kushiro.chiho.saibansho
+        jp;dc;kyoto.chiho.saibansho
+        jp;dc;maebashi.chiho.saibansho
+        jp;dc;matsuyama.chiho.saibansho
+        jp;dc;mito.chiho.saibansho
+        jp;dc;miyazaki.chiho.saibansho
+        jp;dc;morioka.chiho.saibansho
+        jp;dc;nagano.chiho.saibansho
+        jp;dc;nagasaki.chiho.saibansho
+        jp;dc;nagoya.chiho.saibansho
+        jp;dc;naha.chiho.saibansho
+        jp;dc;nara.chiho.saibansho
+        jp;dc;niigata.chiho.saibansho
+        jp;dc;oita.chiho.saibansho
+        jp;dc;osaka.chiho.saibansho
+        jp;dc;otsu.chiho.saibansho
+        jp;dc;saga.chiho.saibansho
+        jp;dc;saitama.chiho.saibansho
+        jp;dc;sapporo.chiho.saibansho
+        jp;dc;sendai.chiho.saibansho
+        jp;dc;shizuoka.chiho.saibansho
+        jp;dc;takamatsu.chiho.saibansho
+        jp;dc;tokushima.chiho.saibansho
+        jp;dc;tokyo.chiho.saibansho
+        jp;dc;tottori.chiho.saibansho
+        jp;dc;toyama.chiho.saibansho
+        jp;dc;tsu.chiho.saibansho
+        jp;dc;utsunomiya.chiho.saibansho
+        jp;dc;wakayama.chiho.saibansho
+        jp;dc;yamagata.chiho.saibansho
+        jp;dc;yamaguchi.chiho.saibansho
+        jp;dc;yokohama.chiho.saibansho
