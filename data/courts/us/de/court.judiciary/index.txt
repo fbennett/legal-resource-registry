@@ -1,5 +1,5 @@
 
 .. court:: Court on the Judiciary of Delaware.
    :court-id: us;de;court.judiciary
-   :url: http://courts.delaware.gov/‎
+   :url: http://courts.delaware.gov/
    :flp-key: deljudct
