@@ -1,0 +1,6 @@
+.. reporter:: Colorado Court of Appeals Neutral Citation
+   :flp-series-cite-type: neutral
+   :flp-common-abbreviation: COA
+   :edition-abbreviation: COA
+   :dates: 1750/01/01-present
+   :neutral:
