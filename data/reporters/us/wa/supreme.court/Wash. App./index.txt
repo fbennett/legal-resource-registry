@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Wash. App.
    :edition-abbreviation: Wash. App.
-   :dates: 1969/1/1-present
+   :dates: 1969/01/01-present
 
    .. variation:: W.App.
 

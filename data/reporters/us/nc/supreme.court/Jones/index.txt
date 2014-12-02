@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Jones
    :edition-abbreviation: Jones
-   :dates: 1853/1/1-1862/12/31
+   :dates: 1853/01/01-1862/12/31
 
    .. variation:: N.C.(Jones)
 

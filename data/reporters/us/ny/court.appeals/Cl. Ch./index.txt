@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Cl. Ch.
    :edition-abbreviation: Cl. Ch.
-   :dates: 1839/1/1-1841/12/31
+   :dates: 1839/01/01-1841/12/31
 
    .. variation:: Cl.R.
 

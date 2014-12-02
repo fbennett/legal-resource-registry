@@ -2,4 +2,4 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Hopk. Ch.
    :edition-abbreviation: Hopk. Ch.
-   :dates: 1823/1/1-1826/12/31
+   :dates: 1823/01/01-1826/12/31

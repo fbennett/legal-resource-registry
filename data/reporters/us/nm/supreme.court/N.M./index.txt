@@ -2,4 +2,4 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: N.M.
    :edition-abbreviation: N.M.
-   :dates: 1890/1/1-present
+   :dates: 1852/01/01-present

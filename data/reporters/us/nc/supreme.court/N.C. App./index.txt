@@ -2,4 +2,4 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: N.C. App.
    :edition-abbreviation: N.C. App.
-   :dates: 1968/1/1-present
+   :dates: 1968/01/01-present

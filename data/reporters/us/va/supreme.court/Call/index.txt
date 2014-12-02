@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Call
    :edition-abbreviation: Call
-   :dates: 1779/1/1-1825/12/31
+   :dates: 1779/01/01-1825/12/31
 
    .. variation:: Call (Va.)
 

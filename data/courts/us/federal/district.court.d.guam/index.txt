@@ -17,3 +17,5 @@
    .. reporter-key:: Fed. R. Serv. 3d
 
    .. reporter-key:: Guam
+
+   .. reporter-key:: U.S. Dist. LEXIS

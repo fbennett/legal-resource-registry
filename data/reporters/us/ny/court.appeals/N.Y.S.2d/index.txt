@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: N.Y.S.
    :edition-abbreviation: N.Y.S.2d
-   :dates: 1938/1/1-present
+   :dates: 1938/01/01-present
 
    .. variation:: N.Y.S. 2d
 

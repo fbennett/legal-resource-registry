@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Bail.
    :edition-abbreviation: Bail.
-   :dates: 1828/1/1-1832/12/31
+   :dates: 1828/01/01-1832/12/31
 
    .. variation:: Bailey
 

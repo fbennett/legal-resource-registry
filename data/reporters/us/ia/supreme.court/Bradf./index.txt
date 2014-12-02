@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Bradf.
    :edition-abbreviation: Bradf.
-   :dates: 1838/1/1-1841/12/31
+   :dates: 1838/01/01-1841/12/31
 
    .. variation:: Bradford
 

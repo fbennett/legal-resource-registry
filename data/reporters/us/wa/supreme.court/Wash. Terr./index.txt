@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Wash. Terr.
    :edition-abbreviation: Wash. Terr.
-   :dates: 1854/1/1-1888/12/31
+   :dates: 1854/01/01-1888/12/31
 
    .. variation:: Wash.Ter.
 

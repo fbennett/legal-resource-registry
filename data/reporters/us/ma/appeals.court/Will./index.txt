@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Will.
    :edition-abbreviation: Will.
-   :dates: 1804/1/1-1805/12/31
+   :dates: 1804/01/01-1805/12/31
 
    .. variation:: Will.Mass.
 

@@ -2,7 +2,7 @@
    :flp-series-cite-type: scotus_early
    :flp-common-abbreviation: Cranch
    :edition-abbreviation: Cranch
-   :dates: 1801/1/1-1815/12/31
+   :dates: 1801/01/01-1815/12/31
 
    .. variation:: Cra.
 

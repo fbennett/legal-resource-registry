@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Hill
    :edition-abbreviation: Hill
-   :dates: 1833/1/1-1837/12/31
+   :dates: 1833/01/01-1837/12/31
 
    .. variation:: S.C.L.(Hill)
 

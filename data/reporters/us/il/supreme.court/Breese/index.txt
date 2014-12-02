@@ -2,6 +2,6 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Breese
    :edition-abbreviation: Breese
-   :dates: 1819/1/1-1831/12/31
+   :dates: 1819/01/01-1831/12/31
 
    .. variation:: Ill.(Breese)

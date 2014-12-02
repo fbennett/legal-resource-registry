@@ -8,6 +8,8 @@
 
    .. reporter-key:: CO
 
+   .. reporter-key:: COA
+
    .. reporter-key:: Colo.
 
    .. reporter-key:: Colo. Law.

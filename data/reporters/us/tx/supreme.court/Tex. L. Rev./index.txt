@@ -2,6 +2,6 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Tex. L. Rev.
    :edition-abbreviation: Tex. L. Rev.
-   :dates: 1845/1/1-1846/12/31
+   :dates: 1845/01/01-1846/12/31
 
    .. variation:: Texas L.Rev.

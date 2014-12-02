@@ -2,4 +2,4 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Lock. Rev. Cas.
    :edition-abbreviation: Lock. Rev. Cas.
-   :dates: 1799/1/1-1847/12/31
+   :dates: 1799/01/01-1847/12/31

@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Rice
    :edition-abbreviation: Rice
-   :dates: 1838/1/1-1839/12/31
+   :dates: 1838/01/01-1839/12/31
 
    .. variation:: S.C.L.(Rice)
 

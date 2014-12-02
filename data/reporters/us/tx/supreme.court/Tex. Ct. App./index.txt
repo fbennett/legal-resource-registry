@@ -2,6 +2,6 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Tex. Ct. App.
    :edition-abbreviation: Tex. Ct. App.
-   :dates: 1876/1/1-1891/12/31
+   :dates: 1876/01/01-1891/12/31
 
    .. variation:: Tex.Ct.App.R.

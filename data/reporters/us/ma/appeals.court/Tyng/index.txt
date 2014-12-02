@@ -2,6 +2,6 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Tyng
    :edition-abbreviation: Tyng
-   :dates: 1806/1/1-1822/12/31
+   :dates: 1806/01/01-1822/12/31
 
    .. variation:: Mass.(Tyng)

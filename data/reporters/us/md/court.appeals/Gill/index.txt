@@ -2,4 +2,4 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Gill
    :edition-abbreviation: Gill
-   :dates: 1843/1/1-1851/12/31
+   :dates: 1843/01/01-1851/12/31

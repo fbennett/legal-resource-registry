@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Cal. Rptr.
    :edition-abbreviation: Cal. Rptr. 2d
-   :dates: 1992/1/1-2003/12/31
+   :dates: 1992/01/01-2003/12/31
 
    .. variation:: Cal.Rptr.2d
 

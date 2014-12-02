@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Teiss.
    :edition-abbreviation: Teiss.
-   :dates: 1903/1/1-1917/12/31
+   :dates: 1903/01/01-1917/12/31
 
    .. variation:: La.App.(Orleans)
 

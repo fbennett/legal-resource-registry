@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Watts
    :edition-abbreviation: Watts
-   :dates: 1832/1/1-1840/12/31
+   :dates: 1832/01/01-1840/12/31
 
    .. variation:: Wa.
 

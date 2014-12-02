@@ -24,7 +24,7 @@
 
    .. reporter-key:: N.J. Super.
 
-   .. reporter-key:: N.J. Tax.
+   .. reporter-key:: N.J. Tax
 
    .. reporter-key:: N.J.L.
 

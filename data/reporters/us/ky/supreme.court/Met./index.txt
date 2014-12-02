@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Met.
    :edition-abbreviation: Met.
-   :dates: 1858/1/1-1863/12/31
+   :dates: 1858/01/01-1863/12/31
 
    .. variation:: Ky.(Met.)
 

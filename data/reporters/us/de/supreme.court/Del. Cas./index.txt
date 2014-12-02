@@ -2,4 +2,4 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Del. Cas.
    :edition-abbreviation: Del. Cas.
-   :dates: 1792/1/1-1830/12/31
+   :dates: 1792/01/01-1830/12/31

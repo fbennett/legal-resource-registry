@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Robards
    :edition-abbreviation: Robards
-   :dates: 1862/1/1-1865/12/31
+   :dates: 1862/01/01-1865/12/31
 
    .. variation:: Rob.Cons.Cas.(Tex.)
 

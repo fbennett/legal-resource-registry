@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Dev.
    :edition-abbreviation: Dev.
-   :dates: 1826/1/1-1834/12/31
+   :dates: 1826/01/01-1834/12/31
 
    .. variation:: Dev.L.
 

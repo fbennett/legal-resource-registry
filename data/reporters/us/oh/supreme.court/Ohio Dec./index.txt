@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Ohio Dec.
    :edition-abbreviation: Ohio Dec.
-   :dates: 1894/1/1-1920/12/31
+   :dates: 1894/01/01-1920/12/31
 
    .. variation:: Oh.Dec.
 

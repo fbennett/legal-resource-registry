@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Nott & McC.
    :edition-abbreviation: Nott & McC.
-   :dates: 1817/1/1-1820/12/31
+   :dates: 1817/01/01-1820/12/31
 
    .. variation:: N.& Mc.
 

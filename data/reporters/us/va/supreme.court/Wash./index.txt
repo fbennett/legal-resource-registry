@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Wash.
    :edition-abbreviation: Wash.
-   :dates: 1790/1/1-1796/12/31
+   :dates: 1790/01/01-1796/12/31
 
    .. variation:: Va.(Wash.)
 

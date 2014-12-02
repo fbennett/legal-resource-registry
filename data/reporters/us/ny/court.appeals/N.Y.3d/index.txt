@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: N.Y.
    :edition-abbreviation: N.Y.3d
-   :dates: 2004/1/1-present
+   :dates: 2004/01/01-present
 
    .. variation:: NY 3d
 

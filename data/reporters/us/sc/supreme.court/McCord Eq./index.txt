@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: McCord Eq.
    :edition-abbreviation: McCord Eq.
-   :dates: 1825/1/1-1827/12/31
+   :dates: 1825/01/01-1827/12/31
 
    .. variation:: S.C.L.(McCord Eq.)
 

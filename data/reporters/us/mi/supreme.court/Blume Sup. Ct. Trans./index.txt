@@ -2,6 +2,6 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Blume Sup. Ct. Trans.
    :edition-abbreviation: Blume Sup. Ct. Trans.
-   :dates: 1805/1/1-1836/12/31
+   :dates: 1805/01/01-1836/12/31
 
    .. variation:: Blume Sup.Ct.Trans.

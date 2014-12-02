@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: J.J. Marsh.
    :edition-abbreviation: J.J. Marsh.
-   :dates: 1829/1/1-1832/12/31
+   :dates: 1829/01/01-1832/12/31
 
    .. variation:: J.J.Marsh.(Ky.)
 

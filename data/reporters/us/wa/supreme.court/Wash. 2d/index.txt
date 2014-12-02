@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Wash.
    :edition-abbreviation: Wash. 2d
-   :dates: 1889/1/1-present
+   :dates: 1889/01/01-present
 
    .. variation:: Wn. 2d
 

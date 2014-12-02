@@ -2,6 +2,6 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Kan.
    :edition-abbreviation: Kan.
-   :dates: 1862/1/1-present
+   :dates: 1862/01/01-present
 
    .. variation:: Kans.

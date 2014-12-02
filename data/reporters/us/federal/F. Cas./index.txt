@@ -1,8 +1,8 @@
 .. reporter:: Federal Cases
-   :flp-series-cite-type: fed
+   :flp-series-cite-type: federal
    :flp-common-abbreviation: F. Cas.
    :edition-abbreviation: F. Cas.
-   :dates: 1789/1/1-1880/1/1
+   :dates: 1789/01/01-1880/01/01
 
    .. variation:: F.Cas.
 

@@ -2,4 +2,4 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Fla. L. Weekly Supp.
    :edition-abbreviation: Fla. L. Weekly Supp.
-   :dates: 1992/1/1-present
+   :dates: 1992/01/01-present

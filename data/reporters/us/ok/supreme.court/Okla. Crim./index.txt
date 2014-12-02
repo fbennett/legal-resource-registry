@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Okla. Crim.
    :edition-abbreviation: Okla. Crim.
-   :dates: 1908/1/1-1953/12/31
+   :dates: 1908/01/01-1953/12/31
 
    .. variation:: Okla.
 

@@ -2,6 +2,6 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Cal. App.
    :edition-abbreviation: Cal. App.
-   :dates: 1905/1/1-1934/12/31
+   :dates: 1905/01/01-1934/12/31
 
    .. variation:: Cal.App.

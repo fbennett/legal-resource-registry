@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Chand.
    :edition-abbreviation: Chand.
-   :dates: 1849/1/1-1852/12/31
+   :dates: 1849/01/01-1852/12/31
 
    .. variation:: Chandl.
 

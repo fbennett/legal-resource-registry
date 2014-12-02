@@ -2,6 +2,6 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: N.J.L.
    :edition-abbreviation: N.J.L.
-   :dates: 1790/1/1-1948/12/31
+   :dates: 1790/01/01-1948/12/31
 
    .. variation:: N.J.Law

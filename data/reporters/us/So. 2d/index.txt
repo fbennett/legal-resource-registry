@@ -2,7 +2,7 @@
    :flp-series-cite-type: state_regional
    :flp-common-abbreviation: So.
    :edition-abbreviation: So. 2d
-   :dates: 1941/1/1-2008/12/31
+   :dates: 1941/01/01-2008/12/31
 
    .. variation:: So.2d
 

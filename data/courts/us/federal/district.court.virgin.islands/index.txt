@@ -16,4 +16,6 @@
 
    .. reporter-key:: Fed. R. Serv. 3d
 
+   .. reporter-key:: U.S. Dist. LEXIS
+
    .. reporter-key:: V.I.

@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: How. Pr.
    :edition-abbreviation: How. Pr.
-   :dates: 1844/1/1-1886/12/31
+   :dates: 1844/01/01-1886/12/31
 
    .. variation:: How.Prac.(N.Y.)
 

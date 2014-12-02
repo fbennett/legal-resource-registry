@@ -1,8 +1,8 @@
 .. reporter:: United States Supreme Court Reports
-   :flp-series-cite-type: fed
+   :flp-series-cite-type: federal
    :flp-common-abbreviation: U.S.
    :edition-abbreviation: U.S.
-   :dates: 1790/1/1-present
+   :dates: 1790/01/01-present
 
    .. variation:: U.S.S.C.Rep.
 

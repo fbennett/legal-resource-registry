@@ -2,4 +2,4 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Indian Terr.
    :edition-abbreviation: Indian Terr.
-   :dates: 1896/1/1-1907/12/31
+   :dates: 1896/01/01-1907/12/31

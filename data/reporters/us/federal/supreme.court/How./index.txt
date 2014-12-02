@@ -2,6 +2,6 @@
    :flp-series-cite-type: scotus_early
    :flp-common-abbreviation: How.
    :edition-abbreviation: How.
-   :dates: 1843/1/1-1860/12/31
+   :dates: 1843/01/01-1860/12/31
 
    .. variation:: U.S.(How.)

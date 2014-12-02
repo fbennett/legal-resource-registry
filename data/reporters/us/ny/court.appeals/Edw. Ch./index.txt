@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Edw. Ch.
    :edition-abbreviation: Edw. Ch.
-   :dates: 1831/1/1-1850/12/31
+   :dates: 1831/01/01-1850/12/31
 
    .. variation:: Edw.
 

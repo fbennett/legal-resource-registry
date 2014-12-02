@@ -2,6 +2,6 @@
    :flp-series-cite-type: specialty
    :flp-common-abbreviation: Fed. Cl.
    :edition-abbreviation: Fed. Cl.
-   :dates: 1992/1/1-present
+   :dates: 1992/01/01-present
 
    .. variation:: Fed.Cl.

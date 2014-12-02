@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Cai. Cas.
    :edition-abbreviation: Cai. Cas.
-   :dates: 1796/1/1-1805/12/31
+   :dates: 1796/01/01-1805/12/31
 
    .. variation:: Caines
 

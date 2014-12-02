@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: D. Chip.
    :edition-abbreviation: D. Chip.
-   :dates: 1789/1/1-1824/12/31
+   :dates: 1789/01/01-1824/12/31
 
    .. variation:: Chip.
 

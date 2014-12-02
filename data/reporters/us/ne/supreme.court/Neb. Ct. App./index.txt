@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Neb. Ct. App.
    :edition-abbreviation: Neb. Ct. App.
-   :dates: 1922/1/1-present
+   :dates: 1922/01/01-present
 
    .. variation:: Neb. App.
 

@@ -2,4 +2,4 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Mich. Ct. Cl.
    :edition-abbreviation: Mich. Ct. Cl.
-   :dates: 1938/1/1-1942/12/31
+   :dates: 1938/01/01-1942/12/31

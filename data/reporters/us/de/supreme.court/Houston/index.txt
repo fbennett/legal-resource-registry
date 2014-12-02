@@ -2,4 +2,4 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Houston
    :edition-abbreviation: Houston
-   :dates: 1855/1/1-1893/12/31
+   :dates: 1855/01/01-1893/12/31

@@ -2,6 +2,6 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: McGl.
    :edition-abbreviation: McGl.
-   :dates: 1881/1/1-1884/12/31
+   :dates: 1881/01/01-1884/12/31
 
    .. variation:: McGloin

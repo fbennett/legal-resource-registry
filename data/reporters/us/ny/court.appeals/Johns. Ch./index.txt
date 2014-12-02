@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Johns. Ch.
    :edition-abbreviation: Johns. Ch.
-   :dates: 1814/1/1-1823/12/31
+   :dates: 1814/01/01-1823/12/31
 
    .. variation:: Johns.
 

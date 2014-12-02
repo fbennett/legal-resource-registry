@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Pick.
    :edition-abbreviation: Pick.
-   :dates: 1822/1/1-1839/12/31
+   :dates: 1822/01/01-1839/12/31
 
    .. variation:: Pick.(Mass.)
 

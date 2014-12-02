@@ -2,6 +2,6 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: N.J. Super.
    :edition-abbreviation: N.J. Super.
-   :dates: 1948/1/1-present
+   :dates: 1948/01/01-present
 
    .. variation:: N.J.S.

@@ -2,6 +2,6 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Ohio Op.
    :edition-abbreviation: Ohio Op. 3d
-   :dates: 1934/1/1-1982/12/31
+   :dates: 1934/01/01-1982/12/31
 
    .. variation:: Ohio Op.3d

@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Whart.
    :edition-abbreviation: Whart.
-   :dates: 1835/1/1-1841/12/31
+   :dates: 1835/01/01-1841/12/31
 
    .. variation:: Wharton
 

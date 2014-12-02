@@ -2,6 +2,6 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Gunby
    :edition-abbreviation: Gunby
-   :dates: 1885/1/1-1885/12/31
+   :dates: 1885/01/01-1885/12/31
 
    .. variation:: Gunby (La.)

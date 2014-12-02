@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Allen
    :edition-abbreviation: Allen
-   :dates: 1861/1/1-1867/12/31
+   :dates: 1861/01/01-1867/12/31
 
    .. variation:: All.
 

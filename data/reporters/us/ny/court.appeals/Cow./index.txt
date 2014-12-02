@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Cow.
    :edition-abbreviation: Cow.
-   :dates: 1823/1/1-1829/12/31
+   :dates: 1823/01/01-1829/12/31
 
    .. variation:: Cow.N.Y.
 

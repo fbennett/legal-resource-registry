@@ -2,6 +2,6 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Cal. Rptr.
    :edition-abbreviation: Cal. Rptr.
-   :dates: 1959/1/1-1991/12/31
+   :dates: 1959/01/01-1991/12/31
 
    .. variation:: Cal.Rptr.

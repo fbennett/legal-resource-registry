@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Gray
    :edition-abbreviation: Gray
-   :dates: 1854/1/1-1860/12/31
+   :dates: 1854/01/01-1860/12/31
 
    .. variation:: Gray (Mass.)
 

@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Ril. Eq.
    :edition-abbreviation: Ril. Eq.
-   :dates: 1836/1/1-1837/12/31
+   :dates: 1836/01/01-1837/12/31
 
    .. variation:: S.C.Eq.(Ril.)
 

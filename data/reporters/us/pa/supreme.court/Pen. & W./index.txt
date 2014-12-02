@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Pen. & W.
    :edition-abbreviation: Pen. & W.
-   :dates: 1829/1/1-1832/12/31
+   :dates: 1829/01/01-1832/12/31
 
    .. variation:: P.& W.
 

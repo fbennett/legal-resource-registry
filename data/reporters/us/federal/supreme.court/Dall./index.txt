@@ -2,7 +2,7 @@
    :flp-series-cite-type: scotus_early
    :flp-common-abbreviation: Dall.
    :edition-abbreviation: Dall.
-   :dates: 1790/1/1-1880/12/31
+   :dates: 1790/01/01-1880/12/31
 
    .. variation:: Dal.
 

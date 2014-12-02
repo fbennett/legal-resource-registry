@@ -2,4 +2,4 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Brief Times Rptr.
    :edition-abbreviation: Brief Times Rptr.
-   :dates: 1750/1/1-present
+   :dates: 1750/01/01-present

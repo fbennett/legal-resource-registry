@@ -2,6 +2,6 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Md.
    :edition-abbreviation: Md.
-   :dates: 1851/1/1-present
+   :dates: 1851/01/01-present
 
    .. variation:: Maryland

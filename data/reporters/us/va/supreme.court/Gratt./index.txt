@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Gratt.
    :edition-abbreviation: Gratt.
-   :dates: 1844/1/1-1880/12/31
+   :dates: 1844/01/01-1880/12/31
 
    .. variation:: Gratt.(Va.)
 

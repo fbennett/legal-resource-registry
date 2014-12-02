@@ -2,5 +2,5 @@
    :flp-series-cite-type: neutral
    :flp-common-abbreviation: CO
    :edition-abbreviation: CO
-   :dates: 1750/1/1-present
+   :dates: 1750/01/01-present
    :neutral:

@@ -2,4 +2,4 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Wilson
    :edition-abbreviation: Wilson
-   :dates: 1883/1/1-1892/12/31
+   :dates: 1883/01/01-1892/12/31

@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Vt.
    :edition-abbreviation: Vt.
-   :dates: 1826/1/1-present
+   :dates: 1826/01/01-present
 
    .. variation:: V.R.
 

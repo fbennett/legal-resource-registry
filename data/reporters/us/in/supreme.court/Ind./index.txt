@@ -2,6 +2,6 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Ind.
    :edition-abbreviation: Ind.
-   :dates: 1848/1/1-1981/12/31
+   :dates: 1848/01/01-1981/12/31
 
    .. variation:: Ind.Rep.

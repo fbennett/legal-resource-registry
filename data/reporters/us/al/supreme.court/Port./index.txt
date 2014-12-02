@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Port.
    :edition-abbreviation: Port.
-   :dates: 1834/1/1-1839/12/31
+   :dates: 1834/01/01-1839/12/31
 
    .. variation:: Port.(Ala.)
 

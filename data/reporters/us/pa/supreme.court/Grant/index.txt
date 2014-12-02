@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Grant
    :edition-abbreviation: Grant
-   :dates: 1814/1/1-1863/12/31
+   :dates: 1814/01/01-1863/12/31
 
    .. variation:: Gr.
 

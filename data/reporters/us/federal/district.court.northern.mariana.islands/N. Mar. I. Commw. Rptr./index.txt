@@ -2,4 +2,4 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: N. Mar. I. Commw. Rptr.
    :edition-abbreviation: N. Mar. I. Commw. Rptr.
-   :dates: 1979/1/1-present
+   :dates: 1979/01/01-present

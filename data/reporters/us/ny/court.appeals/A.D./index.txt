@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: A.D.
    :edition-abbreviation: A.D.
-   :dates: 1896/1/1-1955/12/31
+   :dates: 1896/01/01-1955/12/31
 
    .. variation:: N.Y.App.Div.
 

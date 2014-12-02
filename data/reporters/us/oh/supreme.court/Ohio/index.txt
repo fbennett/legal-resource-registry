@@ -2,4 +2,4 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Ohio
    :edition-abbreviation: Ohio
-   :dates: 1821/1/1-1851/12/31
+   :dates: 1821/01/01-1851/12/31

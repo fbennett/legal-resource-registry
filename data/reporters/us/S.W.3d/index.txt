@@ -2,7 +2,7 @@
    :flp-series-cite-type: state_regional
    :flp-common-abbreviation: S.W.
    :edition-abbreviation: S.W.3d
-   :dates: 1999/1/1-present
+   :dates: 1999/01/01-present
 
    .. variation:: S. W.3d
 

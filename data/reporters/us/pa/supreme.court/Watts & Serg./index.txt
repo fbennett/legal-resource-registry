@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Watts & Serg.
    :edition-abbreviation: Watts & Serg.
-   :dates: 1841/1/1-1845/12/31
+   :dates: 1841/01/01-1845/12/31
 
    .. variation:: Watts & S.
 

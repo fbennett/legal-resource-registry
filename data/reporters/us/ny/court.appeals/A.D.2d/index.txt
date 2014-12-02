@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: A.D.
    :edition-abbreviation: A.D.2d
-   :dates: 1955/1/1-2004/12/31
+   :dates: 1955/01/01-2004/12/31
 
    .. variation:: A.D. 2d
 

@@ -2,6 +2,6 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Rich. Cas.
    :edition-abbreviation: Rich. Cas.
-   :dates: 1831/1/1-1832/12/31
+   :dates: 1831/01/01-1832/12/31
 
    .. variation:: Rich.Cas.(S.C.)

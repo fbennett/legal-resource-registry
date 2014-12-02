@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Bibb
    :edition-abbreviation: Bibb
-   :dates: 1808/1/1-1817/12/31
+   :dates: 1808/01/01-1817/12/31
 
    .. variation:: Bibb(Ky.)
 

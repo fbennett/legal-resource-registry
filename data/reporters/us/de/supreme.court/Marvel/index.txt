@@ -2,4 +2,4 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Marvel
    :edition-abbreviation: Marvel
-   :dates: 1893/1/1-1897/12/31
+   :dates: 1893/01/01-1897/12/31

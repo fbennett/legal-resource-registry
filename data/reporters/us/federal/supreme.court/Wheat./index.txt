@@ -2,7 +2,7 @@
    :flp-series-cite-type: scotus_early
    :flp-common-abbreviation: Wheat.
    :edition-abbreviation: Wheat.
-   :dates: 1816/1/1-1827/12/31
+   :dates: 1816/01/01-1827/12/31
 
    .. variation:: U.S.(Wheat.)
 

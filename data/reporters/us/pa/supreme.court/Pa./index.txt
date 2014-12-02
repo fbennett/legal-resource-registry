@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Pa.
    :edition-abbreviation: Pa.
-   :dates: 1845/1/1-present
+   :dates: 1845/01/01-present
 
    .. variation:: Pa.St.
 

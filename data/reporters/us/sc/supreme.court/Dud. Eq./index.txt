@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Dud. Eq.
    :edition-abbreviation: Dud. Eq.
-   :dates: 1837/1/1-1838/12/31
+   :dates: 1837/01/01-1838/12/31
 
    .. variation:: Dudl.
 

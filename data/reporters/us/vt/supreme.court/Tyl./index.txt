@@ -2,6 +2,6 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Tyl.
    :edition-abbreviation: Tyl.
-   :dates: 1800/1/1-1803/12/31
+   :dates: 1800/01/01-1803/12/31
 
    .. variation:: Tyler

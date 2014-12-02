@@ -2,4 +2,4 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Win.
    :edition-abbreviation: Win.
-   :dates: 1863/1/1-1864/12/31
+   :dates: 1863/01/01-1864/12/31

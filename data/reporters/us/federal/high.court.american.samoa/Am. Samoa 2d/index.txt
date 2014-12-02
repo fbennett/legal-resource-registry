@@ -2,4 +2,4 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Am. Samoa
    :edition-abbreviation: Am. Samoa 2d
-   :dates: 1900/1/1-present
+   :dates: 1900/01/01-present

@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Hill
    :edition-abbreviation: Hill
-   :dates: 1841/1/1-1844/12/31
+   :dates: 1841/01/01-1844/12/31
 
    .. variation:: H.
 

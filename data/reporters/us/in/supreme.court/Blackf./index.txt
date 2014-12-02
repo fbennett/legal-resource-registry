@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Blackf.
    :edition-abbreviation: Blackf.
-   :dates: 1817/1/1-1847/12/31
+   :dates: 1817/01/01-1847/12/31
 
    .. variation:: Blackf.(Ind.)
 

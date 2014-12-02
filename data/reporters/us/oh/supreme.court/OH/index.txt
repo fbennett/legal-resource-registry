@@ -2,7 +2,7 @@
    :flp-series-cite-type: neutral
    :flp-common-abbreviation: OH
    :edition-abbreviation: OH
-   :dates: 1750/1/1-present
+   :dates: 1750/01/01-present
    :neutral:
 
    .. variation:: -Ohio-

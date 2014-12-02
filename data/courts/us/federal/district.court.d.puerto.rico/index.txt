@@ -23,3 +23,5 @@
    .. reporter-key:: P.R. Sent.
 
    .. reporter-key:: P.R.R.
+
+   .. reporter-key:: U.S. Dist. LEXIS

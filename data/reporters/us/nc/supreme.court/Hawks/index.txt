@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Hawks
    :edition-abbreviation: Hawks
-   :dates: 1820/1/1-1826/12/31
+   :dates: 1820/01/01-1826/12/31
 
    .. variation:: N.C.(Hawks)
 

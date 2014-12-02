@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Speers Eq.
    :edition-abbreviation: Speers Eq.
-   :dates: 1842/1/1-1844/12/31
+   :dates: 1842/01/01-1844/12/31
 
    .. variation:: Spears Eq.
 

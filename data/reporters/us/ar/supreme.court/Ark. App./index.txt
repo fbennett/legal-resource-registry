@@ -2,6 +2,6 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Ark. App.
    :edition-abbreviation: Ark. App.
-   :dates: 1981/1/1-present
+   :dates: 1981/01/01-present
 
    .. variation:: Ak. App.

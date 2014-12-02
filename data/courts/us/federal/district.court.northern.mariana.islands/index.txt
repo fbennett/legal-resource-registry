@@ -19,3 +19,5 @@
    .. reporter-key:: N. Mar. I.
 
    .. reporter-key:: N. Mar. I. Commw. Rptr.
+
+   .. reporter-key:: U.S. Dist. LEXIS

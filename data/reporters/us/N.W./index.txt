@@ -2,7 +2,7 @@
    :flp-series-cite-type: state_regional
    :flp-common-abbreviation: N.W.
    :edition-abbreviation: N.W.
-   :dates: 1880/1/1-1942/12/31
+   :dates: 1880/01/01-1942/12/31
 
    .. variation:: N. W.
 

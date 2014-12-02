@@ -2,4 +2,4 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Iowa
    :edition-abbreviation: Iowa
-   :dates: 1855/1/1-1968/12/31
+   :dates: 1855/01/01-1968/12/31

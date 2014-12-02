@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Phil. Law
    :edition-abbreviation: Phil. Law
-   :dates: 1866/1/1-1868/12/31
+   :dates: 1866/01/01-1868/12/31
 
    .. variation:: Phill.L.(N.C.)
 

@@ -2,4 +2,4 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Conn. Supp.
    :edition-abbreviation: Conn. Supp.
-   :dates: 1935/1/1-present
+   :dates: 1935/01/01-present

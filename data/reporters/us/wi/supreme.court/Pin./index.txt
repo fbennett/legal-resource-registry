@@ -2,6 +2,6 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Pin.
    :edition-abbreviation: Pin.
-   :dates: 1839/1/1-1852/12/31
+   :dates: 1839/01/01-1852/12/31
 
    .. variation:: Pinn.

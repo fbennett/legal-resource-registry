@@ -1,8 +1,8 @@
 .. reporter:: Federal Reporter
-   :flp-series-cite-type: fed
+   :flp-series-cite-type: federal
    :flp-common-abbreviation: F.
    :edition-abbreviation: F.
-   :dates: 1880/1/1-1924/12/31
+   :dates: 1880/01/01-1924/12/31
 
    .. variation:: Fed.R.
 

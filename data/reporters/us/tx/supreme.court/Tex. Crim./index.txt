@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Tex. Crim.
    :edition-abbreviation: Tex. Crim.
-   :dates: 1891/1/1-1962/12/31
+   :dates: 1891/01/01-1962/12/31
 
    .. variation:: Tex.Crim.Rep.
 

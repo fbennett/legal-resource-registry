@@ -2,6 +2,6 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Cal.
    :edition-abbreviation: Cal. 3d
-   :dates: 1969/1/1-1991/12/31
+   :dates: 1969/01/01-1991/12/31
 
    .. variation:: Cal.3d

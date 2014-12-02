@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Leigh
    :edition-abbreviation: Leigh
-   :dates: 1829/1/1-1842/12/31
+   :dates: 1829/01/01-1842/12/31
 
    .. variation:: Va.(Leigh)
 

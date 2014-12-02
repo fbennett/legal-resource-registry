@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Ohio Cir. Dec.
    :edition-abbreviation: Ohio Cir. Dec.
-   :dates: 1885/1/1-1901/12/31
+   :dates: 1885/01/01-1901/12/31
 
    .. variation:: Oh.Cir.Dec.
 

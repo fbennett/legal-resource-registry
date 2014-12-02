@@ -2,4 +2,4 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Tenn. App.
    :edition-abbreviation: Tenn. App.
-   :dates: 1925/1/1-1971/12/31
+   :dates: 1925/01/01-1971/12/31

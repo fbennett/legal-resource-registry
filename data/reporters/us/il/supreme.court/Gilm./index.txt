@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Gilm.
    :edition-abbreviation: Gilm.
-   :dates: 1844/1/1-1849/12/31
+   :dates: 1844/01/01-1849/12/31
 
    .. variation:: Gilm.(Ill.)
 

@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Harp. Eq.
    :edition-abbreviation: Harp. Eq.
-   :dates: 1824/1/1-1824/12/31
+   :dates: 1824/01/01-1824/12/31
 
    .. variation:: Harper
 

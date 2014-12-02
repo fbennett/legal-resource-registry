@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Tay.
    :edition-abbreviation: Tay.
-   :dates: 1798/1/1-1802/12/31
+   :dates: 1798/01/01-1802/12/31
 
    .. variation:: N.C.(Tay.)
 

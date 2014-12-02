@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Serg. & Rawle
    :edition-abbreviation: Serg. & Rawle
-   :dates: 1814/1/1-1828/12/31
+   :dates: 1814/01/01-1828/12/31
 
    .. variation:: Serg.& R.
 

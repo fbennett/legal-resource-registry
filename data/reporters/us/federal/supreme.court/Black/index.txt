@@ -2,7 +2,7 @@
    :flp-series-cite-type: scotus_early
    :flp-common-abbreviation: Black
    :edition-abbreviation: Black
-   :dates: 1861/1/1-1862/12/31
+   :dates: 1861/01/01-1862/12/31
 
    .. variation:: U.S.(Black)
 

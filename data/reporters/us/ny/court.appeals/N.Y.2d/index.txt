@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: N.Y.
    :edition-abbreviation: N.Y.2d
-   :dates: 1956/1/1-2004/1/1
+   :dates: 1956/01/01-2004/01/01
 
    .. variation:: N.Y. 2d
 

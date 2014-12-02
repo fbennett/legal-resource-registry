@@ -2,7 +2,7 @@
    :flp-series-cite-type: state_regional
    :flp-common-abbreviation: A.
    :edition-abbreviation: A.
-   :dates: 1885/1/1-1938/12/31
+   :dates: 1885/01/01-1938/12/31
 
    .. variation:: At.
 

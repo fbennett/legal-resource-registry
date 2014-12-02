@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Sarat. Ch. Sent.
    :edition-abbreviation: Sarat. Ch. Sent.
-   :dates: 1841/1/1-1847/12/31
+   :dates: 1841/01/01-1847/12/31
 
    .. variation:: N.Y.Ch.Sent.
 

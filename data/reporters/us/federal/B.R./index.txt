@@ -2,7 +2,7 @@
    :flp-series-cite-type: specialty
    :flp-common-abbreviation: B.R.
    :edition-abbreviation: B.R.
-   :dates: 1979/1/1-present
+   :dates: 1979/01/01-present
 
    .. variation:: B. R.
 

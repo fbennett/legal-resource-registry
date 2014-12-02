@@ -2,6 +2,6 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Haw. App.
    :edition-abbreviation: Haw. App.
-   :dates: 1980/1/1-1994/12/31
+   :dates: 1980/01/01-1994/12/31
 
    .. variation:: Hawaii App.

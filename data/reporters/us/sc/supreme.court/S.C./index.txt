@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: S.C.
    :edition-abbreviation: S.C.
-   :dates: 1868/1/1-present
+   :dates: 1868/01/01-present
 
    .. variation:: S.Car.
 

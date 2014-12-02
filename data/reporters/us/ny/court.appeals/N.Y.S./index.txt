@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: N.Y.S.
    :edition-abbreviation: N.Y.S.
-   :dates: 1888/1/1-1937/12/31
+   :dates: 1888/01/01-1937/12/31
 
    .. variation:: NYS
 

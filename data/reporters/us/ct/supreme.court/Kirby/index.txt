@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Kirby
    :edition-abbreviation: Kirby
-   :dates: 1785/1/1-1789/12/31
+   :dates: 1785/01/01-1789/12/31
 
    .. variation:: Kir.
 

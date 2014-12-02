@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Dana
    :edition-abbreviation: Dana
-   :dates: 1833/1/1-1840/12/31
+   :dates: 1833/01/01-1840/12/31
 
    .. variation:: Ky.(Dana)
 

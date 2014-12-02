@@ -2,6 +2,6 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Boyce
    :edition-abbreviation: Boyce
-   :dates: 1909/1/1-1920/12/31
+   :dates: 1909/01/01-1920/12/31
 
    .. variation:: Del.(Boyce)

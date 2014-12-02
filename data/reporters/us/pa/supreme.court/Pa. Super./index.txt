@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Pa. Super.
    :edition-abbreviation: Pa. Super.
-   :dates: 1895/1/1-present
+   :dates: 1895/01/01-present
 
    .. variation:: Pa.Super.Ct.
 

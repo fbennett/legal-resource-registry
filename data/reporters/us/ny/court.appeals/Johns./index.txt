@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Johns.
    :edition-abbreviation: Johns.
-   :dates: 1806/1/1-1823/12/31
+   :dates: 1806/01/01-1823/12/31
 
    .. variation:: Johns.Ct.Err.
 

@@ -2,4 +2,4 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Misc.
    :edition-abbreviation: Misc.
-   :dates: 1892/1/1-1955/12/31
+   :dates: 1892/01/01-1955/12/31

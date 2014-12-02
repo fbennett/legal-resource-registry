@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Abb. Pr.
    :edition-abbreviation: Abb. Pr.
-   :dates: 1854/1/1-1875/12/31
+   :dates: 1854/01/01-1875/12/31
 
    .. variation:: Abbott Pract.Cas.
 

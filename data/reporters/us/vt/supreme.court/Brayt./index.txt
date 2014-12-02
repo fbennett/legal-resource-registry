@@ -2,6 +2,6 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Brayt.
    :edition-abbreviation: Brayt.
-   :dates: 1815/1/1-1819/12/31
+   :dates: 1815/01/01-1819/12/31
 
    .. variation:: Brayton (Vt.)

@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Monag.
    :edition-abbreviation: Monag.
-   :dates: 1888/1/1-1890/12/31
+   :dates: 1888/01/01-1890/12/31
 
    .. variation:: Mon.
 

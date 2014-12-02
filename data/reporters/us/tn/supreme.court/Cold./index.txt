@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Cold.
    :edition-abbreviation: Cold.
-   :dates: 1860/1/1-1870/12/31
+   :dates: 1860/01/01-1870/12/31
 
    .. variation:: Col.
 

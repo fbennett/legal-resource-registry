@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Mill
    :edition-abbreviation: Mill
-   :dates: 1817/1/1-1818/12/31
+   :dates: 1817/01/01-1818/12/31
 
    .. variation:: Mill Const.
 

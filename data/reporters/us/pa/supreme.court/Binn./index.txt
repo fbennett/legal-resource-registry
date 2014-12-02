@@ -2,10 +2,8 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Binn.
    :edition-abbreviation: Binn.
-   :dates: 1799/1/1-1814/12/31
+   :dates: 1799/01/01-1814/12/31
 
    .. variation:: Binn.(Pa.)
-
-   .. variation:: Binn
 
    .. variation:: Bin.

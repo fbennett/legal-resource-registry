@@ -2,4 +2,4 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Ohio App. Unrep.
    :edition-abbreviation: Ohio App. Unrep.
-   :dates: 1990/1/1-1990/12/31
+   :dates: 1990/01/01-1990/12/31

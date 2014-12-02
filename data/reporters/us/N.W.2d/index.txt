@@ -2,7 +2,7 @@
    :flp-series-cite-type: state_regional
    :flp-common-abbreviation: N.W.
    :edition-abbreviation: N.W.2d
-   :dates: 1942/1/1-present
+   :dates: 1942/01/01-present
 
    .. variation:: NW 2d
 

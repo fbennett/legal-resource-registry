@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: T.B. Mon.
    :edition-abbreviation: T.B. Mon.
-   :dates: 1824/1/1-1828/12/31
+   :dates: 1824/01/01-1828/12/31
 
    .. variation:: Mon.
 

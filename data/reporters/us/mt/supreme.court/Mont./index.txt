@@ -2,6 +2,6 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Mont.
    :edition-abbreviation: Mont.
-   :dates: 1868/1/1-present
+   :dates: 1868/01/01-present
 
    .. variation:: Mont.

@@ -2,6 +2,6 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Tex.
    :edition-abbreviation: Tex.
-   :dates: 1846/1/1-1962/12/31
+   :dates: 1846/01/01-1962/12/31
 
    .. variation:: Tex.S.Ct.

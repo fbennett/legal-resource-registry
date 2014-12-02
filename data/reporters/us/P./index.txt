@@ -2,7 +2,7 @@
    :flp-series-cite-type: state_regional
    :flp-common-abbreviation: P.
    :edition-abbreviation: P.
-   :dates: 1883/1/1-1931/12/31
+   :dates: 1883/01/01-1931/12/31
 
    .. variation:: Pac.R.
 

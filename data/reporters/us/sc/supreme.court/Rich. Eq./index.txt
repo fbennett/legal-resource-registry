@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Rich. Eq.
    :edition-abbreviation: Rich. Eq.
-   :dates: 1844/1/1-1868/12/31
+   :dates: 1844/01/01-1868/12/31
 
    .. variation:: Rich.Eq.Ch.
 

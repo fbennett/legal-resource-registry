@@ -2,4 +2,4 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Mass. App. Dec.
    :edition-abbreviation: Mass. App. Dec.
-   :dates: 1941/1/1-1977/12/31
+   :dates: 1941/01/01-1977/12/31

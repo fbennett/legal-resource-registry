@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Barb.
    :edition-abbreviation: Barb.
-   :dates: 1847/1/1-1877/12/31
+   :dates: 1847/01/01-1877/12/31
 
    .. variation:: B.
 

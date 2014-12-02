@@ -2,4 +2,4 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Munf.
    :edition-abbreviation: Munf.
-   :dates: 1810/1/1-1820/12/31
+   :dates: 1810/01/01-1820/12/31

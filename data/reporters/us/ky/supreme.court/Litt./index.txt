@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Litt.
    :edition-abbreviation: Litt.
-   :dates: 1822/1/1-1824/12/31
+   :dates: 1822/01/01-1824/12/31
 
    .. variation:: Ky.(Litt.)
 

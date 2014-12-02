@@ -2,6 +2,6 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: La. App.
    :edition-abbreviation: La. App.
-   :dates: 1924/1/1-1932/12/31
+   :dates: 1924/01/01-1932/12/31
 
    .. variation:: La.A.

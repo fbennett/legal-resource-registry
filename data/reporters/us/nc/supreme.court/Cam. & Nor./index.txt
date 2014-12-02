@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Cam. & Nor.
    :edition-abbreviation: Cam. & Nor.
-   :dates: 1800/1/1-1804/12/31
+   :dates: 1800/01/01-1804/12/31
 
    .. variation:: N.C.Conf.Rep.
 

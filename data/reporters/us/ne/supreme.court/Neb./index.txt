@@ -2,4 +2,4 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Neb.
    :edition-abbreviation: Neb.
-   :dates: 1860/1/1-present
+   :dates: 1860/01/01-present

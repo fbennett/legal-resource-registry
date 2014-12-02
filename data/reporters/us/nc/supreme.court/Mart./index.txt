@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Mart.
    :edition-abbreviation: Mart.
-   :dates: 1778/1/1-1797/12/31
+   :dates: 1778/01/01-1797/12/31
 
    .. variation:: Mart.Dec.
 

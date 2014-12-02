@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Taylor
    :edition-abbreviation: Taylor
-   :dates: 1816/1/1-1818/12/31
+   :dates: 1816/01/01-1818/12/31
 
    .. variation:: N.C.Term.Rep.
 

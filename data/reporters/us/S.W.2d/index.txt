@@ -2,7 +2,7 @@
    :flp-series-cite-type: state_regional
    :flp-common-abbreviation: S.W.
    :edition-abbreviation: S.W.2d
-   :dates: 1928/1/1-1999/12/31
+   :dates: 1928/01/01-1999/12/31
 
    .. variation:: S. W. 2d
 

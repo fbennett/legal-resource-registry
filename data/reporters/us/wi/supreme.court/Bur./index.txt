@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Bur.
    :edition-abbreviation: Bur.
-   :dates: 1841/1/1-1843/12/31
+   :dates: 1841/01/01-1843/12/31
 
    .. variation:: Burnett (Wis.)
 

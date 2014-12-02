@@ -2,10 +2,4 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: App. D.C.
    :edition-abbreviation: App. D.C.
-   :dates: 1893/1/1-1941/12/31
-
-   .. variation:: U. S. App. D. C.
-
-   .. variation:: U.S.App.D.C.
-
-   .. variation:: U.S. App. D.C.
+   :dates: 1893/01/01-1941/12/31

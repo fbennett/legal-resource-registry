@@ -2,6 +2,6 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Minn.
    :edition-abbreviation: Minn.
-   :dates: 1851/1/1-1977/12/31
+   :dates: 1851/01/01-1977/12/31
 
    .. variation:: Min.

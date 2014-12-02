@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: A.D.
    :edition-abbreviation: A.D.3d
-   :dates: 2003/1/1-present
+   :dates: 2003/01/01-present
 
    .. variation:: AD 3d
 

@@ -2,4 +2,4 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Ill. Ct. Cl.
    :edition-abbreviation: Ill. Ct. Cl.
-   :dates: 1889/1/1-present
+   :dates: 1889/01/01-present

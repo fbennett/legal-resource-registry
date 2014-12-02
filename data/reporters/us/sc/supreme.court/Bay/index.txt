@@ -2,6 +2,6 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Bay
    :edition-abbreviation: Bay
-   :dates: 1783/1/1-1804/12/31
+   :dates: 1783/01/01-1804/12/31
 
    .. variation:: S.C.L.(Bay)

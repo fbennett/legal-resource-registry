@@ -2,6 +2,6 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Swan
    :edition-abbreviation: Swan
-   :dates: 1851/1/1-1853/12/31
+   :dates: 1851/01/01-1853/12/31
 
    .. variation:: Tenn.(Swan)

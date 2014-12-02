@@ -2,6 +2,6 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: S.D.
    :edition-abbreviation: S.D.
-   :dates: 1890/1/1-1976/12/31
+   :dates: 1890/01/01-1976/12/31
 
    .. variation:: S.Dak.

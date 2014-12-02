@@ -1,8 +1,8 @@
 .. reporter:: West's Supreme Court Reporter
-   :flp-series-cite-type: fed
+   :flp-series-cite-type: federal
    :flp-common-abbreviation: S. Ct.
    :edition-abbreviation: S. Ct.
-   :dates: 1882/1/1-present
+   :dates: 1882/01/01-present
 
    .. variation:: S Ct
 

@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Cal. App. Supp.
    :edition-abbreviation: Cal. App. Supp. 2d
-   :dates: 1929/1/1-present
+   :dates: 1929/01/01-present
 
    .. variation:: Cal.App.Supp.2d
 

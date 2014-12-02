@@ -2,7 +2,7 @@
    :flp-series-cite-type: state
    :flp-common-abbreviation: Ant. N.P. Cas.
    :edition-abbreviation: Ant. N.P. Cas.
-   :dates: 1807/1/1-1851/12/31
+   :dates: 1807/01/01-1851/12/31
 
    .. variation:: Anth.
 

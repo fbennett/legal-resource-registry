@@ -2,7 +2,7 @@
    :flp-series-cite-type: specialty
    :flp-common-abbreviation: T.C.M.
    :edition-abbreviation: T.C.M.
-   :dates: 1942/1/1-present
+   :dates: 1942/01/01-present
 
    .. variation:: T.C.M. (CCH)
 
