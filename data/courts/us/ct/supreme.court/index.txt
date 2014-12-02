@@ -1,7 +1,7 @@
 
 .. court:: Supreme Court of Connecticut
    :court-id: us;ct;supreme.court
-   :url: http://www.jud.state.ct.us/external/supapp/
+   :url: http://www.jud.state.ct.us/external/supapp/default.htm
    :flp-key: conn
 
    .. reporter-key:: A.
