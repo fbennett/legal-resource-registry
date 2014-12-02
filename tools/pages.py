@@ -75,9 +75,7 @@ class jurisdictionStack:
     def setLevelForPage(self,level,page_name):
         self.stack = self.stack[0:level]
         self.parent = os.path.join(*self.stack + ["index.html"])
-        pos = page_name.rfind(";")
-        if pos > -1:
-            page_name = page_name[pos+1:]
+        page_name = page_name.replace(";", "-")
         self.stack.append(page_name)
         self.current = os.path.join(*self.stack + ["index.html"])
         self.current_url = os.path.join(*self.stack[len(self.stack)-1:len(self.stack)] + ["index.html"])
@@ -97,6 +95,7 @@ class PageSource:
         if title_en:
             # XXX This will require a transform in rst4legalResourceRegistry.py
             # print title_en
+            pass
         self.title = title
         line = char * len(title)
         self.rst += "%s\n%s\n%s\n" % (line,title,line)
@@ -211,6 +210,20 @@ except GeneralSyntaxException as err:
     print "Error in pages.txt: unable to parse entry at line %d." % (err.lineno)
 
 pageEngine.dumpPages()
+
+def sortrep(a,b):
+    if a["name"] > b["name"]:
+        return 1
+    elif a["name"] < b["name"]:
+        return -1
+    else:
+        return 0
+
+for key in reporters_json.keys():
+    bundle = reporters_json[key]
+    bundle.sort(sortrep)
+    for series in bundle:
+        series["mlz_jurisdiction"].sort()
 
 open("reporters-new.json","w+").write(json.dumps(reporters_json,indent=2,sort_keys=True))
 open("courts-map-flp.json","w+").write(json.dumps(courts_map,indent=2,sort_keys=True))

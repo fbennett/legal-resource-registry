@@ -531,6 +531,7 @@ class ReporterDirective(Directive,GitHubUrl):
                 bundle = reporters_json[bundle_key]
             series_name = self.arguments[0]
             edition_key = self.options["edition-abbreviation"]
+                
             series = self.findReporterSeries(bundle,series_name)
             if not series:
                 series = {}
@@ -543,18 +544,14 @@ class ReporterDirective(Directive,GitHubUrl):
             if not series["mlz_jurisdiction"].count(traveling_jurisdiction[0]):
                 series["mlz_jurisdiction"].append(traveling_jurisdiction[0])
                 series["mlz_jurisdiction"].sort()
-            series["editions"][edition_key] = [
-                {
-                    "year": startyear,
-                    "month": startmonth,
-                    "day": startday
-                    },
-                {
-                    "year": endyear,
-                    "month": endmonth,
-                    "day": endday
-                    }
-                ]
+            if endyear:
+                end = "%02d-%02d-%02dT00:00:00" % (int(endyear),int(endmonth),int(endday))
+            else:
+                end = None
+            series["editions"][edition_key] = {
+                "end": end,
+                "start": "%02d-%02d-%02dT00:00:00" % (int(startyear),int(startmonth),int(startday))
+                }
     
             # That's everything but variations, which are handled by the directive.
             
@@ -565,8 +562,6 @@ class ReporterDirective(Directive,GitHubUrl):
                 traveling_variations[0][key] = edition_key
             series["variations"].update(traveling_variations[0])
             traveling_variations[0] = {}
-
-
 
         reporter_box_node = reporterbox()
 
