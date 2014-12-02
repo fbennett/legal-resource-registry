@@ -1,5 +1,5 @@
 
 .. court:: Connecticut Superior Court
    :court-id: us;ct;superior.court
-   :url: http://www.jud.ct.gov/external/super/‎
+   :url: http://www.jud.ct.gov/external/super/default.htm
    :flp-key: connsuperct
