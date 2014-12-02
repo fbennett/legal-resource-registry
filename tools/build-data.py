@@ -6,7 +6,7 @@ scriptpath = os.path.dirname(sys.argv[0])
 rootpath = os.path.join(scriptpath,os.path.pardir)
 rootpath = os.path.abspath(rootpath)
 
-datasrcpath = os.path.join(rootpath,'resource','reporters.js')
+datasrcpath = os.path.join(rootpath,'resource','reporters-db.json')
 datasrc = open(datasrcpath)
 datasrc.seek(0)
 data = json.load(datasrc)
@@ -96,14 +96,14 @@ for key in data:
                 edition_orig = obj["editions"][ekey]
                 edition = {}
                 edition["title"] = ekey
-                if edition_orig[0]["year"] == False:
+                if edition_orig["start"] == None:
                     edition["start"] = "present"
                 else:
-                    edition["start"] = "%d/%d/%d" % (edition_orig[0]["year"],edition_orig[0]["month"]+1,edition_orig[0]["day"])
-                if edition_orig[1]["year"] == False:
+                    edition["start"] = edition_orig["start"][0:10].replace("-","/",2)
+                if edition_orig["end"] == None:
                     edition["end"] = "present"
                 else:
-                    edition["end"] = "%d/%d/%d" % (edition_orig[1]["year"],edition_orig[1]["month"]+1,edition_orig[1]["day"])
+                    edition["end"] = edition_orig["end"][0:10].replace("-","/",2)
                 edition["name"] = obj["name"]
                 edition["edition-abbreviation"] = ekey
                 if obj["cite_type"] == "neutral":
