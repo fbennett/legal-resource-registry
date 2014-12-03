@@ -1,5 +1,5 @@
 
 .. court:: Nebraska Court of Appeals
    :court-id: us;ne;court.appeals
-   :url: https://supremecourt.ne.gov/
+   :url: https://supremecourt.nebraska.gov/
    :flp-key: nebctapp
