@@ -205,7 +205,7 @@ United States Courts <us-courts>
         us;federal;judicial.panel.multidistrict.litigation
         us;federal;merit.systems.protection.board
         us;federal;navy-marine.corps.court.criminal.appeals
-        us;federal;pa;special.tribunal
+        us;pa;special.tribunal
         us;federal;special.court.regional.rail.reorganization.act
         us;federal;tax.court
     United States Bankruptcy Appellate Panels <us-bankruptcy-appellate-panels>
