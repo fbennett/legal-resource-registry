@@ -1,7 +1,7 @@
 
 .. court:: Kentucky Supreme Court
    :court-id: us;ky;supreme.court
-   :url: http://courts.ky.gov/courts/supreme/‎
+   :url: http://courts.ky.gov/courts/supreme/
    :flp-key: ky
 
    .. reporter-key:: A.K. Marsh.
