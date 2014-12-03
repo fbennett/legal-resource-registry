@@ -1,5 +1,5 @@
 
 .. court:: Court of Appeals of Iowa
    :court-id: us;ia;court.appeals
-   :url: http://www.iowacourts.gov/court_of_appeals/
+   :url: http://www.iowacourts.gov/About_the_Courts/Court_of_Appeals/
    :flp-key: iowactapp
