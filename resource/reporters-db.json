@@ -17,16 +17,16 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ct", 
-        "us;dc", 
-        "us;de", 
-        "us;md", 
-        "us;me", 
-        "us;nh", 
-        "us;nj", 
-        "us;pa", 
-        "us;ri", 
-        "us;vt"
+        "us;ct;supreme.court", 
+        "us;de;supreme.court", 
+        "us;federal;district.columbia.court.appeals", 
+        "us;md;court.appeals", 
+        "us;me;supreme.judicial.court", 
+        "us;nh;supreme.court", 
+        "us;nj;supreme.court", 
+        "us;pa;supreme.court", 
+        "us;ri;supreme.court", 
+        "us;vt;supreme.court"
       ], 
       "name": "Atlantic Reporter", 
       "variations": {
@@ -59,7 +59,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ny"
+        "us;ny;court.appeals"
       ], 
       "name": "New York Supreme Court Appellate Division Reports", 
       "variations": {
@@ -87,7 +87,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ky"
+        "us;ky;supreme.court"
       ], 
       "name": "Kentucky Reports, Marshall, A.K.", 
       "variations": {
@@ -109,7 +109,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;az"
+        "us;az;supreme.court"
       ], 
       "name": "Arizona Neutral Citation", 
       "variations": {}
@@ -125,7 +125,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ny"
+        "us;ny;court.appeals"
       ], 
       "name": "Abbott's New Cases", 
       "variations": {
@@ -145,7 +145,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ny"
+        "us;ny;court.appeals"
       ], 
       "name": "Abbott's Practice Reports", 
       "variations": {
@@ -170,7 +170,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;vt"
+        "us;vt;supreme.court"
       ], 
       "name": "Vermont Reports, Aikens", 
       "variations": {}
@@ -190,7 +190,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;al"
+        "us;al;supreme.court"
       ], 
       "name": "Alabama Reports", 
       "variations": {}
@@ -206,7 +206,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;al"
+        "us;al;supreme.court"
       ], 
       "name": "Alabama Appellate Courts Reports", 
       "variations": {}
@@ -222,7 +222,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ak"
+        "us;ak;supreme.court"
       ], 
       "name": "Alaska Reports", 
       "variations": {
@@ -240,7 +240,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ak"
+        "us;ak;supreme.court"
       ], 
       "name": "Alaska Federal Reports", 
       "variations": {
@@ -261,7 +261,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ma"
+        "us;ma;appeals.court"
       ], 
       "name": "Massachusetts Reports, Allen", 
       "variations": {
@@ -284,7 +284,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;am"
+        "us;federal;high.court.american.samoa"
       ], 
       "name": "American Samoa Reports", 
       "variations": {}
@@ -300,7 +300,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ny"
+        "us;ny;court.appeals"
       ], 
       "name": "Anthon's Nisi Prius Cases", 
       "variations": {
@@ -319,7 +319,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;dc"
+        "us;federal;district.columbia.court.appeals"
       ], 
       "name": "Appeal Cases, District of Columbia", 
       "variations": {}
@@ -335,7 +335,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;az"
+        "us;az;supreme.court"
       ], 
       "name": "Arizona Reporter", 
       "variations": {}
@@ -351,7 +351,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;az"
+        "us;az;supreme.court"
       ], 
       "name": "Arizona Appeals Reports", 
       "variations": {}
@@ -367,7 +367,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ar"
+        "us;ar;supreme.court"
       ], 
       "name": "Arkansas Reports", 
       "variations": {
@@ -385,7 +385,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ar"
+        "us;ar;supreme.court"
       ], 
       "name": "Arkansas Appellate Reports", 
       "variations": {
@@ -403,7 +403,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ky"
+        "us;ky;supreme.court"
       ], 
       "name": "Kentucky Reports, Monroe, Ben", 
       "variations": {
@@ -574,7 +574,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;sc"
+        "us;sc;supreme.court"
       ], 
       "name": "South Carolina Reports, Bailey", 
       "variations": {
@@ -596,7 +596,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;sc"
+        "us;sc;supreme.court"
       ], 
       "name": "South Carolina Reports, Bailey's Equity", 
       "variations": {
@@ -619,7 +619,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ny"
+        "us;ny;court.appeals"
       ], 
       "name": "Barbour's Supreme Court Reports", 
       "variations": {
@@ -638,7 +638,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ny"
+        "us;ny;court.appeals"
       ], 
       "name": "Barbour's Chancery Reports", 
       "variations": {
@@ -656,7 +656,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;sc"
+        "us;sc;supreme.court"
       ], 
       "name": "South Carolina Reports, Bay", 
       "variations": {
@@ -674,7 +674,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ky"
+        "us;ky;supreme.court"
       ], 
       "name": "Kentucky Reports, Bibb", 
       "variations": {
@@ -693,7 +693,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;pa"
+        "us;pa;supreme.court"
       ], 
       "name": "Pennsylvania State Reports, Binney", 
       "variations": {
@@ -731,7 +731,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;in"
+        "us;in;supreme.court"
       ], 
       "name": "Indiana Reports, Blackford", 
       "variations": {
@@ -750,7 +750,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;mi"
+        "us;mi;supreme.court"
       ], 
       "name": "Blume, Supreme Court Transactions", 
       "variations": {
@@ -768,7 +768,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;mi"
+        "us;mi;supreme.court"
       ], 
       "name": "Blume, Unreported Opinions", 
       "variations": {
@@ -786,7 +786,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;de"
+        "us;de;supreme.court"
       ], 
       "name": "Delaware Reports, Boyce", 
       "variations": {
@@ -804,7 +804,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ia"
+        "us;ia;supreme.court"
       ], 
       "name": "Iowa Reports, Bradford", 
       "variations": {
@@ -823,7 +823,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;vt"
+        "us;vt;supreme.court"
       ], 
       "name": "Vermont Reports, Brayton", 
       "variations": {
@@ -841,7 +841,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;il"
+        "us;il;supreme.court"
       ], 
       "name": "Illinois Reports, Breese", 
       "variations": {
@@ -859,7 +859,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;sc"
+        "us;sc;supreme.court"
       ], 
       "name": "South Carolina Reports, Brevard", 
       "variations": {
@@ -877,7 +877,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;co"
+        "us;co;supreme.court"
       ], 
       "name": "Brief Times Reporter", 
       "variations": {}
@@ -893,7 +893,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;wi"
+        "us;wi;supreme.court"
       ], 
       "name": "Wisconsin Reports, Burnett", 
       "variations": {
@@ -912,7 +912,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nc"
+        "us;nc;supreme.court"
       ], 
       "name": "North Carolina Reports, Busbee's Law", 
       "variations": {
@@ -931,7 +931,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nc"
+        "us;nc;supreme.court"
       ], 
       "name": "North Carolina Reports, Busbee's Equity", 
       "variations": {
@@ -950,7 +950,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ky"
+        "us;ky;supreme.court"
       ], 
       "name": "Kentucky Reports, Bush", 
       "variations": {
@@ -1017,7 +1017,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;co"
+        "us;co;supreme.court"
       ], 
       "name": "Colorado Neutral Citation", 
       "variations": {}
@@ -1033,7 +1033,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;co"
+        "us;co;supreme.court"
       ], 
       "name": "Colorado Court of Appeals Neutral Citation", 
       "variations": {}
@@ -1049,7 +1049,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ny"
+        "us;ny;court.appeals"
       ], 
       "name": "Caines' Cases", 
       "variations": {
@@ -1073,7 +1073,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ny"
+        "us;ny;court.appeals"
       ], 
       "name": "Caines' Reports", 
       "variations": {
@@ -1103,7 +1103,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ca"
+        "us;ca;supreme.court"
       ], 
       "name": "California Reports", 
       "variations": {
@@ -1135,7 +1135,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ca"
+        "us;ca;supreme.court"
       ], 
       "name": "California Appellate Reports", 
       "variations": {
@@ -1170,7 +1170,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ca"
+        "us;ca;supreme.court"
       ], 
       "name": "California Appellate Reports, Supplement", 
       "variations": {
@@ -1205,7 +1205,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ca"
+        "us;ca;supreme.court"
       ], 
       "name": "West's California Reporter", 
       "variations": {
@@ -1229,7 +1229,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ca"
+        "us;ca;supreme.court"
       ], 
       "name": "California Unreported Cases", 
       "variations": {
@@ -1247,7 +1247,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;va"
+        "us;va;supreme.court"
       ], 
       "name": "Virginia Reports, Call", 
       "variations": {
@@ -1266,7 +1266,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nc"
+        "us;nc;supreme.court"
       ], 
       "name": "North Carolina Reports, Conference by Cameron & Norwood", 
       "variations": {
@@ -1287,7 +1287,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nc"
+        "us;nc;supreme.court"
       ], 
       "name": "Carolina Law Repository", 
       "variations": {
@@ -1306,7 +1306,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;wi"
+        "us;wi;supreme.court"
       ], 
       "name": "Wisconsin Reports, Chandler", 
       "variations": {
@@ -1325,7 +1325,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;sc"
+        "us;sc;supreme.court"
       ], 
       "name": "South Carolina Reports, Cheves", 
       "variations": {
@@ -1345,7 +1345,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;sc"
+        "us;sc;supreme.court"
       ], 
       "name": "South Carolina Reports, Cheves' Equity", 
       "variations": {
@@ -1365,7 +1365,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ny"
+        "us;ny;court.appeals"
       ], 
       "name": "Clarke's Chancery Reports", 
       "variations": {
@@ -1402,7 +1402,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;tn"
+        "us;tn;supreme.court"
       ], 
       "name": "Tennessee Reports, Coldwell", 
       "variations": {
@@ -1422,7 +1422,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ny"
+        "us;ny;court.appeals"
       ], 
       "name": "Coleman & Caines' Cases", 
       "variations": {
@@ -1446,7 +1446,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ny"
+        "us;ny;court.appeals"
       ], 
       "name": "Coleman's Cases", 
       "variations": {
@@ -1468,7 +1468,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;co"
+        "us;co;supreme.court"
       ], 
       "name": "Colorado Reports", 
       "variations": {
@@ -1486,7 +1486,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;co"
+        "us;co;supreme.court"
       ], 
       "name": "Colorado Lawyer", 
       "variations": {
@@ -1504,7 +1504,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ct"
+        "us;ct;supreme.court"
       ], 
       "name": "Connecticut Reports", 
       "variations": {}
@@ -1520,7 +1520,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ct"
+        "us;ct;supreme.court"
       ], 
       "name": "Connecticut Appellate Reports", 
       "variations": {}
@@ -1536,7 +1536,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ct"
+        "us;ct;supreme.court"
       ], 
       "name": "Connecticut Circuit Court Reports", 
       "variations": {}
@@ -1552,7 +1552,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ct"
+        "us;ct;supreme.court"
       ], 
       "name": "Connecticut Law Reporter", 
       "variations": {}
@@ -1568,7 +1568,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ct"
+        "us;ct;supreme.court"
       ], 
       "name": "Connecticut Superior Court Reports", 
       "variations": {}
@@ -1584,7 +1584,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ct"
+        "us;ct;supreme.court"
       ], 
       "name": "Connecticut Supplement", 
       "variations": {}
@@ -1600,7 +1600,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;tn"
+        "us;tn;supreme.court"
       ], 
       "name": "Tennessee Reports, Cooke", 
       "variations": {
@@ -1619,7 +1619,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ny"
+        "us;ny;court.appeals"
       ], 
       "name": "Cowen's Reports", 
       "variations": {
@@ -1657,7 +1657,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;dc"
+        "us;federal;district.columbia.court.appeals"
       ], 
       "name": "District of Columbia Reports, Cranch", 
       "variations": {
@@ -1730,7 +1730,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ma"
+        "us;ma;appeals.court"
       ], 
       "name": "Massachusetts Reports, Cushing", 
       "variations": {
@@ -1782,7 +1782,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;vt"
+        "us;vt;supreme.court"
       ], 
       "name": "Vermont Reports, Chipman, D.", 
       "variations": {
@@ -1804,7 +1804,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nd"
+        "us;nd;supreme.court"
       ], 
       "name": "Dakota Reports", 
       "variations": {
@@ -1841,7 +1841,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;pa"
+        "us;pa;supreme.court"
       ], 
       "name": "Pennsylvania State Reports, Dallas", 
       "variations": {
@@ -1861,7 +1861,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;tx"
+        "us;tx;supreme.court"
       ], 
       "name": "Digest of the Laws of Texas (Dallam's Opinions)", 
       "variations": {
@@ -1881,7 +1881,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ky"
+        "us;ky;supreme.court"
       ], 
       "name": "Kentucky Reports, Dana", 
       "variations": {
@@ -1900,7 +1900,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ct"
+        "us;ct;supreme.court"
       ], 
       "name": "Day's Connecticut Reports", 
       "variations": {
@@ -1918,7 +1918,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;de"
+        "us;de;supreme.court"
       ], 
       "name": "Delaware Reports", 
       "variations": {}
@@ -1934,7 +1934,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;de"
+        "us;de;supreme.court"
       ], 
       "name": "Delaware Cases", 
       "variations": {}
@@ -1950,7 +1950,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;de"
+        "us;de;supreme.court"
       ], 
       "name": "Delaware Chancery Reports", 
       "variations": {}
@@ -1966,7 +1966,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ny"
+        "us;ny;court.appeals"
       ], 
       "name": "Denio's Reports", 
       "variations": {
@@ -1984,7 +1984,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;sc"
+        "us;sc;supreme.court"
       ], 
       "name": "South Carolina Reports, Desaussure's Equity", 
       "variations": {
@@ -2004,7 +2004,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nc"
+        "us;nc;supreme.court"
       ], 
       "name": "North Carolina Reports, Devereux's Law", 
       "variations": {
@@ -2023,7 +2023,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nc"
+        "us;nc;supreme.court"
       ], 
       "name": "North Carolina Reports, Devereux & Battle's Law", 
       "variations": {
@@ -2044,7 +2044,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nc"
+        "us;nc;supreme.court"
       ], 
       "name": "North Carolina Reports, Devereux & Battle's Equity", 
       "variations": {
@@ -2065,7 +2065,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nc"
+        "us;nc;supreme.court"
       ], 
       "name": "North Carolina Reports, Devereux's Equity", 
       "variations": {
@@ -2084,7 +2084,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;mi"
+        "us;mi;supreme.court"
       ], 
       "name": "Michigan Reports, Douglass", 
       "variations": {
@@ -2103,7 +2103,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;sc"
+        "us;sc;supreme.court"
       ], 
       "name": "South Carolina Reports, Dudley", 
       "variations": {
@@ -2125,7 +2125,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;sc"
+        "us;sc;supreme.court"
       ], 
       "name": "South Carolina Reports, Dudley's Equity", 
       "variations": {
@@ -2146,7 +2146,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ky"
+        "us;ky;supreme.court"
       ], 
       "name": "Kentucky Reports, Duvall", 
       "variations": {
@@ -2164,7 +2164,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ny"
+        "us;ny;court.appeals"
       ], 
       "name": "Edmond's Select Cases", 
       "variations": {
@@ -2184,7 +2184,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ny"
+        "us;ny;court.appeals"
       ], 
       "name": "Edwards' Chancery Reports", 
       "variations": {
@@ -2213,17 +2213,17 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;federal;1-cir", 
-        "us;federal;10-cir", 
-        "us;federal;11-cir", 
-        "us;federal;2-cir", 
-        "us;federal;3-cir", 
-        "us;federal;4-cir", 
-        "us;federal;5-cir", 
-        "us;federal;6-cir", 
-        "us;federal;7-cir", 
-        "us;federal;8-cir", 
-        "us;federal;9-cir"
+        "us;federal;court.appeals.1.circuit", 
+        "us;federal;court.appeals.10.circuit", 
+        "us;federal;court.appeals.11.circuit", 
+        "us;federal;court.appeals.2.circuit", 
+        "us;federal;court.appeals.3.circuit", 
+        "us;federal;court.appeals.4.circuit", 
+        "us;federal;court.appeals.5.circuit", 
+        "us;federal;court.appeals.6.circuit", 
+        "us;federal;court.appeals.7.circuit", 
+        "us;federal;court.appeals.8.circuit", 
+        "us;federal;court.appeals.9.circuit"
       ], 
       "name": "Federal Reporter", 
       "variations": {
@@ -2249,17 +2249,17 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;federal;1-cir", 
-        "us;federal;10-cir", 
-        "us;federal;11-cir", 
-        "us;federal;2-cir", 
-        "us;federal;3-cir", 
-        "us;federal;4-cir", 
-        "us;federal;5-cir", 
-        "us;federal;6-cir", 
-        "us;federal;7-cir", 
-        "us;federal;8-cir", 
-        "us;federal;9-cir"
+        "us;federal;court.appeals.1.circuit", 
+        "us;federal;court.appeals.10.circuit", 
+        "us;federal;court.appeals.11.circuit", 
+        "us;federal;court.appeals.2.circuit", 
+        "us;federal;court.appeals.3.circuit", 
+        "us;federal;court.appeals.4.circuit", 
+        "us;federal;court.appeals.5.circuit", 
+        "us;federal;court.appeals.6.circuit", 
+        "us;federal;court.appeals.7.circuit", 
+        "us;federal;court.appeals.8.circuit", 
+        "us;federal;court.appeals.9.circuit"
       ], 
       "name": "Federal Appendix", 
       "variations": {}
@@ -2404,7 +2404,6 @@
         "us;federal;tx;nd;district.court", 
         "us;federal;tx;sd;district.court", 
         "us;federal;tx;wd;district.court", 
-        "us;federal;tx;wd;district.court", 
         "us;federal;ut;d;district.court", 
         "us;federal;va;ed;district.court", 
         "us;federal;va;wd;district.court", 
@@ -2413,7 +2412,6 @@
         "us;federal;wa;wd;district.court", 
         "us;federal;wi;ed;district.court", 
         "us;federal;wi;wd;district.court", 
-        "us;federal;wv;nd;district.court", 
         "us;federal;wv;nd;district.court", 
         "us;federal;wv;sd;district.court", 
         "us;federal;wy;d;district.court"
@@ -2532,7 +2530,6 @@
         "us;federal;tx;nd;district.court", 
         "us;federal;tx;sd;district.court", 
         "us;federal;tx;wd;district.court", 
-        "us;federal;tx;wd;district.court", 
         "us;federal;ut;d;district.court", 
         "us;federal;va;ed;district.court", 
         "us;federal;va;wd;district.court", 
@@ -2541,7 +2538,6 @@
         "us;federal;wa;wd;district.court", 
         "us;federal;wi;ed;district.court", 
         "us;federal;wi;wd;district.court", 
-        "us;federal;wv;nd;district.court", 
         "us;federal;wv;nd;district.court", 
         "us;federal;wv;sd;district.court", 
         "us;federal;wy;d;district.court"
@@ -2560,7 +2556,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;fl"
+        "us;fl;supreme.court"
       ], 
       "name": "Florida Neutral Citation", 
       "variations": {}
@@ -2710,7 +2706,6 @@
         "us;federal;tx;nd;district.court", 
         "us;federal;tx;sd;district.court", 
         "us;federal;tx;wd;district.court", 
-        "us;federal;tx;wd;district.court", 
         "us;federal;ut;d;district.court", 
         "us;federal;va;ed;district.court", 
         "us;federal;va;wd;district.court", 
@@ -2719,7 +2714,6 @@
         "us;federal;wa;wd;district.court", 
         "us;federal;wi;ed;district.court", 
         "us;federal;wi;wd;district.court", 
-        "us;federal;wv;nd;district.court", 
         "us;federal;wv;nd;district.court", 
         "us;federal;wv;sd;district.court", 
         "us;federal;wy;d;district.court"
@@ -2742,7 +2736,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;fl"
+        "us;fl;supreme.court"
       ], 
       "name": "Florida Reports", 
       "variations": {
@@ -2761,7 +2755,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;fl"
+        "us;fl;supreme.court"
       ], 
       "name": "Florida Law Weekly", 
       "variations": {}
@@ -2777,7 +2771,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;fl"
+        "us;fl;supreme.court"
       ], 
       "name": "Florida Law Weekly Supplement", 
       "variations": {}
@@ -2797,7 +2791,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;fl"
+        "us;fl;supreme.court"
       ], 
       "name": "Florida Supplement", 
       "variations": {
@@ -2815,7 +2809,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;md"
+        "us;md;court.appeals"
       ], 
       "name": "Maryland Reports, Gill & Johnson", 
       "variations": {}
@@ -2831,7 +2825,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ga"
+        "us;ga;supreme.court"
       ], 
       "name": "Georgia Reports", 
       "variations": {}
@@ -2847,7 +2841,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ga"
+        "us;ga;supreme.court"
       ], 
       "name": "Georgia Appeals Reports", 
       "variations": {}
@@ -2863,7 +2857,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nm"
+        "us;nm;supreme.court"
       ], 
       "name": "Gildersleeve Reports", 
       "variations": {
@@ -2884,7 +2878,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;md"
+        "us;md;court.appeals"
       ], 
       "name": "Maryland Reports, Gill", 
       "variations": {}
@@ -2900,7 +2894,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;il"
+        "us;il;supreme.court"
       ], 
       "name": "Illinois Reports, Gilman", 
       "variations": {
@@ -2920,7 +2914,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;va"
+        "us;va;supreme.court"
       ], 
       "name": "Virginia Reports, Gilmer", 
       "variations": {
@@ -2941,7 +2935,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;pa"
+        "us;pa;supreme.court"
       ], 
       "name": "Pennsylvania State Reports, Grant", 
       "variations": {
@@ -2963,7 +2957,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;va"
+        "us;va;supreme.court"
       ], 
       "name": "Virginia Reports, Grattan", 
       "variations": {
@@ -2982,7 +2976,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ma"
+        "us;ma;appeals.court"
       ], 
       "name": "Massachusetts Reports, Gray", 
       "variations": {
@@ -3001,7 +2995,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ia"
+        "us;ia;supreme.court"
       ], 
       "name": "Iowa Reports, Greene", 
       "variations": {
@@ -3019,7 +3013,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;gu"
+        "us;federal;district.court.d.guam"
       ], 
       "name": "Guam Reports", 
       "variations": {}
@@ -3035,7 +3029,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;la"
+        "us;la;supreme.court"
       ], 
       "name": "Louisiana Court of Appeals Reports, Gunby", 
       "variations": {
@@ -3053,7 +3047,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;md"
+        "us;md;court.appeals"
       ], 
       "name": "Maryland Reports, Harris and Gill", 
       "variations": {}
@@ -3069,7 +3063,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;md"
+        "us;md;court.appeals"
       ], 
       "name": "Maryland Reports, Harris and Johnson", 
       "variations": {}
@@ -3085,7 +3079,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;md"
+        "us;md;court.appeals"
       ], 
       "name": "Maryland Reports, Harris and McHenry", 
       "variations": {}
@@ -3101,7 +3095,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ky"
+        "us;ky;supreme.court"
       ], 
       "name": "Kentucky Reports, Hardin", 
       "variations": {
@@ -3121,7 +3115,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;sc"
+        "us;sc;supreme.court"
       ], 
       "name": "South Carolina Reports, Harper", 
       "variations": {
@@ -3142,7 +3136,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;sc"
+        "us;sc;supreme.court"
       ], 
       "name": "South Carolina Reports, Harper's Equity", 
       "variations": {
@@ -3163,7 +3157,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;de"
+        "us;de;supreme.court"
       ], 
       "name": "Delaware Reports, Harrington", 
       "variations": {}
@@ -3179,7 +3173,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;hi"
+        "us;hi;supreme.court"
       ], 
       "name": "Hawaii Reports", 
       "variations": {
@@ -3199,7 +3193,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;hi"
+        "us;hi;supreme.court"
       ], 
       "name": "Hawaii Appellate Reports", 
       "variations": {
@@ -3217,7 +3211,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nc"
+        "us;nc;supreme.court"
       ], 
       "name": "North Carolina Reports, Hawks", 
       "variations": {
@@ -3236,7 +3230,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;dc"
+        "us;federal;district.columbia.court.appeals"
       ], 
       "name": "District of Columbia Reports, Hayward & Hazelton", 
       "variations": {
@@ -3254,7 +3248,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nc"
+        "us;nc;supreme.court"
       ], 
       "name": "North Carolina Reports, Haywood", 
       "variations": {
@@ -3272,7 +3266,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;tn"
+        "us;tn;supreme.court"
       ], 
       "name": "Tennessee Reports, Haywood", 
       "variations": {
@@ -3292,7 +3286,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;tn"
+        "us;tn;supreme.court"
       ], 
       "name": "Tennessee Reports, Head", 
       "variations": {
@@ -3311,7 +3305,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;tn"
+        "us;tn;supreme.court"
       ], 
       "name": "Tennessee Reports, Heiskell", 
       "variations": {
@@ -3330,7 +3324,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;va"
+        "us;va;supreme.court"
       ], 
       "name": "Virginia Reports, Hening & Munford", 
       "variations": {
@@ -3351,7 +3345,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ny"
+        "us;ny;court.appeals"
       ], 
       "name": "Hill's New York Reports", 
       "variations": {
@@ -3368,7 +3362,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;sc"
+        "us;sc;supreme.court"
       ], 
       "name": "South Carolina Reports, Hill", 
       "variations": {
@@ -3388,7 +3382,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ny"
+        "us;ny;court.appeals"
       ], 
       "name": "Hill and Denio Supplement (Lalor)", 
       "variations": {
@@ -3409,7 +3403,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;sc"
+        "us;sc;supreme.court"
       ], 
       "name": "South Carolina Reports, Hill's Chancery", 
       "variations": {
@@ -3431,7 +3425,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ny"
+        "us;ny;court.appeals"
       ], 
       "name": "Hoffman's Chancery Reports", 
       "variations": {
@@ -3453,7 +3447,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ny"
+        "us;ny;court.appeals"
       ], 
       "name": "Hopkins' Chancery Reports", 
       "variations": {}
@@ -3469,7 +3463,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;de"
+        "us;de;supreme.court"
       ], 
       "name": "Delaware Reports, Houston", 
       "variations": {}
@@ -3503,7 +3497,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ny"
+        "us;ny;court.appeals"
       ], 
       "name": "Howard's Practice Reports", 
       "variations": {
@@ -3524,7 +3518,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ms"
+        "us;ms;supreme.court"
       ], 
       "name": "Mississippi Reports, Howard", 
       "variations": {
@@ -3543,7 +3537,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ky"
+        "us;ky;supreme.court"
       ], 
       "name": "Kentucky Reports, Hughes", 
       "variations": {
@@ -3562,7 +3556,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;tn"
+        "us;tn;supreme.court"
       ], 
       "name": "Tennessee Reports, Humphreys", 
       "variations": {
@@ -3598,7 +3592,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;id"
+        "us;id;supreme.court"
       ], 
       "name": "Idaho Reports", 
       "variations": {
@@ -3621,7 +3615,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;il"
+        "us;il;supreme.court"
       ], 
       "name": "Illinois Reports", 
       "variations": {
@@ -3647,7 +3641,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;il"
+        "us;il;supreme.court"
       ], 
       "name": "Illinois Appellate Court Reports", 
       "variations": {
@@ -3669,7 +3663,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;il"
+        "us;il;supreme.court"
       ], 
       "name": "Illinois Court of Claims Reports", 
       "variations": {}
@@ -3685,7 +3679,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;il"
+        "us;il;supreme.court"
       ], 
       "name": "West's Illinois Decisions", 
       "variations": {
@@ -3704,7 +3698,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;in"
+        "us;in;supreme.court"
       ], 
       "name": "Indiana Reports", 
       "variations": {
@@ -3722,7 +3716,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;in"
+        "us;in;supreme.court"
       ], 
       "name": "Indiana Court of Appeals Reports", 
       "variations": {}
@@ -3738,7 +3732,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ok"
+        "us;ok;supreme.court"
       ], 
       "name": "Indian Territory Reports", 
       "variations": {}
@@ -3754,7 +3748,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ia"
+        "us;ia;supreme.court"
       ], 
       "name": "Iowa Reports", 
       "variations": {}
@@ -3770,7 +3764,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nc"
+        "us;nc;supreme.court"
       ], 
       "name": "North Carolina Reports, Iredell's Law", 
       "variations": {
@@ -3790,7 +3784,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nc"
+        "us;nc;supreme.court"
       ], 
       "name": "North Carolina Reports, Iredell's Equity", 
       "variations": {
@@ -3810,7 +3804,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ky"
+        "us;ky;supreme.court"
       ], 
       "name": "Kentucky Reports, Marshall, J.J.", 
       "variations": {
@@ -3833,7 +3827,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ny"
+        "us;ny;court.appeals"
       ], 
       "name": "Johnson's Reports", 
       "variations": {
@@ -3856,7 +3850,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ny"
+        "us;ny;court.appeals"
       ], 
       "name": "Johnson's Cases", 
       "variations": {
@@ -3874,7 +3868,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ny"
+        "us;ny;court.appeals"
       ], 
       "name": "Johnsons' Chancery Reports", 
       "variations": {
@@ -3898,7 +3892,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nc"
+        "us;nc;supreme.court"
       ], 
       "name": "North Carolina Reports, Jones' Law", 
       "variations": {
@@ -3918,7 +3912,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nc"
+        "us;nc;supreme.court"
       ], 
       "name": "North Carolina Reports, Jones' Equity", 
       "variations": {
@@ -3937,7 +3931,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ks"
+        "us;ks;supreme.court"
       ], 
       "name": "Kansas Reports", 
       "variations": {
@@ -3959,7 +3953,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ks"
+        "us;ks;supreme.court"
       ], 
       "name": "Kansas Court of Appeals Reports", 
       "variations": {
@@ -3981,7 +3975,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ct"
+        "us;ct;supreme.court"
       ], 
       "name": "Kirby's Connecticut Reports", 
       "variations": {
@@ -4000,7 +3994,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ky"
+        "us;ky;supreme.court"
       ], 
       "name": "Kentucky Reports", 
       "variations": {}
@@ -4016,7 +4010,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ky"
+        "us;ky;supreme.court"
       ], 
       "name": "Kentucky Appellate Reporter", 
       "variations": {}
@@ -4032,7 +4026,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ky"
+        "us;ky;supreme.court"
       ], 
       "name": "Kentucky Law Reporter", 
       "variations": {
@@ -4052,7 +4046,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ky"
+        "us;ky;supreme.court"
       ], 
       "name": "Kentucky Law Summary", 
       "variations": {}
@@ -4068,7 +4062,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ky"
+        "us;ky;supreme.court"
       ], 
       "name": "Kentucky Opinions", 
       "variations": {
@@ -4121,7 +4115,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;la"
+        "us;la;supreme.court"
       ], 
       "name": "Louisiana Neutral Citation", 
       "variations": {}
@@ -4137,67 +4131,67 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ak", 
-        "us;al", 
-        "us;ar", 
-        "us;az", 
-        "us;ca", 
-        "us;co", 
-        "us;ct", 
-        "us;dc", 
-        "us;de", 
-        "us;federal;1-cir", 
-        "us;federal;10-cir", 
-        "us;federal;11-cir", 
-        "us;federal;2-cir", 
-        "us;federal;3-cir", 
-        "us;federal;4-cir", 
-        "us;federal;5-cir", 
-        "us;federal;6-cir", 
-        "us;federal;7-cir", 
-        "us;federal;8-cir", 
-        "us;federal;9-cir", 
-        "us;fl", 
-        "us;ga", 
-        "us;hi", 
-        "us;ia", 
-        "us;id", 
-        "us;il", 
-        "us;in", 
-        "us;ks", 
-        "us;ky", 
-        "us;la", 
-        "us;ma", 
-        "us;me", 
-        "us;mi", 
-        "us;mn", 
-        "us;mo", 
-        "us;ms", 
-        "us;mt", 
-        "us;nc", 
-        "us;nd", 
-        "us;ne", 
-        "us;nh", 
-        "us;nj", 
-        "us;nm", 
-        "us;nv", 
-        "us;ny", 
-        "us;oh", 
-        "us;ok", 
-        "us;or", 
-        "us;pa", 
-        "us;ri", 
-        "us;sc", 
-        "us;sd", 
-        "us;tn", 
-        "us;tx", 
-        "us;ut", 
-        "us;va", 
-        "us;vt", 
-        "us;wa", 
-        "us;wi", 
-        "us;wv", 
-        "us;wy"
+        "us;ak;supreme.court", 
+        "us;al;supreme.court", 
+        "us;ar;supreme.court", 
+        "us;az;supreme.court", 
+        "us;ca;supreme.court", 
+        "us;co;supreme.court", 
+        "us;ct;supreme.court", 
+        "us;de;supreme.court", 
+        "us;federal;court.appeals.1.circuit", 
+        "us;federal;court.appeals.10.circuit", 
+        "us;federal;court.appeals.11.circuit", 
+        "us;federal;court.appeals.2.circuit", 
+        "us;federal;court.appeals.3.circuit", 
+        "us;federal;court.appeals.4.circuit", 
+        "us;federal;court.appeals.5.circuit", 
+        "us;federal;court.appeals.6.circuit", 
+        "us;federal;court.appeals.7.circuit", 
+        "us;federal;court.appeals.8.circuit", 
+        "us;federal;court.appeals.9.circuit", 
+        "us;federal;district.columbia.court.appeals", 
+        "us;fl;supreme.court", 
+        "us;ga;supreme.court", 
+        "us;hi;supreme.court", 
+        "us;ia;supreme.court", 
+        "us;id;supreme.court", 
+        "us;il;supreme.court", 
+        "us;in;supreme.court", 
+        "us;ks;supreme.court", 
+        "us;ky;supreme.court", 
+        "us;la;supreme.court", 
+        "us;ma;appeals.court", 
+        "us;me;supreme.judicial.court", 
+        "us;mi;supreme.court", 
+        "us;mn;supreme.court", 
+        "us;mo;supreme.court", 
+        "us;ms;supreme.court", 
+        "us;mt;supreme.court", 
+        "us;nc;supreme.court", 
+        "us;nd;supreme.court", 
+        "us;ne;supreme.court", 
+        "us;nh;supreme.court", 
+        "us;nj;supreme.court", 
+        "us;nm;supreme.court", 
+        "us;nv;supreme.court", 
+        "us;ny;court.appeals", 
+        "us;oh;supreme.court", 
+        "us;ok;supreme.court", 
+        "us;or;supreme.court", 
+        "us;pa;supreme.court", 
+        "us;ri;supreme.court", 
+        "us;sc;supreme.court", 
+        "us;sd;supreme.court", 
+        "us;tn;supreme.court", 
+        "us;tx;supreme.court", 
+        "us;ut;supreme.court", 
+        "us;va;supreme.court", 
+        "us;vt;supreme.court", 
+        "us;wa;supreme.court", 
+        "us;wi;supreme.court", 
+        "us;wv;supreme.court", 
+        "us;wy;supreme.court"
       ], 
       "name": "LexisNexis Citation", 
       "variations": {}
@@ -4213,7 +4207,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;la"
+        "us;la;supreme.court"
       ], 
       "name": "Louisiana Reports", 
       "variations": {}
@@ -4229,7 +4223,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;la"
+        "us;la;supreme.court"
       ], 
       "name": "Louisiana Annual Reports", 
       "variations": {}
@@ -4245,7 +4239,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;la"
+        "us;la;supreme.court"
       ], 
       "name": "Louisiana Court of Appeals Reports", 
       "variations": {
@@ -4263,7 +4257,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ny"
+        "us;ny;court.appeals"
       ], 
       "name": "Lansing's Reports", 
       "variations": {}
@@ -4279,7 +4273,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ny"
+        "us;ny;court.appeals"
       ], 
       "name": "Lansing's Chancery Reports", 
       "variations": {
@@ -4298,7 +4292,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;va"
+        "us;va;supreme.court"
       ], 
       "name": "Virginia Reports, Leigh", 
       "variations": {
@@ -4317,7 +4311,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ky"
+        "us;ky;supreme.court"
       ], 
       "name": "Kentucky Reports, Littell", 
       "variations": {
@@ -4338,7 +4332,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ky"
+        "us;ky;supreme.court"
       ], 
       "name": "Kentucky Reports, Littell's Selected Cases", 
       "variations": {
@@ -4357,7 +4351,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ny"
+        "us;ny;court.appeals"
       ], 
       "name": "Lockwood's Reversed Cases", 
       "variations": {}
@@ -4391,7 +4385,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;me"
+        "us;me;supreme.judicial.court"
       ], 
       "name": "Maine Neutral Citation", 
       "variations": {}
@@ -4407,7 +4401,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ms"
+        "us;ms;supreme.court"
       ], 
       "name": "Mississippi Neutral Citation", 
       "variations": {}
@@ -4423,7 +4417,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;mt"
+        "us;mt;supreme.court"
       ], 
       "name": "Montana Neutral Citation", 
       "variations": {}
@@ -4439,7 +4433,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;dc"
+        "us;federal;district.columbia.court.appeals"
       ], 
       "name": "District of Columbia Reports, MacArthur", 
       "variations": {
@@ -4459,7 +4453,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;dc"
+        "us;federal;district.columbia.court.appeals"
       ], 
       "name": "District of Columbia Reports, MacArthur and Mackey", 
       "variations": {
@@ -4481,7 +4475,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;dc"
+        "us;federal;district.columbia.court.appeals"
       ], 
       "name": "District of Columbia Reports, Mackey", 
       "variations": {
@@ -4499,7 +4493,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;la"
+        "us;la;supreme.court"
       ], 
       "name": "Louisiana Reports, Martin", 
       "variations": {}
@@ -4513,7 +4507,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nc"
+        "us;nc;supreme.court"
       ], 
       "name": "North Carolina Reports, Martin", 
       "variations": {
@@ -4534,7 +4528,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;tn"
+        "us;tn;supreme.court"
       ], 
       "name": "Tennessee Reports, Martin & Yerger", 
       "variations": {
@@ -4556,7 +4550,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;de"
+        "us;de;supreme.court"
       ], 
       "name": "Delaware Reports, Marvel", 
       "variations": {}
@@ -4572,7 +4566,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ma"
+        "us;ma;appeals.court"
       ], 
       "name": "Massachusetts Reports", 
       "variations": {
@@ -4591,7 +4585,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ma"
+        "us;ma;appeals.court"
       ], 
       "name": "Massachusetts Appeals Court Reports", 
       "variations": {
@@ -4609,7 +4603,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ma"
+        "us;ma;appeals.court"
       ], 
       "name": "Massachusetts Appellate Decisions", 
       "variations": {}
@@ -4625,7 +4619,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ma"
+        "us;ma;appeals.court"
       ], 
       "name": "Reports of Massachusetts Appellate Division", 
       "variations": {}
@@ -4641,7 +4635,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ma"
+        "us;ma;appeals.court"
       ], 
       "name": "Massachusetts Reports Supplement", 
       "variations": {}
@@ -4657,7 +4651,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ks"
+        "us;ks;supreme.court"
       ], 
       "name": "Kansas Reports, McCahon", 
       "variations": {
@@ -4675,7 +4669,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;sc"
+        "us;sc;supreme.court"
       ], 
       "name": "South Carolina Reports, McCord", 
       "variations": {
@@ -4693,7 +4687,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;sc"
+        "us;sc;supreme.court"
       ], 
       "name": "South Carolina Reports, McCord's Chancery", 
       "variations": {
@@ -4712,7 +4706,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;la"
+        "us;la;supreme.court"
       ], 
       "name": "Louisiana Court of Appeals Reports, McGloin", 
       "variations": {
@@ -4730,7 +4724,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;sc"
+        "us;sc;supreme.court"
       ], 
       "name": "South Carolina Reports, McMullen", 
       "variations": {
@@ -4749,7 +4743,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;sc"
+        "us;sc;supreme.court"
       ], 
       "name": "South Carolina Reports, McMullen's Equity", 
       "variations": {
@@ -4768,7 +4762,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;md"
+        "us;md;court.appeals"
       ], 
       "name": "Maryland Reports", 
       "variations": {
@@ -4786,7 +4780,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;md"
+        "us;md;court.appeals"
       ], 
       "name": "Maryland Appellate Reports", 
       "variations": {}
@@ -4802,7 +4796,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;me"
+        "us;me;supreme.judicial.court"
       ], 
       "name": "Maine Reports", 
       "variations": {
@@ -4821,7 +4815,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;tn"
+        "us;tn;supreme.court"
       ], 
       "name": "Tennessee Reports, Meigs", 
       "variations": {
@@ -4839,7 +4833,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ky"
+        "us;ky;supreme.court"
       ], 
       "name": "Kentucky Reports, Metcalf", 
       "variations": {
@@ -4857,7 +4851,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ma"
+        "us;ma;appeals.court"
       ], 
       "name": "Massachusetts Reports, Metcalf", 
       "variations": {
@@ -4877,7 +4871,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;mi"
+        "us;mi;supreme.court"
       ], 
       "name": "Michigan Reports", 
       "variations": {
@@ -4895,7 +4889,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;mi"
+        "us;mi;supreme.court"
       ], 
       "name": "Michigan Appeals Reports", 
       "variations": {}
@@ -4911,7 +4905,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;mi"
+        "us;mi;supreme.court"
       ], 
       "name": "Michigan Court of Claims Reports", 
       "variations": {}
@@ -4927,7 +4921,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;sc"
+        "us;sc;supreme.court"
       ], 
       "name": "South Carolina Reports, Mill (Constitutional)", 
       "variations": {
@@ -4949,7 +4943,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;mn"
+        "us;mn;supreme.court"
       ], 
       "name": "Minnesota Reports", 
       "variations": {
@@ -4967,7 +4961,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;al"
+        "us;al;supreme.court"
       ], 
       "name": "Minor's Alabama Reports", 
       "variations": {
@@ -4994,7 +4988,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ny"
+        "us;ny;court.appeals"
       ], 
       "name": "New York Miscellaneous Reports", 
       "variations": {
@@ -5015,7 +5009,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ms"
+        "us;ms;supreme.court"
       ], 
       "name": "Mississippi Reports", 
       "variations": {
@@ -5033,7 +5027,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;mo"
+        "us;mo;supreme.court"
       ], 
       "name": "Missouri Reports", 
       "variations": {}
@@ -5049,7 +5043,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;mo"
+        "us;mo;supreme.court"
       ], 
       "name": "Missouri Appeals Reports", 
       "variations": {
@@ -5067,7 +5061,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;pa"
+        "us;pa;supreme.court"
       ], 
       "name": "Pennsylvania State Reports, Monaghan", 
       "variations": {
@@ -5088,7 +5082,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;mt"
+        "us;mt;supreme.court"
       ], 
       "name": "Montana Reports", 
       "variations": {
@@ -5106,7 +5100,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ia"
+        "us;ia;supreme.court"
       ], 
       "name": "Iowa Reports, Morris", 
       "variations": {
@@ -5125,7 +5119,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;va"
+        "us;va;supreme.court"
       ], 
       "name": "Virginia Reports, Munford", 
       "variations": {}
@@ -5141,7 +5135,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nc"
+        "us;nc;supreme.court"
       ], 
       "name": "North Carolina Reports, Murphey", 
       "variations": {
@@ -5161,7 +5155,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;vt"
+        "us;vt;supreme.court"
       ], 
       "name": "Vermont Reports, Chipman, N.", 
       "variations": {
@@ -5181,7 +5175,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;mp"
+        "us;federal;district.court.northern.mariana.islands"
       ], 
       "name": "Northern Mariana Islands Reporter", 
       "variations": {}
@@ -5197,7 +5191,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;mp"
+        "us;federal;district.court.northern.mariana.islands"
       ], 
       "name": "Northern Mariana Islands Commonwealth Reporter", 
       "variations": {}
@@ -5213,7 +5207,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nc"
+        "us;nc;supreme.court"
       ], 
       "name": "North Carolina Reports", 
       "variations": {}
@@ -5229,7 +5223,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nc"
+        "us;nc;supreme.court"
       ], 
       "name": "North Carolina Court of Appeals Reports", 
       "variations": {}
@@ -5245,7 +5239,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nd"
+        "us;nd;supreme.court"
       ], 
       "name": "North Dakota Reports", 
       "variations": {}
@@ -5265,11 +5259,11 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;il", 
-        "us;in", 
-        "us;ma", 
-        "us;ny", 
-        "us;oh"
+        "us;il;supreme.court", 
+        "us;in;supreme.court", 
+        "us;ma;appeals.court", 
+        "us;ny;court.appeals", 
+        "us;oh;supreme.court"
       ], 
       "name": "North Eastern Reporter", 
       "variations": {
@@ -5294,7 +5288,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nh"
+        "us;nh;supreme.court"
       ], 
       "name": "New Hampshire Reports", 
       "variations": {
@@ -5312,7 +5306,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nj"
+        "us;nj;supreme.court"
       ], 
       "name": "New Jersey Reports", 
       "variations": {}
@@ -5332,7 +5326,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nj"
+        "us;nj;supreme.court"
       ], 
       "name": "New Jersey Administrative Reports", 
       "variations": {}
@@ -5348,7 +5342,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nj"
+        "us;nj;supreme.court"
       ], 
       "name": "New Jersey Equity Reports", 
       "variations": {}
@@ -5364,7 +5358,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nj"
+        "us;nj;supreme.court"
       ], 
       "name": "New Jersey Miscellaneous Reports", 
       "variations": {
@@ -5383,7 +5377,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nj"
+        "us;nj;supreme.court"
       ], 
       "name": "New Jersey Superior Court Reports", 
       "variations": {
@@ -5401,7 +5395,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nj"
+        "us;nj;supreme.court"
       ], 
       "name": "New Jersey Tax Court", 
       "variations": {}
@@ -5417,7 +5411,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nj"
+        "us;nj;supreme.court"
       ], 
       "name": "New Jersey Law Reports", 
       "variations": {
@@ -5435,7 +5429,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nm"
+        "us;nm;supreme.court"
       ], 
       "name": "New Mexico Reports", 
       "variations": {}
@@ -5455,13 +5449,13 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ia", 
-        "us;mi", 
-        "us;mn", 
-        "us;nd", 
-        "us;ne", 
-        "us;sd", 
-        "us;wi"
+        "us;ia;supreme.court", 
+        "us;mi;supreme.court", 
+        "us;mn;supreme.court", 
+        "us;nd;supreme.court", 
+        "us;ne;supreme.court", 
+        "us;sd;supreme.court", 
+        "us;wi;supreme.court"
       ], 
       "name": "North Western Reporter", 
       "variations": {
@@ -5494,7 +5488,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ny"
+        "us;ny;court.appeals"
       ], 
       "name": "New York Reports", 
       "variations": {
@@ -5516,7 +5510,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ny"
+        "us;ny;court.appeals"
       ], 
       "name": "New York Chancery Reports Annotated", 
       "variations": {
@@ -5534,7 +5528,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ny"
+        "us;ny;court.appeals"
       ], 
       "name": "Supreme Court Reports", 
       "variations": {
@@ -5561,7 +5555,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ny"
+        "us;ny;court.appeals"
       ], 
       "name": "New York Supplement", 
       "variations": {
@@ -5584,7 +5578,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nd"
+        "us;nd;supreme.court"
       ], 
       "name": "North Dakota Neutral Citation", 
       "variations": {}
@@ -5600,7 +5594,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nd"
+        "us;nd;supreme.court"
       ], 
       "name": "North Dakota Neutral Citation, Court of Appeals", 
       "variations": {}
@@ -5616,7 +5610,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nm"
+        "us;nm;supreme.court"
       ], 
       "name": "New Mexico Neutral Citation", 
       "variations": {}
@@ -5632,7 +5626,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nm"
+        "us;nm;supreme.court"
       ], 
       "name": "New Mexico Neutral Citation (Court of Appeals)", 
       "variations": {}
@@ -5648,7 +5642,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nm"
+        "us;nm;supreme.court"
       ], 
       "name": "New Mexico Neutral Citation", 
       "variations": {}
@@ -5664,7 +5658,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nm"
+        "us;nm;supreme.court"
       ], 
       "name": "New Mexico Neutral Citation (Supreme Court)", 
       "variations": {}
@@ -5680,7 +5674,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ny"
+        "us;ny;court.appeals"
       ], 
       "name": "New York Slip Opinion", 
       "variations": {}
@@ -5712,7 +5706,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ne"
+        "us;ne;supreme.court"
       ], 
       "name": "Nebraska Reports", 
       "variations": {}
@@ -5728,7 +5722,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ne"
+        "us;ne;supreme.court"
       ], 
       "name": "Nebraska Court of Appeals Reports", 
       "variations": {
@@ -5747,7 +5741,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nv"
+        "us;nv;supreme.court"
       ], 
       "name": "Nevada Reports", 
       "variations": {}
@@ -5763,7 +5757,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nv"
+        "us;nv;supreme.court"
       ], 
       "name": "Nevada Advanced Opinion", 
       "variations": {}
@@ -5779,7 +5773,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;sc"
+        "us;sc;supreme.court"
       ], 
       "name": "South Carolina Reports, Nott and McCord", 
       "variations": {
@@ -5800,7 +5794,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;oh"
+        "us;oh;supreme.court"
       ], 
       "name": "Ohio Neutral Citation", 
       "variations": {
@@ -5818,7 +5812,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ok"
+        "us;ok;supreme.court"
       ], 
       "name": "Oklahoma Neutral Citation", 
       "variations": {}
@@ -5834,7 +5828,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ok"
+        "us;ok;supreme.court"
       ], 
       "name": "Oklahoma Neutral Citation (Civic Appeals)", 
       "variations": {}
@@ -5850,7 +5844,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ok"
+        "us;ok;supreme.court"
       ], 
       "name": "Oklahoma Neutral Citation", 
       "variations": {}
@@ -5866,7 +5860,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;oh"
+        "us;oh;supreme.court"
       ], 
       "name": "Ohio Reports", 
       "variations": {}
@@ -5890,7 +5884,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;oh"
+        "us;oh;supreme.court"
       ], 
       "name": "Ohio Appellate Reports", 
       "variations": {
@@ -5917,7 +5911,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;oh"
+        "us;oh;supreme.court"
       ], 
       "name": "Unreported Ohio Appellate Cases (Anderson)", 
       "variations": {}
@@ -5933,7 +5927,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;oh"
+        "us;oh;supreme.court"
       ], 
       "name": "Ohio Bar Reports", 
       "variations": {}
@@ -5953,7 +5947,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;oh"
+        "us;oh;supreme.court"
       ], 
       "name": "Ohio Circuit Court Reports", 
       "variations": {
@@ -5980,7 +5974,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;oh"
+        "us;oh;supreme.court"
       ], 
       "name": "Ohio Circuit Court Decisions", 
       "variations": {
@@ -5999,7 +5993,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;oh"
+        "us;oh;supreme.court"
       ], 
       "name": "Ohio Circuit Decisions", 
       "variations": {
@@ -6020,7 +6014,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;oh"
+        "us;oh;supreme.court"
       ], 
       "name": "Ohio Decisions", 
       "variations": {
@@ -6039,7 +6033,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;oh"
+        "us;oh;supreme.court"
       ], 
       "name": "Ohio Decisions, Reprint", 
       "variations": {
@@ -6058,7 +6052,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;oh"
+        "us;oh;supreme.court"
       ], 
       "name": "Ohio Law Abstracts", 
       "variations": {
@@ -6084,7 +6078,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;oh"
+        "us;oh;supreme.court"
       ], 
       "name": "Ohio Miscellaneous", 
       "variations": {
@@ -6108,7 +6102,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;oh"
+        "us;oh;supreme.court"
       ], 
       "name": "Ohio Nisi Prius Reports", 
       "variations": {
@@ -6138,7 +6132,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;oh"
+        "us;oh;supreme.court"
       ], 
       "name": "Ohio Opinions", 
       "variations": {
@@ -6167,7 +6161,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;oh"
+        "us;oh;supreme.court"
       ], 
       "name": "Ohio State Reports", 
       "variations": {
@@ -6190,7 +6184,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ok"
+        "us;ok;supreme.court"
       ], 
       "name": "Oklahoma Reports", 
       "variations": {}
@@ -6206,7 +6200,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ok"
+        "us;ok;supreme.court"
       ], 
       "name": "Oklahoma Criminal Reports", 
       "variations": {
@@ -6227,7 +6221,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;or"
+        "us;or;supreme.court"
       ], 
       "name": "Oregon Reports", 
       "variations": {
@@ -6245,7 +6239,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;or"
+        "us;or;supreme.court"
       ], 
       "name": "Oregon Reports, Court of Appeals", 
       "variations": {
@@ -6263,7 +6257,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;or"
+        "us;or;supreme.court"
       ], 
       "name": "Oregon Tax Reports", 
       "variations": {}
@@ -6279,7 +6273,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;tn"
+        "us;tn;supreme.court"
       ], 
       "name": "Tennessee Reports, Overton", 
       "variations": {
@@ -6305,21 +6299,21 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ak", 
-        "us;az", 
-        "us;ca", 
-        "us;co", 
-        "us;hi", 
-        "us;id", 
-        "us;ks", 
-        "us;mt", 
-        "us;nm", 
-        "us;nv", 
-        "us;ok", 
-        "us;or", 
-        "us;ut", 
-        "us;wa", 
-        "us;wy"
+        "us;ak;supreme.court", 
+        "us;az;supreme.court", 
+        "us;ca;supreme.court", 
+        "us;co;supreme.court", 
+        "us;hi;supreme.court", 
+        "us;id;supreme.court", 
+        "us;ks;supreme.court", 
+        "us;mt;supreme.court", 
+        "us;nm;supreme.court", 
+        "us;nv;supreme.court", 
+        "us;ok;supreme.court", 
+        "us;or;supreme.court", 
+        "us;ut;supreme.court", 
+        "us;wa;supreme.court", 
+        "us;wy;supreme.court"
       ], 
       "name": "Pacific Reporter", 
       "variations": {
@@ -6345,7 +6339,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;pr"
+        "us;federal;district.court.d.puerto.rico"
       ], 
       "name": "Decisiones de Puerto Rico", 
       "variations": {}
@@ -6361,7 +6355,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;pr"
+        "us;federal;district.court.d.puerto.rico"
       ], 
       "name": "Official Translations of the Opinions of the Supreme Court of Puerto Rico", 
       "variations": {}
@@ -6377,7 +6371,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;pr"
+        "us;federal;district.court.d.puerto.rico"
       ], 
       "name": "Sentencias del Tribunal Supremo de Puerto Rico", 
       "variations": {}
@@ -6393,7 +6387,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;pr"
+        "us;federal;district.court.d.puerto.rico"
       ], 
       "name": "Puerto Rico Reports", 
       "variations": {
@@ -6412,7 +6406,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;pa"
+        "us;pa;supreme.court"
       ], 
       "name": "Pennsylvania Neutral Citation", 
       "variations": {}
@@ -6428,7 +6422,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;pa"
+        "us;pa;supreme.court"
       ], 
       "name": "Pennsylvania State Reports", 
       "variations": {
@@ -6453,7 +6447,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;pa"
+        "us;pa;supreme.court"
       ], 
       "name": "Pennsylvania County Court Reports", 
       "variations": {
@@ -6476,7 +6470,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;pa"
+        "us;pa;supreme.court"
       ], 
       "name": "Pennsylvania Commonwealth Court", 
       "variations": {
@@ -6496,7 +6490,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;pa"
+        "us;pa;supreme.court"
       ], 
       "name": "Pennsylvania District Reports", 
       "variations": {
@@ -6529,7 +6523,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;pa"
+        "us;pa;supreme.court"
       ], 
       "name": "Pennsylvania District and County Reports", 
       "variations": {
@@ -6548,7 +6542,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;pa"
+        "us;pa;supreme.court"
       ], 
       "name": "Pennsylvania Superior Court Reports", 
       "variations": {
@@ -6568,7 +6562,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ny"
+        "us;ny;court.appeals"
       ], 
       "name": "Paige's Chancery Reports", 
       "variations": {
@@ -6588,7 +6582,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;tn"
+        "us;tn;supreme.court"
       ], 
       "name": "Tennessee Reports, Peck", 
       "variations": {
@@ -6607,7 +6601,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;la"
+        "us;la;supreme.court"
       ], 
       "name": "Peltier's Opinions, Parish at Orleans", 
       "variations": {}
@@ -6623,7 +6617,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;pa"
+        "us;pa;supreme.court"
       ], 
       "name": "Pennsylvania State Reports, Penrose and Watts", 
       "variations": {
@@ -6643,7 +6637,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;de"
+        "us;de;supreme.court"
       ], 
       "name": "Delaware Reports, Pennewill", 
       "variations": {}
@@ -6659,7 +6653,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;pa"
+        "us;pa;supreme.court"
       ], 
       "name": "Pennsylvania State Reports, Pennypacker", 
       "variations": {
@@ -6699,7 +6693,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nc"
+        "us;nc;supreme.court"
       ], 
       "name": "North Carolina Reports, Philips' Equity", 
       "variations": {
@@ -6721,7 +6715,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nc"
+        "us;nc;supreme.court"
       ], 
       "name": "North Carolina Reports, Philips' Law", 
       "variations": {
@@ -6744,7 +6738,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ma"
+        "us;ma;appeals.court"
       ], 
       "name": "Massachusetts Reports, Pickering", 
       "variations": {
@@ -6763,7 +6757,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;wi"
+        "us;wi;supreme.court"
       ], 
       "name": "Wisconsin Reports, Pinney", 
       "variations": {
@@ -6781,7 +6775,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;al"
+        "us;al;supreme.court"
       ], 
       "name": "Alabama Reports, Porter", 
       "variations": {
@@ -6800,7 +6794,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ri"
+        "us;ri;supreme.court"
       ], 
       "name": "Rhode Island Reports", 
       "variations": {}
@@ -6816,7 +6810,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;va"
+        "us;va;supreme.court"
       ], 
       "name": "Virginia Reports, Randolph", 
       "variations": {
@@ -6834,7 +6828,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;pa"
+        "us;pa;supreme.court"
       ], 
       "name": "Pennsylvania State Reports, Rawle", 
       "variations": {
@@ -6854,7 +6848,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;sc"
+        "us;sc;supreme.court"
       ], 
       "name": "South Carolina Reports, Rice", 
       "variations": {
@@ -6873,7 +6867,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;sc"
+        "us;sc;supreme.court"
       ], 
       "name": "South Carolina Reports, Rice's Equity", 
       "variations": {
@@ -6892,7 +6886,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;sc"
+        "us;sc;supreme.court"
       ], 
       "name": "South Carolina Reports, Richardson", 
       "variations": {
@@ -6912,7 +6906,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;sc"
+        "us;sc;supreme.court"
       ], 
       "name": "South Carolina Reports, Richardson's Cases", 
       "variations": {
@@ -6930,7 +6924,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;sc"
+        "us;sc;supreme.court"
       ], 
       "name": "South Carolina Reports, Richardson's Equity", 
       "variations": {
@@ -6949,7 +6943,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;sc"
+        "us;sc;supreme.court"
       ], 
       "name": "South Carolina Reports, Riley", 
       "variations": {
@@ -6969,7 +6963,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;sc"
+        "us;sc;supreme.court"
       ], 
       "name": "South Carolina Reports, Riley's Chancery", 
       "variations": {
@@ -6992,7 +6986,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;la"
+        "us;la;supreme.court"
       ], 
       "name": "Louisiana Reports, Robinson", 
       "variations": {
@@ -7009,7 +7003,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;va"
+        "us;va;supreme.court"
       ], 
       "name": "Virginia Reports, Robinson", 
       "variations": {
@@ -7029,7 +7023,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;tx"
+        "us;tx;supreme.court"
       ], 
       "name": "Synopses of the Decisions of the Supreme Court of Texas Arising from Restraints by Conscript and Other Military Authorities (Robards)", 
       "variations": {
@@ -7050,7 +7044,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ct"
+        "us;ct;supreme.court"
       ], 
       "name": "Root's Connecticut Reports", 
       "variations": {}
@@ -7066,7 +7060,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ms"
+        "us;ms;supreme.court"
       ], 
       "name": "Mississippi Reports, Smedes and Marshall", 
       "variations": {
@@ -7111,7 +7105,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;sc"
+        "us;sc;supreme.court"
       ], 
       "name": "South Carolina Reports", 
       "variations": {
@@ -7133,7 +7127,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;sd"
+        "us;sd;supreme.court"
       ], 
       "name": "South Dakota Reports", 
       "variations": {
@@ -7155,11 +7149,11 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ga", 
-        "us;nc", 
-        "us;sc", 
-        "us;va", 
-        "us;wv"
+        "us;ga;supreme.court", 
+        "us;nc;supreme.court", 
+        "us;sc;supreme.court", 
+        "us;va;supreme.court", 
+        "us;wv;supreme.court"
       ], 
       "name": "South Eastern Reporter", 
       "variations": {
@@ -7190,11 +7184,11 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ar", 
-        "us;ky", 
-        "us;mo", 
-        "us;tn", 
-        "us;tx"
+        "us;ar;supreme.court", 
+        "us;ky;supreme.court", 
+        "us;mo;supreme.court", 
+        "us;tn;supreme.court", 
+        "us;tx;supreme.court"
       ], 
       "name": "South Western Reporter", 
       "variations": {
@@ -7221,7 +7215,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;sd"
+        "us;sd;supreme.court"
       ], 
       "name": "South Dakota Neutral Citation", 
       "variations": {}
@@ -7237,7 +7231,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;pa"
+        "us;pa;supreme.court"
       ], 
       "name": "Pennsylvania State Reports, Sadler", 
       "variations": {
@@ -7259,7 +7253,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ny"
+        "us;ny;court.appeals"
       ], 
       "name": "Sandford's Chancery Reports", 
       "variations": {
@@ -7280,7 +7274,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ny"
+        "us;ny;court.appeals"
       ], 
       "name": "Saratoga Chancery Sentinel", 
       "variations": {
@@ -7301,7 +7295,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;il"
+        "us;il;supreme.court"
       ], 
       "name": "Illinois Reports, Scammon", 
       "variations": {
@@ -7320,7 +7314,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;pa"
+        "us;pa;supreme.court"
       ], 
       "name": "Pennsylvania State Reports, Sergeant and Rawle", 
       "variations": {
@@ -7340,7 +7334,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ky"
+        "us;ky;supreme.court"
       ], 
       "name": "Kentucky Reports, Sneed", 
       "variations": {
@@ -7358,7 +7352,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;tn"
+        "us;tn;supreme.court"
       ], 
       "name": "Tennessee Reports, Sneed", 
       "variations": {
@@ -7384,10 +7378,10 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;al", 
-        "us;fl", 
-        "us;la", 
-        "us;ms"
+        "us;al;supreme.court", 
+        "us;fl;supreme.court", 
+        "us;la;supreme.court", 
+        "us;ms;supreme.court"
       ], 
       "name": "Southern Reporter", 
       "variations": {
@@ -7409,7 +7403,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;sc"
+        "us;sc;supreme.court"
       ], 
       "name": "South Carolina Reports, Speers", 
       "variations": {
@@ -7430,7 +7424,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;sc"
+        "us;sc;supreme.court"
       ], 
       "name": "South Carolina Reports, Speers' Equity", 
       "variations": {
@@ -7456,7 +7450,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;mt"
+        "us;mt;supreme.court"
       ], 
       "name": "State Reporter", 
       "variations": {}
@@ -7472,7 +7466,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;al"
+        "us;al;supreme.court"
       ], 
       "name": "Alabama Reports, Stewart", 
       "variations": {
@@ -7490,7 +7484,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;al"
+        "us;al;supreme.court"
       ], 
       "name": "Alabama Reports, Stewart and Porter", 
       "variations": {}
@@ -7506,7 +7500,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;sc"
+        "us;sc;supreme.court"
       ], 
       "name": "South Carolina Reports, Strobhart", 
       "variations": {
@@ -7525,7 +7519,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;sc"
+        "us;sc;supreme.court"
       ], 
       "name": "South Carolina Reports, Strobhart's Equity", 
       "variations": {
@@ -7544,7 +7538,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;tn"
+        "us;tn;supreme.court"
       ], 
       "name": "Tennessee Reports, Swan", 
       "variations": {
@@ -7562,7 +7556,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ky"
+        "us;ky;supreme.court"
       ], 
       "name": "Kentucky Reports, Monroe, T.B.", 
       "variations": {
@@ -7623,7 +7617,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nc"
+        "us;nc;supreme.court"
       ], 
       "name": "North Carolina Reports, Taylor", 
       "variations": {
@@ -7645,7 +7639,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nc"
+        "us;nc;supreme.court"
       ], 
       "name": "Taylor's North Carolina Term Reports", 
       "variations": {
@@ -7666,7 +7660,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;la"
+        "us;la;supreme.court"
       ], 
       "name": "Louisiana Court of Appeals Reports, Teisser", 
       "variations": {
@@ -7685,7 +7679,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;tn"
+        "us;tn;supreme.court"
       ], 
       "name": "Tennessee Reports", 
       "variations": {
@@ -7703,7 +7697,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;tn"
+        "us;tn;supreme.court"
       ], 
       "name": "Tennessee Appeals Reports", 
       "variations": {}
@@ -7719,7 +7713,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;tn"
+        "us;tn;supreme.court"
       ], 
       "name": "Tennessee Criminal Appeals Reports", 
       "variations": {}
@@ -7735,7 +7729,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;tx"
+        "us;tx;supreme.court"
       ], 
       "name": "Texas Reports", 
       "variations": {
@@ -7753,7 +7747,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;tx"
+        "us;tx;supreme.court"
       ], 
       "name": "Texas Civil Appeals Reports", 
       "variations": {
@@ -7771,7 +7765,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;tx"
+        "us;tx;supreme.court"
       ], 
       "name": "Texas Criminal Reports", 
       "variations": {
@@ -7791,7 +7785,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;tx"
+        "us;tx;supreme.court"
       ], 
       "name": "Texas Court of Appeals Reports", 
       "variations": {
@@ -7809,7 +7803,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;tx"
+        "us;tx;supreme.court"
       ], 
       "name": "Texas Law Review", 
       "variations": {
@@ -7827,7 +7821,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;tx"
+        "us;tx;supreme.court"
       ], 
       "name": "Texas Supreme Court Journal", 
       "variations": {}
@@ -7843,7 +7837,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;sc"
+        "us;sc;supreme.court"
       ], 
       "name": "South Carolina Reports, Treadway", 
       "variations": {
@@ -7861,7 +7855,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;dc"
+        "us;federal;district.columbia.court.appeals"
       ], 
       "name": "District of Columbia Reports, Tucker and Clephane", 
       "variations": {
@@ -7881,7 +7875,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;vt"
+        "us;vt;supreme.court"
       ], 
       "name": "Vermont Reports, Tyler", 
       "variations": {
@@ -7899,7 +7893,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ma"
+        "us;ma;appeals.court"
       ], 
       "name": "Massachusetts Reports, Tyng", 
       "variations": {
@@ -7938,7 +7932,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;dc"
+        "us;federal;district.columbia.court.appeals"
       ], 
       "name": "United States Court of Appeals Reports", 
       "variations": {}
@@ -7954,17 +7948,17 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;federal;1-cir", 
-        "us;federal;10-cir", 
-        "us;federal;11-cir", 
-        "us;federal;2-cir", 
-        "us;federal;3-cir", 
-        "us;federal;4-cir", 
-        "us;federal;5-cir", 
-        "us;federal;6-cir", 
-        "us;federal;7-cir", 
-        "us;federal;8-cir", 
-        "us;federal;9-cir"
+        "us;federal;court.appeals.1.circuit", 
+        "us;federal;court.appeals.10.circuit", 
+        "us;federal;court.appeals.11.circuit", 
+        "us;federal;court.appeals.2.circuit", 
+        "us;federal;court.appeals.3.circuit", 
+        "us;federal;court.appeals.4.circuit", 
+        "us;federal;court.appeals.5.circuit", 
+        "us;federal;court.appeals.6.circuit", 
+        "us;federal;court.appeals.7.circuit", 
+        "us;federal;court.appeals.8.circuit", 
+        "us;federal;court.appeals.9.circuit"
       ], 
       "name": "LexisNexis U.S. Appeals Citation", 
       "variations": {}
@@ -8067,7 +8061,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ut"
+        "us;ut;supreme.court"
       ], 
       "name": "Utah Neutral Citation", 
       "variations": {}
@@ -8083,7 +8077,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ut"
+        "us;ut;supreme.court"
       ], 
       "name": "Utah Neutral Citation", 
       "variations": {}
@@ -8103,7 +8097,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ut"
+        "us;ut;supreme.court"
       ], 
       "name": "Utah Reports", 
       "variations": {}
@@ -8119,7 +8113,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;vi"
+        "us;federal;district.court.virgin.islands"
       ], 
       "name": "Virgin Islands Reports", 
       "variations": {}
@@ -8135,7 +8129,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;vt"
+        "us;vt;supreme.court"
       ], 
       "name": "Vermont Neutral Citation", 
       "variations": {}
@@ -8151,7 +8145,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;va"
+        "us;va;supreme.court"
       ], 
       "name": "Virginia Reports", 
       "variations": {
@@ -8170,7 +8164,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;va"
+        "us;va;supreme.court"
       ], 
       "name": "Virginia Court of Appeals Reports", 
       "variations": {}
@@ -8186,7 +8180,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;va"
+        "us;va;supreme.court"
       ], 
       "name": "Virginia Cases, Criminal", 
       "variations": {}
@@ -8220,7 +8214,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;vt"
+        "us;vt;supreme.court"
       ], 
       "name": "Vermont Reports", 
       "variations": {
@@ -8239,7 +8233,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;wv"
+        "us;wv;supreme.court"
       ], 
       "name": "West Virginia Reports", 
       "variations": {
@@ -8258,7 +8252,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;wi"
+        "us;wi;supreme.court"
       ], 
       "name": "Wisconsin Neutral Citation", 
       "variations": {}
@@ -8274,7 +8268,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;wi"
+        "us;wi;supreme.court"
       ], 
       "name": "Wisconsin Neutral Citation", 
       "variations": {}
@@ -8290,67 +8284,67 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ak", 
-        "us;al", 
-        "us;ar", 
-        "us;az", 
-        "us;ca", 
-        "us;co", 
-        "us;ct", 
-        "us;dc", 
-        "us;de", 
-        "us;federal;1-cir", 
-        "us;federal;10-cir", 
-        "us;federal;11-cir", 
-        "us;federal;2-cir", 
-        "us;federal;3-cir", 
-        "us;federal;4-cir", 
-        "us;federal;5-cir", 
-        "us;federal;6-cir", 
-        "us;federal;7-cir", 
-        "us;federal;8-cir", 
-        "us;federal;9-cir", 
-        "us;fl", 
-        "us;ga", 
-        "us;hi", 
-        "us;ia", 
-        "us;id", 
-        "us;il", 
-        "us;in", 
-        "us;ks", 
-        "us;ky", 
-        "us;la", 
-        "us;ma", 
-        "us;me", 
-        "us;mi", 
-        "us;mn", 
-        "us;mo", 
-        "us;ms", 
-        "us;mt", 
-        "us;nc", 
-        "us;nd", 
-        "us;ne", 
-        "us;nh", 
-        "us;nj", 
-        "us;nm", 
-        "us;nv", 
-        "us;ny", 
-        "us;oh", 
-        "us;ok", 
-        "us;or", 
-        "us;pa", 
-        "us;ri", 
-        "us;sc", 
-        "us;sd", 
-        "us;tn", 
-        "us;tx", 
-        "us;ut", 
-        "us;va", 
-        "us;vt", 
-        "us;wa", 
-        "us;wi", 
-        "us;wv", 
-        "us;wy"
+        "us;ak;supreme.court", 
+        "us;al;supreme.court", 
+        "us;ar;supreme.court", 
+        "us;az;supreme.court", 
+        "us;ca;supreme.court", 
+        "us;co;supreme.court", 
+        "us;ct;supreme.court", 
+        "us;de;supreme.court", 
+        "us;federal;court.appeals.1.circuit", 
+        "us;federal;court.appeals.10.circuit", 
+        "us;federal;court.appeals.11.circuit", 
+        "us;federal;court.appeals.2.circuit", 
+        "us;federal;court.appeals.3.circuit", 
+        "us;federal;court.appeals.4.circuit", 
+        "us;federal;court.appeals.5.circuit", 
+        "us;federal;court.appeals.6.circuit", 
+        "us;federal;court.appeals.7.circuit", 
+        "us;federal;court.appeals.8.circuit", 
+        "us;federal;court.appeals.9.circuit", 
+        "us;federal;district.columbia.court.appeals", 
+        "us;fl;supreme.court", 
+        "us;ga;supreme.court", 
+        "us;hi;supreme.court", 
+        "us;ia;supreme.court", 
+        "us;id;supreme.court", 
+        "us;il;supreme.court", 
+        "us;in;supreme.court", 
+        "us;ks;supreme.court", 
+        "us;ky;supreme.court", 
+        "us;la;supreme.court", 
+        "us;ma;appeals.court", 
+        "us;me;supreme.judicial.court", 
+        "us;mi;supreme.court", 
+        "us;mn;supreme.court", 
+        "us;mo;supreme.court", 
+        "us;ms;supreme.court", 
+        "us;mt;supreme.court", 
+        "us;nc;supreme.court", 
+        "us;nd;supreme.court", 
+        "us;ne;supreme.court", 
+        "us;nh;supreme.court", 
+        "us;nj;supreme.court", 
+        "us;nm;supreme.court", 
+        "us;nv;supreme.court", 
+        "us;ny;court.appeals", 
+        "us;oh;supreme.court", 
+        "us;ok;supreme.court", 
+        "us;or;supreme.court", 
+        "us;pa;supreme.court", 
+        "us;ri;supreme.court", 
+        "us;sc;supreme.court", 
+        "us;sd;supreme.court", 
+        "us;tn;supreme.court", 
+        "us;tx;supreme.court", 
+        "us;ut;supreme.court", 
+        "us;va;supreme.court", 
+        "us;vt;supreme.court", 
+        "us;wa;supreme.court", 
+        "us;wi;supreme.court", 
+        "us;wv;supreme.court", 
+        "us;wy;supreme.court"
       ], 
       "name": "West Law Citation", 
       "variations": {}
@@ -8366,7 +8360,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;wy"
+        "us;wy;supreme.court"
       ], 
       "name": "Wyoming Neutral Citation", 
       "variations": {}
@@ -8382,7 +8376,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;pa"
+        "us;pa;supreme.court"
       ], 
       "name": "Pennsylvania State Reports, Walker", 
       "variations": {
@@ -8401,7 +8395,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ms"
+        "us;ms;supreme.court"
       ], 
       "name": "Mississippi Reports, Walker", 
       "variations": {
@@ -8442,7 +8436,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;va"
+        "us;va;supreme.court"
       ], 
       "name": "Virginia Reports, Washington", 
       "variations": {
@@ -8463,7 +8457,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;wa"
+        "us;wa;supreme.court"
       ], 
       "name": "Washington Reports", 
       "variations": {
@@ -8490,7 +8484,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;wa"
+        "us;wa;supreme.court"
       ], 
       "name": "Washington Appellate Reports", 
       "variations": {
@@ -8511,7 +8505,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;wa"
+        "us;wa;supreme.court"
       ], 
       "name": "Washington Territory Reports", 
       "variations": {
@@ -8537,7 +8531,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;pa"
+        "us;pa;supreme.court"
       ], 
       "name": "Pennsylvania State Reports, Watts", 
       "variations": {
@@ -8556,7 +8550,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;pa"
+        "us;pa;supreme.court"
       ], 
       "name": "Pennsylvania State Reports, Watts & Sergeant", 
       "variations": {
@@ -8575,7 +8569,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ny"
+        "us;ny;court.appeals"
       ], 
       "name": "Wendell's Reports", 
       "variations": {
@@ -8595,7 +8589,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;pa"
+        "us;pa;supreme.court"
       ], 
       "name": "Pennsylvania State Reports, Wharton", 
       "variations": {
@@ -8635,7 +8629,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;tx"
+        "us;tx;supreme.court"
       ], 
       "name": "Condensed Reports of Decisions in Civil Causes in the Court of Appeals of Texas (White & Wilson)", 
       "variations": {
@@ -8662,7 +8656,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ma"
+        "us;ma;appeals.court"
       ], 
       "name": "Massachusetts Reports, Williams", 
       "variations": {
@@ -8682,7 +8676,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;tx"
+        "us;tx;supreme.court"
       ], 
       "name": "Condensed Reports of Decisions in Civil Causes in the Court of Appeals of Texas (Wilson)", 
       "variations": {}
@@ -8698,7 +8692,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;nc"
+        "us;nc;supreme.court"
       ], 
       "name": "North Carolina Reports, Winston", 
       "variations": {}
@@ -8718,7 +8712,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;wi"
+        "us;wi;supreme.court"
       ], 
       "name": "Wisconsin Reports", 
       "variations": {
@@ -8739,7 +8733,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;wy"
+        "us;wy;supreme.court"
       ], 
       "name": "Wyoming Reports", 
       "variations": {
@@ -8758,7 +8752,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;ny"
+        "us;ny;court.appeals"
       ], 
       "name": "Yates' Select Cases", 
       "variations": {
@@ -8777,7 +8771,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;pa"
+        "us;pa;supreme.court"
       ], 
       "name": "Pennsylvania State Reports, Yeates", 
       "variations": {
@@ -8796,7 +8790,7 @@
         }
       }, 
       "mlz_jurisdiction": [
-        "us;tn"
+        "us;tn;supreme.court"
       ], 
       "name": "Tennessee Reports, Yerger", 
       "variations": {
