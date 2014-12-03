@@ -205,7 +205,6 @@ United States Courts <us-courts>
         us;federal;judicial.panel.multidistrict.litigation
         us;federal;merit.systems.protection.board
         us;federal;navy-marine.corps.court.criminal.appeals
-        us;pa;special.tribunal
         us;federal;special.court.regional.rail.reorganization.act
         us;federal;tax.court
     United States Bankruptcy Appellate Panels <us-bankruptcy-appellate-panels>
@@ -484,6 +483,7 @@ United States Courts <us-courts>
             us;pa;commonwealth.court
             us;pa;court.judicial.discipline
             us;pa;superior.court
+            us;pa;special.tribunal
         Rhode Island <rhode-island>
             us;ri;supreme.court
         South Carolina <south-carolina>
