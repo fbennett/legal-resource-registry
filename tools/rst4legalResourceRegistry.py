@@ -1,4 +1,5 @@
 #!/usr/bin/python
+#-*- encoding: utf-8 -*-
 """
 A Docutils Publisher script for the Legal Resource Registry
 """
@@ -22,6 +23,7 @@ from docutils.parsers.rst import directives, roles, states
 from docutils import nodes, statemachine
 from docutils.writers.html4css1 import Writer, HTMLTranslator
 from docutils.parsers.rst import Directive
+from docutils.transforms import Transform
 
 class citationgroup (nodes.TextElement): pass
 class court (nodes.TextElement): pass
@@ -37,12 +39,28 @@ class descriptionbox (nodes.TextElement): pass
 class featurebox (nodes.TextElement): pass
 class courtbubble (nodes.Inline, nodes.TextElement): pass
 class minibubble (nodes.TextElement): pass
+class bubble (nodes.Inline, nodes.TextElement): pass
 class label (nodes.Inline, nodes.TextElement): pass
 class value (nodes.Inline, nodes.TextElement): pass
 class valueunconfirmed (nodes.Inline, nodes.TextElement): pass
 class valueneutral (nodes.Inline, nodes.TextElement): pass
 class featurename (nodes.Inline, nodes.TextElement): pass
 class octiconlink (nodes.Inline, nodes.TextElement): pass
+class altwrapper (nodes.Inline, nodes.TextElement): pass
+class titled_reference (nodes.reference): pass
+
+
+class trans (nodes.Inline, nodes.TextElement): pass
+def role_trans(name, rawtext, text, lineno, inliner,
+            options={}, content=[]):
+    newnode = trans(rawsource=rawtext, text=text)
+    pending = nodes.pending(MoveTrans)
+    inliner.document.document.note_pending(pending)
+    newnode += pending
+    newnode.setup_child(pending)
+    return [newnode], []
+roles.register_local_role("trans", role_trans)
+
 
 class Defaults:
     def __init__(self):
@@ -105,12 +123,69 @@ class FeaturesController:
     def reset(self):
         FEATURES.local = None
 
+class MoveTrans(Transform):
+    default_priority = 100
+
+    def apply(self):
+
+        # self.startnode is the pending marker
+        # self.startnode.parent is the translation text
+        # self.startnode.parent.parent is the enclosing node, whatever it is
+
+        translation = self.startnode.parent.astext()
+        empty = nodes.generated()
+        self.startnode.parent.replace_self(empty)
+
+        # Okay, so we want to add a wrapper around children,
+        # and make the wrapper the new child of self.startnode.parent.parent
+
+        altie = altwrapper()
+        altie["title"] = translation
+        for child in self.startnode.parent.parent.children:
+            newchild = child.deepcopy()
+            altie += newchild
+            altie.setup_child(newchild)
+        self.startnode.parent.parent.children = [altie]
+        self.startnode.parent.parent.setup_child(altie)
+
 class HTMLTranslatorForLegalCitem(HTMLTranslator):
 
     def __init__(self, document, **kwargs):
         HTMLTranslator.__init__(self, document, **kwargs)
         settings = self.settings
         #self.d_class = DocumentClass(settings.documentclass)
+
+    def visit_titled_reference(self, node):
+        if node.has_key('title'):
+            title = ' title="%s"' % node["title"]
+        else:
+            title = ""
+        self.body.append('<a class="reference external" href="%s"%s>' % (node['refuri'],title))
+
+    def depart_titled_reference(self, node):
+        self.body.append('</a>')
+
+
+
+    def visit_bubble(self, node):
+        if node.has_key('title_en'):
+            title_en = ' title="%s"' % node["title_en"]
+        else:
+            title_en = ""
+        self.body.append('<a class="reference external" href="%s"%s>%s' % (node['url'],title_en,node['title']))
+
+    def depart_bubble(self, node):
+        self.body.append('</a>\n')
+
+    def visit_altwrapper(self, node):
+        if node.has_key('title'):
+            title = ' title="%s"' % node["title"]
+        else:
+            title = ""
+        self.body.append('<span%s>' % title)
+
+    def depart_altwrapper(self, node):
+        self.body.append('</span>\n')
 
     def visit_citationgroup(self, node):
         self.body.append(self.starttag(node, 'h2', CLASS="citation-group").strip())
@@ -303,6 +378,34 @@ class JurisdictionDirective(Directive,PathTool):
         self.state_machine.insert_input(include_lines, pth)
         return []
 
+class BubbleDirective(Directive):
+    required_arguments = 1
+    optional_arguments = 0
+    final_argument_whitespace = True
+    has_content = False
+    option_spec = {
+        'url': directives.unchanged,
+        'title_en': directives.unchanged
+        }
+
+    def run (self):
+        if not self.arguments[0]:
+            error = self.state_machine.reporter.error(
+                'Invalid context: bubble directive must have argument text.',
+                nodes.literal_block(self.block_text, self.block_text), line=self.lineno)
+            return [error]
+        if not self.options.has_key('url'):
+            error = self.state_machine.reporter.error(
+                'Invalid context: bubble directive must have url option.',
+                nodes.literal_block(self.block_text, self.block_text), line=self.lineno)
+            return [error]
+        newnode = bubble()
+        newnode["title"] = self.arguments[0]
+        newnode["url"] = self.options["url"]
+        if self.options.has_key("title_en"):
+            newnode["title_en"] = self.options["title_en"]
+        return [newnode]
+
 class FieldsDirective(Directive):
     required_arguments = 0
     optional_arguments = 0
@@ -390,7 +493,8 @@ class CourtDirective(Directive,GitHubUrl):
     option_spec = {
         'court-id': directives.unchanged,
         'url': directives.unchanged,
-        'flp-key': directives.unchanged
+        'flp-key': directives.unchanged,
+        'en': directives.unchanged
     }
 
     def run (self):
@@ -411,7 +515,9 @@ class CourtDirective(Directive,GitHubUrl):
         court_node = court()
         court_text = nodes.inline(rawsource=self.arguments[0],text=self.arguments[0])
         if self.options.has_key("url"):
-            court_ref = nodes.reference(refuri=self.options["url"])
+            court_ref = titled_reference(refuri=self.options["url"])
+            if self.options.has_key("en"):
+                court_ref["title"] = self.options["en"]
             court_link = octiconlink()
             court_ref += court_link
             court_ref += court_text
@@ -629,6 +735,7 @@ directives.register_directive('court', CourtDirective)
 directives.register_directive('citation-group', CitationGroupDirective)
 directives.register_directive('reporter', ReporterDirective)
 directives.register_directive('notes', NotesDirective)
+directives.register_directive('bubble', BubbleDirective)
 
 
 class WriterForLegalCitem(Writer):

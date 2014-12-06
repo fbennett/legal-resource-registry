@@ -3,7 +3,7 @@
 import re,sys,os,os.path,json
 
 from docutils.core import publish_string
-from docutils.parsers.rst import directives
+from docutils.parsers.rst import directives, nodes, roles
 from rst4legalResourceRegistry import WriterForLegalCitem, JurisdictionDirective, FieldsDirective, CourtDirective, CitationGroupDirective, ReporterDirective, NotesDirective, FEATURES, reporters_json, courts_map
 
 directives.register_directive('jurisdiction', JurisdictionDirective)
@@ -30,7 +30,8 @@ class LineInfo:
     def __init__(self,lineno,line):
         bubblePageRex = re.compile("^(\s*)([^\[;<]+)(?:\[([^;<]+)\])*\s*<([^ ]+)>$")
         detailsPageRex = re.compile("^(\s*)([^ ;]+;[^ ]+)\s*$")
-        courtTitleRex = re.compile(".. court::\s+(.*)$")
+        courtTitleRex = re.compile("^\.\. court::\s+(.*)$")
+        courtTranslationRex = re.compile("^   :en:\s+(.*)$")
         self.title = None
         self.title_en = None
         self.page_name = None
@@ -55,10 +56,14 @@ class LineInfo:
                 while 1:
                     line = ifh.readline()
                     if not line: break
-                    m = courtTitleRex.match(line)
-                    if m:
-                        self.title = m.group(1).rstrip()
-                        break
+                    if not self.title:
+                        m = courtTitleRex.match(line)
+                        if m:
+                            self.title = m.group(1).rstrip()
+                    if self.title and not self.title_en:
+                        m = courtTranslationRex.match(line)
+                        if m:
+                            self.title_en = m.group(1).strip()
                 ifh.close()
 
         if self.line_type:
@@ -92,11 +97,13 @@ class PageSource:
         self.rst += ".. include:: %s\n\n" % os.path.join(pth,"doc-src","banner.rst")
 
     def setTitle(self,title,title_en=None,char="-"):
+        self.title = title
         if title_en:
             # XXX This will require a transform in rst4legalResourceRegistry.py
             # print title_en
+            title = title + " :trans:`" + title_en + "`"
+        else:
             pass
-        self.title = title
         line = char * len(title)
         self.rst += "%s\n%s\n%s\n" % (line,title,line)
 
@@ -114,8 +121,15 @@ class PageSource:
     def setBubbles(self):
         self.rst += "\n.. container:: bubbles\n\n"
 
-    def addBubble(self,title,current):
-        self.rst += "   `%s <%s>`_\n" % (title,current)
+    # XXX Oh, bother. Set up a trans container???
+    # XXX Or parse a braced entry out of the linked text???
+
+    def addBubble(self,title,current,title_en=None):
+        if title_en:
+            self.rst += "   .. bubble:: %s\n      :url: %s\n      :title_en: %s\n" % (title,current,title_en)
+        else:
+            self.rst += "   .. bubble:: %s\n      :url: %s\n" % (title,current)
+
 
     def setJurisdiction(self,page_name):
         self.rst += "\n.. jurisdiction:: %s" % page_name
@@ -126,6 +140,18 @@ class PageEngine:
         specpth = os.path.join(pth,"doc-src","pages.txt")
         self.input = open(specpth)
         self.source = {}
+
+    def hasCurrent(self):
+        return self.source.has_key(self.stack.current)
+
+    def initPageSource(self):
+        self.source[self.stack.current] = PageSource()
+
+    def current(self):
+        return self.source[self.stack.current]
+
+    def parent(self):
+        return self.source[self.stack.parent]
 
     def getSpec(self):
         self.stack = jurisdictionStack()
@@ -138,27 +164,27 @@ class PageEngine:
             lineInfo = LineInfo(lineno,line)
             if lineInfo.line_type == "bubblePage":
                 self.stack.setLevelForPage(lineInfo.level,lineInfo.page_name)
-                if not self.source.has_key(self.stack.current):
-                    self.source[self.stack.current] = PageSource()
-                    self.source[self.stack.current].setTopmatter()
-                    self.source[self.stack.current].setTitle(lineInfo.title,title_en=lineInfo.title_en)
-                    self.source[self.stack.current].setDraft()
-                    self.source[self.stack.current].setCredits()
-                    self.source[self.stack.current].setBackref(self.stack.backtrack_path,"../index.html")
-                    self.source[self.stack.current].setBubbles()
+                if not self.hasCurrent():
+                    self.initPageSource()
+                    self.current().setTopmatter()
+                    self.current().setTitle(lineInfo.title,title_en=lineInfo.title_en)
+                    self.current().setDraft()
+                    self.current().setCredits()
+                    self.current().setBackref(self.stack.backtrack_path,"../index.html")
+                    self.current().setBubbles()
                 if lineInfo.level:
-                    self.source[self.stack.parent].addBubble(lineInfo.title,self.stack.current_url)
+                    self.parent().addBubble(lineInfo.title,self.stack.current_url,title_en=lineInfo.title_en)
             elif lineInfo.line_type == "detailsPage":
                 self.stack.setLevelForPage(lineInfo.level,lineInfo.page_name)
-                self.source[self.stack.parent].addBubble(lineInfo.title,self.stack.current_url)
-                if not self.source.has_key(self.stack.current):
-                    self.source[self.stack.current] = PageSource()
-                    self.source[self.stack.current].setTopmatter()
-                    self.source[self.stack.current].setTitle(self.source[self.stack.parent].title,title_en=self.source[self.stack.parent].title_en)
-                    self.source[self.stack.current].setDraft()
-                    self.source[self.stack.current].setCredits()
-                    self.source[self.stack.current].setBackref(self.stack.backtrack_path,"../index.html")
-                    self.source[self.stack.current].setJurisdiction(lineInfo.page_name)
+                self.parent().addBubble(lineInfo.title,self.stack.current_url,title_en=lineInfo.title_en)
+                if not self.hasCurrent():
+                    self.initPageSource()
+                    self.current().setTopmatter()
+                    self.current().setTitle(self.parent().title,title_en=self.parent().title_en)
+                    self.current().setDraft()
+                    self.current().setCredits()
+                    self.current().setBackref(self.stack.backtrack_path,"../index.html")
+                    self.current().setJurisdiction(lineInfo.page_name)
             elif not line:
                 continue
             else:
@@ -183,7 +209,7 @@ class PageEngine:
             "stylesheet_path": None,
             "embed_stylesheet": False
             }
-        html = publish_string(src, reader=None, reader_name="standalone", writer=writer, settings_overrides=options)
+        html = publish_string(src, reader=None, reader_name='standalone', writer=writer, settings_overrides=options)
         open(pubpath,"w+").write(html)
         
 
