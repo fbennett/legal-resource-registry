@@ -26,7 +26,6 @@ from docutils.parsers.rst import Directive
 from docutils.transforms import Transform
 
 class court (nodes.TextElement): pass
-class notes (nodes.TextElement): pass
 class courtid (nodes.TextElement): pass
 class reporters (nodes.TextElement): pass
 class reporterbox (nodes.TextElement): pass
@@ -232,12 +231,6 @@ class HTMLTranslatorForLegalCitem(HTMLTranslator):
         self.body.append(self.starttag(node, 'div', CLASS="reporter-dates"))
 
     def depart_reporterdates(self, node): 
-        self.body.append('</div>\n')
-
-    def visit_notes(self, node):
-        self.body.append(self.starttag(node, 'div', CLASS="notes"))
-
-    def depart_notes(self, node): 
         self.body.append('</div>\n')
 
     def visit_seriesabbrev(self, node):
@@ -502,36 +495,10 @@ class CourtDirective(Directive,GitHubUrl):
         else:
             court_node += court_text
 
-        # Split in two here, and validate.
-        # notes:: is optional, must be the first element if present, and can occur only once. 
-        # reporter:: is the only other permitted element.
-
-        foundNotes = False
-        foundReporter = False
-        reporter_offset = 0
-        for line in self.content:
-            if line.startswith('.. reporter::'):
-                foundReporter = True
-            if line.startswith('.. notes::'):
-                if foundReporter:
-                    error = self.state_machine.reporter.error(
-                        'Invalid structure: notes:: must come before any reporter:: in court directive',
-                        nodes.literal_block(self.block_text, self.block_text), line=self.lineno)
-                    return [error]
-            if not foundReporter:
-                reporter_offset += 1
-        
-        note_content = '\n'.join(self.content[0:reporter_offset])
-        note_node = nodes.generated(rawsource=note_content)
-        self.state.nested_parse(self.content[0:reporter_offset], self.content_offset,
-                                note_node)
-
-        reporter_content = '\n'.join(self.content[reporter_offset:])
         reporters_node = reporters()
-        self.state.nested_parse(self.content[reporter_offset:], self.content_offset + reporter_offset,
-                                reporters_node)
+        self.state.nested_parse(self.content, self.content_offset, reporters_node)
 
-        return [court_node,court_id_node,note_node,reporters_node]
+        return [court_node,court_id_node,reporters_node]
 
 class ReporterDirective(Directive,GitHubUrl):
     required_arguments = 1
@@ -694,23 +661,11 @@ class ReporterDirective(Directive,GitHubUrl):
         reporter_box_node += reporter_node
         return [reporter_box_node]
 
-class NotesDirective(Directive):
-    required_arguments = 0
-    optional_arguments = 0
-    has_content = True
-    def run (self):
-        content = '\n'.join(self.content)
-        node = notes(rawsource=content)
-        self.state.nested_parse(self.content, self.content_offset,
-                                node)
-        return [node]
-
 directives.register_directive('variation', VariationDirective)
 directives.register_directive('jurisdiction', JurisdictionDirective)
 directives.register_directive('fields', FieldsDirective)
 directives.register_directive('court', CourtDirective)
 directives.register_directive('reporter', ReporterDirective)
-directives.register_directive('notes', NotesDirective)
 directives.register_directive('bubble', BubbleDirective)
 
 class WriterForLegalCitem(Writer):
