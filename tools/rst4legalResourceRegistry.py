@@ -25,7 +25,6 @@ from docutils.writers.html4css1 import Writer, HTMLTranslator
 from docutils.parsers.rst import Directive
 from docutils.transforms import Transform
 
-class citationgroup (nodes.TextElement): pass
 class court (nodes.TextElement): pass
 class notes (nodes.TextElement): pass
 class courtid (nodes.TextElement): pass
@@ -186,12 +185,6 @@ class HTMLTranslatorForLegalCitem(HTMLTranslator):
 
     def depart_altwrapper(self, node):
         self.body.append('</span>\n')
-
-    def visit_citationgroup(self, node):
-        self.body.append(self.starttag(node, 'h2', CLASS="citation-group").strip())
-
-    def depart_citationgroup(self, node):
-        self.body.append('</h2>\n')
 
     def visit_court(self, node):
         self.body.append(self.starttag(node, 'h3', CLASS="court").strip())
@@ -457,22 +450,6 @@ class GitHubUrl:
         return os.path.join(*[gitHubStub,segment] + idlst + ["index.txt"])
 
 
-
-class CitationGroupDirective(Directive):
-    required_arguments = 1
-    optional_arguments = 0
-    final_argument_whitespace = True
-    has_content = True
-    option_spec = {}
-
-    def run (self):
-        newnode = citationgroup(rawsource=self.arguments[0],text=self.arguments[0])
-        content = '\n'.join(self.content)
-        newnodes = nodes.generated(rawsource=content)
-        self.state.nested_parse(self.content, self.content_offset,
-                                newnodes)
-        return [newnode,newnodes]
-
 class VariationDirective(Directive):
     required_arguments = 1
     optional_arguments = 0
@@ -732,21 +709,11 @@ directives.register_directive('variation', VariationDirective)
 directives.register_directive('jurisdiction', JurisdictionDirective)
 directives.register_directive('fields', FieldsDirective)
 directives.register_directive('court', CourtDirective)
-directives.register_directive('citation-group', CitationGroupDirective)
 directives.register_directive('reporter', ReporterDirective)
 directives.register_directive('notes', NotesDirective)
 directives.register_directive('bubble', BubbleDirective)
-
 
 class WriterForLegalCitem(Writer):
     def __init__(self):
         Writer.__init__(self)
         self.translator_class = HTMLTranslatorForLegalCitem
-
-#writer = WriterForLegalCitem()
-
-#description = ('Generates a specificaltion document from reStructuredText '
-#               'source.  ' + default_description)
-
-#output = publish_cmdline(reader=None, reader_name="standalone", writer=writer,
-#    description=description)

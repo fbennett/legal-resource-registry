@@ -3,15 +3,7 @@
 import re,sys,os,os.path,json
 
 from docutils.core import publish_string
-from docutils.parsers.rst import directives, nodes, roles
-from rst4legalResourceRegistry import WriterForLegalCitem, JurisdictionDirective, FieldsDirective, CourtDirective, CitationGroupDirective, ReporterDirective, NotesDirective, FEATURES, reporters_json, courts_map
-
-directives.register_directive('jurisdiction', JurisdictionDirective)
-directives.register_directive('fields', FieldsDirective)
-directives.register_directive('court', CourtDirective)
-directives.register_directive('citation-group', CitationGroupDirective)
-directives.register_directive('reporter', ReporterDirective)
-directives.register_directive('notes', NotesDirective)
+from rst4legalResourceRegistry import WriterForLegalCitem, FEATURES, reporters_json, courts_map
 
 pth = os.path.split(sys.argv[0])[0]
 pth = os.path.join(pth,"..")
@@ -99,8 +91,6 @@ class PageSource:
     def setTitle(self,title,title_en=None,char="-"):
         self.title = title
         if title_en:
-            # XXX This will require a transform in rst4legalResourceRegistry.py
-            # print title_en
             title = title + " :trans:`" + title_en + "`"
         else:
             pass
@@ -120,9 +110,6 @@ class PageSource:
 
     def setBubbles(self):
         self.rst += "\n.. container:: bubbles\n\n"
-
-    # XXX Oh, bother. Set up a trans container???
-    # XXX Or parse a braced entry out of the linked text???
 
     def addBubble(self,title,current,title_en=None):
         if title_en:
@@ -162,8 +149,8 @@ class PageEngine:
             line = line.rstrip()
             lineno += 1
             lineInfo = LineInfo(lineno,line)
+            self.stack.setLevelForPage(lineInfo.level,lineInfo.page_name)
             if lineInfo.line_type == "bubblePage":
-                self.stack.setLevelForPage(lineInfo.level,lineInfo.page_name)
                 if not self.hasCurrent():
                     self.initPageSource()
                     self.current().setTopmatter()
@@ -175,7 +162,6 @@ class PageEngine:
                 if lineInfo.level:
                     self.parent().addBubble(lineInfo.title,self.stack.current_url,title_en=lineInfo.title_en)
             elif lineInfo.line_type == "detailsPage":
-                self.stack.setLevelForPage(lineInfo.level,lineInfo.page_name)
                 self.parent().addBubble(lineInfo.title,self.stack.current_url,title_en=lineInfo.title_en)
                 if not self.hasCurrent():
                     self.initPageSource()
@@ -227,29 +213,31 @@ class PageEngine:
         sys.stdout.write("\n")
         sys.stdout.flush()
 
-pageEngine = PageEngine()
-try:
-    pageEngine.getSpec()
-except IndentSyntaxException as err:
-    print "Error in pages.txt: offset of %d at line number %d is not a multiple of four." % (err.offset,err.lineno)
-except GeneralSyntaxException as err:
-    print "Error in pages.txt: unable to parse entry at line %d." % (err.lineno)
+if __name__ == "__main__":
 
-pageEngine.dumpPages()
+    pageEngine = PageEngine()
+    try:
+        pageEngine.getSpec()
+    except IndentSyntaxException as err:
+        print "Error in pages.txt: offset of %d at line number %d is not a multiple of four." % (err.offset,err.lineno)
+    except GeneralSyntaxException as err:
+        print "Error in pages.txt: unable to parse entry at line %d." % (err.lineno)
+        
+    pageEngine.dumpPages()
 
-def sortrep(a,b):
-    if a["name"] > b["name"]:
-        return 1
-    elif a["name"] < b["name"]:
-        return -1
-    else:
-        return 0
+    def sortrep(a,b):
+        if a["name"] > b["name"]:
+            return 1
+        elif a["name"] < b["name"]:
+            return -1
+        else:
+            return 0
 
-for key in reporters_json.keys():
-    bundle = reporters_json[key]
-    bundle.sort(sortrep)
-    for series in bundle:
-        series["mlz_jurisdiction"].sort()
+    for key in reporters_json.keys():
+        bundle = reporters_json[key]
+        bundle.sort(sortrep)
+        for series in bundle:
+            series["mlz_jurisdiction"].sort()
 
-open("reporters-db/reporters-db.json","w+").write(json.dumps(reporters_json,indent=2,sort_keys=True))
-open("courts-map-flp.json","w+").write(json.dumps(courts_map,indent=2,sort_keys=True))
+    open("reporters-db/reporters-db.json","w+").write(json.dumps(reporters_json,indent=2,sort_keys=True))
+    open("courts-map-flp.json","w+").write(json.dumps(courts_map,indent=2,sort_keys=True))
