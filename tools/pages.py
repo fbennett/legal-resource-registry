@@ -3,7 +3,7 @@
 import re,sys,os,os.path,json
 
 from docutils.core import publish_string
-from rst4legalResourceRegistry import WriterForLegalCitem, FEATURES, reporters_json, courts_map
+from rst4legalResourceRegistry import WriterForLegalCitem, traveler
 
 pth = os.path.split(sys.argv[0])[0]
 pth = os.path.join(pth,"..")
@@ -183,7 +183,7 @@ class PageEngine:
             os.makedirs(os.path.split(pubpath)[0])
         except:
             pass
-        FEATURES.local = None
+        traveler.features.reset()
         writer = WriterForLegalCitem()
         keylst = key.split("/")
         upset = [".."] * (len(keylst)-1)
@@ -233,11 +233,11 @@ if __name__ == "__main__":
         else:
             return 0
 
-    for key in reporters_json.keys():
-        bundle = reporters_json[key]
+    for key in traveler.reporters_json.keys():
+        bundle = traveler.reporters_json[key]
         bundle.sort(sortrep)
         for series in bundle:
             series["mlz_jurisdiction"].sort()
 
-    open("reporters-db/reporters-db.json","w+").write(json.dumps(reporters_json,indent=2,sort_keys=True))
-    open("courts-map-flp.json","w+").write(json.dumps(courts_map,indent=2,sort_keys=True))
+    open("reporters-db/reporters-db.json","w+").write(json.dumps(traveler.reporters_json,indent=2,sort_keys=True))
+    open("courts-map-flp.json","w+").write(json.dumps(traveler.courts_map,indent=2,sort_keys=True))

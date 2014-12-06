@@ -26,15 +26,6 @@ from docutils.parsers.rst import Directive
 from docutils.transforms import Transform
 
 class court (nodes.TextElement): pass
-class courtid (nodes.TextElement): pass
-class reporters (nodes.TextElement): pass
-class reporterbox (nodes.TextElement): pass
-class reporter (nodes.TextElement): pass
-class reporterneutral (nodes.TextElement): pass
-class reportername (nodes.TextElement): pass
-class reporterdates (nodes.TextElement): pass
-class descriptionbox (nodes.TextElement): pass
-class featurebox (nodes.TextElement): pass
 class courtbubble (nodes.Inline, nodes.TextElement): pass
 class minibubble (nodes.TextElement): pass
 class bubble (nodes.Inline, nodes.TextElement): pass
@@ -45,7 +36,6 @@ class valueneutral (nodes.Inline, nodes.TextElement): pass
 class featurename (nodes.Inline, nodes.TextElement): pass
 class octiconlink (nodes.Inline, nodes.TextElement): pass
 class altwrapper (nodes.Inline, nodes.TextElement): pass
-class titled_reference (nodes.reference): pass
 
 
 class trans (nodes.Inline, nodes.TextElement): pass
@@ -92,6 +82,9 @@ class Features:
         self.defaults = Defaults()
         self.local = None
 
+    def reset(self):
+        self.local = None
+
     def set_base(self):
         self.local = Local()
         self.local.required = self.defaults.required.copy()
@@ -103,23 +96,20 @@ class Features:
         self.local.required.update(self.defaults.default)
         self.local.optional = self.defaults.optional.copy()
 
-FEATURES = Features()
-reporters_json = {}
-traveling_jurisdiction = [[]]
-traveling_variations = [{}]
-courts_map = {}
+class Traveler:
+    def __init__(self):
+        self.features = Features()
+        self.reporters_json = {}
+        self.courts_map = {}
+        self.jurisdiction = []
+        self.variations = {}
+
+traveler = Traveler()
 
 class reporterPathException(Exception):
     def __init__(self,jurisdiction,reporterKey):
         self.jurisdiction = jurisdiction
         self.reporterKey = reporterKey
-
-class FeaturesController:
-    def __init__(self):
-        pass
-
-    def reset(self):
-        FEATURES.local = None
 
 class MoveTrans(Transform):
     default_priority = 100
@@ -153,18 +143,6 @@ class HTMLTranslatorForLegalCitem(HTMLTranslator):
         settings = self.settings
         #self.d_class = DocumentClass(settings.documentclass)
 
-    def visit_titled_reference(self, node):
-        if node.has_key('title'):
-            title = ' title="%s"' % node["title"]
-        else:
-            title = ""
-        self.body.append('<a class="reference external" href="%s"%s>' % (node['refuri'],title))
-
-    def depart_titled_reference(self, node):
-        self.body.append('</a>')
-
-
-
     def visit_bubble(self, node):
         if node.has_key('title_en'):
             title_en = ' title="%s"' % node["title_en"]
@@ -191,60 +169,6 @@ class HTMLTranslatorForLegalCitem(HTMLTranslator):
     def depart_court(self, node): 
         self.body.append('</h3>\n')
 
-    def visit_courtid(self, node):
-        self.body.append(self.starttag(node, 'div', CLASS="court-id").strip())
-
-    def depart_courtid(self, node): 
-        self.body.append('</div>\n')
-
-    def visit_reporters(self, node):
-        self.body.append(self.starttag(node, 'div', CLASS="reporters"))
-
-    def depart_reporters(self, node): 
-        self.body.append('</div>\n')
-
-    def visit_reporterbox(self, node):
-        self.body.append(self.starttag(node, 'div', CLASS="reporter-box").strip())
-
-    def depart_reporterbox(self, node): 
-        self.body.append('</div>')
-
-    def visit_reporter(self, node):
-        self.body.append(self.starttag(node, 'div', CLASS="reporter"))
-
-    def depart_reporter(self, node): 
-        self.body.append('</div>\n')
-
-    def visit_reporterneutral(self, node):
-        self.body.append(self.starttag(node, 'div', CLASS="reporter neutral").strip())
-
-    def depart_reporterneutral(self, node): 
-        self.body.append('</div>')
-
-    def visit_reportername(self, node):
-        self.body.append(self.starttag(node, 'div', CLASS="reporter-name"))
-
-    def depart_reportername(self, node): 
-        self.body.append('</div>\n')
-
-    def visit_reporterdates(self, node):
-        self.body.append(self.starttag(node, 'div', CLASS="reporter-dates"))
-
-    def depart_reporterdates(self, node): 
-        self.body.append('</div>\n')
-
-    def visit_seriesabbrev(self, node):
-        self.body.append(self.starttag(node, 'div', CLASS="notes"))
-
-    def depart_seriesabbrev(self, node): 
-        self.body.append('</div>\n')
-
-    def visit_dates(self, node):
-        self.body.append(self.starttag(node, 'div', CLASS="notes"))
-
-    def depart_dates(self, node): 
-        self.body.append('</div>\n')
-
     def visit_courtbubble(self, node):
         self.body.append('<a class="bubble" href="%s">' % node["href"])
 
@@ -256,18 +180,6 @@ class HTMLTranslatorForLegalCitem(HTMLTranslator):
 
     def depart_minibubble(self, node): 
         self.body.append('</a>')
-
-    def visit_descriptionbox(self, node):
-        self.body.append(self.starttag(node, 'div', CLASS="description-box"))
-
-    def depart_descriptionbox(self, node): 
-        self.body.append('</div>')
-
-    def visit_featurebox(self, node):
-        self.body.append(self.starttag(node, 'div', CLASS="feature-box"))
-
-    def depart_featurebox(self, node): 
-        self.body.append('</div>')
 
     def visit_label(self, node):
         self.body.append('<span class="label">')
@@ -400,7 +312,7 @@ class FieldsDirective(Directive):
 
     def run (self):
         features = {}
-        if not FEATURES.local:
+        if not traveler.features.local:
             for line in self.content:
                 m = re.match("^:([a-z][-a-z]+):\s+(default|auxiliary|required|optional)",line)
                 if not m:
@@ -408,10 +320,10 @@ class FieldsDirective(Directive):
                         'Invalid context: syntax error in option to initial fields directive',
                         nodes.literal_block(self.block_text, self.block_text), line=self.lineno)
                     return [error]
-                FEATURES.defaults[m.group(2)] = m.group(1)
-                FEATURES.set_defaults()
+                traveler.features.defaults[m.group(2)] = m.group(1)
+                traveler.features.set_defaults()
         else:
-            FEATURES.set_base()
+            traveler.features.set_base()
             for line in self.content:
                 m = re.match("^:([a-z][-a-z]+):\s+(required|optional)",line)
                 if not m:
@@ -419,12 +331,12 @@ class FieldsDirective(Directive):
                         'Invalid context: syntax error in option to subsequent fields directive. Note that default and auxiliary cannot be used here.',
                         nodes.literal_block(self.block_text, self.block_text), line=self.lineno)
                     return [error]
-                if not FEATURES.defaults.auxiliary.has_key(m.group(1)) and not FEATURES.defaults.optional.has_key(m.group(1))  and not FEATURES.defaults.default.has_key(m.group(1)):
+                if not traveler.features.defaults.auxiliary.has_key(m.group(1)) and not traveler.features.defaults.optional.has_key(m.group(1))  and not traveler.features.defaults.default.has_key(m.group(1)):
                     error = self.state_machine.reporter.error(
                         'Invalid context: undefined field in subsequent fields directive. Only fields initially declared as default, optional or auxiliary may be declared. line=%s' % self.lineno,
                         nodes.literal_block(self.block_text, self.block_text), line=self.lineno)
                     return [error]
-                FEATURES.local[m.group(2)] = m.group(1)
+                traveler.features.local[m.group(2)] = m.group(1)
         return []
 
 class GitHubUrl:
@@ -443,6 +355,18 @@ class GitHubUrl:
         return os.path.join(*[gitHubStub,segment] + idlst + ["index.txt"])
 
 
+class LRRUtils:
+    def __init__(self):
+        pass
+
+    def makeContainer(self, classname, rawsource=None, text=None):
+        classnames = classname.split()
+        node = nodes.container(rawsource=rawsource, text=text)
+        for cls in classnames:
+            node.attributes["classes"].append(cls)
+        return node
+
+
 class VariationDirective(Directive):
     required_arguments = 1
     optional_arguments = 0
@@ -451,11 +375,11 @@ class VariationDirective(Directive):
     option_spec = {}
 
     def run (self):
-        traveling_variations[0][self.arguments[0]] = True
+        traveler.variations[self.arguments[0]] = True
         return []
 
 
-class CourtDirective(Directive,GitHubUrl):
+class CourtDirective(Directive,GitHubUrl,LRRUtils):
     required_arguments = 1
     optional_arguments = 0
     final_argument_whitespace = True
@@ -474,33 +398,38 @@ class CourtDirective(Directive,GitHubUrl):
                 nodes.literal_block(self.block_text, self.block_text), line=self.lineno)
             return [error]
 
-        traveling_jurisdiction[0] = self.options["court-id"]
+        traveler.jurisdiction = self.options["court-id"]
         if self.options.has_key("flp-key"):
-            courts_map[self.options["flp-key"]] = self.options["court-id"]
+            traveler.courts_map[self.options["flp-key"]] = self.options["court-id"]
 
-        court_id_node = courtid()
+        court_id_node = self.makeContainer("court-id")
         court_id_bubble = courtbubble(rawsource=self.options['court-id'],text=self.options['court-id'])
         court_id_bubble["href"] = self.mkGitHubUrl("courts",self.options["court-id"])
         court_id_node += court_id_bubble
         court_node = court()
+
         court_text = nodes.inline(rawsource=self.arguments[0],text=self.arguments[0])
+        court_text_wrapper = altwrapper()
+        court_text_wrapper += court_text
+
+        if self.options.has_key("en"):
+            court_text_wrapper["title"] = self.options["en"]
+
         if self.options.has_key("url"):
-            court_ref = titled_reference(refuri=self.options["url"])
-            if self.options.has_key("en"):
-                court_ref["title"] = self.options["en"]
+            court_ref = nodes.reference(refuri=self.options["url"])
             court_link = octiconlink()
             court_ref += court_link
-            court_ref += court_text
+            court_ref += court_text_wrapper
             court_node += court_ref
         else:
-            court_node += court_text
+            court_node += court_text_wrapper
 
-        reporters_node = reporters()
+        reporters_node = self.makeContainer("reporters")
         self.state.nested_parse(self.content, self.content_offset, reporters_node)
 
         return [court_node,court_id_node,reporters_node]
 
-class ReporterDirective(Directive,GitHubUrl):
+class ReporterDirective(Directive,GitHubUrl,LRRUtils):
     required_arguments = 1
     optional_arguments = 0
     final_argument_whitespace = True
@@ -537,7 +466,6 @@ class ReporterDirective(Directive,GitHubUrl):
         return False
 
     def run (self):
-        global reporters_json
         if not self.options.has_key('edition-abbreviation'):
             error = self.state_machine.reporter.error(
                 'Invalid context: missing edition-abbreviation option in reporter directive',
@@ -574,11 +502,11 @@ class ReporterDirective(Directive,GitHubUrl):
 
         if self.options.has_key("flp-common-abbreviation"):
             bundle_key = self.options["flp-common-abbreviation"]
-            if not reporters_json.has_key(bundle_key):
+            if not traveler.reporters_json.has_key(bundle_key):
                 bundle = []
-                reporters_json[self.options["flp-common-abbreviation"]] = bundle
+                traveler.reporters_json[self.options["flp-common-abbreviation"]] = bundle
             else:
-                bundle = reporters_json[bundle_key]
+                bundle = traveler.reporters_json[bundle_key]
             series_name = self.arguments[0]
             edition_key = self.options["edition-abbreviation"]
                 
@@ -591,8 +519,8 @@ class ReporterDirective(Directive,GitHubUrl):
                 series["name"] = series_name
                 series["variations"] = {}
                 bundle.append(series)
-            if not series["mlz_jurisdiction"].count(traveling_jurisdiction[0]):
-                series["mlz_jurisdiction"].append(traveling_jurisdiction[0])
+            if not series["mlz_jurisdiction"].count(traveler.jurisdiction):
+                series["mlz_jurisdiction"].append(traveler.jurisdiction)
                 series["mlz_jurisdiction"].sort()
             if endyear:
                 end = "%02d-%02d-%02dT00:00:00" % (int(endyear),int(endmonth),int(endday))
@@ -608,22 +536,22 @@ class ReporterDirective(Directive,GitHubUrl):
             dummy = nodes.generated()
             self.state.nested_parse(self.content, self.content_offset,
                                     dummy)
-            for key in traveling_variations[0].keys():
-                traveling_variations[0][key] = edition_key
-            series["variations"].update(traveling_variations[0])
-            traveling_variations[0] = {}
+            for key in traveler.variations.keys():
+                traveler.variations[key] = edition_key
+            series["variations"].update(traveler.variations)
+            traveler.variations = {}
 
-        reporter_box_node = reporterbox()
+        reporter_box_node = self.makeContainer("reporter-box")
 
         if self.options.has_key("neutral"):
-            reporter_node = reporterneutral()
+            reporter_node = self.makeContainer("reporter neutral")
         else:
-            reporter_node = reporter()
+            reporter_node = self.makeContainer("reporter")
 
         reporter_name = self.arguments[0].replace("'",u"\u0027")
-        reporter_name_node = reportername(rawsource=self.arguments[0],text=reporter_name)
+        reporter_name_node = self.makeContainer("reporter-name", rawsource=self.arguments[0],text=reporter_name)
 
-        description_node = descriptionbox()
+        description_node = self.makeContainer("description-box")
 
         abbrev = self.makeMiniBubble(self.options["jurisdiction"],self.options["edition-abbreviation"])
         start = self.makeLabelNode(startyearDisplay,key="From")
@@ -644,13 +572,13 @@ class ReporterDirective(Directive,GitHubUrl):
         description_node += neutral
         description_node += confirmed
 
-        feature_node = featurebox()
-        keys = FEATURES.local.required.keys()
+        feature_node = self.makeContainer("feature-box")
+        keys = traveler.features.local.required.keys()
         keys.sort()
         for feature in keys:
             feature_node += self.makeLabelNode(u"req\u0027d",key=feature)
             
-        keys = FEATURES.local.optional.keys()
+        keys = traveler.features.local.optional.keys()
         keys.sort()
         for feature in keys:
             feature_node += self.makeLabelNode("optional",key=feature)
