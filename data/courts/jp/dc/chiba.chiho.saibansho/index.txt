@@ -1,5 +1,5 @@
-
 .. court:: 千葉地方裁判所
+   :en: Chiba District Court
    :court-id: jp;dc;chiba.chiho.saibansho
    :url: http://www.courts.go.jp/chiba/
 

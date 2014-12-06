@@ -1,4 +1,5 @@
 .. court:: 長野家庭裁判所
+   :en: Nagano Family Court
    :court-id: jp;dc;nagano.katei.saibansho
    :url: http://www.courts.go.jp/nagano/
 

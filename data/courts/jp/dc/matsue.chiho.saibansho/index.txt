@@ -1,5 +1,5 @@
-
 .. court:: 松江地方裁判所
+   :en: Matsue District Court
    :court-id: jp;dc;matsue.chiho.saibansho
    :url: http://www.courts.go.jp/matsue/
 

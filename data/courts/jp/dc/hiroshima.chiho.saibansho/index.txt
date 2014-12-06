@@ -1,5 +1,5 @@
-
 .. court:: 広島地方裁判所
+   :en: Hiroshima District Court
    :court-id: jp;dc;hiroshima.chiho.saibansho
    :url: http://www.courts.go.jp/hiroshima/
 

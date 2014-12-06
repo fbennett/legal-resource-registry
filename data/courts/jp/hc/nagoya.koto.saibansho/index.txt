@@ -2,6 +2,7 @@
 .. court:: 名古屋高等裁判所
    :court-id: jp;hc;nagoya.koto.saibansho
    :url: http://www.courts.go.jp/nagoya-h/
+   :en: Nagoya High Court
 
    .. reporter-key:: 高刑集
 

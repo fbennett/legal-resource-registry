@@ -1,5 +1,5 @@
-
 .. court:: 大阪地方裁判所
+   :en: Osaka District Court
    :court-id: jp;dc;osaka.chiho.saibansho
    :url: http://www.courts.go.jp/osaka/
 

@@ -1,4 +1,5 @@
 .. court:: 宇都宮家庭裁判所
+   :en: Utsunomiya Family Court
    :court-id: jp;dc;utsunomiya.katei.saibansho
    :url: http://www.courts.go.jp/utsunomiya
 

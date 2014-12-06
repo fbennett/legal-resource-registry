@@ -1,5 +1,5 @@
-
 .. court:: 那覇地方裁判所
+   :en: Naha District Court
    :court-id: jp;dc;naha.chiho.saibansho
    :url: http://www.courts.go.jp/naha/
 

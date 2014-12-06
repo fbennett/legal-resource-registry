@@ -1,5 +1,5 @@
-
 .. court:: 津地方裁判所
+   :en: Tsu District Court
    :court-id: jp;dc;tsu.chiho.saibansho
    :url: http://www.courts.go.jp/tsu/
 

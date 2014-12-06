@@ -1,4 +1,5 @@
 .. court:: 名古屋家庭裁判所
+   :en: Nagoya Family Court
    :court-id: jp;dc;nagoya.katei.saibansho
    :url: http://www.courts.go.jp/nagoya-f/
 

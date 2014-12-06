@@ -1,4 +1,5 @@
 .. court:: 札幌家庭裁判所
+   :en: Sapporo Family Court
    :court-id: jp;dc;sapporo.katei.saibansho
    :url: http://www.courts.go.jp/sapporo/
 

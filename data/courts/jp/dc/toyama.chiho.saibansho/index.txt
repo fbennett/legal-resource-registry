@@ -1,5 +1,5 @@
-
 .. court:: 富山地方裁判所
+   :en: Toyama District Court
    :court-id: jp;dc;toyama.chiho.saibansho
    :url: http://www.courts.go.jp/toyama/
 

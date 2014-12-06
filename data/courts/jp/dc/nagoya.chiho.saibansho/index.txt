@@ -1,5 +1,5 @@
-
 .. court:: 名古屋地方裁判所
+   :en: Nagoya District Court
    :court-id: jp;dc;nagoya.chiho.saibansho
    :url: http://www.courts.go.jp/nagoya/
 

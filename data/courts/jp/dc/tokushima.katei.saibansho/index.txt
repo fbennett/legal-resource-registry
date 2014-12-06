@@ -1,4 +1,5 @@
 .. court:: 徳島家庭裁判所
+   :en: Tokushima Family Court
    :court-id: jp;dc;tokushima.katei.saibansho
    :url: http://www.courts.go.jp/tokushima/
 

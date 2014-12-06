@@ -1,5 +1,5 @@
-
 .. court:: 鹿児島地方裁判所
+   :en: Kagoshima District Court
    :court-id: jp;dc;kagoshima.chiho.saibansho
    :url: http://www.courts.go.jp/kagoshima/
 

@@ -2,6 +2,7 @@
 .. court:: 高松高等裁判所
    :court-id: jp;hc;takamatsu.koto.saibansho
    :url: http://www.courts.go.jp/takamatsu-h
+   :en: Takamatsu High Court
 
    .. reporter-key:: 高刑集
 

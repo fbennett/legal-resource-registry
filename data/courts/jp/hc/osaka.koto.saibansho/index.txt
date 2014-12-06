@@ -2,6 +2,7 @@
 .. court:: 大阪高等裁判所
    :court-id: jp;hc;osaka.koto.saibansho
    :url: http://www.courts.go.jp/osaka-h/
+   :en: Osaka High Court
 
    .. reporter-key:: 高刑集
 

@@ -1,5 +1,5 @@
-
 .. court:: 山口地方裁判所
+   :en: Yamaguchi District Court
    :court-id: jp;dc;yamaguchi.chiho.saibansho
    :url: http://www.courts.go.jp/yamaguchi/
 

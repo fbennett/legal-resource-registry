@@ -1,5 +1,5 @@
-
 .. court:: 前橋地方裁判所
+   :en: Maebashi District Court
    :court-id: jp;dc;maebashi.chiho.saibansho
    :url: http://www.courts.go.jp/maebashi/
 

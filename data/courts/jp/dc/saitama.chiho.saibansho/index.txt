@@ -1,5 +1,5 @@
-
 .. court:: 埼玉地方裁判所
+   :en: Saitama District Court
    :court-id: jp;dc;saitama.chiho.saibansho
    :url: http://www.courts.go.jp/saitama/
 

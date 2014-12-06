@@ -1,4 +1,5 @@
 .. court:: 鹿児島家庭裁判所
+   :en: Kagoshima Family Court
    :court-id: jp;dc;kagoshima.katei.saibansho
    :url: http://www.courts.go.jp/kagoshima/
 

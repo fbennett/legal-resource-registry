@@ -1,4 +1,5 @@
 .. court:: 山形家庭裁判所
+   :en: Yamagata Family Court
    :court-id: jp;dc;yamagata.katei.saibansho
    :url: http://www.courts.go.jp/yamagata/
 

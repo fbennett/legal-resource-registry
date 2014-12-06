@@ -2,6 +2,7 @@
 .. court:: 福岡高等裁判所
    :court-id: jp;hc;fukuoka.koto.saibansho
    :url: http://www.courts.go.jp/fukuoka-h/
+   :en: Fukuoka High Court
 
    .. reporter-key:: 高刑集
 

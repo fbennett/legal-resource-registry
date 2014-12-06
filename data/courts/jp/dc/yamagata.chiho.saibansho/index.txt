@@ -1,5 +1,5 @@
-
 .. court:: 山形地方裁判所
+   :en: Yamagata District Court
    :court-id: jp;dc;yamagata.chiho.saibansho
    :url: http://www.courts.go.jp/yamagata/
 

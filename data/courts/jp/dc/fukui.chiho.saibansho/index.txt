@@ -1,5 +1,5 @@
-
 .. court:: 福井地方裁判所
+   :en: Fukui District Court
    :court-id: jp;dc;fukui.chiho.saibansho
    :url: http://www.courts.go.jp/fukui
 

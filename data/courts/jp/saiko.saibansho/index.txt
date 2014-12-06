@@ -1,7 +1,8 @@
 
 .. court:: 最高裁判所
    :court-id: jp;supreme.court
-   :url: http://www.courts.go.jp
+   :url: http://www.courts.go.jp/saikosai/index.html
+   :en: Supreme Court
 
    .. reporter-key:: 刑集
 

@@ -1,5 +1,5 @@
-
 .. court::      旭川地方裁判所
+   :en: Asahikawa District Court
    :court-id: jp;dc;asahikawa.chiho.saibansho
    :url: http://www.courts.go.jp/asahikawa/
 

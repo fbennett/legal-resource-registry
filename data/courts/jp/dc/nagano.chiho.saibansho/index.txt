@@ -1,5 +1,5 @@
-
 .. court:: 長野地方裁判所
+   :en: Nagano District Court
    :court-id: jp;dc;nagano.chiho.saibansho
    :url: http://www.courts.go.jp/nagano/
 

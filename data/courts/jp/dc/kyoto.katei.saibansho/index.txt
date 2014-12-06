@@ -1,4 +1,5 @@
 .. court:: 京都家庭裁判所
+   :en: Kyoto Family Court
    :court-id: jp;dc;kyoto.katei.saibansho
    :url: http://www.courts.go.jp/kyoto/
 

@@ -2,6 +2,7 @@
 .. court:: 東京高等裁判所
    :court-id: jp;hc;tokyo.koto.saibansho
    :url: http://www.courts.go.jp/tokyo-h/
+   :en: Tokyo High Court
 
    .. reporter-key:: 高刑集
 

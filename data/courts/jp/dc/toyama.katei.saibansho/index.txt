@@ -1,4 +1,5 @@
 .. court:: 富山家庭裁判所
+   :en: Toyama Family Court
    :court-id: jp;dc;toyama.katei.saibansho
    :url: http://www.courts.go.jp/toyama/
 

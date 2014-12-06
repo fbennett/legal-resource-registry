@@ -1,5 +1,5 @@
-
 .. court:: 盛岡地方裁判所
+   :en: Morioka District Court
    :court-id: jp;dc;morioka.chiho.saibansho
    :url: http://www.courts.go.jp/morioka/
 

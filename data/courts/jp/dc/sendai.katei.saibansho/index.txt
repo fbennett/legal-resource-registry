@@ -1,4 +1,5 @@
 .. court:: 仙台家庭裁判所
+   :en: Sendai Family Court
    :court-id: jp;dc;sendai.katei.saibansho
    :url: http://www.courts.go.jp/sendai/
 

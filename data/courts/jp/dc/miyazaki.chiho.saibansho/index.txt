@@ -1,5 +1,5 @@
-
 .. court:: 宮崎地方裁判所
+   :en: Miyazaki District Court
    :court-id: jp;dc;miyazaki.chiho.saibansho
    :url: http://www.courts.go.jp/miyazaki/
 

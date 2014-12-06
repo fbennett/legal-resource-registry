@@ -1,5 +1,5 @@
-
 .. court:: 青森地方裁判所
+   :en: Aomori District Court
    :court-id: jp;dc;aomori.chiho.saibansho
    :url: http://www.courts.go.jp/aomori/
 

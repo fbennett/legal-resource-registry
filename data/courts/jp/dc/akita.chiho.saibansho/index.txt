@@ -1,5 +1,5 @@
-
 .. court:: 秋田地方裁判所
+   :en: Akita District Court
    :court-id: jp;dc;akita.chiho.saibansho
    :url: http://www.courts.go.jp/akita/
 

@@ -1,4 +1,5 @@
 .. court:: 大分家庭裁判所
+   :en: Oita Family Court
    :court-id: jp;dc;oita.katei.saibansho
    :url: http://www.courts.go.jp/oita/
 

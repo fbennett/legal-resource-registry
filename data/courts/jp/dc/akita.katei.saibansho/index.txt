@@ -1,4 +1,5 @@
 .. court:: 秋田家庭裁判所
+   :en: Akita Family Court
    :court-id: jp;dc;akita.katei.saibansho
    :url: http://www.courts.go.jp/akita/
 

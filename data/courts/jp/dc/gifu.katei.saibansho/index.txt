@@ -1,4 +1,5 @@
 .. court:: 岐阜家庭裁判所
+   :en: Gifu Family Court
    :court-id: jp;dc;gifu.katei.saibansho
    :url: http://www.courts.go.jp/gifu/
 

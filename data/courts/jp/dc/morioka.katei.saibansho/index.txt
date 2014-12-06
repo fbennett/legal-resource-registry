@@ -1,4 +1,5 @@
 .. court:: 盛岡家庭裁判所
+   :en: Morioka Family Court
    :court-id: jp;dc;morioka.katei.saibansho
    :url: http://www.courts.go.jp/morioka/
 

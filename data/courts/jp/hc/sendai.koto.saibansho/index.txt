@@ -2,6 +2,7 @@
 .. court:: 仙台高等裁判所
    :court-id: jp;hc;sendai.koto.saibansho
    :url: http://www.courts.go.jp/sendai-h/
+   :en: Sendai High Court
 
    .. reporter-key:: 高刑集
 

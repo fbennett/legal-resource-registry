@@ -1,5 +1,5 @@
-
 .. court:: 水戸地方裁判所
+   :en: Mito District Court
    :court-id: jp;dc;mito.chiho.saibansho
    :url: http://www.courts.go.jp/mito/
 

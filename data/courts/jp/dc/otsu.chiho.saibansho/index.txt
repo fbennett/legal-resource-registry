@@ -1,5 +1,5 @@
-
 .. court:: 大津地方裁判所
+   :en: Otsu District Court
    :court-id: jp;dc;otsu.chiho.saibansho
    :url: http://www.courts.go.jp/otsu/
 

@@ -1,5 +1,5 @@
-
 .. court:: 仙台地方裁判所
+   :en: Sendai District Court
    :court-id: jp;dc;sendai.chiho.saibansho
    :url: http://www.courts.go.jp/sendai/
 

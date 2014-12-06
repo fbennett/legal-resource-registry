@@ -1,5 +1,5 @@
-
 .. court:: 福岡地方裁判所
+   :en: Fukuoka District Court
    :court-id: jp;dc;fukuoka.chiho.saibansho
    :url: http://www.courts.go.jp/fukuoka/
 

@@ -1,5 +1,5 @@
-
 .. court:: 高知地方裁判所
+   :en: Kochi District Court
    :court-id: jp;dc;kochi.chiho.saibansho
    :url: http://www.courts.go.jp/kouchi/
 

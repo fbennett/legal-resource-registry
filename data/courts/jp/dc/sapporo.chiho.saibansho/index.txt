@@ -1,5 +1,5 @@
-
 .. court:: 札幌地方裁判所
+   :en: Sapporo District Court
    :court-id: jp;dc;sapporo.chiho.saibansho
    :url: http://www.courts.go.jp/sapporo/
 

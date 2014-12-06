@@ -1,4 +1,5 @@
 .. court:: 釧路家庭裁判所
+   :en: Kushiro Family Court
    :court-id: jp;dc;kushiro.katei.saibansho
    :url: http://www.courts.go.jp/kushiro/
 

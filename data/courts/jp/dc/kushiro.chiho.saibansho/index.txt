@@ -1,5 +1,5 @@
-
 .. court:: 釧路地方裁判所
+   :en: Kushiro District Court
    :court-id: jp;dc;kushiro.chiho.saibansho
    :url: http://www.courts.go.jp/kushiro/
 

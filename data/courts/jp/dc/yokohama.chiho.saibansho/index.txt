@@ -1,5 +1,5 @@
-
 .. court:: 横浜地方裁判所
+   :en: Yokohama District Court
    :court-id: jp;dc;yokohama.chiho.saibansho
    :url: http://www.courts.go.jp/yokohama/
 

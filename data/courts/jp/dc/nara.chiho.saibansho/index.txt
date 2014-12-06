@@ -1,5 +1,5 @@
-
 .. court:: 奈良地方裁判所
+   :en: Nara District Court
    :court-id: jp;dc;nara.chiho.saibansho
    :url: http://www.courts.go.jp/nara/
 

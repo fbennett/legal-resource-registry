@@ -1,5 +1,5 @@
-
 .. court:: 松山地方裁判所
+   :en: Matsuyama District Court
    :court-id: jp;dc;matsuyama.chiho.saibansho
    :url: http://www.courts.go.jp/matsuyama/
 

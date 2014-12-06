@@ -1,5 +1,5 @@
-
 .. court:: 熊本地方裁判所
+   :en: Kumamoto District Court
    :court-id: jp;dc;kumamoto.chiho.saibansho
    :url: http://www.courts.go.jp/kumamoto/
 

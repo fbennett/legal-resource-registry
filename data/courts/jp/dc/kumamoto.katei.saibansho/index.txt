@@ -1,4 +1,5 @@
 .. court:: 熊本家庭裁判所
+   :en: Kumamoto Family Court
    :court-id: jp;dc;kumamoto.katei.saibansho
    :url: http://www.courts.go.jp/kumamoto/
 

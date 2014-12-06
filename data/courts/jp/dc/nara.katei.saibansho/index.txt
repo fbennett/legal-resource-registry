@@ -1,4 +1,5 @@
 .. court:: 奈良家庭裁判所
+   :en: Nara Family Court
    :court-id: jp;dc;nara.katei.saibansho
    :url: http://www.courts.go.jp/nara/
 

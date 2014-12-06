@@ -1,5 +1,5 @@
-
 .. court:: 岐阜地方裁判所
+   :en: Gifu District Court
    :court-id: jp;dc;gifu.chiho.saibansho
    :url: http://www.courts.go.jp/gifu/
 

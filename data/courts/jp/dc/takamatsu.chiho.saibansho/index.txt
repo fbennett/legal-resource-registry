@@ -1,5 +1,5 @@
-
 .. court:: 高松地方裁判所
+   :en: Takamatsu District Court
    :court-id: jp;dc;takamatsu.chiho.saibansho
    :url: http://www.courts.go.jp/takamatsu/
 

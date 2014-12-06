@@ -1,5 +1,5 @@
-
 .. court:: 神戸地方裁判所
+   :en: Kobe District Court
    :court-id: jp;dc;kobe.chiho.saibansho
    :url: http://www.courts.go.jp/kobe/
 

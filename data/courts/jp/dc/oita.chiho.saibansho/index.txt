@@ -1,5 +1,5 @@
-
 .. court:: 大分地方裁判所
+   :en: Oita District Court
    :court-id: jp;dc;oita.chiho.saibansho
    :url: http://www.courts.go.jp/oita/
 

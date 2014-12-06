@@ -1,4 +1,5 @@
 .. court:: 水戸家庭裁判所
+   :en: Mito Family Court
    :court-id: jp;dc;mito.katei.saibansho
    :url: http://www.courts.go.jp/mito/
 

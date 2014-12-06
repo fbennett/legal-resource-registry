@@ -1,4 +1,5 @@
 .. court:: 埼玉家庭裁判所
+   :en: Saitama Family Court
    :court-id: jp;dc;saitama.katei.saibansho
    :url: http://www.courts.go.jp/saitama/
 

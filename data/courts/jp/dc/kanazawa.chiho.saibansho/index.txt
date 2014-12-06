@@ -1,5 +1,5 @@
-
 .. court:: 金沢地方裁判所
+   :en: Kanazawa District Court
    :court-id: jp;dc;kanazawa.chiho.saibansho
    :url: http://www.courts.go.jp/kanazawa/
 

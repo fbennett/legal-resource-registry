@@ -1,5 +1,5 @@
-
 .. court:: 宇都宮地方裁判所
+   :en: Utsunomiya District Court
    :court-id: jp;dc;utsunomiya.chiho.saibansho
    :url: http://www.courts.go.jp/utsunomiya
 

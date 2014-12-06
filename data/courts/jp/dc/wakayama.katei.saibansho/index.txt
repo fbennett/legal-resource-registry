@@ -1,4 +1,5 @@
 .. court:: 和歌山家庭裁判所
+   :en: Wakayama Family Court
    :court-id: jp;dc;wakayama.katei.saibansho
    :url: http://www.courts.go.jp/wakayama/
 

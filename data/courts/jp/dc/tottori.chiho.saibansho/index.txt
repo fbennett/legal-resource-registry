@@ -1,5 +1,5 @@
-
 .. court:: 鳥取地方裁判所
+   :en: Tottori District Court
    :court-id: jp;dc;tottori.chiho.saibansho
    :url: http://www.courts.go.jp/tottori/
 

@@ -1,5 +1,5 @@
-
 .. court:: 東京地方裁判所
+   :en: Tokyo District Court
    :court-id: jp;dc;tokyo.chiho.saibansho
    :url: http://www.courts.go.jp/tokyo/
 

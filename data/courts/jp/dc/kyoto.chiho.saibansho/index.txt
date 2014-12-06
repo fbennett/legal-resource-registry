@@ -1,5 +1,5 @@
-
 .. court:: 京都地方裁判所
+   :en: Kyoto District Court
    :court-id: jp;dc;kyoto.chiho.saibansho
    :url: http://www.courts.go.jp/kyoto/
 

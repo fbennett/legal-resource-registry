@@ -1,5 +1,5 @@
-
 .. court:: 函館地方裁判所
+   :en: Hakodate District Court
    :court-id: jp;dc;hakodate.chiho.saibansho
    :url: http://www.courts.go.jp/hakodate/
 

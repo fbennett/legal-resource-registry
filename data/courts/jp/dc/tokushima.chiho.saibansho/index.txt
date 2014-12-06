@@ -1,5 +1,5 @@
-
 .. court:: 徳島地方裁判所
+   :en: Tokushima District Court
    :court-id: jp;dc;tokushima.chiho.saibansho
    :url: http://www.courts.go.jp/tokushima/
 

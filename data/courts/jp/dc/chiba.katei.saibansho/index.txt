@@ -1,4 +1,5 @@
 .. court:: 千葉家庭裁判所
+   :en: Chiba Family Court
    :court-id: jp;dc;chiba.katei.saibansho
    :url: http://www.courts.go.jp/chiba/
 

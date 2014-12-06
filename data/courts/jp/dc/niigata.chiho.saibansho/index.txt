@@ -1,5 +1,5 @@
-
 .. court:: 新潟地方裁判所
+   :en: Niigata District Court
    :court-id: jp;dc;niigata.chiho.saibansho
    :url: http://www.courts.go.jp/niigata/
 

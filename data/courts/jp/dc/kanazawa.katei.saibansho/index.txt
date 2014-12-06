@@ -1,4 +1,5 @@
 .. court:: 金沢家庭裁判所
+   :en: Kanazawa Family Court
    :court-id: jp;dc;kanazawa.katei.saibansho
    :url: http://www.courts.go.jp/kanazawa/
 

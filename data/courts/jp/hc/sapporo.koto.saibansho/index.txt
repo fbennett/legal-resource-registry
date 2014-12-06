@@ -2,6 +2,7 @@
 .. court:: 札幌高等裁判所
    :court-id: jp;hc;sapporo.koto.saibansho
    :url: http://www.courts.go.jp/sapporo-h/
+   :en: Sapporo High Court
 
    .. reporter-key:: 高刑集
 

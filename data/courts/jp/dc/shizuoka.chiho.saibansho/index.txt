@@ -1,5 +1,5 @@
-
 .. court:: 静岡地方裁判所
+   :en: Shizuoka District Court
    :court-id: jp;dc;shizuoka.chiho.saibansho
    :url: http://www.courts.go.jp/shizuoka/
 
