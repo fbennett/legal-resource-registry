@@ -23,5 +23,6 @@ view.
 .. container:: bubbles
 
    `United States Courts <us-courts/index.html>`_
+   `United States (neutral citation) <us-neutral.html>`_
    `Japanese Courts <jp-courts/index.html>`_
 
