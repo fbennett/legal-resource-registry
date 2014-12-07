@@ -3,6 +3,7 @@
 '''
 
 import json
+from LRR.traveler import Opt
 
 class Data:
     def __init__(self):
@@ -17,6 +18,8 @@ class Hook:
     
     def __init__(self):
         self.data = Data()
+        self.opt = Opt()
+        self.opt.jurisdiction = "us"
 
     def variation(self, arg):
         self.data.variations[arg] = True

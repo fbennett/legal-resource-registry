@@ -53,16 +53,16 @@ class Features:
 
 class Data:
     def __init__(self):
-        self.variations = {}
+        pass
+
+class Opt:
+    def __init__(self):
         self.jurisdiction = None
-        self.courts_map = {}
-        self.reporters_json = {}
-        self.series = None
-        self.edition_key = None
 
 class Hook:
     def __init__(self):
         self.data = Data()
+        self.opt = Opt()
         self.court = None
         self.reporter_start = None
         self.reporter_end = None
@@ -72,13 +72,12 @@ class Hook:
 class Traveler(Utils):
     def __init__(self):
         self.features = Features()
-        self.reporters_json = {}
-        self.courts_map = {}
-        self.jurisdiction = []
-        self.variations = {}
         self.gitHubStub = "https://github.com/fbennett/legal-resource-registry/tree/master/data"
         self.rootPath = self.getRootPath()
         self.hook = Hook()
+
+    def setJurisdiction(self, jurisdiction):
+        self.opt.jurisdiction = jurisdiction
 
     def setHook(self, plugin_name):
 

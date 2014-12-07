@@ -298,7 +298,10 @@ if __name__ == "__main__":
     if opt.plugin:
         traveler.setHook(opt.plugin)
 
-    pageEngine = PageEngine(writePages=opt.writePages,jurisdiction=opt.jurisdiction)
+    jurisdiction = opt.jurisdiction
+    if jurisdiction == None:
+        jurisdiction = traveler.hook.opt.jurisdiction
+    pageEngine = PageEngine(writePages=opt.writePages,jurisdiction=jurisdiction)
     try:
         pageEngine.getSpec()
     except IndentSyntaxException as err:
