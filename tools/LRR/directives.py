@@ -6,21 +6,21 @@ import re
 
 from docutils import nodes, statemachine
 from docutils.parsers.rst import directives, Directive
-from paths import PathTool
 from utils import Utils
 from traveler import Traveler
 from nodes import *
 
 traveler = Traveler()
 
-class JurisdictionDirective(Directive,PathTool):
+
+class JurisdictionDirective(Directive,Utils):
     required_arguments = 1
     optional_arguments = 0
     has_content = False
     option_spec = {}
 
     def run (self):
-        pth = self.courtPathFromJurisdiction(self.arguments[0])
+        pth = self.courtPathFromJurisdiction(traveler.rootPath, self.arguments[0])
         rawlines = ""
         ifh = open(pth)
         while 1:
@@ -28,12 +28,10 @@ class JurisdictionDirective(Directive,PathTool):
             if not line: break
             if nodes.whitespace_normalize_name(line).startswith(".. reporter-key::"):
                 reporter_key = re.sub("\.\.\s+reporter-key::\s*","",line).strip()
-                try:
-                    pth = self.reporterPathFromJurisdiction(self.arguments[0],reporter_key)
-                except reporterPathException as err:
-                    print "ERROR: cannot fine reporter for %s + %s" % (err.jurisdiction,err.reporterKey)
-                    sys.exit()
+                pth = self.reporterPathFromJurisdiction(traveler.rootPath,self.arguments[0],reporter_key)
                 newlines = open(pth).read()
+                if traveler.hook.opt.condition and not self.checkCondition(traveler, newlines):
+                    continue
                 newlines = newlines.split("\n")
                 for i in range(0,len(newlines),1):
                     newlines[i] = re.sub("^(\s*)(\.\.\s+reporter::.*)","\\1\\2\n\\1      :jurisdiction: %s" % self.arguments[0],newlines[i])

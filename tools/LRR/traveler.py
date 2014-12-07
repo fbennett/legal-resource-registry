@@ -58,6 +58,8 @@ class Data:
 class Opt:
     def __init__(self):
         self.jurisdiction = None
+        self.condition = None
+        self.pagename = None
 
 class Hook:
     def __init__(self):

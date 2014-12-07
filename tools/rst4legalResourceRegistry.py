@@ -30,11 +30,6 @@ directives.register_directive("jurisdiction", JurisdictionDirective)
 directives.register_directive("court", CourtDirective)
 roles.register_local_role("trans", role_trans)
 
-class reporterPathException(Exception):
-    def __init__(self,jurisdiction,reporterKey):
-        self.jurisdiction = jurisdiction
-        self.reporterKey = reporterKey
-
 class WriterForLegalCitem(Writer):
     def __init__(self):
         Writer.__init__(self)

@@ -2,13 +2,47 @@
    Utility methods for Legal Resource Registry
 '''
 
-import os,sys
+import os,sys, re
 from docutils import nodes
+#from directives import traveler
 
+class reporterPathException(Exception):
+    def __init__(self,jurisdiction,reporterKey):
+        self.jurisdiction = jurisdiction
+        self.reporterKey = reporterKey
 
 class Utils:
     def __init__(self):
         pass
+
+    def courtPathFromJurisdiction(self,rootPath,arg):
+        pthlst = [rootPath,"data","courts"]
+        pthlst.extend(arg.split(";"))
+        pthlst.append("index.txt")
+        pth = os.path.join(*pthlst)
+        return pth
+
+    def reporterPathFromJurisdiction(self,rootPath,jurisdiction,reporterKey):
+        try:
+            pthlst = ["data","reporters"]
+            pthlst.extend(jurisdiction.split(";"))
+        # Drill down
+            for i in range(2,len(pthlst),1):
+                pth = os.path.join(*pthlst[0:i+1])
+                filepth = os.path.join(rootPath,pth,reporterKey,"index.txt")
+                if os.path.exists(filepth):
+                    return filepth
+            raise reporterPathException(jurisdiction,reporterKey)
+        except reporterPathException as err:
+            print "ERROR: cannot find reporter for %s + %s" % (err.jurisdiction,err.reporterKey)
+            sys.exit()
+
+    # Conditions are and-ed if there is more than one
+    def checkCondition(self, traveler, newlines):
+        for key in traveler.hook.opt.condition.keys():
+            if not re.match("(?sm).*:%s:.*" % key, newlines):
+                return False
+        return True
 
     def makeContainer(self, classname, rawsource=None, text=None, suffix="\n"):
         classnames = classname.split()

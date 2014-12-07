@@ -4,7 +4,7 @@ import re,sys,os,os.path,json
 
 from docutils.core import publish_string
 from rst4legalResourceRegistry import WriterForLegalCitem, traveler
-from LRR import traveler
+from LRR import traveler, Utils
 
 pth = os.path.split(sys.argv[0])[0]
 pth = os.path.join(pth,"..")
@@ -127,13 +127,14 @@ class PageSource:
         self.rst += "\n.. jurisdiction:: %s" % page_name
 
 
-class PageEngine:
-    def __init__(self, writePages=False,jurisdiction=None):
+class PageEngine(Utils):
+    def __init__(self, writePages=False, jurisdiction=None, condition=None):
         specpth = os.path.join(pth,"doc-src","pages.txt")
         self.input = open(specpth)
         self.source = {}
         self.writePages = writePages
         self.jurisdiction = jurisdiction
+        self.condition = condition
 
     def hasCurrent(self):
         return self.source.has_key(self.stack.current)
@@ -147,46 +148,41 @@ class PageEngine:
     def parent(self):
         return self.source[self.stack.parent]
 
+    def checkReporters(self, pth, page_name):
+        ifh = open(pth)
+        while True:
+            lline = ifh.readline()
+            if not lline: break
+            m = re.match("\s*\.\. reporter-key::\s+(.*)", lline)
+            if m:
+                pth = self.reporterPathFromJurisdiction(traveler.rootPath, page_name, m.group(1))
+                txt = open(pth).read()
+                if self.checkCondition(traveler, txt):
+                    ifh.close()
+                    return True
+        ifh.close()
+        return False
+        # Get court page
+        # Get reporter
+        # Evaluate condition
+
     def getSpec(self):
         self.stack = jurisdictionStack()
         lineno = 0
-        # XXX Somehow this needs to flag parent nodes for retention
-        # XXX when they conform to a jurisdiction constraint, and
-        # XXX finally delete all nodes that don't fall within the
-        # XXX constraint.
-        # XXX
-        # XXX Difficult to do when we are just banging pages into
-        # XXX a key-based collector. We need hierarchy for this.
-        # XXX Or at least virtual hierarchy -- which we do have,
-        # XXX don't we. We just need to know when we've hit the
-        # XXX ceiling. Or, not. The parent() method only gets the
-        # XXX parent of the currently rendered page. It can't be
-        # XXX used to crawl up the hierarchy, so it's not useful
-        # XXX for this. We're going to need to re-engineer this.
-        # XXX
-        # XXX Maybe it will do to share a toggle down the
-        # XXX chain, and set it True when we hit a matching
-        # XXX jurisdiction. From explicit header to jurisdiction
-        # XXX spec is a one-way shift, so that should work,
-        # XXX actually. Um ... no. There could be a following
-        # XXX sibling to a jurisdiction spec, and that parent
-        # XXX page would need its own independent toggle.
-        # XXX
-        # XXX Can't escape from the need to set content in a
-        # XXX navigable hierarchy. It's the only way to be sure.
-        # XXX
-        # XXX Oh, wait! The stack does reflect the full
+        # XXX The stack reflects the full
         # XXX hierarchy to the top. Each stack slice gives
         # XXX us a source address, and we can set the rendering
         # XXX toggle there. It's a bit jury-rigged from an OO
-        # XXX perspective, but it will work without refactoring.
+        # XXX perspective, but it works.
         while 1:
             line = self.input.readline()
             if not line: break
             line = line.rstrip()
             lineno += 1
             lineInfo = LineInfo(lineno,line)
+
             self.stack.setLevelForPage(lineInfo.level,lineInfo.page_name)
+
             if lineInfo.line_type == "bubblePage":
                 if not self.hasCurrent():
                     self.initPageSource()
@@ -199,17 +195,27 @@ class PageEngine:
                 if lineInfo.level:
                     self.parent().addBubble(lineInfo.title,self.stack.current_url,title_en=lineInfo.title_en)
             elif lineInfo.line_type == "detailsPage":
+
                 self.parent().addBubble(lineInfo.title,self.stack.current_url,title_en=lineInfo.title_en)
+
                 if not self.hasCurrent():
                     self.initPageSource()
-                    self.current().setTopmatter()
-                    self.current().setTitle(self.parent().title,title_en=self.parent().title_en)
-                    self.current().setDraft()
-                    self.current().setCredits()
-                    self.current().setBackref(self.stack.backtrack_path,"../index.html")
+                    if not self.condition:
+                        self.current().setTopmatter()
+                        self.current().setTitle(self.parent().title,title_en=self.parent().title_en)
+                        self.current().setDraft()
+                        self.current().setCredits()
+                        self.current().setBackref(self.stack.backtrack_path,"../index.html")
                     self.current().setJurisdiction(lineInfo.page_name)
                     if self.jurisdiction:
                         self.checkJurisdiction(lineInfo.page_name)
+
+                    # When a condition is imposed, append page content to single-page source string.
+                    if self.condition:
+                        pth = self.courtPathFromJurisdiction(traveler.rootPath, lineInfo.page_name)
+                        if self.checkReporters(pth, lineInfo.page_name):
+                            traveler.hook.data.single_page += self.current().rst + "\n\n"
+
             elif not line:
                 continue
             else:
@@ -254,6 +260,9 @@ class PageEngine:
         os.chdir(os.path.join(pth,"doc-src"))
         self.publishPage("index.html",src)
         os.chdir(pwd)
+        if self.condition:
+            self.publishPage(traveler.hook.opt.pagename,traveler.hook.data.single_page)
+            return
         for key in self.source.keys():
             if not self.source[key].processMe:
                 continue
@@ -301,7 +310,12 @@ if __name__ == "__main__":
     jurisdiction = opt.jurisdiction
     if jurisdiction == None:
         jurisdiction = traveler.hook.opt.jurisdiction
-    pageEngine = PageEngine(writePages=opt.writePages,jurisdiction=jurisdiction)
+
+    condition = None
+    if traveler.hook.opt.condition:
+        condition = traveler.hook.opt.condition
+
+    pageEngine = PageEngine(writePages=opt.writePages, jurisdiction=jurisdiction, condition=condition)
     try:
         pageEngine.getSpec()
     except IndentSyntaxException as err:
