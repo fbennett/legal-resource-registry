@@ -218,7 +218,7 @@ class PageEngine:
 
     def checkJurisdiction(self, jurisdiction):
         if jurisdiction[0:len(self.jurisdiction)] == self.jurisdiction:
-            for i in range(1,len(self.stack.stack),1):
+            for i in range(1,len(self.stack.stack)+1,1):
                 key = os.path.join(*self.stack.stack[0:i] + ["index.html"])
                 self.source[key].processMe = True
         
@@ -255,7 +255,8 @@ class PageEngine:
         self.publishPage("index.html",src)
         os.chdir(pwd)
         for key in self.source.keys():
-            if not self.source[key].processMe: continue
+            if not self.source[key].processMe:
+                continue
             if self.writePages:
                 sys.stdout.write("+")
             else:
