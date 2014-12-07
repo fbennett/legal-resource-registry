@@ -91,5 +91,5 @@ class Hook:
             for series in bundle:
                 series["mlz_jurisdiction"].sort()
 
-        open("reporters-db.json","w+").write(json.dumps(self.data.reporters_json,indent=2,sort_keys=True))
-        open("courts-map-flp.json","w+").write(json.dumps(self.data.courts_map,indent=2,sort_keys=True))
+        open("reporters.json","w+").write(json.dumps(self.data.reporters_json,indent=2,sort_keys=True))
+        open("court-map.json","w+").write(json.dumps(self.data.courts_map,indent=2,sort_keys=True))
