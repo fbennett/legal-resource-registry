@@ -80,10 +80,14 @@ class jurisdictionStack:
         self.backtrack_path = os.path.join(*[".."] * len(self.stack))
 
 class PageSource:
-    def __init__(self):
+    def __init__(self, jurisdiction):
         self.title = None
         self.title_en = None
         self.rst = ""
+        if jurisdiction:
+            self.processMe = False
+        else:
+            self.processMe = True
 
     def setTopmatter(self):
         self.rst += ".. include:: %s\n\n" % os.path.join(pth,"doc-src","fields.rst")
@@ -124,16 +128,18 @@ class PageSource:
 
 
 class PageEngine:
-    def __init__(self):
+    def __init__(self, writePages=False,jurisdiction=None):
         specpth = os.path.join(pth,"doc-src","pages.txt")
         self.input = open(specpth)
         self.source = {}
+        self.writePages = writePages
+        self.jurisdiction = jurisdiction
 
     def hasCurrent(self):
         return self.source.has_key(self.stack.current)
 
     def initPageSource(self):
-        self.source[self.stack.current] = PageSource()
+        self.source[self.stack.current] = PageSource(self.jurisdiction)
 
     def current(self):
         return self.source[self.stack.current]
@@ -144,6 +150,36 @@ class PageEngine:
     def getSpec(self):
         self.stack = jurisdictionStack()
         lineno = 0
+        # XXX Somehow this needs to flag parent nodes for retention
+        # XXX when they conform to a jurisdiction constraint, and
+        # XXX finally delete all nodes that don't fall within the
+        # XXX constraint.
+        # XXX
+        # XXX Difficult to do when we are just banging pages into
+        # XXX a key-based collector. We need hierarchy for this.
+        # XXX Or at least virtual hierarchy -- which we do have,
+        # XXX don't we. We just need to know when we've hit the
+        # XXX ceiling. Or, not. The parent() method only gets the
+        # XXX parent of the currently rendered page. It can't be
+        # XXX used to crawl up the hierarchy, so it's not useful
+        # XXX for this. We're going to need to re-engineer this.
+        # XXX
+        # XXX Maybe it will do to share a toggle down the
+        # XXX chain, and set it True when we hit a matching
+        # XXX jurisdiction. From explicit header to jurisdiction
+        # XXX spec is a one-way shift, so that should work,
+        # XXX actually. Um ... no. There could be a following
+        # XXX sibling to a jurisdiction spec, and that parent
+        # XXX page would need its own independent toggle.
+        # XXX
+        # XXX Can't escape from the need to set content in a
+        # XXX navigable hierarchy. It's the only way to be sure.
+        # XXX
+        # XXX Oh, wait! The stack does reflect the full
+        # XXX hierarchy to the top. Each stack slice gives
+        # XXX us a source address, and we can set the rendering
+        # XXX toggle there. It's a bit jury-rigged from an OO
+        # XXX perspective, but it will work without refactoring.
         while 1:
             line = self.input.readline()
             if not line: break
@@ -172,11 +208,20 @@ class PageEngine:
                     self.current().setCredits()
                     self.current().setBackref(self.stack.backtrack_path,"../index.html")
                     self.current().setJurisdiction(lineInfo.page_name)
+                    if self.jurisdiction:
+                        self.checkJurisdiction(lineInfo.page_name)
             elif not line:
                 continue
             else:
                 raise GeneralSyntaxException(lineno)
         self.input.close()
+
+    def checkJurisdiction(self, jurisdiction):
+        if jurisdiction[0:len(self.jurisdiction)] == self.jurisdiction:
+            for i in range(1,len(self.stack.stack),1):
+                key = os.path.join(*self.stack.stack[0:i] + ["index.html"])
+                self.source[key].processMe = True
+        
 
     def publishPage(self,key,src):
         pubpath = os.path.join(pth,"public",key)
@@ -198,7 +243,8 @@ class PageEngine:
             "embed_stylesheet": False
             }
         html = publish_string(src, reader=None, reader_name='standalone', writer=writer, settings_overrides=options)
-        open(pubpath,"w+").write(html)
+        if self.writePages:
+            open(pubpath,"w+").write(html)
         
 
     def dumpPages(self):
@@ -209,7 +255,11 @@ class PageEngine:
         self.publishPage("index.html",src)
         os.chdir(pwd)
         for key in self.source.keys():
-            sys.stdout.write(".")
+            if not self.source[key].processMe: continue
+            if self.writePages:
+                sys.stdout.write("+")
+            else:
+                sys.stdout.write("-")
             sys.stdout.flush()
             self.publishPage(key,self.source[key].rst)
         sys.stdout.write("\n")
@@ -230,6 +280,13 @@ if __name__ == "__main__":
     parser.add_option("-P", "--plugin", dest="plugin",
                       default=None,
                       help='Process data using PLUGIN module.')
+    parser.add_option("-w", "--write-pages", dest="writePages",
+                      default=False,
+                      action="store_true",
+                      help='Write page ouput (default is False).')
+    parser.add_option("-j", "--jurisdiction", dest="jurisdiction",
+                      default=None,
+                      help='Limit processing to specified jurisdiction.')
 
     (opt, args) = parser.parse_args()
 
@@ -240,7 +297,7 @@ if __name__ == "__main__":
     if opt.plugin:
         traveler.setHook(opt.plugin)
 
-    pageEngine = PageEngine()
+    pageEngine = PageEngine(writePages=opt.writePages,jurisdiction=opt.jurisdiction)
     try:
         pageEngine.getSpec()
     except IndentSyntaxException as err:
