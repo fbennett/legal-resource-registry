@@ -4,6 +4,7 @@ import re,sys,os,os.path,json
 
 from docutils.core import publish_string
 from rst4legalResourceRegistry import WriterForLegalCitem, traveler
+from LRR import traveler
 
 pth = os.path.split(sys.argv[0])[0]
 pth = os.path.join(pth,"..")
@@ -183,6 +184,7 @@ class PageEngine:
             os.makedirs(os.path.split(pubpath)[0])
         except:
             pass
+        # Soft reset
         traveler.features.reset()
         writer = WriterForLegalCitem()
         keylst = key.split("/")
@@ -233,11 +235,13 @@ if __name__ == "__main__":
         else:
             return 0
 
+    # XXX FLP
     for key in traveler.reporters_json.keys():
         bundle = traveler.reporters_json[key]
         bundle.sort(sortrep)
         for series in bundle:
             series["mlz_jurisdiction"].sort()
 
+    # XXX FLP
     open("reporters-db/reporters-db.json","w+").write(json.dumps(traveler.reporters_json,indent=2,sort_keys=True))
     open("courts-map-flp.json","w+").write(json.dumps(traveler.courts_map,indent=2,sort_keys=True))

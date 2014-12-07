@@ -2,6 +2,9 @@
 
 import sys,os,os.path,re,json
 
+print "Legacy script: disabled"
+sys.exit()
+
 scriptpath = os.path.dirname(sys.argv[0])
 rootpath = os.path.join(scriptpath,os.path.pardir)
 rootpath = os.path.abspath(rootpath)
