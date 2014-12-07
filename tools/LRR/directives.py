@@ -151,7 +151,7 @@ class CourtDirective(Directive,Utils):
 
         court_id_node = self.makeContainer("court-id")
         court_id_bubble = courtbubble(rawsource=self.options['court-id'],text=self.options['court-id'])
-        court_id_bubble["href"] = self.mkGitHubUrl(traveler.gitHubStub,"courts",self.options["court-id"])
+        court_id_bubble["href"] = self.mkGitHubUrl(traveler,"courts",self.options["court-id"])
         court_id_node += court_id_bubble
         court_node = court()
 
@@ -175,6 +175,17 @@ class CourtDirective(Directive,Utils):
         self.state.nested_parse(self.content, self.content_offset, reporters_node)
 
         return [court_node,court_id_node,reporters_node]
+
+class Dates:
+    def __init__(self):
+        self.startYearDisplay = None
+        self.startYear = None
+        self.startMonth = None
+        self.startDay = None
+        self.endYearDisplay = None
+        self.endYear = None
+        self.endMonth = None
+        self.endDay = None
 
 class ReporterDirective(Directive,Utils):
     required_arguments = 1
@@ -203,10 +214,11 @@ class ReporterDirective(Directive,Utils):
 
     def makeMiniBubble(self,jurisdiction,abbrev):
         node = minibubble(rawsource=abbrev,text=abbrev)
-        node["href"] =  self.mkGitHubUrl(traveler.gitHubStub,"reporters",jurisdiction + ";" + abbrev)
+        node["href"] =  self.mkGitHubUrl(traveler,"reporters",jurisdiction + ";" + abbrev)
         return node
 
     def run (self):
+        dates = Dates()
         if not self.options.has_key('edition-abbreviation'):
             error = self.state_machine.reporter.error(
                 'Invalid context: missing edition-abbreviation option in reporter directive',
@@ -224,25 +236,25 @@ class ReporterDirective(Directive,Utils):
                 nodes.literal_block(self.block_text, self.block_text), line=self.lineno)
             return [error]
 
-        startyearDisplay = m.group(1)
-        startyear = m.group(1)
-        startmonth = m.group(2)
-        startday = m.group(3)
+        dates.startYearDisplay = m.group(1)
+        dates.startYear = m.group(1)
+        dates.startMonth = m.group(2)
+        dates.startDay = m.group(3)
         if m.group(4):
-            endyear = m.group(4)
-            endyearDisplay = m.group(4)
-            endmonth = m.group(5)
-            endday = m.group(6)
+            dates.endYear = m.group(4)
+            dates.endYearDisplay = m.group(4)
+            dates.endMonth = m.group(5)
+            dates.endDay = m.group(6)
         else:
-            endyearDisplay = m.group(7)
-            endyear = False
-            endmonth = False
-            endday = False
+            dates.endYearDisplay = m.group(7)
+            dates.endYear = False
+            dates.endMonth = False
+            dates.endDay = False
 
         ## Save segments as short names to avoid going crazy.
 
         if traveler.hook.reporter_start:
-            traveler.hook.reporter_start(self.arguments[0],self.options)
+            traveler.hook.reporter_start(dates,self.arguments[0],self.options)
         
         # That's everything but variations, which are handled by the directive.
         dummy = nodes.generated()
@@ -265,8 +277,8 @@ class ReporterDirective(Directive,Utils):
         description_node = self.makeContainer("description-box",suffix="")
 
         abbrev = self.makeMiniBubble(self.options["jurisdiction"],self.options["edition-abbreviation"])
-        start = self.makeLabelNode(startyearDisplay,key="From")
-        end = self.makeLabelNode(endyearDisplay,key="To")
+        start = self.makeLabelNode(dates.startYearDisplay,key="From")
+        end = self.makeLabelNode(dates.endYearDisplay,key="To")
         if self.options.has_key("neutral"):
             neutral =  self.makeLabelNode("yes",key="Neutral",nodeType=valueneutral)
         else:

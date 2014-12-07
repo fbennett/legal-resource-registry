@@ -2,6 +2,9 @@
   Traveling object for Legal Resource Registry
 '''
 
+import imp,os,re
+from utils import Utils
+
 class Defaults:
     def __init__(self):
         self.required = {}
@@ -65,7 +68,7 @@ class Hook:
         self.reporter_end = None
         self.variation = None
 
-class Traveler:
+class Traveler(Utils):
     def __init__(self):
         self.features = Features()
         self.reporters_json = {}
@@ -73,6 +76,22 @@ class Traveler:
         self.jurisdiction = []
         self.variations = {}
         self.gitHubStub = "https://github.com/fbennett/legal-resource-registry/tree/master/data"
+        self.rootPath = self.getRootPath()
         self.hook = Hook()
 
+    def setHook(self, plugin_name):
 
+        class_inst = None
+        expected_class = 'Hook'
+
+        plugin_name = re.sub("\.(?:py|pyc)$", "", plugin_name)
+
+        pathname = os.path.join(self.rootPath, "tools", "%s.py" % plugin_name)
+
+        py_mod = imp.load_source(plugin_name, pathname)
+
+        if hasattr(py_mod, expected_class):
+            class_inst = getattr(py_mod, expected_class)()
+            self.hook = class_inst
+        else:
+            print "Module %s not found." % expected_class

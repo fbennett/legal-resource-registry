@@ -217,6 +217,29 @@ class PageEngine:
 
 if __name__ == "__main__":
 
+    from ConfigParser import ConfigParser
+    from optparse import OptionParser
+
+    os.environ['LANG'] = "en_US.UTF-8"
+
+    usage = '\n%prog [option]'
+
+    description="Render website and export from Legal Resource Registry."
+
+    parser = OptionParser(usage=usage,description=description,epilog="Happy hacking!")
+    parser.add_option("-P", "--plugin", dest="plugin",
+                      default=None,
+                      help='Process data using PLUGIN module.')
+
+    (opt, args) = parser.parse_args()
+
+    if len(args):
+        print "This script accepts only a single option: --plugin"
+        sys.exit()
+
+    if opt.plugin:
+        traveler.setHook(opt.plugin)
+
     pageEngine = PageEngine()
     try:
         pageEngine.getSpec()
@@ -227,21 +250,5 @@ if __name__ == "__main__":
         
     pageEngine.dumpPages()
 
-    def sortrep(a,b):
-        if a["name"] > b["name"]:
-            return 1
-        elif a["name"] < b["name"]:
-            return -1
-        else:
-            return 0
-
-    # XXX FLP
-    for key in traveler.reporters_json.keys():
-        bundle = traveler.reporters_json[key]
-        bundle.sort(sortrep)
-        for series in bundle:
-            series["mlz_jurisdiction"].sort()
-
-    # XXX FLP
-    open("reporters-db/reporters-db.json","w+").write(json.dumps(traveler.reporters_json,indent=2,sort_keys=True))
-    open("courts-map-flp.json","w+").write(json.dumps(traveler.courts_map,indent=2,sort_keys=True))
+    if traveler.hook.export:
+        traveler.hook.export()

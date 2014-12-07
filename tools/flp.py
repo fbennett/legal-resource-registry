@@ -2,6 +2,8 @@
    Legal Resource Registry export config module for Free Law Project
 '''
 
+import json
+
 class Data:
     def __init__(self):
         self.variations = {}
@@ -25,7 +27,7 @@ class Hook:
         if options.has_key("flp-key"):
             self.data.courts_map[options["flp-key"]] = options["court-id"]
 
-    def reporter_start(self, arg, options):
+    def reporter_start(self, dates, arg, options):
         if options.has_key("flp-common-abbreviation"):
             bundle_key = options["flp-common-abbreviation"]
             if not self.data.reporters_json.has_key(bundle_key):
@@ -48,13 +50,13 @@ class Hook:
             if not series["mlz_jurisdiction"].count(self.data.jurisdiction):
                 series["mlz_jurisdiction"].append(self.data.jurisdiction)
                 series["mlz_jurisdiction"].sort()
-            if endyear:
-                end = "%02d-%02d-%02dT00:00:00" % (int(endyear),int(endmonth),int(endday))
+            if dates.endYear:
+                end = "%02d-%02d-%02dT00:00:00" % (int(dates.endYear),int(dates.endMonth),int(dates.endDay))
             else:
                 end = None
             series["editions"][edition_key] = {
                 "end": end,
-                "start": "%02d-%02d-%02dT00:00:00" % (int(startyear),int(startmonth),int(startday))
+                "start": "%02d-%02d-%02dT00:00:00" % (int(dates.startYear),int(dates.startMonth),int(dates.startDay))
                 }
             self.data.series = series
             self.data.edition_key = edition_key
@@ -74,3 +76,20 @@ class Hook:
                 return series
         return False
 
+    def export(self):
+        def sortrep(a,b):
+            if a["name"] > b["name"]:
+                return 1
+            elif a["name"] < b["name"]:
+                return -1
+            else:
+                return 0
+
+        for key in self.data.reporters_json.keys():
+            bundle = self.data.reporters_json[key]
+            bundle.sort(sortrep)
+            for series in bundle:
+                series["mlz_jurisdiction"].sort()
+
+        open("reporters-db.json","w+").write(json.dumps(self.data.reporters_json,indent=2,sort_keys=True))
+        open("courts-map-flp.json","w+").write(json.dumps(self.data.courts_map,indent=2,sort_keys=True))

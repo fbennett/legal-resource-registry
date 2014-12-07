@@ -17,16 +17,19 @@ class Utils:
             node.attributes["classes"].append(cls)
         return node
 
-    def mkGitHubUrl (self,gitHubStub,segment,courtID):
+    def getRootPath(self):
         pth = os.path.join(os.path.split(sys.argv[0])[0],os.path.pardir)
         pth = os.path.abspath(pth)
+        return pth
+
+    def mkGitHubUrl (self,traveler,segment,courtID):
         idlst = courtID.split(";")
         if segment == "reporters":
             reporterID = idlst[-1]
             for i in range(1,len(idlst)-1,1):
-                trypth = os.path.join(*[pth,"data",segment] + idlst[0:i] + [reporterID,"index.txt"])
+                trypth = os.path.join(*[traveler.rootPath,"data",segment] + idlst[0:i] + [reporterID,"index.txt"])
                 if os.path.exists(trypth):
                     idlst = idlst[0:i] + [reporterID]
                     break
-        return os.path.join(*[gitHubStub,segment] + idlst + ["index.txt"])
+        return os.path.join(*[traveler.gitHubStub,segment] + idlst + ["index.txt"])
 
