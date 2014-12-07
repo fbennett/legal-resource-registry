@@ -67,6 +67,7 @@ class Hook:
         self.reporter_start = None
         self.reporter_end = None
         self.variation = None
+        self.export = None
 
 class Traveler(Utils):
     def __init__(self):
