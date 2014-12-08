@@ -16,6 +16,4 @@
 
    .. reporter-key:: ND
 
-   .. reporter-key:: ND App
-
    .. reporter-key:: WL
