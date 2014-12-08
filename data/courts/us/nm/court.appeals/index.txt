@@ -3,3 +3,6 @@
    :court-id: us;nm;court.appeals
    :url: https://coa.nmcourts.gov/index.php
    :flp-key: nmctapp
+
+   .. reporter-key:: NMCA
+
