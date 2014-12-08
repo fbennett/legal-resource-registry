@@ -5,4 +5,10 @@
    :dates: 1750/01/01-present
    :neutral:
 
+   .. fields::
+      :decision-number: required
+      :date-decided: required
+      :docket-number: optional
+      :court-place: optional
+
    .. variation:: -Ohio-
