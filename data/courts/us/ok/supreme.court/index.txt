@@ -12,8 +12,6 @@
 
    .. reporter-key:: OK CIV APP
 
-   .. reporter-key:: OK CR
-
    .. reporter-key:: Okla.
 
    .. reporter-key:: Okla. Crim.
