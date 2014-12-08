@@ -12,8 +12,6 @@
 
    .. reporter-key:: NM
 
-   .. reporter-key:: NMCA
-
    .. reporter-key:: NMCERT
 
    .. reporter-key:: NMSC
