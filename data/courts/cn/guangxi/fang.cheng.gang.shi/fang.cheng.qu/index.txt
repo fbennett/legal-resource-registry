@@ -1,0 +1,3 @@
+.. category:: 防城区
+   :category-id: cn:guangxi:fang.cheng.gang.shi:fang.cheng.qu
+   :en: Fangchengqu

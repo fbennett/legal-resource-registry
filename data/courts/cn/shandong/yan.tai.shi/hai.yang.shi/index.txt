@@ -1,0 +1,3 @@
+.. category:: 海阳市
+   :category-id: cn:shandong:yan.tai.shi:hai.yang.shi
+   :en: Haiyangshi

@@ -1,0 +1,3 @@
+.. category:: Mai Châu
+   :category-id: vn:hoa.binh:mai.chau
+   :en: Mai Chau

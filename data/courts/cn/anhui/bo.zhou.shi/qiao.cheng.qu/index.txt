@@ -1,0 +1,3 @@
+.. category:: 谯城区
+   :category-id: cn:anhui:bo.zhou.shi:qiao.cheng.qu
+   :en: Qiaochengqu

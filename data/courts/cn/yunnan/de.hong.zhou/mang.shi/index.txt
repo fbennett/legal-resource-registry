@@ -1,0 +1,3 @@
+.. category:: 芒市
+   :category-id: cn:yunnan:de.hong.zhou:mang.shi
+   :en: Mangshi

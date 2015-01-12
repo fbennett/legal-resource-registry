@@ -1,0 +1,3 @@
+.. category:: 湖州市
+   :category-id: cn:zhejiang:hu.zhou.shi
+   :en: Huzhou City

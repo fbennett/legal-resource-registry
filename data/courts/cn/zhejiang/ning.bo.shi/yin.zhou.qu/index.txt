@@ -1,0 +1,3 @@
+.. category:: 鄞州区
+   :category-id: cn:zhejiang:ning.bo.shi:yin.zhou.qu
+   :en: Yinzhouqu

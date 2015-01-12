@@ -1,0 +1,3 @@
+.. category:: 禅城区
+   :category-id: cn:guangdong:fo.shan.shi:shan.cheng.qu
+   :en: Shanchengqu

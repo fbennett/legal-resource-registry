@@ -1,0 +1,3 @@
+.. category:: Đức Phổ
+   :category-id: vn:quang.ngai:duc.pho
+   :en: Duc Pho

@@ -1,0 +1,3 @@
+.. category:: Lý Sơn
+   :category-id: vn:quang.ngai:ly.son
+   :en: Ly Son

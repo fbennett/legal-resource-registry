@@ -1,0 +1,3 @@
+.. category:: Quan Hóa
+   :category-id: vn:thanh.hoa:quan.hoa
+   :en: Quan Hoa

@@ -1,0 +1,3 @@
+.. category:: 柳北区
+   :category-id: cn:guangxi:liu.zhou.shi:liu.bei.qu
+   :en: Liubeiqu

@@ -1,0 +1,3 @@
+.. category:: 黄骅市
+   :category-id: cn:hebei:cang.zhou.shi:huang.hua.shi
+   :en: Huanghuashi

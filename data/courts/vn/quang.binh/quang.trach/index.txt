@@ -1,0 +1,3 @@
+.. category:: Quảng Trạch
+   :category-id: vn:quang.binh:quang.trach
+   :en: Quang Trach

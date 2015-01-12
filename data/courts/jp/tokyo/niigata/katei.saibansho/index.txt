@@ -1,0 +1,6 @@
+.. court:: 家庭裁判所
+   :court-id: jp:tokyo:niigata;katei.saibansho
+   :en: Family Court
+   :url: http://www.courts.go.jp/niigata/
+
+   .. reporter-key:: 家月

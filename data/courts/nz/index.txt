@@ -1,0 +1,3 @@
+.. category:: New Zealand
+   :category-id: nz
+

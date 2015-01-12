@@ -1,0 +1,3 @@
+.. category:: Ngô Quyền
+   :category-id: vn:hai.phong:ngo.quyen
+   :en: Ngo Quyen

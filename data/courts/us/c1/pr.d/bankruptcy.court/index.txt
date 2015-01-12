@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c1:pr.d;bankruptcy.court
+   :url: http://www.prb.uscourts.gov/
+   :flp-key: prb
+
+   .. reporter-key:: B.R.

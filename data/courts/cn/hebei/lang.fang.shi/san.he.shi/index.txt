@@ -1,0 +1,3 @@
+.. category:: 三河市
+   :category-id: cn:hebei:lang.fang.shi:san.he.shi
+   :en: Sanheshi

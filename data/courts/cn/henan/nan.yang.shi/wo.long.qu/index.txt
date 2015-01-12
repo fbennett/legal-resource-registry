@@ -1,0 +1,3 @@
+.. category:: 卧龙区
+   :category-id: cn:henan:nan.yang.shi:wo.long.qu
+   :en: Wolongqu

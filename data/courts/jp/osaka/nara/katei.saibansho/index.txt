@@ -1,0 +1,6 @@
+.. court:: 家庭裁判所
+   :court-id: jp:osaka:nara;katei.saibansho
+   :en: Family Court
+   :url: http://www.courts.go.jp/nara/
+
+   .. reporter-key:: 家月

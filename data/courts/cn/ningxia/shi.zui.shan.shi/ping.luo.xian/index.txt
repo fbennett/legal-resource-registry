@@ -1,0 +1,3 @@
+.. category:: 平罗县
+   :category-id: cn:ningxia:shi.zui.shan.shi:ping.luo.xian
+   :en: Pingluoxian

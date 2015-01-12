@@ -1,0 +1,3 @@
+.. category:: Sơn Tịnh
+   :category-id: vn:quang.ngai:son.tinh
+   :en: Son Tinh

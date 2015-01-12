@@ -1,0 +1,3 @@
+.. category:: 兴隆林区
+   :category-id: cn:heilongjiang:lin.qu:xing.long.lin.qu
+   :en: Xinglonglinqu

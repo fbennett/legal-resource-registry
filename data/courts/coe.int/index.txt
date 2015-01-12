@@ -1,0 +1,3 @@
+.. category:: Council of Europe
+   :category-id: coe.int
+

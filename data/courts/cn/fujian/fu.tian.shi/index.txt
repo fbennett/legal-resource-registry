@@ -1,0 +1,3 @@
+.. category:: 莆田市
+   :category-id: cn:fujian:fu.tian.shi
+   :en: Futian City

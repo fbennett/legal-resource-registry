@@ -1,0 +1,3 @@
+.. category:: 垫江县
+   :category-id: cn:zhongqing:zhong.qing.san:dian.jiang.xian
+   :en: Dianjiangxian

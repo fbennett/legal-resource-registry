@@ -1,0 +1,3 @@
+.. category:: 深州市
+   :category-id: cn:hebei:heng.shui.shi:shen.zhou.shi
+   :en: Shenzhoushi

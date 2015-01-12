@@ -1,0 +1,3 @@
+.. category:: 甘井子区
+   :category-id: cn:liaoning:da.lian.shi:gan.jing.zi.qu
+   :en: Ganjingziqu

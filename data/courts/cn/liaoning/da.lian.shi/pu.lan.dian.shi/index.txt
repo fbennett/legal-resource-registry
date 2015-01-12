@@ -1,0 +1,3 @@
+.. category:: 普兰店市
+   :category-id: cn:liaoning:da.lian.shi:pu.lan.dian.shi
+   :en: Pulandianshi

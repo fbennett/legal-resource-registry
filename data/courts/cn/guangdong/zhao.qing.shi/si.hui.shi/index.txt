@@ -1,0 +1,3 @@
+.. category:: 四会市
+   :category-id: cn:guangdong:zhao.qing.shi:si.hui.shi
+   :en: Sihuishi

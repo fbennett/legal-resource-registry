@@ -1,0 +1,3 @@
+.. category:: 张家口市
+   :category-id: cn:hebei:zhang.jia.kou.shi
+   :en: Zhangjiakou City

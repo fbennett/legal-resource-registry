@@ -1,0 +1,2 @@
+.. category:: E.D. Michigan
+   :category-id: us:c6:mi.ed

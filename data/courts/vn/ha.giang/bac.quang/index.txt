@@ -1,0 +1,3 @@
+.. category:: Bắc Quang
+   :category-id: vn:ha.giang:bac.quang
+   :en: Bac Quang

@@ -1,0 +1,5 @@
+.. reporter:: Michigan Court of Claims Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Mich. Ct. Cl.
+   :edition-abbreviation: Mich. Ct. Cl.
+   :dates: 1938/01/01-1942/12/31

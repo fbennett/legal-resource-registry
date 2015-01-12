@@ -1,0 +1,3 @@
+.. category:: Thới Bình
+   :category-id: vn:ca.mau:thoi.binh
+   :en: Thoi Binh

@@ -1,0 +1,3 @@
+.. category:: 逊克县
+   :category-id: cn:heilongjiang:hei.he.shi:xun.ke.xian
+   :en: Xunkexian

@@ -1,0 +1,3 @@
+.. category:: Châu Phú
+   :category-id: vn:an.giang:chau.phu
+   :en: Chau Phu

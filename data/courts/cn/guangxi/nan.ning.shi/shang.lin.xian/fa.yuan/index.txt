@@ -1,0 +1,3 @@
+.. court:: 法院
+   :court-id: cn:guangxi:nan.ning.shi:shang.lin.xian;fa.yuan
+   :en: District Court

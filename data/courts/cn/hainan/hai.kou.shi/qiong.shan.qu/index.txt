@@ -1,0 +1,3 @@
+.. category:: 琼山区
+   :category-id: cn:hainan:hai.kou.shi:qiong.shan.qu
+   :en: Qiongshanqu

@@ -1,0 +1,3 @@
+.. category:: Yên Minh
+   :category-id: vn:ha.giang:yen.minh
+   :en: Yen Minh

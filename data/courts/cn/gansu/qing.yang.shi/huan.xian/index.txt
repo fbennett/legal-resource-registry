@@ -1,0 +1,3 @@
+.. category:: 环县
+   :category-id: cn:gansu:qing.yang.shi:huan.xian
+   :en: Huanxian

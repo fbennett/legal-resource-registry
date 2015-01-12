@@ -1,0 +1,3 @@
+.. category:: 永川区
+   :category-id: cn:zhongqing:zhong.qing.wu:yong.chuan.qu
+   :en: Yongchuanqu

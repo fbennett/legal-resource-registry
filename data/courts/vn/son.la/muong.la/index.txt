@@ -1,0 +1,3 @@
+.. category:: Mường La
+   :category-id: vn:son.la:muong.la
+   :en: Muong La

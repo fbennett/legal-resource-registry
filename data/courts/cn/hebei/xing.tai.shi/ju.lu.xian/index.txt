@@ -1,0 +1,3 @@
+.. category:: 巨鹿县
+   :category-id: cn:hebei:xing.tai.shi:ju.lu.xian
+   :en: Juluxian

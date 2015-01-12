@@ -1,0 +1,3 @@
+.. category:: 金凤区
+   :category-id: cn:ningxia:yin.chuan.shi:jin.feng.qu
+   :en: Jinfengqu

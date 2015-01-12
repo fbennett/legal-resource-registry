@@ -1,0 +1,3 @@
+.. category:: 临安市
+   :category-id: cn:zhejiang:hang.zhou.shi:lin.an.shi
+   :en: Linanshi

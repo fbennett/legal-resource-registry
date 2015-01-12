@@ -1,0 +1,3 @@
+.. category:: 永福县
+   :category-id: cn:guangxi:gui.lin.shi:yong.fu.xian
+   :en: Yongfuxian

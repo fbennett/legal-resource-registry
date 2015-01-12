@@ -1,0 +1,3 @@
+.. category:: Yên Châu
+   :category-id: vn:son.la:yen.chau
+   :en: Yen Chau

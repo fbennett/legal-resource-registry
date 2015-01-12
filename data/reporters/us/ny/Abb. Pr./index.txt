@@ -1,0 +1,21 @@
+.. reporter:: Abbott's Practice Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Abb. Pr.
+   :edition-abbreviation: Abb. Pr.
+   :dates: 1854/01/01-1875/12/31
+
+   .. variation:: Abbott Pract.Cas.
+
+   .. variation:: Abbott Pr.Rep.
+
+   .. variation:: Abb.Pr.Rep.
+
+   .. variation:: Abb.Prac.
+
+   .. variation:: Abbott's Prac.Rep.
+
+   .. variation:: Abbott's Pr.Rep.
+
+   .. variation:: Abbott P.R.
+
+   .. variation:: Abb.P.R.

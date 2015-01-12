@@ -1,0 +1,7 @@
+.. court:: Court of Appeals
+   :court-id: us:ut;court.appeals
+   :url: http://www.utcourts.gov/courts/appell/
+   :flp-key: utahctapp
+
+   .. reporter-key:: UT App
+

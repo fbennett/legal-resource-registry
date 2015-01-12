@@ -1,0 +1,3 @@
+.. category:: 黑水县
+   :category-id: cn:sichuan:a.ba.zhou:hei.shui.xian
+   :en: Heishuixian

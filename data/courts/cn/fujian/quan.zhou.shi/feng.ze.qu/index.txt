@@ -1,0 +1,3 @@
+.. category:: 丰泽区
+   :category-id: cn:fujian:quan.zhou.shi:feng.ze.qu
+   :en: Fengzequ

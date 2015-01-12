@@ -1,0 +1,3 @@
+.. category:: 平谷区
+   :category-id: cn:beijing:bei.jing.san:ping.gu.qu
+   :en: Pingguqu

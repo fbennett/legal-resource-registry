@@ -1,0 +1,3 @@
+.. category:: Lộc Ninh
+   :category-id: vn:binh.phuoc:loc.ninh
+   :en: Loc Ninh

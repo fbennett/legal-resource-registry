@@ -1,0 +1,3 @@
+.. category:: Bình Thủy
+   :category-id: vn:can.tho:binh.thuy
+   :en: Binh Thuy

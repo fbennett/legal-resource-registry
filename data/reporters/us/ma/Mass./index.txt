@@ -1,0 +1,9 @@
+.. reporter:: Massachusetts Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Mass.
+   :edition-abbreviation: Mass.
+   :dates: 1867/01/01-present
+
+   .. variation:: Mas.
+
+   .. variation:: Ma.

@@ -1,0 +1,3 @@
+.. category:: Hà Đông
+   :category-id: vn:ha.noi:ha.dong
+   :en: Ha Dong

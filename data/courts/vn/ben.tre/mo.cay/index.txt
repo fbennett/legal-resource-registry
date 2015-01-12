@@ -1,0 +1,3 @@
+.. category:: Mỏ Cày
+   :category-id: vn:ben.tre:mo.cay
+   :en: Mo Cay

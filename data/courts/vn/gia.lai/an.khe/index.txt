@@ -1,0 +1,3 @@
+.. category:: An Khê
+   :category-id: vn:gia.lai:an.khe
+   :en: An Khe

@@ -1,0 +1,3 @@
+.. court:: 法院
+   :court-id: cn:hebei:qin.huang.dao.shi:lu.long.xian;fa.yuan
+   :en: District Court

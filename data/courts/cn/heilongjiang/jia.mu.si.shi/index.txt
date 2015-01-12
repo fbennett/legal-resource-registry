@@ -1,0 +1,3 @@
+.. category:: 佳木斯市
+   :category-id: cn:heilongjiang:jia.mu.si.shi
+   :en: Jiamusi City

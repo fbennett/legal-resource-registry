@@ -1,0 +1,3 @@
+.. category:: 茶陵县
+   :category-id: cn:hunan:zhu.zhou.shi:cha.ling.xian
+   :en: Chalingxian

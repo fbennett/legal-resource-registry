@@ -1,0 +1,5 @@
+.. reporter:: Official Translations of the Opinions of the Supreme Court of Puerto Rico
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: P.R. Offic. Trans.
+   :edition-abbreviation: P.R. Offic. Trans.
+   :dates: 1978/01/01-present

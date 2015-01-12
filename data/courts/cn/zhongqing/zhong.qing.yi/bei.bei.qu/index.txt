@@ -1,0 +1,3 @@
+.. category:: 北碚区
+   :category-id: cn:zhongqing:zhong.qing.yi:bei.bei.qu
+   :en: Beibeiqu

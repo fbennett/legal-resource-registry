@@ -1,0 +1,3 @@
+.. category:: 瑶海区
+   :category-id: cn:anhui:he.fei.shi:yao.hai.qu
+   :en: Yaohaiqu

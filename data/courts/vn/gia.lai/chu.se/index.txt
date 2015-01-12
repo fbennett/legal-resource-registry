@@ -1,0 +1,3 @@
+.. category:: Chư Sê
+   :category-id: vn:gia.lai:chu.se
+   :en: Chu Se

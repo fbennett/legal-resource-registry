@@ -1,0 +1,3 @@
+.. category:: 资阳市
+   :category-id: cn:sichuan:zi.yang.shi
+   :en: Ziyang City

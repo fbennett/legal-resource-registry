@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c8:mn.d;bankruptcy.court
+   :url: http://www.mieb.uscourts.gov/
+   :flp-key: mieb
+
+   .. reporter-key:: B.R.

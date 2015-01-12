@@ -1,0 +1,3 @@
+.. category:: 荔城区
+   :category-id: cn:fujian:fu.tian.shi:li.cheng.qu
+   :en: Lichengqu

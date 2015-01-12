@@ -1,0 +1,3 @@
+.. court:: 法院
+   :court-id: cn:qinghai:yu.shu.zhou:qu.ma.lai.xian;fa.yuan
+   :en: District Court

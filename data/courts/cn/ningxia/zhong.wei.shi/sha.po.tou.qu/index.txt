@@ -1,0 +1,3 @@
+.. category:: 沙坡头区
+   :category-id: cn:ningxia:zhong.wei.shi:sha.po.tou.qu
+   :en: Shapotouqu

@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c2:ny.nd;bankruptcy.court
+   :url: http://www.nynb.uscourts.gov/
+   :flp-key: nynb
+
+   .. reporter-key:: B.R.

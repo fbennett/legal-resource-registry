@@ -1,0 +1,3 @@
+.. category:: Krông Ana
+   :category-id: vn:dak.lak:krong.ana
+   :en: Krong Ana

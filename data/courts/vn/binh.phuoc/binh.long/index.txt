@@ -1,0 +1,3 @@
+.. category:: Bình Long
+   :category-id: vn:binh.phuoc:binh.long
+   :en: Binh Long

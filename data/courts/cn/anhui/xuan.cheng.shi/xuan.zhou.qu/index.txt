@@ -1,0 +1,3 @@
+.. category:: 宣州区
+   :category-id: cn:anhui:xuan.cheng.shi:xuan.zhou.qu
+   :en: Xuanzhouqu

@@ -1,0 +1,3 @@
+.. category:: 娄底市
+   :category-id: cn:hunan:lou.di.shi
+   :en: Loudi City

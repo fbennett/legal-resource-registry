@@ -1,0 +1,3 @@
+.. category:: 祥云县
+   :category-id: cn:yunnan:da.li.zhou:xiang.yun.xian
+   :en: Xiangyunxian

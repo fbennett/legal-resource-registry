@@ -1,0 +1,3 @@
+.. category:: 任丘市
+   :category-id: cn:hebei:cang.zhou.shi:ren.qiu.shi
+   :en: Renqiushi

@@ -1,0 +1,3 @@
+.. category:: Bình Chánh
+   :category-id: vn:ho.chi.minh:binh.chanh
+   :en: Binh Chanh

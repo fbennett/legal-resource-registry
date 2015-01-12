@@ -1,0 +1,4 @@
+.. court:: Court of Civil Appeals
+   :court-id: us:al;court.civil.appeals
+   :url: http://judicial.alabama.gov/civil.cfm
+   :flp-key: alacivapp

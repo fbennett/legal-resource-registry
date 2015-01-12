@@ -1,0 +1,3 @@
+.. category:: 中山区
+   :category-id: cn:liaoning:da.lian.shi:zhong.shan.qu
+   :en: Zhongshanqu

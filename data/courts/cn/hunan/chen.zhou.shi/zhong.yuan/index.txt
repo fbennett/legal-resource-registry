@@ -1,0 +1,4 @@
+.. court:: 中院
+   :court-id: cn:hunan:chen.zhou.shi;zhong.yuan
+   :en: Intermediate Court
+   :url: http://czzy.chinacourt.org/&usg=ALkJrhgvlLpDcUSQ_OxHQC-qKT6Fyfx3rA

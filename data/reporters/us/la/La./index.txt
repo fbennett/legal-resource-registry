@@ -1,0 +1,5 @@
+.. reporter:: Louisiana Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: La.
+   :edition-abbreviation: La.
+   :dates: 1830/01/01-1972/12/31

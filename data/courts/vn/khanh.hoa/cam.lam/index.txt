@@ -1,0 +1,3 @@
+.. category:: Cam Lâm
+   :category-id: vn:khanh.hoa:cam.lam
+   :en: Cam Lam

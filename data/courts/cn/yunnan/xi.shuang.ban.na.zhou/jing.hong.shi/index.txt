@@ -1,0 +1,3 @@
+.. category:: 景洪市
+   :category-id: cn:yunnan:xi.shuang.ban.na.zhou:jing.hong.shi
+   :en: Jinghongshi

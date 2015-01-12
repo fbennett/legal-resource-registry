@@ -1,0 +1,3 @@
+.. category:: 华亭县
+   :category-id: cn:gansu:ping.liang:hua.ting.xian
+   :en: Huatingxian

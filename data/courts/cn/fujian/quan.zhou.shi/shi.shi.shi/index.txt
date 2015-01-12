@@ -1,0 +1,3 @@
+.. category:: 石狮市
+   :category-id: cn:fujian:quan.zhou.shi:shi.shi.shi
+   :en: Shishishi

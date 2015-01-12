@@ -1,0 +1,3 @@
+.. category:: Kiên Lương
+   :category-id: vn:kien.giang:kien.luong
+   :en: Kien Luong

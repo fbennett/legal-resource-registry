@@ -1,0 +1,5 @@
+.. reporter:: Reports of Massachusetts Appellate Division
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Mass. App. Div.
+   :edition-abbreviation: Mass. App. Div.
+   :dates: 1936/01/01-present

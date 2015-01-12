@@ -1,0 +1,3 @@
+.. category:: 五通桥区
+   :category-id: cn:sichuan:le.shan.shi:wu.tong.qiao.qu
+   :en: Wutongqiaoqu

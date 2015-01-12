@@ -1,0 +1,3 @@
+.. category:: 洛江区
+   :category-id: cn:fujian:quan.zhou.shi:luo.jiang.qu
+   :en: Luojiangqu

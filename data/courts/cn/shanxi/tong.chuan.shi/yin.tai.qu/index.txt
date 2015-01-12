@@ -1,0 +1,3 @@
+.. category:: 印台区
+   :category-id: cn:shanxi:tong.chuan.shi:yin.tai.qu
+   :en: Yintaiqu

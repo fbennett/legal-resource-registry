@@ -1,0 +1,3 @@
+.. category:: 泸定县
+   :category-id: cn:sichuan:gan.zi.zhou:lu.ding.xian
+   :en: Ludingxian

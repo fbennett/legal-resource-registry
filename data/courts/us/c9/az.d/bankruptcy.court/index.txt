@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c9:az.d;bankruptcy.court
+   :url: https://ecf.azb.uscourts.gov/
+   :flp-key: arb
+
+   .. reporter-key:: B.R.

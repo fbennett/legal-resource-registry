@@ -1,0 +1,3 @@
+.. category:: Thái Bình
+   :category-id: vn:thai.binh:thai.binh
+   :en: Thai Binh

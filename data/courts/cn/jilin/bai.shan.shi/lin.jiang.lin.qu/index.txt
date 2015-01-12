@@ -1,0 +1,3 @@
+.. category:: 临江林区
+   :category-id: cn:jilin:bai.shan.shi:lin.jiang.lin.qu
+   :en: Linjianglinqu

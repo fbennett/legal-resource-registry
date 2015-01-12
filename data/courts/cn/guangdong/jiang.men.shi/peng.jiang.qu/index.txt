@@ -1,0 +1,3 @@
+.. category:: 蓬江区
+   :category-id: cn:guangdong:jiang.men.shi:peng.jiang.qu
+   :en: Pengjiangqu

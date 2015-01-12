@@ -1,0 +1,3 @@
+.. category:: Thanh Khê
+   :category-id: vn:da.nang:thanh.khe
+   :en: Thanh Khe

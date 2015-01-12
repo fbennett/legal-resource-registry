@@ -1,0 +1,4 @@
+.. court:: Provincial Court
+   :court-id: ca:on;provincial.court
+   :en: Provincial Court
+   :url: http://www.gov.pe.ca/courts/provincial/index.php3

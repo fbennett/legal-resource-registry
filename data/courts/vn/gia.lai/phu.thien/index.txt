@@ -1,0 +1,3 @@
+.. category:: Phú Thiện
+   :category-id: vn:gia.lai:phu.thien
+   :en: Phu Thien

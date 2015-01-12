@@ -1,0 +1,3 @@
+.. category:: 敦化市
+   :category-id: cn:jilin:yan.bian:dun.hua.shi
+   :en: Dunhuashi

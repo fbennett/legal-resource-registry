@@ -1,0 +1,3 @@
+.. category:: 额敏县
+   :category-id: cn:xinjiang:ta.cheng.di.qu:e.min.xian
+   :en: Eminxian

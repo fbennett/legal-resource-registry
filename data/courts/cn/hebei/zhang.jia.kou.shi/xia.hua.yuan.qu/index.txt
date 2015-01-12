@@ -1,0 +1,3 @@
+.. category:: 下花园区
+   :category-id: cn:hebei:zhang.jia.kou.shi:xia.hua.yuan.qu
+   :en: Xiahuayuanqu

@@ -1,0 +1,17 @@
+.. reporter:: Johnson's Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Johns.
+   :edition-abbreviation: Johns.
+   :dates: 1806/01/01-1823/12/31
+
+   .. variation:: Johns.Ct.Err.
+
+   .. variation:: Johns.Rep.
+
+   .. variation:: Johnson
+
+   .. variation:: Johns.N.Y.
+
+   .. variation:: J.
+
+   .. variation:: John.

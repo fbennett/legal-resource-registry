@@ -1,0 +1,3 @@
+.. category:: Thoại Sơn
+   :category-id: vn:an.giang:thoai.son
+   :en: Thoai Son

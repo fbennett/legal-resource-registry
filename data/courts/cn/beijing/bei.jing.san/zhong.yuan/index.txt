@@ -1,0 +1,3 @@
+.. court:: 中院
+   :court-id: cn:beijing:bei.jing.san;zhong.yuan
+   :en: Intermediate Court

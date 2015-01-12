@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c5:la.md;bankruptcy.court
+   :url: http://www.lamb.uscourts.gov/
+   :flp-key: lamb
+
+   .. reporter-key:: B.R.

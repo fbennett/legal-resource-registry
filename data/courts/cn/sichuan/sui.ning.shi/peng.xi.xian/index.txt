@@ -1,0 +1,3 @@
+.. category:: 蓬溪县
+   :category-id: cn:sichuan:sui.ning.shi:peng.xi.xian
+   :en: Pengxixian

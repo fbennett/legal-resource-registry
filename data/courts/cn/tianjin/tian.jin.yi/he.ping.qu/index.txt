@@ -1,0 +1,3 @@
+.. category:: 和平区
+   :category-id: cn:tianjin:tian.jin.yi:he.ping.qu
+   :en: Hepingqu

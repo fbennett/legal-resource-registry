@@ -1,0 +1,7 @@
+.. reporter:: Massachusetts Appeals Court Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Mass. App. Ct.
+   :edition-abbreviation: Mass. App. Ct.
+   :dates: 1972/01/01-present
+
+   .. variation:: Ma.A.

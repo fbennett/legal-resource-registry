@@ -1,0 +1,3 @@
+.. category:: 沙坪坝区
+   :category-id: cn:zhongqing:zhong.qing.yi:sha.ping.ba.qu
+   :en: Shapingbaqu

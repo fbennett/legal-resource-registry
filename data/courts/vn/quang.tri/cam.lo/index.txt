@@ -1,0 +1,3 @@
+.. category:: Cam Lộ
+   :category-id: vn:quang.tri:cam.lo
+   :en: Cam Lo

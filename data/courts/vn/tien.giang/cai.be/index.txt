@@ -1,0 +1,3 @@
+.. category:: Cái Bè
+   :category-id: vn:tien.giang:cai.be
+   :en: Cai Be

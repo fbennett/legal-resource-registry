@@ -1,0 +1,3 @@
+.. category:: 西岗区
+   :category-id: cn:liaoning:da.lian.shi:xi.gang.qu
+   :en: Xigangqu

@@ -1,0 +1,3 @@
+.. category:: 介休市
+   :category-id: cn:shanxi:jin.zhong.shi:jie.xiu.shi
+   :en: Jiexiushi

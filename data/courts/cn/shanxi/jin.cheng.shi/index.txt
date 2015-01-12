@@ -1,0 +1,3 @@
+.. category:: 晋城市
+   :category-id: cn:shanxi:jin.cheng.shi
+   :en: Jincheng City

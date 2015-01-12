@@ -1,0 +1,13 @@
+.. reporter:: North Eastern Reporter
+   :flp-series-cite-type: state_regional
+   :flp-common-abbreviation: N.E.
+   :edition-abbreviation: N.E.2d
+   :dates: 1936/01/01-present
+
+   .. variation:: N.E. 2d
+
+   .. variation:: N. E. 2d
+
+   .. variation:: N. E.2d
+
+   .. variation:: NE 2d

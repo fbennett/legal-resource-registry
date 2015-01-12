@@ -1,0 +1,3 @@
+.. category:: Cà Mau
+   :category-id: vn:ca.mau:ca.mau
+   :en: Ca Mau

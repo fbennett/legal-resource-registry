@@ -1,0 +1,3 @@
+.. category:: 龙子湖区
+   :category-id: cn:anhui:bang.bu.shi:long.zi.hu.qu
+   :en: Longzihuqu

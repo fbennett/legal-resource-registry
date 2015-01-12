@@ -1,0 +1,3 @@
+.. category:: 珲春林区
+   :category-id: cn:jilin:yan.bian:hun.chun.lin.qu
+   :en: Hunchunlinqu

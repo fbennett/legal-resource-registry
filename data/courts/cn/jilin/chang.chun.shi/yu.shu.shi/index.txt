@@ -1,0 +1,3 @@
+.. category:: 榆树市
+   :category-id: cn:jilin:chang.chun.shi:yu.shu.shi
+   :en: Yushushi

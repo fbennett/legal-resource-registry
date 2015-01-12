@@ -1,0 +1,3 @@
+.. category:: Đạ Tẻh
+   :category-id: vn:lam.dong:da.teh
+   :en: Da Teh

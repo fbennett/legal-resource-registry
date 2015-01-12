@@ -1,0 +1,9 @@
+.. reporter:: Kentucky Reports, Hughes
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Hughes
+   :edition-abbreviation: Hughes
+   :dates: 1785/01/01-1801/12/31
+
+   .. variation:: Ky.(Hughes)
+
+   .. variation:: Hugh.

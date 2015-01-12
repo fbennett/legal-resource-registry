@@ -1,0 +1,3 @@
+.. category:: 青山区
+   :category-id: cn:neimenggu:bao.tou.shi:qing.shan.qu
+   :en: Qingshanqu

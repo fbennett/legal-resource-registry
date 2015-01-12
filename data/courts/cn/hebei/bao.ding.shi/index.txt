@@ -1,0 +1,3 @@
+.. category:: 保定市
+   :category-id: cn:hebei:bao.ding.shi
+   :en: Baoding City

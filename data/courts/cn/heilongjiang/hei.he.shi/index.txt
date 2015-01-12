@@ -1,0 +1,3 @@
+.. category:: 黑河市
+   :category-id: cn:heilongjiang:hei.he.shi
+   :en: Heihe City

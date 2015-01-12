@@ -1,0 +1,3 @@
+.. category:: 潜江市
+   :category-id: cn:hubei:han.jiang:qian.jiang.shi
+   :en: Qianjiangshi

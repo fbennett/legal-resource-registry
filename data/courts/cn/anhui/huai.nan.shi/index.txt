@@ -1,0 +1,3 @@
+.. category:: 淮南市
+   :category-id: cn:anhui:huai.nan.shi
+   :en: Huainan City

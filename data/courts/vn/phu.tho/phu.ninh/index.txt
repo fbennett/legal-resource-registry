@@ -1,0 +1,3 @@
+.. category:: Phù Ninh
+   :category-id: vn:phu.tho:phu.ninh
+   :en: Phu Ninh

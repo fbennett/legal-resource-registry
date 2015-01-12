@@ -1,0 +1,3 @@
+.. category:: Bình Đại
+   :category-id: vn:ben.tre:binh.dai
+   :en: Binh Dai

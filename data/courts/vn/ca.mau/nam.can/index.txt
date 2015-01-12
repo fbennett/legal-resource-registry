@@ -1,0 +1,3 @@
+.. category:: Năm Căn
+   :category-id: vn:ca.mau:nam.can
+   :en: Nam Can

@@ -1,0 +1,5 @@
+.. reporter:: International Trade Reporter Decisions
+   :flp-series-cite-type: specialty
+   :flp-common-abbreviation: I.T.R.D. (BNA)
+   :edition-abbreviation: I.T.R.D. (BNA)
+   :dates: 1980/01/01-present

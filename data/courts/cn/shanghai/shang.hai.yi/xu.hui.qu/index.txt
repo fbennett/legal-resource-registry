@@ -1,0 +1,3 @@
+.. category:: 徐汇区
+   :category-id: cn:shanghai:shang.hai.yi:xu.hui.qu
+   :en: Xuhuiqu

@@ -1,0 +1,3 @@
+.. category:: 浉河区
+   :category-id: cn:henan:xin.yang.shi:shi.he.qu
+   :en: Shihequ

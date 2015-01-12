@@ -1,0 +1,3 @@
+.. category:: Дорнод
+   :category-id: mn:dornod
+   :en: Dornod

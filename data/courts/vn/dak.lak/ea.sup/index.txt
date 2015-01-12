@@ -1,0 +1,3 @@
+.. category:: Ea Súp
+   :category-id: vn:dak.lak:ea.sup
+   :en: Ea Sup

@@ -1,0 +1,3 @@
+.. category:: Vĩnh Tường
+   :category-id: vn:vinh.phuc:vinh.tuong
+   :en: Vinh Tuong

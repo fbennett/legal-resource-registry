@@ -1,0 +1,3 @@
+.. category:: 蓝田县
+   :category-id: cn:shanxi:xi.an.shi:lan.tian.xian
+   :en: Lantianxian

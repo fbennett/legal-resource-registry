@@ -1,0 +1,18 @@
+.. court:: Supreme Court
+   :court-id: us:mo;supreme.court
+   :url: http://www.courts.mo.gov/page.jsp?id=27
+   :flp-key: mo
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: Mo.
+
+   .. reporter-key:: Mo. App.
+
+   .. reporter-key:: S.W.
+
+   .. reporter-key:: S.W.2d
+
+   .. reporter-key:: S.W.3d
+
+   .. reporter-key:: WL

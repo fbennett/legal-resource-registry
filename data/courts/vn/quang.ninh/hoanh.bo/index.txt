@@ -1,0 +1,3 @@
+.. category:: Hoành Bồ
+   :category-id: vn:quang.ninh:hoanh.bo
+   :en: Hoanh Bo

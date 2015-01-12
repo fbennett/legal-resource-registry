@@ -1,0 +1,3 @@
+.. court:: 法院
+   :court-id: cn:sichuan:ba.zhong.shi:nan.jiang.xian;fa.yuan
+   :en: District Court

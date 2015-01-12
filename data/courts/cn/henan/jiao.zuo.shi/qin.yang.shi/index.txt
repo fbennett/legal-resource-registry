@@ -1,0 +1,3 @@
+.. category:: 沁阳市
+   :category-id: cn:henan:jiao.zuo.shi:qin.yang.shi
+   :en: Qinyangshi

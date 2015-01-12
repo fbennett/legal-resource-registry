@@ -1,0 +1,3 @@
+.. category:: Hòn Đất
+   :category-id: vn:kien.giang:hon.dat
+   :en: Hon Dat

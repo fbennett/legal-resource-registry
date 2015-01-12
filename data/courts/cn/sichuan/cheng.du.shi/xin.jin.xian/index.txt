@@ -1,0 +1,3 @@
+.. category:: 新津县
+   :category-id: cn:sichuan:cheng.du.shi:xin.jin.xian
+   :en: Xinjinxian

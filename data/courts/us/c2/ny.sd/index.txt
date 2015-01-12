@@ -1,0 +1,2 @@
+.. category:: S.D. New York
+   :category-id: us:c2:ny.sd

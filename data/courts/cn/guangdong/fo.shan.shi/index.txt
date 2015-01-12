@@ -1,0 +1,3 @@
+.. category:: 佛山市
+   :category-id: cn:guangdong:fo.shan.shi
+   :en: Foshan City

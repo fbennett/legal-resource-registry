@@ -1,0 +1,3 @@
+.. category:: 茅箭区
+   :category-id: cn:hubei:shi.yan.shi:mao.jian.qu
+   :en: Maojianqu

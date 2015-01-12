@@ -1,0 +1,3 @@
+.. category:: Curaçao
+   :category-id: nl:curacao
+

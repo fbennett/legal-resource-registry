@@ -1,0 +1,3 @@
+.. category:: 广州铁路
+   :category-id: cn:guangdong:guang.zhou.tie.lu
+   :en: Guangzhoutielu

@@ -1,0 +1,3 @@
+.. category:: 西陵区
+   :category-id: cn:hubei:yi.chang.shi:xi.ling.qu
+   :en: Xilingqu

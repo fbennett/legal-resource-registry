@@ -1,0 +1,3 @@
+.. category:: 那曲
+   :category-id: cn:xicang:na.qu
+   :en: Naqu

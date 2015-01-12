@@ -1,0 +1,3 @@
+.. category:: 冠县
+   :category-id: cn:shandong:liao.cheng.shi:guan.xian
+   :en: Guanxian

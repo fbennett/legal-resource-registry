@@ -1,0 +1,3 @@
+.. category:: Quản Bạ
+   :category-id: vn:ha.giang:quan.ba
+   :en: Quan Ba

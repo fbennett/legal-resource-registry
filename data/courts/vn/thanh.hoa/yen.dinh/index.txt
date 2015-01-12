@@ -1,0 +1,3 @@
+.. category:: Yên Định
+   :category-id: vn:thanh.hoa:yen.dinh
+   :en: Yen Dinh

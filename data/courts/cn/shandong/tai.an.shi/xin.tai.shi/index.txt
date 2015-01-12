@@ -1,0 +1,3 @@
+.. category:: 新泰市
+   :category-id: cn:shandong:tai.an.shi:xin.tai.shi
+   :en: Xintaishi

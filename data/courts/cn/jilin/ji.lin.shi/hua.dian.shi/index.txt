@@ -1,0 +1,3 @@
+.. category:: 桦甸市
+   :category-id: cn:jilin:ji.lin.shi:hua.dian.shi
+   :en: Huadianshi

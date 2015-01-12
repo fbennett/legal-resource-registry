@@ -1,0 +1,5 @@
+.. reporter:: United States Court of Appeals Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: U.S. App. D.C.
+   :edition-abbreviation: U.S. App. D.C.
+   :dates: 1941/01/01-present

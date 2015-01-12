@@ -1,0 +1,3 @@
+.. category:: Vĩnh Phúc
+   :category-id: vn:vinh.phuc
+   :en: Vinh Phuc

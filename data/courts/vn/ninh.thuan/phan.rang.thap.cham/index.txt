@@ -1,0 +1,3 @@
+.. category:: Phan Rang–Tháp Chàm
+   :category-id: vn:ninh.thuan:phan.rang.thap.cham
+   :en: Phan Rang-Thap Cham

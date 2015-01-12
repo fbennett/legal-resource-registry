@@ -1,0 +1,3 @@
+.. category:: 镇江市
+   :category-id: cn:jiangsu:zhen.jiang.shi
+   :en: Zhenjiang City

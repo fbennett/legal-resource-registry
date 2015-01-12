@@ -1,0 +1,3 @@
+.. category:: Wallis et Futuna
+   :category-id: fr:wallis.futuna
+

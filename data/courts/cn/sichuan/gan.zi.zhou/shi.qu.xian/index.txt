@@ -1,0 +1,3 @@
+.. category:: 石渠县
+   :category-id: cn:sichuan:gan.zi.zhou:shi.qu.xian
+   :en: Shiquxian

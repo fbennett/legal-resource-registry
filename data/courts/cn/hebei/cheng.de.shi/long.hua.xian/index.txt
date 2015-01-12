@@ -1,0 +1,3 @@
+.. category:: 隆化县
+   :category-id: cn:hebei:cheng.de.shi:long.hua.xian
+   :en: Longhuaxian

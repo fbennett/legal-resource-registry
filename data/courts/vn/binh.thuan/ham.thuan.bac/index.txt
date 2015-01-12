@@ -1,0 +1,3 @@
+.. category:: Hàm Thuận Bắc
+   :category-id: vn:binh.thuan:ham.thuan.bac
+   :en: Ham Thuan Bac

@@ -1,0 +1,3 @@
+.. category:: 屯昌县
+   :category-id: cn:hainan:hai.nan.yi:tun.chang.xian
+   :en: Tunchangxian

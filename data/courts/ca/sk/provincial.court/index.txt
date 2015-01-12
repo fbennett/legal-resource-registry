@@ -1,0 +1,4 @@
+.. court:: Provincial Court
+   :court-id: ca:sk;provincial.court
+   :en: Provincial Court
+   :url: http://www.yukoncourts.ca/courts/territorial.html

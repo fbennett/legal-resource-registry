@@ -1,0 +1,3 @@
+.. category:: 高平市
+   :category-id: cn:shanxi:jin.cheng.shi:gao.ping.shi
+   :en: Gaopingshi

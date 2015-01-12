@@ -1,0 +1,3 @@
+.. category:: 毕节市
+   :category-id: cn:guizhou:bi.jie.shi:bi.jie.shi
+   :en: Bijieshi

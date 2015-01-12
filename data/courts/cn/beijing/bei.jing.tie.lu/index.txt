@@ -1,0 +1,3 @@
+.. category:: 北京铁路
+   :category-id: cn:beijing:bei.jing.tie.lu
+   :en: Beijingtielu

@@ -1,0 +1,3 @@
+.. court:: 法院
+   :court-id: cn:shanxi:han.zhong.shi:lve.yang.xian;fa.yuan
+   :en: District Court

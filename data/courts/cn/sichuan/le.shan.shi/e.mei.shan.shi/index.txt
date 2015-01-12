@@ -1,0 +1,3 @@
+.. category:: 峨眉山市
+   :category-id: cn:sichuan:le.shan.shi:e.mei.shan.shi
+   :en: Emeishanshi

@@ -1,0 +1,2 @@
+.. category:: Kansas
+   :category-id: us:ks

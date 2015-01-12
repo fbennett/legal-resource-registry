@@ -1,0 +1,3 @@
+.. category:: 松江区
+   :category-id: cn:shanghai:shang.hai.yi:song.jiang.qu
+   :en: Songjiangqu

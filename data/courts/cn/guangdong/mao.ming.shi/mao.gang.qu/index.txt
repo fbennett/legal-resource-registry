@@ -1,0 +1,3 @@
+.. category:: 茂港区
+   :category-id: cn:guangdong:mao.ming.shi:mao.gang.qu
+   :en: Maogangqu

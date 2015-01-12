@@ -1,0 +1,3 @@
+.. category:: Tam Nông
+   :category-id: vn:dong.thap:tam.nong
+   :en: Tam Nong

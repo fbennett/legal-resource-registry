@@ -1,0 +1,3 @@
+.. category:: 红河县
+   :category-id: cn:yunnan:hong.he.zhou:hong.he.xian
+   :en: Honghexian

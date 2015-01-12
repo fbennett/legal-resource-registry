@@ -1,0 +1,3 @@
+.. category:: 米脂县
+   :category-id: cn:shanxi:yu.lin.shi:mi.zhi.xian
+   :en: Mizhixian

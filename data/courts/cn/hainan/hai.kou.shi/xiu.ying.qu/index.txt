@@ -1,0 +1,3 @@
+.. category:: 秀英区
+   :category-id: cn:hainan:hai.kou.shi:xiu.ying.qu
+   :en: Xiuyingqu

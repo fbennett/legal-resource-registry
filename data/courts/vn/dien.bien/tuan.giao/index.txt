@@ -1,0 +1,3 @@
+.. category:: Tuần Giáo
+   :category-id: vn:dien.bien:tuan.giao
+   :en: Tuan Giao

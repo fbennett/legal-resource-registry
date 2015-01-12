@@ -1,0 +1,3 @@
+.. category:: 巴南区
+   :category-id: cn:zhongqing:zhong.qing.wu:ba.nan.qu
+   :en: Bananqu

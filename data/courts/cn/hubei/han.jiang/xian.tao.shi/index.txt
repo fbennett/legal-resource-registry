@@ -1,0 +1,3 @@
+.. category:: 仙桃市
+   :category-id: cn:hubei:han.jiang:xian.tao.shi
+   :en: Xiantaoshi

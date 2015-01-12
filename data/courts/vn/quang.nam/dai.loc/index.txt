@@ -1,0 +1,3 @@
+.. category:: Đại Lộc
+   :category-id: vn:quang.nam:dai.loc
+   :en: Dai Loc

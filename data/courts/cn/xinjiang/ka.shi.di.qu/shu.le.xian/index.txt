@@ -1,0 +1,3 @@
+.. category:: 疏勒县
+   :category-id: cn:xinjiang:ka.shi.di.qu:shu.le.xian
+   :en: Shulexian

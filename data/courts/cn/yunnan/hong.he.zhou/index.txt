@@ -1,0 +1,3 @@
+.. category:: 红河州
+   :category-id: cn:yunnan:hong.he.zhou
+   :en: Honghezhou

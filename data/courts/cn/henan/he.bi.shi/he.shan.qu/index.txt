@@ -1,0 +1,3 @@
+.. category:: 鹤山区
+   :category-id: cn:henan:he.bi.shi:he.shan.qu
+   :en: Heshanqu

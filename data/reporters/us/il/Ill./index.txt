@@ -1,0 +1,5 @@
+.. reporter:: Illinois Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Ill.
+   :edition-abbreviation: Ill.
+   :dates: 1849/01/01-present

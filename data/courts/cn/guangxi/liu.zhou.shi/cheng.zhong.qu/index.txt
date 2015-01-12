@@ -1,0 +1,3 @@
+.. category:: 城中区
+   :category-id: cn:guangxi:liu.zhou.shi:cheng.zhong.qu
+   :en: Chengzhongqu

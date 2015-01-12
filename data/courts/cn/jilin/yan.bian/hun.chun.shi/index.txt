@@ -1,0 +1,3 @@
+.. category:: 珲春市
+   :category-id: cn:jilin:yan.bian:hun.chun.shi
+   :en: Hunchunshi

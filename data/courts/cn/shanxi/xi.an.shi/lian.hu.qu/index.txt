@@ -1,0 +1,3 @@
+.. category:: 莲湖区
+   :category-id: cn:shanxi:xi.an.shi:lian.hu.qu
+   :en: Lianhuqu

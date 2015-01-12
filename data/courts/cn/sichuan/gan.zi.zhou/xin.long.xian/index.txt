@@ -1,0 +1,3 @@
+.. category:: 新龙县
+   :category-id: cn:sichuan:gan.zi.zhou:xin.long.xian
+   :en: Xinlongxian

@@ -1,0 +1,3 @@
+.. category:: 东光县
+   :category-id: cn:hebei:cang.zhou.shi:dong.guang.xian
+   :en: Dongguangxian

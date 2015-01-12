@@ -1,0 +1,3 @@
+.. category:: Lạc Thủy
+   :category-id: vn:hoa.binh:lac.thuy
+   :en: Lac Thuy

@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c9:ca.ed;bankruptcy.court
+   :url: http://www.caeb.uscourts.gov/
+   :flp-key: caeb
+
+   .. reporter-key:: B.R.

@@ -1,0 +1,4 @@
+.. court:: Competition Tribunal
+   :court-id: ca;competition.tribunal
+   :en: Competition Tribunal
+   :url: http://www.cmac-cacm.ca/

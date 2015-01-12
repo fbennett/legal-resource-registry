@@ -1,0 +1,3 @@
+.. category:: 耀州区
+   :category-id: cn:shanxi:tong.chuan.shi:yao.zhou.qu
+   :en: Yaozhouqu

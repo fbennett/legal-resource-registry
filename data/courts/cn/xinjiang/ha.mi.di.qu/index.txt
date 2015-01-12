@@ -1,0 +1,3 @@
+.. category:: 哈密地区
+   :category-id: cn:xinjiang:ha.mi.di.qu
+   :en: Hamidi District

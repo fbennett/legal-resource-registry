@@ -1,0 +1,3 @@
+.. category:: Дорноговь
+   :category-id: mn:dornogovi
+   :en: Dornogovi

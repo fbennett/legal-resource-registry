@@ -1,0 +1,3 @@
+.. category:: Xín Mần
+   :category-id: vn:ha.giang:xin.man
+   :en: Xin Man

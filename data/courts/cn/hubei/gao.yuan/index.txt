@@ -1,0 +1,4 @@
+.. court:: 高院
+   :court-id: cn:hubei;gao.yuan
+   :en: High Court
+   :url: http://hubeigy.chinacourt.org/&usg=ALkJrhjdK8HAQishlQ3MB9j3KEFq6tzAvg

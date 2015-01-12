@@ -1,0 +1,3 @@
+.. category:: Khoái Châu
+   :category-id: vn:hung.yen:khoai.chau
+   :en: Khoai Chau

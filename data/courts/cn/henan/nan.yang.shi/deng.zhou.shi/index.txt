@@ -1,0 +1,3 @@
+.. category:: 邓州市
+   :category-id: cn:henan:nan.yang.shi:deng.zhou.shi
+   :en: Dengzhoushi

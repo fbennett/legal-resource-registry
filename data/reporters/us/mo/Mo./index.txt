@@ -1,0 +1,5 @@
+.. reporter:: Missouri Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Mo.
+   :edition-abbreviation: Mo.
+   :dates: 1821/01/01-1956/12/31

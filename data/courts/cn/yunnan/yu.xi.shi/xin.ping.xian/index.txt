@@ -1,0 +1,3 @@
+.. category:: 新平县
+   :category-id: cn:yunnan:yu.xi.shi:xin.ping.xian
+   :en: Xinpingxian

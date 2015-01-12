@@ -1,0 +1,3 @@
+.. category:: 新城区
+   :category-id: cn:neimenggu:hu.he.hao.te.shi:xin.cheng.qu
+   :en: Xinchengqu

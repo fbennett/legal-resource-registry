@@ -1,0 +1,3 @@
+.. category:: 太仓市
+   :category-id: cn:jiangsu:su.zhou.shi:tai.cang.shi
+   :en: Taicangshi

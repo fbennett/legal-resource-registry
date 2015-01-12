@@ -1,0 +1,3 @@
+.. category:: 岳阳楼区
+   :category-id: cn:hunan:yue.yang.shi:yue.yang.lou.qu
+   :en: Yueyanglouqu

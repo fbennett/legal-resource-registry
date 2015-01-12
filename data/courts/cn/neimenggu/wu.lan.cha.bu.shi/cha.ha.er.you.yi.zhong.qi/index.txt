@@ -1,0 +1,3 @@
+.. category:: 察哈尔右翼中旗
+   :category-id: cn:neimenggu:wu.lan.cha.bu.shi:cha.ha.er.you.yi.zhong.qi
+   :en: Chahaeryouyizhongqi

@@ -1,0 +1,3 @@
+.. category:: Đầm Dơi
+   :category-id: vn:ca.mau:dam.doi
+   :en: Dam Doi

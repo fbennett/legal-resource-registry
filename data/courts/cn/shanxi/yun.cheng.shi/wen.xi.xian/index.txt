@@ -1,0 +1,3 @@
+.. category:: 闻喜县
+   :category-id: cn:shanxi:yun.cheng.shi:wen.xi.xian
+   :en: Wenxixian

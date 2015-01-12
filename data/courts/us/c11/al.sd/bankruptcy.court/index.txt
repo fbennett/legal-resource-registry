@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c11:al.sd;bankruptcy.court
+   :url: http://www.alsb.uscourts.gov/
+   :flp-key: alsb
+
+   .. reporter-key:: B.R.

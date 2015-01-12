@@ -1,0 +1,3 @@
+.. court:: Court of Appeal
+   :court-id: ca:qc;court.appeal
+   :en: Court of Appeal

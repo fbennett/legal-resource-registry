@@ -1,0 +1,3 @@
+.. category:: 望谟县
+   :category-id: cn:guizhou:qian.xi.nan.zhou:wang.mo.xian
+   :en: Wangmoxian

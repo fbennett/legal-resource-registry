@@ -1,0 +1,3 @@
+.. category:: Lào Cai
+   :category-id: vn:lao.cai:lao.cai
+   :en: Lao Cai

@@ -1,0 +1,3 @@
+.. category:: 拉萨市
+   :category-id: cn:xicang:la.sa.shi
+   :en: Lasa City

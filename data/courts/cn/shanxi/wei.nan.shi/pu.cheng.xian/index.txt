@@ -1,0 +1,3 @@
+.. category:: 蒲城县
+   :category-id: cn:shanxi:wei.nan.shi:pu.cheng.xian
+   :en: Puchengxian

@@ -1,0 +1,3 @@
+.. category:: 青神县
+   :category-id: cn:sichuan:mei.shan.shi:qing.shen.xian
+   :en: Qingshenxian

@@ -1,0 +1,3 @@
+.. category:: 巢湖市
+   :category-id: cn:anhui:chao.hu.shi
+   :en: Chaohu City

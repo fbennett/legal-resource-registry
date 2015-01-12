@@ -1,0 +1,3 @@
+.. category:: 南城县
+   :category-id: cn:jiangxi:fu.zhou.shi:nan.cheng.xian
+   :en: Nanchengxian

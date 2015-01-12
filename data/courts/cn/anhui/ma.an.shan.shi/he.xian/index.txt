@@ -1,0 +1,3 @@
+.. category:: 和县
+   :category-id: cn:anhui:ma.an.shan.shi:he.xian
+   :en: Hexian

@@ -1,0 +1,3 @@
+.. category:: 山东
+   :category-id: cn:shandong
+   :en: Shandong

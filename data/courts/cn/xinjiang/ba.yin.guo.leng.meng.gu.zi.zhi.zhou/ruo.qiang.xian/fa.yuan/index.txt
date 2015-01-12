@@ -1,0 +1,3 @@
+.. court:: 法院
+   :court-id: cn:xinjiang:ba.yin.guo.leng.meng.gu.zi.zhi.zhou:ruo.qiang.xian;fa.yuan
+   :en: District Court

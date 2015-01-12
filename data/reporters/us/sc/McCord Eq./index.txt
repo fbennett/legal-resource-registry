@@ -1,0 +1,9 @@
+.. reporter:: South Carolina Reports, McCord's Chancery
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: McCord Eq.
+   :edition-abbreviation: McCord Eq.
+   :dates: 1825/01/01-1827/12/31
+
+   .. variation:: S.C.L.(McCord Eq.)
+
+   .. variation:: McCord Ch.

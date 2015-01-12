@@ -1,0 +1,3 @@
+.. category:: 嘉禾县
+   :category-id: cn:hunan:chen.zhou.shi:jia.he.xian
+   :en: Jiahexian

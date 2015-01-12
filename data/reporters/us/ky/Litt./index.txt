@@ -1,0 +1,13 @@
+.. reporter:: Kentucky Reports, Littell
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Litt.
+   :edition-abbreviation: Litt.
+   :dates: 1822/01/01-1824/12/31
+
+   .. variation:: Ky.(Litt.)
+
+   .. variation:: Lit.
+
+   .. variation:: Litt.(Ky.)
+
+   .. variation:: Littell

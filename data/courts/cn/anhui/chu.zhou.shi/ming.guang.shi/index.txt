@@ -1,0 +1,3 @@
+.. category:: 明光市
+   :category-id: cn:anhui:chu.zhou.shi:ming.guang.shi
+   :en: Mingguangshi

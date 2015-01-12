@@ -1,0 +1,3 @@
+.. category:: Văn Giang
+   :category-id: vn:hung.yen:van.giang
+   :en: Van Giang

@@ -1,0 +1,3 @@
+.. category:: Cồn Cỏ
+   :category-id: vn:quang.tri:con.co
+   :en: Con Co

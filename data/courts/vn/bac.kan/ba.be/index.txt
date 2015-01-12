@@ -1,0 +1,3 @@
+.. category:: Ba Bể
+   :category-id: vn:bac.kan:ba.be
+   :en: Ba Be

@@ -1,0 +1,16 @@
+.. court:: Supreme Court
+   :court-id: us:ga;supreme.court
+   :url: http://www.gasupreme.us/
+   :flp-key: ga
+
+   .. reporter-key:: Ga.
+
+   .. reporter-key:: Ga. App.
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: S.E.
+
+   .. reporter-key:: S.E.2d
+
+   .. reporter-key:: WL

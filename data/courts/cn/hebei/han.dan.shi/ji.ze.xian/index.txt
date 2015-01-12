@@ -1,0 +1,3 @@
+.. category:: 鸡泽县
+   :category-id: cn:hebei:han.dan.shi:ji.ze.xian
+   :en: Jizexian

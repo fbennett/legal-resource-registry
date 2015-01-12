@@ -1,0 +1,3 @@
+.. category:: 大分
+   :category-id: jp:fukuoka:oita
+   :en: Oita

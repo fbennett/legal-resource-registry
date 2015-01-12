@@ -1,0 +1,3 @@
+.. category:: Vũng Tàu
+   :category-id: vn:ba.ria.vung.tau:vung.tau
+   :en: Vung Tau

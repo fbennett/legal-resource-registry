@@ -1,0 +1,3 @@
+.. category:: 青岛市
+   :category-id: cn:shandong:qing.dao.shi
+   :en: Qingdao City

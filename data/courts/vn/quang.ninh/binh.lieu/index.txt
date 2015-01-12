@@ -1,0 +1,3 @@
+.. category:: Bình Liêu
+   :category-id: vn:quang.ninh:binh.lieu
+   :en: Binh Lieu

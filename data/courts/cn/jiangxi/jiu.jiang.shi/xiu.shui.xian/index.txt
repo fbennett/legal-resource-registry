@@ -1,0 +1,3 @@
+.. category:: 修水县
+   :category-id: cn:jiangxi:jiu.jiang.shi:xiu.shui.xian
+   :en: Xiushuixian

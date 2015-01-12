@@ -1,0 +1,3 @@
+.. category:: 北湖区
+   :category-id: cn:hunan:chen.zhou.shi:bei.hu.qu
+   :en: Beihuqu

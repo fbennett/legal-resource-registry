@@ -1,0 +1,3 @@
+.. category:: 通州区
+   :category-id: cn:beijing:bei.jing.san:tong.zhou.qu
+   :en: Tongzhouqu

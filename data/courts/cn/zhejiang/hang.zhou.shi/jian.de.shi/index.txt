@@ -1,0 +1,3 @@
+.. category:: 建德市
+   :category-id: cn:zhejiang:hang.zhou.shi:jian.de.shi
+   :en: Jiandeshi

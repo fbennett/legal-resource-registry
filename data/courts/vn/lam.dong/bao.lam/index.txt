@@ -1,0 +1,3 @@
+.. category:: Bảo Lâm
+   :category-id: vn:lam.dong:bao.lam
+   :en: Bao Lam

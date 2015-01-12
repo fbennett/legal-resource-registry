@@ -1,0 +1,3 @@
+.. category:: 奎屯市
+   :category-id: cn:xinjiang:yi.li.di.qu:kui.tun.shi
+   :en: Kuitunshi

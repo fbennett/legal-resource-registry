@@ -1,0 +1,3 @@
+.. court:: 法院
+   :court-id: cn:liaoning:ying.kou.shi:zhan.qian.qu;fa.yuan
+   :en: District Court

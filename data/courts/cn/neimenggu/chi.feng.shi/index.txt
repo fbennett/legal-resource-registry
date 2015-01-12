@@ -1,0 +1,3 @@
+.. category:: 赤峰市
+   :category-id: cn:neimenggu:chi.feng.shi
+   :en: Chifeng City

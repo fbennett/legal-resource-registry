@@ -1,0 +1,3 @@
+.. category:: Mỹ Lộc
+   :category-id: vn:nam.dinh:my.loc
+   :en: My Loc

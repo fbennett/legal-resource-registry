@@ -1,0 +1,7 @@
+.. reporter:: Iowa Reports, Greene
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Greene
+   :edition-abbreviation: Greene
+   :dates: 1847/01/01-1854/12/31
+
+   .. variation:: Greene G.(Iowa)

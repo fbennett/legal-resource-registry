@@ -1,0 +1,3 @@
+.. category:: 贵溪市
+   :category-id: cn:jiangxi:ying.tan.shi:gui.xi.shi
+   :en: Guixishi

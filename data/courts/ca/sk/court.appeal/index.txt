@@ -1,0 +1,4 @@
+.. court:: Court of Appeal
+   :court-id: ca:sk;court.appeal
+   :en: Court of Appeal
+   :url: http://www.yukoncourts.ca/courts/appeal.html

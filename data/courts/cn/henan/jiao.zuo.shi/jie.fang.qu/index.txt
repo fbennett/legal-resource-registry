@@ -1,0 +1,3 @@
+.. category:: 解放区
+   :category-id: cn:henan:jiao.zuo.shi:jie.fang.qu
+   :en: Jiefangqu

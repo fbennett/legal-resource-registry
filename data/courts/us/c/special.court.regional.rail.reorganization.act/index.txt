@@ -1,0 +1,4 @@
+.. court:: Special Court under the Regional Rail Reorganization Act
+   :court-id: us:c;special.court.regional.rail.reorganization.act
+   :url: http://www.uscourts.gov/news/TheThirdBranch/96-11-01/Special_Railroad_Court_to_Close_Doors.aspx
+   :flp-key: reglrailreorgct

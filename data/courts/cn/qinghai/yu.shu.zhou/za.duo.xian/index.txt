@@ -1,0 +1,3 @@
+.. category:: 杂多县
+   :category-id: cn:qinghai:yu.shu.zhou:za.duo.xian
+   :en: Zaduoxian

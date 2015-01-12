@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c10:ok.ed;bankruptcy.court
+   :url: http://www.okeb.uscourts.gov/
+   :flp-key: okeb
+
+   .. reporter-key:: B.R.

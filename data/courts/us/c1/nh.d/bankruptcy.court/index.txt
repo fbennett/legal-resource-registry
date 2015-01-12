@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c1:nh.d;bankruptcy.court
+   :url: http://www.nhb.uscourts.gov/
+   :flp-key: nhb
+
+   .. reporter-key:: B.R.

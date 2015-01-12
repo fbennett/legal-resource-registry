@@ -1,0 +1,3 @@
+.. category:: 西宁城中区
+   :category-id: cn:qinghai:xi.ning.shi:xi.ning.cheng.zhong.qu
+   :en: Xiningchengzhongqu

@@ -1,0 +1,5 @@
+.. reporter:: New York Slip Opinion
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: NY Slip Op
+   :edition-abbreviation: NY Slip Op
+   :dates: 1750/01/01-present

@@ -1,0 +1,3 @@
+.. category:: 大冶市
+   :category-id: cn:hubei:huang.shi.shi:da.ye.shi
+   :en: Dayeshi

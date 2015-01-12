@@ -1,0 +1,3 @@
+.. category:: Đồng Xoài
+   :category-id: vn:binh.phuoc:dong.xoai
+   :en: Dong Xoai

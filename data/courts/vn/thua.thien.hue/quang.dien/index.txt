@@ -1,0 +1,3 @@
+.. category:: Quảng Điền
+   :category-id: vn:thua.thien.hue:quang.dien
+   :en: Quang Dien

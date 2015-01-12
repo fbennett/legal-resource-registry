@@ -1,0 +1,3 @@
+.. category:: 长治郊区
+   :category-id: cn:shanxi:chang.zhi.shi:chang.zhi.jiao.qu
+   :en: Changzhijiaoqu

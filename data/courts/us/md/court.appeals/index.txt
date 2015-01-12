@@ -1,0 +1,24 @@
+.. court:: Court of Appeals
+   :court-id: us:md;court.appeals
+   :url: http://www.courts.state.md.us/coappeals/
+   :flp-key: md
+
+   .. reporter-key:: A.
+
+   .. reporter-key:: A.2d
+
+   .. reporter-key:: A.3d
+
+   .. reporter-key:: G. & J.
+
+   .. reporter-key:: Gill
+
+   .. reporter-key:: H. & G.
+
+   .. reporter-key:: H. & J.
+
+   .. reporter-key:: H. & McH.
+
+   .. reporter-key:: Md.
+
+   .. reporter-key:: Md. App.

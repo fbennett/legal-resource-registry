@@ -1,0 +1,3 @@
+.. category:: 楚雄州
+   :category-id: cn:yunnan:chu.xiong.zhou
+   :en: Chuxiongzhou

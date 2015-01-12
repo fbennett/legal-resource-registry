@@ -1,0 +1,3 @@
+.. category:: Vĩnh Thuận
+   :category-id: vn:kien.giang:vinh.thuan
+   :en: Vinh Thuan

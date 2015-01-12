@@ -1,0 +1,3 @@
+.. category:: 岡山
+   :category-id: jp:hiroshima:okayama
+   :en: Okayama

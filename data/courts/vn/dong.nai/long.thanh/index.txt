@@ -1,0 +1,3 @@
+.. category:: Long Thành
+   :category-id: vn:dong.nai:long.thanh
+   :en: Long Thanh

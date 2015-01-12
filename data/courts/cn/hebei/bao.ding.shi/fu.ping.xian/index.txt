@@ -1,0 +1,3 @@
+.. category:: 阜平县
+   :category-id: cn:hebei:bao.ding.shi:fu.ping.xian
+   :en: Fupingxian

@@ -1,0 +1,3 @@
+.. category:: 张家川县
+   :category-id: cn:gansu:tian.shui:zhang.jia.chuan.xian
+   :en: Zhangjiachuanxian

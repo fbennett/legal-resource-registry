@@ -1,0 +1,3 @@
+.. category:: 渭南市
+   :category-id: cn:shanxi:wei.nan.shi
+   :en: Weinan City

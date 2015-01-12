@@ -1,0 +1,3 @@
+.. category:: 吴中区
+   :category-id: cn:jiangsu:su.zhou.shi:wu.zhong.qu
+   :en: Wuzhongqu

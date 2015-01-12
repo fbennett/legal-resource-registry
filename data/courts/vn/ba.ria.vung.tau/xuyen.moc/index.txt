@@ -1,0 +1,3 @@
+.. category:: Xuyên Mộc
+   :category-id: vn:ba.ria.vung.tau:xuyen.moc
+   :en: Xuyen Moc

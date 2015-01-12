@@ -1,0 +1,3 @@
+.. category:: 邕宁区
+   :category-id: cn:guangxi:nan.ning.shi:yong.ning.qu
+   :en: Yongningqu

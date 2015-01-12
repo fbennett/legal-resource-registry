@@ -1,0 +1,3 @@
+.. court:: 中院
+   :court-id: cn:shandong:zi.bo.shi;zhong.yuan
+   :en: Intermediate Court

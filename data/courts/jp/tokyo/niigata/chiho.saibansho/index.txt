@@ -1,0 +1,8 @@
+.. court:: 地方裁判所
+   :court-id: jp:tokyo:niigata;chiho.saibansho
+   :en: District Court
+   :url: http://www.courts.go.jp/niigata/
+
+   .. reporter-key:: 下刑集
+
+   .. reporter-key:: 下民集

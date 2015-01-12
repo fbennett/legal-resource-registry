@@ -1,0 +1,3 @@
+.. category:: 万秀区
+   :category-id: cn:guangxi:wu.zhou.shi:wan.xiu.qu
+   :en: Wanxiuqu

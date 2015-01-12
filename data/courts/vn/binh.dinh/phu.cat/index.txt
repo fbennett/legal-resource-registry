@@ -1,0 +1,3 @@
+.. category:: Phù Cát
+   :category-id: vn:binh.dinh:phu.cat
+   :en: Phu Cat

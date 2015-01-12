@@ -1,0 +1,3 @@
+.. category:: 沁水县
+   :category-id: cn:shanxi:jin.cheng.shi:qin.shui.xian
+   :en: Qinshuixian

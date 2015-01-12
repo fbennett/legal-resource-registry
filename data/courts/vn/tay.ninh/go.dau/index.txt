@@ -1,0 +1,3 @@
+.. category:: Gò Dầu
+   :category-id: vn:tay.ninh:go.dau
+   :en: Go Dau

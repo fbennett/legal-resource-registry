@@ -1,0 +1,3 @@
+.. category:: 屈原管理区
+   :category-id: cn:hunan:yue.yang.shi:qu.yuan.guan.li.qu
+   :en: Quyuanguanliqu

@@ -1,0 +1,3 @@
+.. category:: Lương Sơn
+   :category-id: vn:hoa.binh:luong.son
+   :en: Luong Son

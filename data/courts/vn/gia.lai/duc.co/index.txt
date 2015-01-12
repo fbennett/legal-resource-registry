@@ -1,0 +1,3 @@
+.. category:: Đức Cơ
+   :category-id: vn:gia.lai:duc.co
+   :en: Duc Co

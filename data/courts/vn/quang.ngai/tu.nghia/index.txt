@@ -1,0 +1,3 @@
+.. category:: Tư Nghĩa
+   :category-id: vn:quang.ngai:tu.nghia
+   :en: Tu Nghia

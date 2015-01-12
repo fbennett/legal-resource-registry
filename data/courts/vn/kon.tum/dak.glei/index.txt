@@ -1,0 +1,3 @@
+.. category:: Đắk Glei
+   :category-id: vn:kon.tum:dak.glei
+   :en: Dak Glei

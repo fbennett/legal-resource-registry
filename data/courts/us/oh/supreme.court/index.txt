@@ -1,0 +1,60 @@
+.. court:: Supreme Court
+   :court-id: us:oh;supreme.court
+   :url: http://www.supremecourt.ohio.gov/
+   :flp-key: ohio
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: N.E.
+
+   .. reporter-key:: N.E.2d
+
+   .. reporter-key:: OH
+
+   .. reporter-key:: Ohio
+
+   .. reporter-key:: Ohio App.
+
+   .. reporter-key:: Ohio App. 2d
+
+   .. reporter-key:: Ohio App. 3d
+
+   .. reporter-key:: Ohio App. Unrep.
+
+   .. reporter-key:: Ohio B.
+
+   .. reporter-key:: Ohio C.C.
+
+   .. reporter-key:: Ohio C.C. (n.s.)
+
+   .. reporter-key:: Ohio C.C. Dec.
+
+   .. reporter-key:: Ohio Cir. Dec.
+
+   .. reporter-key:: Ohio Dec.
+
+   .. reporter-key:: Ohio Dec. Reprint
+
+   .. reporter-key:: Ohio Law. Abs.
+
+   .. reporter-key:: Ohio Misc.
+
+   .. reporter-key:: Ohio Misc. 2d
+
+   .. reporter-key:: Ohio N.P.
+
+   .. reporter-key:: Ohio N.P. (n.s.)
+
+   .. reporter-key:: Ohio Op.
+
+   .. reporter-key:: Ohio Op. 2d
+
+   .. reporter-key:: Ohio Op. 3d
+
+   .. reporter-key:: Ohio St.
+
+   .. reporter-key:: Ohio St. 2d
+
+   .. reporter-key:: Ohio St. 3d
+
+   .. reporter-key:: WL

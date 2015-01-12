@@ -1,0 +1,3 @@
+.. category:: 鱼台县
+   :category-id: cn:shandong:ji.ning.shi:yu.tai.xian
+   :en: Yutaixian

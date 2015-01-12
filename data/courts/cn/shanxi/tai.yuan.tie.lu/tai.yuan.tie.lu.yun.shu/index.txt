@@ -1,0 +1,3 @@
+.. category:: 太原铁路运输
+   :category-id: cn:shanxi:tai.yuan.tie.lu:tai.yuan.tie.lu.yun.shu
+   :en: Taiyuantieluyunshu

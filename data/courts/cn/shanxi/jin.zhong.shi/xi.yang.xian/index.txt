@@ -1,0 +1,3 @@
+.. category:: 昔阳县
+   :category-id: cn:shanxi:jin.zhong.shi:xi.yang.xian
+   :en: Xiyangxian

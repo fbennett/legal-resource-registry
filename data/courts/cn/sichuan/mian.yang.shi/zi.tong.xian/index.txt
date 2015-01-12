@@ -1,0 +1,3 @@
+.. category:: 梓潼县
+   :category-id: cn:sichuan:mian.yang.shi:zi.tong.xian
+   :en: Zitongxian

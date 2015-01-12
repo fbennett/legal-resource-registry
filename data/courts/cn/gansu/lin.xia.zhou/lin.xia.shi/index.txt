@@ -1,0 +1,3 @@
+.. category:: 临夏市
+   :category-id: cn:gansu:lin.xia.zhou:lin.xia.shi
+   :en: Linxiashi

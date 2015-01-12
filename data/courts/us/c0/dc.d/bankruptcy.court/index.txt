@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c0:dc.d;bankruptcy.court
+   :url: http://www.dcb.uscourts.gov/
+   :flp-key: dcb
+
+   .. reporter-key:: B.R.

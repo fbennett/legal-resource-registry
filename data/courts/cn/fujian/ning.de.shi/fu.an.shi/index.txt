@@ -1,0 +1,3 @@
+.. category:: 福安市
+   :category-id: cn:fujian:ning.de.shi:fu.an.shi
+   :en: Fuanshi

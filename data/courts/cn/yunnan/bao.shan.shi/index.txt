@@ -1,0 +1,3 @@
+.. category:: 保山市
+   :category-id: cn:yunnan:bao.shan.shi
+   :en: Baoshan City

@@ -1,0 +1,3 @@
+.. category:: 恩施市
+   :category-id: cn:hubei:en.shi.zhou:en.shi.shi
+   :en: Enshishi

@@ -1,0 +1,3 @@
+.. category:: 庐山区
+   :category-id: cn:jiangxi:jiu.jiang.shi:lu.shan.qu
+   :en: Lushanqu

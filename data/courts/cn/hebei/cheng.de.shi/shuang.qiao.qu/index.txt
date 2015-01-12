@@ -1,0 +1,3 @@
+.. category:: 双桥区
+   :category-id: cn:hebei:cheng.de.shi:shuang.qiao.qu
+   :en: Shuangqiaoqu

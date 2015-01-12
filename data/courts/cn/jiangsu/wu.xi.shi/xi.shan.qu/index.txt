@@ -1,0 +1,3 @@
+.. category:: 锡山区
+   :category-id: cn:jiangsu:wu.xi.shi:xi.shan.qu
+   :en: Xishanqu

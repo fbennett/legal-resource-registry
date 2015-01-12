@@ -1,0 +1,3 @@
+.. category:: Tuy Phước
+   :category-id: vn:binh.dinh:tuy.phuoc
+   :en: Tuy Phuoc

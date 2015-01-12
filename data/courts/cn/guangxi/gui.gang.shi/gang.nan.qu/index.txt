@@ -1,0 +1,3 @@
+.. category:: 港南区
+   :category-id: cn:guangxi:gui.gang.shi:gang.nan.qu
+   :en: Gangnanqu

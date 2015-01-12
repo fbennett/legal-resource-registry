@@ -1,0 +1,3 @@
+.. category:: 富蕴县
+   :category-id: cn:xinjiang:a.le.tai.di.qu:fu.yun.xian
+   :en: Fuyunxian

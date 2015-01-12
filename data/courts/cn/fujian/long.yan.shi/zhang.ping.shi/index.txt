@@ -1,0 +1,3 @@
+.. category:: 漳平市
+   :category-id: cn:fujian:long.yan.shi:zhang.ping.shi
+   :en: Zhangpingshi

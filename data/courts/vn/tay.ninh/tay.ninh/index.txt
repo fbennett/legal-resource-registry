@@ -1,0 +1,3 @@
+.. category:: Tây Ninh
+   :category-id: vn:tay.ninh:tay.ninh
+   :en: Tay Ninh

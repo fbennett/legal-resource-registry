@@ -1,0 +1,3 @@
+.. category:: Móng Cái
+   :category-id: vn:quang.ninh:mong.cai
+   :en: Mong Cai

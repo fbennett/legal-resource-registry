@@ -1,0 +1,3 @@
+.. category:: 灵武市
+   :category-id: cn:ningxia:yin.chuan.shi:ling.wu.shi
+   :en: Lingwushi

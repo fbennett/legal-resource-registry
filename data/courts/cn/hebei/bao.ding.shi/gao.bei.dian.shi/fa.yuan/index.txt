@@ -1,0 +1,3 @@
+.. court:: 法院
+   :court-id: cn:hebei:bao.ding.shi:gao.bei.dian.shi;fa.yuan
+   :en: District Court

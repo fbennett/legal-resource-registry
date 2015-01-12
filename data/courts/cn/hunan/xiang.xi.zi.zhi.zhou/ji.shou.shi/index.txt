@@ -1,0 +1,3 @@
+.. category:: 吉首市
+   :category-id: cn:hunan:xiang.xi.zi.zhi.zhou:ji.shou.shi
+   :en: Jishoushi

@@ -1,0 +1,3 @@
+.. category:: Hòa Vang
+   :category-id: vn:da.nang:hoa.vang
+   :en: Hoa Vang

@@ -1,0 +1,3 @@
+.. category:: Хөвсгөл
+   :category-id: mn:khovsgol
+   :en: Khövsgöl

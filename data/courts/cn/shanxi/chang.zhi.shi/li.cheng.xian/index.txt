@@ -1,0 +1,3 @@
+.. category:: 黎城县
+   :category-id: cn:shanxi:chang.zhi.shi:li.cheng.xian
+   :en: Lichengxian

@@ -1,0 +1,3 @@
+.. category:: German Democratic Republic
+   :category-id: dd
+

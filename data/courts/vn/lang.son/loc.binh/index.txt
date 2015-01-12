@@ -1,0 +1,3 @@
+.. category:: Lộc Bình
+   :category-id: vn:lang.son:loc.binh
+   :en: Loc Binh

@@ -1,0 +1,5 @@
+.. reporter:: Tennessee Criminal Appeals Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Tenn. Crim. App.
+   :edition-abbreviation: Tenn. Crim. App.
+   :dates: 1967/01/01-1971/12/31

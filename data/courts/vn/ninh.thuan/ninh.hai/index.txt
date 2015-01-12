@@ -1,0 +1,3 @@
+.. category:: Ninh Hải
+   :category-id: vn:ninh.thuan:ninh.hai
+   :en: Ninh Hai

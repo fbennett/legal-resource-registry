@@ -1,0 +1,3 @@
+.. category:: 阿巴嘎旗
+   :category-id: cn:neimenggu:xi.lin.guo.le.meng:a.ba.ga.qi
+   :en: Abagaqi

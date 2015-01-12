@@ -1,0 +1,3 @@
+.. category:: 三江县
+   :category-id: cn:guangxi:liu.zhou.shi:san.jiang.xian
+   :en: Sanjiangxian

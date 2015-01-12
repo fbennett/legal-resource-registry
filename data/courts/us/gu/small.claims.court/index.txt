@@ -1,0 +1,3 @@
+.. court:: Small Claims Court
+   :court-id: us:gu;small.claims.court
+   :url: http://www.guamsupremecourt.com/Small%20Claims/smallclaims.html

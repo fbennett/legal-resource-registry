@@ -1,0 +1,3 @@
+.. category:: Lâm Thao
+   :category-id: vn:phu.tho:lam.thao
+   :en: Lam Thao

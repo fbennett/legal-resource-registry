@@ -1,0 +1,3 @@
+.. category:: 杏花岭区
+   :category-id: cn:shanxi:tai.yuan.shi:xing.hua.ling.qu
+   :en: Xinghualingqu

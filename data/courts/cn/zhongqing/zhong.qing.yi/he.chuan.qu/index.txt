@@ -1,0 +1,3 @@
+.. category:: 合川区
+   :category-id: cn:zhongqing:zhong.qing.yi:he.chuan.qu
+   :en: Hechuanqu

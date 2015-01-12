@@ -1,0 +1,3 @@
+.. category:: Diên Khánh
+   :category-id: vn:khanh.hoa:dien.khanh
+   :en: Dien Khanh

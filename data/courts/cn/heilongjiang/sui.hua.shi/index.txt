@@ -1,0 +1,3 @@
+.. category:: 绥化市
+   :category-id: cn:heilongjiang:sui.hua.shi
+   :en: Suihua City

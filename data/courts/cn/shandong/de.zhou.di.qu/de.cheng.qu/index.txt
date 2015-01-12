@@ -1,0 +1,3 @@
+.. category:: 德城区
+   :category-id: cn:shandong:de.zhou.di.qu:de.cheng.qu
+   :en: Dechengqu

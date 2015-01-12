@@ -1,0 +1,13 @@
+.. reporter:: Clarke's Chancery Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Cl. Ch.
+   :edition-abbreviation: Cl. Ch.
+   :dates: 1839/01/01-1841/12/31
+
+   .. variation:: Cl.R.
+
+   .. variation:: Clarke
+
+   .. variation:: Clarke Ch.
+
+   .. variation:: Clarke Ch.(N.Y.)

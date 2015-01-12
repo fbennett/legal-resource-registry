@@ -1,0 +1,3 @@
+.. category:: Dĩ An
+   :category-id: vn:binh.duong:di.an
+   :en: Di An

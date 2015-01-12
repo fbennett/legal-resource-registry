@@ -1,0 +1,3 @@
+.. category:: 凉城县
+   :category-id: cn:neimenggu:wu.lan.cha.bu.shi:liang.cheng.xian
+   :en: Liangchengxian

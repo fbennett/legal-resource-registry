@@ -1,0 +1,3 @@
+.. category:: Thông Nông
+   :category-id: vn:cao.bang:thong.nong
+   :en: Thong Nong

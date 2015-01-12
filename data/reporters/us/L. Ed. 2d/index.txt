@@ -1,0 +1,17 @@
+.. reporter:: Lawyer's Edition
+   :flp-series-cite-type: federal
+   :flp-common-abbreviation: L. Ed.
+   :edition-abbreviation: L. Ed. 2d
+   :dates: 1956/01/01-present
+
+   .. variation:: L.Ed.2d
+
+   .. variation:: L Ed 2d
+
+   .. variation:: L.Ed. 2d
+
+   .. variation:: L.E.2d
+
+   .. variation:: U.S.L.Ed.2d
+
+   .. variation:: L. Ed.2d

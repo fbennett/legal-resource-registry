@@ -1,0 +1,3 @@
+.. category:: Yên Sơn
+   :category-id: vn:tuyen.quang:yen.son
+   :en: Yen Son

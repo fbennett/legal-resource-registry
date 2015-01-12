@@ -1,0 +1,3 @@
+.. category:: 台江县
+   :category-id: cn:guizhou:qian.dong.nan.zhou:tai.jiang.xian
+   :en: Taijiangxian

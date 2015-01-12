@@ -1,0 +1,3 @@
+.. category:: 海城市
+   :category-id: cn:liaoning:an.shan.shi:hai.cheng.shi
+   :en: Haichengshi

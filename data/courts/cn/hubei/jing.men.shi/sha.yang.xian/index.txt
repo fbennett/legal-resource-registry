@@ -1,0 +1,3 @@
+.. category:: 沙洋县
+   :category-id: cn:hubei:jing.men.shi:sha.yang.xian
+   :en: Shayangxian

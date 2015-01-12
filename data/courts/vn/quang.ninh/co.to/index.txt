@@ -1,0 +1,3 @@
+.. category:: Cô Tô
+   :category-id: vn:quang.ninh:co.to
+   :en: Co To

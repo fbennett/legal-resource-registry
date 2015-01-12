@@ -1,0 +1,3 @@
+.. category:: Hải An
+   :category-id: vn:hai.phong:hai.an
+   :en: Hai An

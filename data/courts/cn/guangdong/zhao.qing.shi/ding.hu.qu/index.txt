@@ -1,0 +1,3 @@
+.. category:: 鼎湖区
+   :category-id: cn:guangdong:zhao.qing.shi:ding.hu.qu
+   :en: Dinghuqu

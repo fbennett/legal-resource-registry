@@ -1,0 +1,3 @@
+.. category:: 涞水县
+   :category-id: cn:hebei:bao.ding.shi:lai.shui.xian
+   :en: Laishuixian

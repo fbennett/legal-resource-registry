@@ -1,0 +1,5 @@
+.. reporter:: Georgia Appeals Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Ga. App.
+   :edition-abbreviation: Ga. App.
+   :dates: 1907/01/01-present

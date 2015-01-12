@@ -1,0 +1,3 @@
+.. court:: 中院
+   :court-id: cn:hubei:huang.gang.shi;zhong.yuan
+   :en: Intermediate Court

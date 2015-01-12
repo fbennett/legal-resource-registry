@@ -1,0 +1,17 @@
+.. reporter:: Ohio Circuit Court Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Ohio C.C.
+   :edition-abbreviation: Ohio C.C. (n.s.)
+   :dates: 1901/01/01-1922/12/31
+
+   .. variation:: Ohio C.C.N.S.
+
+   .. variation:: Ohio Cir.Ct.(N.S.)
+
+   .. variation:: Ohio Cir.Ct.R.N.S.
+
+   .. variation:: Ohio C.C.R.N.S.
+
+   .. variation:: O.C.C.N.S.
+
+   .. variation:: Oh.Cir.Ct.N.S.

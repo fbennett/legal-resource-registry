@@ -1,0 +1,3 @@
+.. category:: 青白江区
+   :category-id: cn:sichuan:cheng.du.shi:qing.bai.jiang.qu
+   :en: Qingbaijiangqu

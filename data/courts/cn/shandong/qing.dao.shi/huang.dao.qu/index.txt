@@ -1,0 +1,3 @@
+.. category:: 黄岛区
+   :category-id: cn:shandong:qing.dao.shi:huang.dao.qu
+   :en: Huangdaoqu

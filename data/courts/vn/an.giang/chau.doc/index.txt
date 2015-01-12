@@ -1,0 +1,3 @@
+.. category:: Châu Đốc
+   :category-id: vn:an.giang:chau.doc
+   :en: Chau Doc

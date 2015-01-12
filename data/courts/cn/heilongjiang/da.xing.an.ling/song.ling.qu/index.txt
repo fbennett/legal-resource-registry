@@ -1,0 +1,3 @@
+.. category:: 松岭区
+   :category-id: cn:heilongjiang:da.xing.an.ling:song.ling.qu
+   :en: Songlingqu

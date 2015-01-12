@@ -1,0 +1,3 @@
+.. category:: 伊宁垦区
+   :category-id: cn:xinjiang:bing.tuan:di.si.shi:yi.ning.ken.qu
+   :en: Yiningkenqu

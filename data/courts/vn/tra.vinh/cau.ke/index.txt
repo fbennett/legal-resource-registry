@@ -1,0 +1,3 @@
+.. category:: Cầu Kè
+   :category-id: vn:tra.vinh:cau.ke
+   :en: Cau Ke

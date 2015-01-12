@@ -1,0 +1,8 @@
+.. court:: 高等裁判所
+   :court-id: jp:hiroshima;koto.saibansho
+   :url: http://www.courts.go.jp/hiroshima-h/
+   :en: High Court
+
+   .. reporter-key:: 高刑集
+
+   .. reporter-key:: 高民集

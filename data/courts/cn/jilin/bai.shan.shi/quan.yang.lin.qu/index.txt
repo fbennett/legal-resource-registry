@@ -1,0 +1,3 @@
+.. category:: 泉阳林区
+   :category-id: cn:jilin:bai.shan.shi:quan.yang.lin.qu
+   :en: Quanyanglinqu

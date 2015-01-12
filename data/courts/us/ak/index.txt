@@ -1,0 +1,2 @@
+.. category:: Alaska
+   :category-id: us:ak

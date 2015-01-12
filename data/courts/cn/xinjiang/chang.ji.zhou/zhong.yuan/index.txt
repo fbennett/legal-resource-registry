@@ -1,0 +1,3 @@
+.. court:: 中院
+   :court-id: cn:xinjiang:chang.ji.zhou;zhong.yuan
+   :en: Intermediate Court

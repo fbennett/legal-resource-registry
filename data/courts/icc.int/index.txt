@@ -1,0 +1,3 @@
+.. category:: International Criminal Court
+   :category-id: icc.int
+

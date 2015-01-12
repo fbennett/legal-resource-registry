@@ -1,0 +1,3 @@
+.. category:: 云县
+   :category-id: cn:yunnan:lin.cang.shi:yun.xian
+   :en: Yunxian

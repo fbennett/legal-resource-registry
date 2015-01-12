@@ -1,0 +1,3 @@
+.. category:: 通渭县
+   :category-id: cn:gansu:ding.xi.shi:tong.wei.xian
+   :en: Tongweixian

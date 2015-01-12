@@ -1,0 +1,5 @@
+.. reporter:: State Reporter
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: State Rptr.
+   :edition-abbreviation: State Rptr.
+   :dates: 1945/01/01-present

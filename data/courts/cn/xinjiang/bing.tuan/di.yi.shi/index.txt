@@ -1,0 +1,3 @@
+.. category:: 第一师
+   :category-id: cn:xinjiang:bing.tuan:di.yi.shi
+   :en: First District

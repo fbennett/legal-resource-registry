@@ -1,0 +1,3 @@
+.. category:: 侯马市
+   :category-id: cn:shanxi:lin.fen.shi:hou.ma.shi
+   :en: Houmashi

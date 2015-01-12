@@ -1,0 +1,3 @@
+.. category:: 墨竹工卡县
+   :category-id: cn:xicang:la.sa.shi:mo.zhu.gong.qia.xian
+   :en: Mozhugongqiaxian

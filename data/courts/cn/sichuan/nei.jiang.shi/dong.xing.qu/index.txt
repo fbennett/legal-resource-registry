@@ -1,0 +1,3 @@
+.. category:: 东兴区
+   :category-id: cn:sichuan:nei.jiang.shi:dong.xing.qu
+   :en: Dongxingqu

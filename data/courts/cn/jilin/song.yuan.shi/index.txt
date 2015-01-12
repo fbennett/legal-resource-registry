@@ -1,0 +1,3 @@
+.. category:: 松原市
+   :category-id: cn:jilin:song.yuan.shi
+   :en: Songyuan City

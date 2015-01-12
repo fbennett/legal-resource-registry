@@ -1,0 +1,3 @@
+.. category:: 资兴市
+   :category-id: cn:hunan:chen.zhou.shi:zi.xing.shi
+   :en: Zixingshi

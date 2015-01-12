@@ -1,0 +1,3 @@
+.. category:: Phục Hòa
+   :category-id: vn:cao.bang:phuc.hoa
+   :en: Phuc Hoa

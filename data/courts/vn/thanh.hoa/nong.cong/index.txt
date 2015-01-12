@@ -1,0 +1,3 @@
+.. category:: Nông Cống
+   :category-id: vn:thanh.hoa:nong.cong
+   :en: Nong Cong

@@ -1,0 +1,4 @@
+.. court:: Appellate Court
+   :court-id: us:il;appellate.court
+   :url: http://www.state.il.us/court/appellatecourt/
+   :flp-key: illappct

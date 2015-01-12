@@ -1,0 +1,3 @@
+.. category:: 埼玉
+   :category-id: jp:tokyo:saitama
+   :en: Saitama

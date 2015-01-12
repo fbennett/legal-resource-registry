@@ -1,0 +1,3 @@
+.. category:: 斗门区
+   :category-id: cn:guangdong:zhu.hai.shi:dou.men.qu
+   :en: Doumenqu

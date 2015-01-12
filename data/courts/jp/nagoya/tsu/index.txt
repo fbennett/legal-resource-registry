@@ -1,0 +1,3 @@
+.. category:: 津
+   :category-id: jp:nagoya:tsu
+   :en: Tsu

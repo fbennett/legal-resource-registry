@@ -1,0 +1,3 @@
+.. category:: Hàm Yên
+   :category-id: vn:tuyen.quang:ham.yen
+   :en: Ham Yen

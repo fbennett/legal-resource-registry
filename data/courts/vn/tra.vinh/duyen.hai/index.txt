@@ -1,0 +1,3 @@
+.. category:: Duyên Hải
+   :category-id: vn:tra.vinh:duyen.hai
+   :en: Duyen Hai

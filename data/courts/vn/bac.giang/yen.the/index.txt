@@ -1,0 +1,3 @@
+.. category:: Yên Thế
+   :category-id: vn:bac.giang:yen.the
+   :en: Yen The

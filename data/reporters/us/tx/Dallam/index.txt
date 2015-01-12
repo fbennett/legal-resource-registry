@@ -1,0 +1,11 @@
+.. reporter:: Digest of the Laws of Texas (Dallam's Opinions)
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Dallam
+   :edition-abbreviation: Dallam
+   :dates: 1840/01/01-1844/12/31
+
+   .. variation:: Dallam Dig.(Tex.)
+
+   .. variation:: Dall.Dig.
+
+   .. variation:: Dall.(Tex.)

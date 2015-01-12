@@ -1,0 +1,2 @@
+.. category:: American Samoa
+   :category-id: us:as

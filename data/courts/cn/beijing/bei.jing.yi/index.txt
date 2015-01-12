@@ -1,0 +1,3 @@
+.. category:: 北京一
+   :category-id: cn:beijing:bei.jing.yi
+   :en: Beijingyi

@@ -1,0 +1,3 @@
+.. category:: 游仙区
+   :category-id: cn:sichuan:mian.yang.shi:you.xian.qu
+   :en: Youxianqu

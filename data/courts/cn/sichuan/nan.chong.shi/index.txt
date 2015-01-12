@@ -1,0 +1,3 @@
+.. category:: 南充市
+   :category-id: cn:sichuan:nan.chong.shi
+   :en: Nanchong City

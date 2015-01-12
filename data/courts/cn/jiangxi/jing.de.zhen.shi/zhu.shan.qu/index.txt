@@ -1,0 +1,3 @@
+.. category:: 珠山区
+   :category-id: cn:jiangxi:jing.de.zhen.shi:zhu.shan.qu
+   :en: Zhushanqu

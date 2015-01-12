@@ -1,0 +1,3 @@
+.. category:: 甘肃矿区
+   :category-id: cn:gansu:lan.zhou.tie.lu:gan.su.kuang.qu
+   :en: Gansukuangqu

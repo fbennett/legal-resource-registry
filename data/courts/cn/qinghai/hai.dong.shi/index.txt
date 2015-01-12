@@ -1,0 +1,3 @@
+.. category:: 海东市
+   :category-id: cn:qinghai:hai.dong.shi
+   :en: Haidong City

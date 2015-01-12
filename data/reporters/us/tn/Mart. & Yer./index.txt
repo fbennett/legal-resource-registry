@@ -1,0 +1,15 @@
+.. reporter:: Tennessee Reports, Martin & Yerger
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Mart. & Yer.
+   :edition-abbreviation: Mart. & Yer.
+   :dates: 1825/01/01-1828/12/31
+
+   .. variation:: Mart.& Y.
+
+   .. variation:: M.& Y.R.
+
+   .. variation:: Mart.& Yerg.
+
+   .. variation:: M.& Y.
+
+   .. variation:: Mart.& Y.(Tenn.)

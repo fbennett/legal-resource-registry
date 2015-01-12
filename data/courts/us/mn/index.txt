@@ -1,0 +1,2 @@
+.. category:: Minnesota
+   :category-id: us:mn

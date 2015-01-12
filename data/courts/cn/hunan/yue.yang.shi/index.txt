@@ -1,0 +1,3 @@
+.. category:: 岳阳市
+   :category-id: cn:hunan:yue.yang.shi
+   :en: Yueyang City

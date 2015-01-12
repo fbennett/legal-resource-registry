@@ -1,0 +1,3 @@
+.. category:: 阿克塞县
+   :category-id: cn:gansu:jiu.quan.shi:a.ke.sai.xian
+   :en: Akesaixian

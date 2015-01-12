@@ -1,0 +1,3 @@
+.. category:: 赣县
+   :category-id: cn:jiangxi:gan.zhou.shi:gan.xian
+   :en: Ganxian

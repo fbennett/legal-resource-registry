@@ -1,0 +1,3 @@
+.. category:: 喀喇沁旗
+   :category-id: cn:neimenggu:chi.feng.shi:ka.la.qin.qi
+   :en: Kalaqinqi

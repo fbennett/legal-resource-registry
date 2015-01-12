@@ -1,0 +1,3 @@
+.. court:: Улсын Үндсэн хуулийн цэц
+   :court-id: mn;ulsyn.undsen.khuuliin.tsets
+   :en: Constitutional Court

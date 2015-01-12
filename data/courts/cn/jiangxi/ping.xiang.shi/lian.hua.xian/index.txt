@@ -1,0 +1,3 @@
+.. category:: 莲花县
+   :category-id: cn:jiangxi:ping.xiang.shi:lian.hua.xian
+   :en: Lianhuaxian

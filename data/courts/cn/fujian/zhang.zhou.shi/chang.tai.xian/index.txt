@@ -1,0 +1,3 @@
+.. category:: 长泰县
+   :category-id: cn:fujian:zhang.zhou.shi:chang.tai.xian
+   :en: Changtaixian

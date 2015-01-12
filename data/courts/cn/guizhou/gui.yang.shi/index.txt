@@ -1,0 +1,3 @@
+.. category:: 贵阳市
+   :category-id: cn:guizhou:gui.yang.shi
+   :en: Guiyang City

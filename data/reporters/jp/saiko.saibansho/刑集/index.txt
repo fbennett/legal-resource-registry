@@ -1,0 +1,3 @@
+.. reporter:: 最高裁判所刑事裁判例集
+   :edition-abbreviation: 刑集
+   :dates: 1947/01/01-present

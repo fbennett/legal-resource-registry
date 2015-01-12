@@ -1,0 +1,4 @@
+.. court:: Court of Appeals
+   :court-id: us:wa;court.appeals
+   :url: https://www.courts.wa.gov/appellate_trial_courts/
+   :flp-key: washctapp

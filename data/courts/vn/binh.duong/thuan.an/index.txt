@@ -1,0 +1,3 @@
+.. category:: Thuận An
+   :category-id: vn:binh.duong:thuan.an
+   :en: Thuan An

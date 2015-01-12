@@ -1,0 +1,46 @@
+.. court:: Supreme Court
+   :court-id: us:tn;supreme.court
+   :url: https://www.tncourts.gov/courts/supreme-court
+   :flp-key: tenn
+
+   .. reporter-key:: Cold.
+
+   .. reporter-key:: Cooke
+
+   .. reporter-key:: Hayw.
+
+   .. reporter-key:: Head
+
+   .. reporter-key:: Heisk.
+
+   .. reporter-key:: Hum.
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: Mart. & Yer.
+
+   .. reporter-key:: Meigs
+
+   .. reporter-key:: Overt.
+
+   .. reporter-key:: Peck
+
+   .. reporter-key:: S.W.
+
+   .. reporter-key:: S.W.2d
+
+   .. reporter-key:: S.W.3d
+
+   .. reporter-key:: Sneed
+
+   .. reporter-key:: Swan
+
+   .. reporter-key:: Tenn.
+
+   .. reporter-key:: Tenn. App.
+
+   .. reporter-key:: Tenn. Crim. App.
+
+   .. reporter-key:: WL
+
+   .. reporter-key:: Yer.

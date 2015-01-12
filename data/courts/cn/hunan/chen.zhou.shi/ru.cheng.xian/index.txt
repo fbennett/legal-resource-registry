@@ -1,0 +1,3 @@
+.. category:: 汝城县
+   :category-id: cn:hunan:chen.zhou.shi:ru.cheng.xian
+   :en: Ruchengxian

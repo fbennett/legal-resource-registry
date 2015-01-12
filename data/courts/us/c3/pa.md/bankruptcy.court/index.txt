@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c3:pa.md;bankruptcy.court
+   :url: http://www.pamb.uscourts.gov/
+   :flp-key: pamb
+
+   .. reporter-key:: B.R.

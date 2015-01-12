@@ -1,0 +1,3 @@
+.. category:: 宣恩县
+   :category-id: cn:hubei:en.shi.zhou:xuan.en.xian
+   :en: Xuanenxian

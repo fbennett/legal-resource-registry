@@ -1,0 +1,3 @@
+.. category:: 嘉黎县
+   :category-id: cn:xicang:na.qu:jia.li.xian
+   :en: Jialixian

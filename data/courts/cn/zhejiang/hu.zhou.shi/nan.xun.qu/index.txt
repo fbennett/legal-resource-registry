@@ -1,0 +1,3 @@
+.. category:: 南浔区
+   :category-id: cn:zhejiang:hu.zhou.shi:nan.xun.qu
+   :en: Nanxunqu

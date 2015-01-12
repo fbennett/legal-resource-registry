@@ -1,0 +1,3 @@
+.. category:: Phú Quốc
+   :category-id: vn:kien.giang:phu.quoc
+   :en: Phu Quoc

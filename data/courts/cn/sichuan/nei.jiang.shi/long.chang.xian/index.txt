@@ -1,0 +1,3 @@
+.. category:: 隆昌县
+   :category-id: cn:sichuan:nei.jiang.shi:long.chang.xian
+   :en: Longchangxian

@@ -1,0 +1,3 @@
+.. category:: 景泰县
+   :category-id: cn:gansu:bai.yin:jing.tai.xian
+   :en: Jingtaixian

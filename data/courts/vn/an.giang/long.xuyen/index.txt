@@ -1,0 +1,3 @@
+.. category:: Long Xuyên
+   :category-id: vn:an.giang:long.xuyen
+   :en: Long Xuyen

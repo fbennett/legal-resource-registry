@@ -1,0 +1,3 @@
+.. category:: 宜秀区
+   :category-id: cn:anhui:an.qing.shi:yi.xiu.qu
+   :en: Yixiuqu

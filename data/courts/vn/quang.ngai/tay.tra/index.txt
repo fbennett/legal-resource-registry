@@ -1,0 +1,3 @@
+.. category:: Tây Trà
+   :category-id: vn:quang.ngai:tay.tra
+   :en: Tay Tra

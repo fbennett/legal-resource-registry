@@ -1,0 +1,3 @@
+.. category:: 凌源市
+   :category-id: cn:liaoning:zhao.yang.shi:ling.yuan.shi
+   :en: Lingyuanshi

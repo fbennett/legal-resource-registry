@@ -1,0 +1,3 @@
+.. category:: Thới Lai
+   :category-id: vn:can.tho:thoi.lai
+   :en: Thoi Lai

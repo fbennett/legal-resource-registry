@@ -1,0 +1,3 @@
+.. category:: 硚口区
+   :category-id: cn:hubei:wu.han.shi:qiao.kou.qu
+   :en: Qiaokouqu

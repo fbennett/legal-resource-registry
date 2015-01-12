@@ -1,0 +1,3 @@
+.. category:: 金牛区
+   :category-id: cn:sichuan:cheng.du.shi:jin.niu.qu
+   :en: Jinniuqu

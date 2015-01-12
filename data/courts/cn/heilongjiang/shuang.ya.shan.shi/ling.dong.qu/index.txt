@@ -1,0 +1,3 @@
+.. category:: 岭东区
+   :category-id: cn:heilongjiang:shuang.ya.shan.shi:ling.dong.qu
+   :en: Lingdongqu

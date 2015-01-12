@@ -1,0 +1,3 @@
+.. category:: Bắc Yên
+   :category-id: vn:son.la:bac.yen
+   :en: Bac Yen

@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c3:de.d;bankruptcy.court
+   :url: http://www.deb.uscourts.gov/
+   :flp-key: deb
+
+   .. reporter-key:: B.R.

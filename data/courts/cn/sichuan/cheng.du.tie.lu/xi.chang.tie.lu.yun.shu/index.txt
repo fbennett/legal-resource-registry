@@ -1,0 +1,3 @@
+.. category:: 西昌铁路运输
+   :category-id: cn:sichuan:cheng.du.tie.lu:xi.chang.tie.lu.yun.shu
+   :en: Xichangtieluyunshu

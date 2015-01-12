@@ -1,0 +1,3 @@
+.. category:: Tân Hiệp
+   :category-id: vn:kien.giang:tan.hiep
+   :en: Tan Hiep

@@ -1,0 +1,3 @@
+.. category:: 宏伟区
+   :category-id: cn:liaoning:liao.yang.shi:hong.wei.qu
+   :en: Hongweiqu

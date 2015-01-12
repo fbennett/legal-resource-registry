@@ -1,0 +1,3 @@
+.. court:: 中院
+   :court-id: cn:gansu:qing.yang.shi;zhong.yuan
+   :en: Intermediate Court

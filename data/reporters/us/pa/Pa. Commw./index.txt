@@ -1,0 +1,11 @@
+.. reporter:: Pennsylvania Commonwealth Court
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Pa. Commw.
+   :edition-abbreviation: Pa. Commw.
+   :dates: 1970/01/01-1994/12/31
+
+   .. variation:: Pa. Commonwealth Ct.
+
+   .. variation:: Pa.Commw.Ct.
+
+   .. variation:: Pa.C.

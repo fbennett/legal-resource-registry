@@ -1,0 +1,3 @@
+.. category:: 泌阳县
+   :category-id: cn:henan:zhu.ma.dian.shi:mi.yang.xian
+   :en: Miyangxian

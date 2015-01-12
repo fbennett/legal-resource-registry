@@ -1,0 +1,3 @@
+.. category:: 西充县
+   :category-id: cn:sichuan:nan.chong.shi:xi.chong.xian
+   :en: Xichongxian

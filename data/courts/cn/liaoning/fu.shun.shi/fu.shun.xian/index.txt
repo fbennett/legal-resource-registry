@@ -1,0 +1,3 @@
+.. category:: 抚顺县
+   :category-id: cn:liaoning:fu.shun.shi:fu.shun.xian
+   :en: Fushunxian

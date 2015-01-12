@@ -1,0 +1,3 @@
+.. category:: France
+   :category-id: fr
+

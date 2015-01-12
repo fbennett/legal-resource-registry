@@ -1,0 +1,3 @@
+.. category:: 保靖县
+   :category-id: cn:hunan:xiang.xi.zi.zhi.zhou:bao.jing.xian
+   :en: Baojingxian

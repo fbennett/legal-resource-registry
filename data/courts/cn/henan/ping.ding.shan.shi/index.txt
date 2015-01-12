@@ -1,0 +1,3 @@
+.. category:: 平顶山市
+   :category-id: cn:henan:ping.ding.shan.shi
+   :en: Pingdingshan City

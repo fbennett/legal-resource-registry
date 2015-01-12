@@ -1,0 +1,3 @@
+.. category:: 昭阳区
+   :category-id: cn:yunnan:zhao.tong.shi:zhao.yang.qu
+   :en: Zhaoyangqu

@@ -1,0 +1,3 @@
+.. category:: 莱西市
+   :category-id: cn:shandong:qing.dao.shi:lai.xi.shi
+   :en: Laixishi

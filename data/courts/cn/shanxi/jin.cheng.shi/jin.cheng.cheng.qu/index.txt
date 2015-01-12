@@ -1,0 +1,3 @@
+.. category:: 晋城城区
+   :category-id: cn:shanxi:jin.cheng.shi:jin.cheng.cheng.qu
+   :en: Jinchengchengqu

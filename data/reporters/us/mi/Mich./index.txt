@@ -1,0 +1,7 @@
+.. reporter:: Michigan Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Mich.
+   :edition-abbreviation: Mich.
+   :dates: 1847/01/01-present
+
+   .. variation:: Mich.

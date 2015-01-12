@@ -1,0 +1,3 @@
+.. category:: 渝北区
+   :category-id: cn:zhongqing:zhong.qing.yi:yu.bei.qu
+   :en: Yubeiqu

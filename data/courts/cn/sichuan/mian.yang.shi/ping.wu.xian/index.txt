@@ -1,0 +1,3 @@
+.. category:: 平武县
+   :category-id: cn:sichuan:mian.yang.shi:ping.wu.xian
+   :en: Pingwuxian

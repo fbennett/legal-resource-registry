@@ -1,0 +1,3 @@
+.. category:: 禹会区
+   :category-id: cn:anhui:bang.bu.shi:yu.hui.qu
+   :en: Yuhuiqu

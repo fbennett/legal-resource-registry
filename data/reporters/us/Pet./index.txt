@@ -1,0 +1,11 @@
+.. reporter:: Peters' Supreme Court Reports
+   :flp-series-cite-type: scotus_early
+   :flp-common-abbreviation: Pet.
+   :edition-abbreviation: Pet.
+   :dates: 1828/01/01-1842/12/31
+
+   .. variation:: Pet.S.C.
+
+   .. variation:: U.S.(Pet.)
+
+   .. variation:: Peters

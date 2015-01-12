@@ -1,0 +1,3 @@
+.. category:: 呼中区
+   :category-id: cn:heilongjiang:da.xing.an.ling:hu.zhong.qu
+   :en: Huzhongqu

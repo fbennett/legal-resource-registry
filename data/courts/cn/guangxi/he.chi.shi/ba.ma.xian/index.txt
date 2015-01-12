@@ -1,0 +1,3 @@
+.. category:: 巴马县
+   :category-id: cn:guangxi:he.chi.shi:ba.ma.xian
+   :en: Bamaxian

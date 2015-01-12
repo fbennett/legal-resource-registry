@@ -1,0 +1,3 @@
+.. category:: Trảng Bom
+   :category-id: vn:dong.nai:trang.bom
+   :en: Trang Bom

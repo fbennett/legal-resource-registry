@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c1:ma.d;bankruptcy.court
+   :url: http://www.mab.uscourts.gov/
+   :flp-key: mab
+
+   .. reporter-key:: B.R.

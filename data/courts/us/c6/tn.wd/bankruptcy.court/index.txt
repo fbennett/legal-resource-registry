@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c6:tn.wd;bankruptcy.court
+   :url: http://www.tnwb.uscourts.gov/
+   :flp-key: tnwb
+
+   .. reporter-key:: B.R.

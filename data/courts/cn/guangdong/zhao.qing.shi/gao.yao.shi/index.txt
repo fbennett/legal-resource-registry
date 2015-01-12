@@ -1,0 +1,3 @@
+.. category:: 高要市
+   :category-id: cn:guangdong:zhao.qing.shi:gao.yao.shi
+   :en: Gaoyaoshi

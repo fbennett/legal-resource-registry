@@ -1,0 +1,3 @@
+.. category:: 尖草坪区
+   :category-id: cn:shanxi:tai.yuan.shi:jian.cao.ping.qu
+   :en: Jiancaopingqu

@@ -1,0 +1,3 @@
+.. category:: Tri Tôn
+   :category-id: vn:an.giang:tri.ton
+   :en: Tri Ton

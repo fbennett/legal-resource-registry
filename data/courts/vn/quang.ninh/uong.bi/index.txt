@@ -1,0 +1,3 @@
+.. category:: Uông Bí
+   :category-id: vn:quang.ninh:uong.bi
+   :en: Uong Bi

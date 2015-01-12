@@ -1,0 +1,3 @@
+.. court:: 中院
+   :court-id: cn:shanghai:shang.hai.er;zhong.yuan
+   :en: Intermediate Court

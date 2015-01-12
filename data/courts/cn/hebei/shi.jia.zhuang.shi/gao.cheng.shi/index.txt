@@ -1,0 +1,3 @@
+.. category:: 藁城市
+   :category-id: cn:hebei:shi.jia.zhuang.shi:gao.cheng.shi
+   :en: Gaochengshi

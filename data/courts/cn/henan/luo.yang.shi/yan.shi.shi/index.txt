@@ -1,0 +1,3 @@
+.. category:: 偃师市
+   :category-id: cn:henan:luo.yang.shi:yan.shi.shi
+   :en: Yanshishi

@@ -1,0 +1,3 @@
+.. category:: 红兴隆农垦
+   :category-id: cn:heilongjiang:nong.ken:hong.xing.long.nong.ken
+   :en: Hongxinglongnongken

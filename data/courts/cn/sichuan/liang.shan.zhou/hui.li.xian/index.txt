@@ -1,0 +1,3 @@
+.. category:: 会理县
+   :category-id: cn:sichuan:liang.shan.zhou:hui.li.xian
+   :en: Huilixian

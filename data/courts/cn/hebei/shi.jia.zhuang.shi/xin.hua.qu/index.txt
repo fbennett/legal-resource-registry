@@ -1,0 +1,3 @@
+.. category:: 新华区
+   :category-id: cn:hebei:shi.jia.zhuang.shi:xin.hua.qu
+   :en: Xinhuaqu

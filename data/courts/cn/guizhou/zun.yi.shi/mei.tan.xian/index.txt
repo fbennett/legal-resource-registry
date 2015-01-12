@@ -1,0 +1,3 @@
+.. category:: 湄潭县
+   :category-id: cn:guizhou:zun.yi.shi:mei.tan.xian
+   :en: Meitanxian

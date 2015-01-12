@@ -1,0 +1,5 @@
+.. reporter:: Alabama Reports, Stewart and Porter
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Stew. & P.
+   :edition-abbreviation: Stew. & P.
+   :dates: 1831/01/01-1834/01/01

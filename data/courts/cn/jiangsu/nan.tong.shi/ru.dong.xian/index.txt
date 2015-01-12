@@ -1,0 +1,3 @@
+.. category:: 如东县
+   :category-id: cn:jiangsu:nan.tong.shi:ru.dong.xian
+   :en: Rudongxian

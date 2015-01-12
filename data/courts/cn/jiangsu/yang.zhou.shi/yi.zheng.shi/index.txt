@@ -1,0 +1,3 @@
+.. category:: 仪征市
+   :category-id: cn:jiangsu:yang.zhou.shi:yi.zheng.shi
+   :en: Yizhengshi

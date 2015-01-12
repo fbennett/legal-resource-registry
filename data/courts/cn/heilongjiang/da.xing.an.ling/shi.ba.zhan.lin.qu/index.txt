@@ -1,0 +1,3 @@
+.. category:: 十八站林区
+   :category-id: cn:heilongjiang:da.xing.an.ling:shi.ba.zhan.lin.qu
+   :en: Shibazhanlinqu

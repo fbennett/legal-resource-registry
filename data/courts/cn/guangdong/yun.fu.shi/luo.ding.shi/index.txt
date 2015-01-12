@@ -1,0 +1,3 @@
+.. category:: 罗定市
+   :category-id: cn:guangdong:yun.fu.shi:luo.ding.shi
+   :en: Luodingshi

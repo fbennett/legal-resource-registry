@@ -1,0 +1,3 @@
+.. category:: Buôn Ma Thuột
+   :category-id: vn:dak.lak:buon.ma.thuot
+   :en: Buon Ma Thuot

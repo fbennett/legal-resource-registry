@@ -1,0 +1,3 @@
+.. category:: 永平县
+   :category-id: cn:yunnan:da.li.zhou:yong.ping.xian
+   :en: Yongpingxian

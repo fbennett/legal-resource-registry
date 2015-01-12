@@ -1,0 +1,3 @@
+.. category:: 汇川区
+   :category-id: cn:guizhou:zun.yi.shi:hui.chuan.qu
+   :en: Huichuanqu

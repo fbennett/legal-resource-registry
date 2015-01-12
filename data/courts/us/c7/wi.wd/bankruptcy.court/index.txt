@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c7:wi.wd;bankruptcy.court
+   :url: http://www.wiwb.uscourts.gov/
+   :flp-key: wiwb
+
+   .. reporter-key:: B.R.

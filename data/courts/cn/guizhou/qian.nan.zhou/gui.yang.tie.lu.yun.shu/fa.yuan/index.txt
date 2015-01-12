@@ -1,0 +1,3 @@
+.. court:: 法院
+   :court-id: cn:guizhou:qian.nan.zhou:gui.yang.tie.lu.yun.shu;fa.yuan
+   :en: District Court

@@ -1,0 +1,3 @@
+.. category:: 和林格尔县
+   :category-id: cn:neimenggu:hu.he.hao.te.shi:he.lin.ge.er.xian
+   :en: Helingeerxian

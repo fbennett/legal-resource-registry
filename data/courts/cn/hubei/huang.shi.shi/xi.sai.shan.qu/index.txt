@@ -1,0 +1,3 @@
+.. category:: 西塞山区
+   :category-id: cn:hubei:huang.shi.shi:xi.sai.shan.qu
+   :en: Xisaishanqu

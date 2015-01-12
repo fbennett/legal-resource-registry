@@ -1,0 +1,3 @@
+.. category:: 九寨沟县
+   :category-id: cn:sichuan:a.ba.zhou:jiu.zhai.gou.xian
+   :en: Jiuzhaigouxian

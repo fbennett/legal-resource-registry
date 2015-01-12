@@ -1,0 +1,3 @@
+.. category:: 利辛县
+   :category-id: cn:anhui:bo.zhou.shi:li.xin.xian
+   :en: Lixinxian

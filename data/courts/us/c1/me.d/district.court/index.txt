@@ -1,0 +1,18 @@
+.. court:: District Court
+   :court-id: us:c1:me.d;district.court
+   :url: http://www.med.uscourts.gov/
+   :flp-key: med
+
+   .. reporter-key:: F. Supp.
+
+   .. reporter-key:: F. Supp. 2d
+
+   .. reporter-key:: F.R.D.
+
+   .. reporter-key:: Fed. R. Serv.
+
+   .. reporter-key:: Fed. R. Serv. 2d
+
+   .. reporter-key:: Fed. R. Serv. 3d
+
+   .. reporter-key:: U.S. Dist. LEXIS

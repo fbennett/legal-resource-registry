@@ -1,0 +1,3 @@
+.. category:: 佛坪县
+   :category-id: cn:shanxi:han.zhong.shi:fo.ping.xian
+   :en: Fopingxian

@@ -1,0 +1,3 @@
+.. category:: 鄂尔多斯市
+   :category-id: cn:neimenggu:e.er.duo.si.shi
+   :en: Eerduosi City

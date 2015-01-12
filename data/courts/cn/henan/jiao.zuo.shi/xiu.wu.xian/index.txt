@@ -1,0 +1,3 @@
+.. category:: 修武县
+   :category-id: cn:henan:jiao.zuo.shi:xiu.wu.xian
+   :en: Xiuwuxian

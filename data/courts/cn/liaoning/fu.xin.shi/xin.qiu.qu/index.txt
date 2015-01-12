@@ -1,0 +1,3 @@
+.. category:: 新邱区
+   :category-id: cn:liaoning:fu.xin.shi:xin.qiu.qu
+   :en: Xinqiuqu

@@ -1,0 +1,8 @@
+.. court:: Court of Claims
+   :court-id: us:c;court.claims
+   :url: http://www.fjc.gov/history/home.nsf/page/courts_special_coc.html
+   :flp-key: cc
+
+   .. reporter-key:: Cl. Ct.
+
+   .. reporter-key:: Ct. Cl.

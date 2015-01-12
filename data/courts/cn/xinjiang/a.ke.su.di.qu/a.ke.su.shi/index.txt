@@ -1,0 +1,3 @@
+.. category:: 阿克苏市
+   :category-id: cn:xinjiang:a.ke.su.di.qu:a.ke.su.shi
+   :en: Akesushi

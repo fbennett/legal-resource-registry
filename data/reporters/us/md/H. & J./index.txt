@@ -1,0 +1,5 @@
+.. reporter:: Maryland Reports, Harris and Johnson
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: H. & J.
+   :edition-abbreviation: H. & J.
+   :dates: 1800/01/01-1826/12/31

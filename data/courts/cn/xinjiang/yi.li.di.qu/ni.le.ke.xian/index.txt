@@ -1,0 +1,3 @@
+.. category:: 尼勒克县
+   :category-id: cn:xinjiang:yi.li.di.qu:ni.le.ke.xian
+   :en: Nilekexian

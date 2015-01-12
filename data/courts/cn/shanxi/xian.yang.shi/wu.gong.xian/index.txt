@@ -1,0 +1,3 @@
+.. category:: 武功县
+   :category-id: cn:shanxi:xian.yang.shi:wu.gong.xian
+   :en: Wugongxian

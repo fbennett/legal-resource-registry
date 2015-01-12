@@ -1,0 +1,3 @@
+.. category:: 共青城
+   :category-id: cn:jiangxi:jiu.jiang.shi:gong.qing.cheng
+   :en: Gongqingcheng

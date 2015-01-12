@@ -1,0 +1,3 @@
+.. category:: 临桂县
+   :category-id: cn:guangxi:gui.lin.shi:lin.gui.xian
+   :en: Linguixian

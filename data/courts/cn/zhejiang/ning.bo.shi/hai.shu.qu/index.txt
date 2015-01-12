@@ -1,0 +1,3 @@
+.. category:: 海曙区
+   :category-id: cn:zhejiang:ning.bo.shi:hai.shu.qu
+   :en: Haishuqu

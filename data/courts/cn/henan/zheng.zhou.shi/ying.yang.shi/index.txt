@@ -1,0 +1,3 @@
+.. category:: 荥阳市
+   :category-id: cn:henan:zheng.zhou.shi:ying.yang.shi
+   :en: Yingyangshi

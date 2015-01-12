@@ -1,0 +1,3 @@
+.. category:: 慈溪市
+   :category-id: cn:zhejiang:ning.bo.shi:ci.xi.shi
+   :en: Cixishi

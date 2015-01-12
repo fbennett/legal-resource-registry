@@ -1,0 +1,3 @@
+.. category:: 鄂州市
+   :category-id: cn:hubei:e.zhou.shi
+   :en: Ezhou City

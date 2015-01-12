@@ -1,0 +1,3 @@
+.. category:: 宾川县
+   :category-id: cn:yunnan:da.li.zhou:bin.chuan.xian
+   :en: Binchuanxian

@@ -1,0 +1,44 @@
+.. court:: Supreme Court
+   :court-id: us:ca;supreme.court
+   :url: http://www.courts.ca.gov/supremecourt.htm
+   :flp-key: cal
+
+   .. reporter-key:: Cal.
+
+   .. reporter-key:: Cal. 2d
+
+   .. reporter-key:: Cal. 3d
+
+   .. reporter-key:: Cal. 4th
+
+   .. reporter-key:: Cal. App.
+
+   .. reporter-key:: Cal. App. 2d
+
+   .. reporter-key:: Cal. App. 3d
+
+   .. reporter-key:: Cal. App. 4th
+
+   .. reporter-key:: Cal. App. Supp.
+
+   .. reporter-key:: Cal. App. Supp. 2d
+
+   .. reporter-key:: Cal. App. Supp. 3d
+
+   .. reporter-key:: Cal. Rptr.
+
+   .. reporter-key:: Cal. Rptr. 2d
+
+   .. reporter-key:: Cal. Rptr. 3d
+
+   .. reporter-key:: Cal. Unrep.
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: P.
+
+   .. reporter-key:: P.2d
+
+   .. reporter-key:: P.3d
+
+   .. reporter-key:: WL

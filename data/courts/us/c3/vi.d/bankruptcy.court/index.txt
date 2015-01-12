@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c3:vi.d;bankruptcy.court
+   :url: http://www.vid.uscourts.gov/
+   :flp-key: vib
+
+   .. reporter-key:: B.R.

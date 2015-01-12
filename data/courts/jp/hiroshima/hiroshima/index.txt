@@ -1,0 +1,3 @@
+.. category:: 広島
+   :category-id: jp:hiroshima:hiroshima
+   :en: Hiroshima

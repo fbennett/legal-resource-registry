@@ -1,0 +1,2 @@
+.. category:: Seventh Circuit
+   :category-id: us:c7

@@ -1,0 +1,5 @@
+.. reporter:: North Dakota Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: N.D.
+   :edition-abbreviation: N.D.
+   :dates: 1890/01/01-1953/12/31

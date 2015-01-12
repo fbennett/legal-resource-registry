@@ -1,0 +1,4 @@
+.. court:: Territorial Court
+   :court-id: ca:yt;territorial.court
+   :en: Territorial Court
+   :url: http://www.nwtcourts.ca/Courts/tc.htm

@@ -1,0 +1,3 @@
+.. category:: 宝山区
+   :category-id: cn:shanghai:shang.hai.er:bao.shan.qu
+   :en: Baoshanqu

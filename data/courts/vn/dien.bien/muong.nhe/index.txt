@@ -1,0 +1,3 @@
+.. category:: Mường Nhé
+   :category-id: vn:dien.bien:muong.nhe
+   :en: Muong Nhe

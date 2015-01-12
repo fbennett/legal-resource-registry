@@ -1,0 +1,3 @@
+.. category:: 淮安区
+   :category-id: cn:jiangsu:huai.an.shi:huai.an.qu
+   :en: Huaianqu

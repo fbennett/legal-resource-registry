@@ -1,0 +1,11 @@
+.. reporter:: Paige's Chancery Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Paige Ch.
+   :edition-abbreviation: Paige Ch.
+   :dates: 1828/01/01-1845/12/31
+
+   .. variation:: Pai.Ch.
+
+   .. variation:: Paige
+
+   .. variation:: Pai.

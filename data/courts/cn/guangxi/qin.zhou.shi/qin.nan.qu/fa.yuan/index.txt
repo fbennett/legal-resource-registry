@@ -1,0 +1,3 @@
+.. court:: 法院
+   :court-id: cn:guangxi:qin.zhou.shi:qin.nan.qu;fa.yuan
+   :en: District Court

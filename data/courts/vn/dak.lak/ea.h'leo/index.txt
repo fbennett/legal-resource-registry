@@ -1,0 +1,3 @@
+.. category:: Ea H'leo
+   :category-id: vn:dak.lak:ea.h'leo
+   :en: Ea H'leo

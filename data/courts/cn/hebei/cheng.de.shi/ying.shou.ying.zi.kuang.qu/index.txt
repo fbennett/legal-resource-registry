@@ -1,0 +1,3 @@
+.. category:: 鹰手营子矿区
+   :category-id: cn:hebei:cheng.de.shi:ying.shou.ying.zi.kuang.qu
+   :en: Yingshouyingzikuangqu

@@ -1,0 +1,3 @@
+.. category:: An Phú
+   :category-id: vn:an.giang:an.phu
+   :en: An Phu

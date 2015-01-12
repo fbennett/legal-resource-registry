@@ -1,0 +1,2 @@
+.. category:: New Mexico
+   :category-id: us:nm

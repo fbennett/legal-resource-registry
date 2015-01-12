@@ -1,0 +1,5 @@
+.. reporter:: Utah Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Utah
+   :edition-abbreviation: Utah
+   :dates: 1851/01/01-1974/12/31

@@ -1,0 +1,3 @@
+.. category:: 代县
+   :category-id: cn:shanxi:xin.zhou.shi:dai.xian
+   :en: Daixian

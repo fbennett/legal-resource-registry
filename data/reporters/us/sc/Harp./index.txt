@@ -1,0 +1,13 @@
+.. reporter:: South Carolina Reports, Harper
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Harp.
+   :edition-abbreviation: Harp.
+   :dates: 1823/01/01-1831/12/31
+
+   .. variation:: Harper
+
+   .. variation:: Harp.L.
+
+   .. variation:: S.C.L.(Harp.)
+
+   .. variation:: Harp.L.(S.C.)

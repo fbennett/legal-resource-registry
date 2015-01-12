@@ -1,0 +1,2 @@
+.. category:: S.D. Indiana
+   :category-id: us:c7:in.sd

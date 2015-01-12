@@ -1,0 +1,5 @@
+.. reporter:: Northern Mariana Islands Reporter
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: N. Mar. I.
+   :edition-abbreviation: N. Mar. I.
+   :dates: 1989/01/01-present

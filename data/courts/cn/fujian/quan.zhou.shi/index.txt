@@ -1,0 +1,3 @@
+.. category:: 泉州市
+   :category-id: cn:fujian:quan.zhou.shi
+   :en: Quanzhou City

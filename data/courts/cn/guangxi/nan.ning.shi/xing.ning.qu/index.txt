@@ -1,0 +1,3 @@
+.. category:: 兴宁区
+   :category-id: cn:guangxi:nan.ning.shi:xing.ning.qu
+   :en: Xingningqu

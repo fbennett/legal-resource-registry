@@ -1,0 +1,3 @@
+.. category:: 巴州区
+   :category-id: cn:sichuan:ba.zhong.shi:ba.zhou.qu
+   :en: Bazhouqu

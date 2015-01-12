@@ -1,0 +1,3 @@
+.. category:: 永安市
+   :category-id: cn:fujian:san.ming.shi:yong.an.shi
+   :en: Yonganshi

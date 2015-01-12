@@ -1,0 +1,3 @@
+.. category:: 灯塔市
+   :category-id: cn:liaoning:liao.yang.shi:deng.ta.shi
+   :en: Dengtashi

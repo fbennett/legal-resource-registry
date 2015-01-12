@@ -1,0 +1,3 @@
+.. category:: 海林林区
+   :category-id: cn:heilongjiang:lin.qu:hai.lin.lin.qu
+   :en: Hailinlinqu

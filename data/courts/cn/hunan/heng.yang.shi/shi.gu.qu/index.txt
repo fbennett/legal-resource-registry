@@ -1,0 +1,3 @@
+.. category:: 石鼓区
+   :category-id: cn:hunan:heng.yang.shi:shi.gu.qu
+   :en: Shiguqu

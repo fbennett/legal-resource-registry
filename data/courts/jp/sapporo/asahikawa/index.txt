@@ -1,0 +1,3 @@
+.. category:: 旭川
+   :category-id: jp:sapporo:asahikawa
+   :en: Asahikawa

@@ -1,0 +1,3 @@
+.. category:: 吴忠市
+   :category-id: cn:ningxia:wu.zhong.shi
+   :en: Wuzhong City

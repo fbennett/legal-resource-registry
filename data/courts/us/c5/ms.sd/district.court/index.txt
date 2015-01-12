@@ -1,0 +1,16 @@
+.. court:: District Court
+   :court-id: us:c5:ms.sd;district.court
+   :url: http://www.mssd.uscourts.gov/
+   :flp-key: mssd
+
+   .. reporter-key:: F. Supp.
+
+   .. reporter-key:: F. Supp. 2d
+
+   .. reporter-key:: F.R.D.
+
+   .. reporter-key:: Fed. R. Serv.
+
+   .. reporter-key:: Fed. R. Serv. 2d
+
+   .. reporter-key:: Fed. R. Serv. 3d

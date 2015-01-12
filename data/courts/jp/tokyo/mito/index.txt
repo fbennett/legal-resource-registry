@@ -1,0 +1,3 @@
+.. category:: 水戸
+   :category-id: jp:tokyo:mito
+   :en: Mito

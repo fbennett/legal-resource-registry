@@ -1,0 +1,3 @@
+.. category:: Hoàn Kiếm
+   :category-id: vn:ha.noi:hoan.kiem
+   :en: Hoan Kiem

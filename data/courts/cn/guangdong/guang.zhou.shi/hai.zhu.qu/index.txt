@@ -1,0 +1,3 @@
+.. category:: 海珠区
+   :category-id: cn:guangdong:guang.zhou.shi:hai.zhu.qu
+   :en: Haizhuqu

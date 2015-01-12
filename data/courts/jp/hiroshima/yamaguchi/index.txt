@@ -1,0 +1,3 @@
+.. category:: 山口
+   :category-id: jp:hiroshima:yamaguchi
+   :en: Yamaguchi

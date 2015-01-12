@@ -1,0 +1,6 @@
+.. court:: 家庭裁判所
+   :court-id: jp:tokyo:yokohama;katei.saibansho
+   :en: Family Court
+   :url: http://www.courts.go.jp/yokohama/
+
+   .. reporter-key:: 家月

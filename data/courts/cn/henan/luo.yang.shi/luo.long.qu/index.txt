@@ -1,0 +1,3 @@
+.. category:: 洛龙区
+   :category-id: cn:henan:luo.yang.shi:luo.long.qu
+   :en: Luolongqu

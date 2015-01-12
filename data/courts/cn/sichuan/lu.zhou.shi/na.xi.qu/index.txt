@@ -1,0 +1,3 @@
+.. category:: 纳溪区
+   :category-id: cn:sichuan:lu.zhou.shi:na.xi.qu
+   :en: Naxiqu

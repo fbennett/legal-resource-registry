@@ -1,0 +1,9 @@
+.. reporter:: Pennsylvania State Reports, Yeates
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Yeates
+   :edition-abbreviation: Yeates
+   :dates: 1791/01/01-1808/12/31
+
+   .. variation:: Yea.
+
+   .. variation:: Y.

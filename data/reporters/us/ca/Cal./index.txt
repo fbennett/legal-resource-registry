@@ -1,0 +1,5 @@
+.. reporter:: California Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Cal.
+   :edition-abbreviation: Cal.
+   :dates: 1850/01/01-1934/12/31

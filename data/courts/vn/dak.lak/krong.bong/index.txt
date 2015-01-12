@@ -1,0 +1,3 @@
+.. category:: Krông Bông
+   :category-id: vn:dak.lak:krong.bong
+   :en: Krong Bong

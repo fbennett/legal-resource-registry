@@ -1,0 +1,3 @@
+.. category:: Lâm Đồng
+   :category-id: vn:lam.dong
+   :en: Lam Dong

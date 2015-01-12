@@ -1,0 +1,3 @@
+.. category:: 桥东区
+   :category-id: cn:hebei:shi.jia.zhuang.shi:qiao.dong.qu
+   :en: Qiaodongqu

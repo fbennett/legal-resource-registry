@@ -1,0 +1,3 @@
+.. category:: 金华市
+   :category-id: cn:zhejiang:jin.hua.shi
+   :en: Jinhua City

@@ -1,0 +1,3 @@
+.. category:: 邛崃市
+   :category-id: cn:sichuan:cheng.du.shi:qiong.lai.shi
+   :en: Qionglaishi

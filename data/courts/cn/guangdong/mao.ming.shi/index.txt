@@ -1,0 +1,3 @@
+.. category:: 茂名市
+   :category-id: cn:guangdong:mao.ming.shi
+   :en: Maoming City

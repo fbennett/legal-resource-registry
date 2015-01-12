@@ -1,0 +1,3 @@
+.. category:: 安平县
+   :category-id: cn:hebei:heng.shui.shi:an.ping.xian
+   :en: Anpingxian

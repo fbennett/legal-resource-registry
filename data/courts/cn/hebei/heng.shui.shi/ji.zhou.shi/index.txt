@@ -1,0 +1,3 @@
+.. category:: 冀州市
+   :category-id: cn:hebei:heng.shui.shi:ji.zhou.shi
+   :en: Jizhoushi

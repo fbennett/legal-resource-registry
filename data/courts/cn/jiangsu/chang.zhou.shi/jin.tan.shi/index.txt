@@ -1,0 +1,3 @@
+.. category:: 金坛市
+   :category-id: cn:jiangsu:chang.zhou.shi:jin.tan.shi
+   :en: Jintanshi

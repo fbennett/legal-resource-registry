@@ -1,0 +1,3 @@
+.. category:: 京都
+   :category-id: jp:osaka:kyoto
+   :en: Kyoto

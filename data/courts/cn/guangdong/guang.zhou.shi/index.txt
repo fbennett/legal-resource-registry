@@ -1,0 +1,3 @@
+.. category:: 广州市
+   :category-id: cn:guangdong:guang.zhou.shi
+   :en: Guangzhou City

@@ -1,0 +1,3 @@
+.. category:: 廉江市
+   :category-id: cn:guangdong:zhan.jiang.shi:lian.jiang.shi
+   :en: Lianjiangshi

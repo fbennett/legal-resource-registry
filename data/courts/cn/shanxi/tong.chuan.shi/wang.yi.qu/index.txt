@@ -1,0 +1,3 @@
+.. category:: 王益区
+   :category-id: cn:shanxi:tong.chuan.shi:wang.yi.qu
+   :en: Wangyiqu

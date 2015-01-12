@@ -1,0 +1,3 @@
+.. category:: 乡宁县
+   :category-id: cn:shanxi:lin.fen.shi:xiang.ning.xian
+   :en: Xiangningxian

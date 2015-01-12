@@ -1,0 +1,3 @@
+.. court:: 中院
+   :court-id: cn:yunnan:di.qing.zhou;zhong.yuan
+   :en: Intermediate Court

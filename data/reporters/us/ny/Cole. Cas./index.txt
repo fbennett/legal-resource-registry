@@ -1,0 +1,15 @@
+.. reporter:: Coleman's Cases
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Cole. Cas.
+   :edition-abbreviation: Cole. Cas.
+   :dates: 1791/01/01-1800/12/31
+
+   .. variation:: C.C.
+
+   .. variation:: Cole.Cas.Pr.
+
+   .. variation:: Col.Cas.
+
+   .. variation:: Colem.Cas.
+
+   .. variation:: Col.Cas.(N.Y.)

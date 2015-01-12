@@ -1,0 +1,3 @@
+.. category:: 太和县
+   :category-id: cn:anhui:fu.yang.shi:tai.he.xian
+   :en: Taihexian

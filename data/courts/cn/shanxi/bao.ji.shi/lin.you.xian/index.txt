@@ -1,0 +1,3 @@
+.. category:: 麟游县
+   :category-id: cn:shanxi:bao.ji.shi:lin.you.xian
+   :en: Linyouxian

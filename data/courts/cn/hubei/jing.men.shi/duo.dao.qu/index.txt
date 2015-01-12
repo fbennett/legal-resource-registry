@@ -1,0 +1,3 @@
+.. category:: 掇刀区
+   :category-id: cn:hubei:jing.men.shi:duo.dao.qu
+   :en: Duodaoqu

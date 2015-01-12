@@ -1,0 +1,3 @@
+.. category:: 博爱县
+   :category-id: cn:henan:jiao.zuo.shi:bo.ai.xian
+   :en: Boaixian

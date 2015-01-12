@@ -1,0 +1,3 @@
+.. category:: Cẩm Phả
+   :category-id: vn:quang.ninh:cam.pha
+   :en: Cam Pha

@@ -1,0 +1,3 @@
+.. court:: 中院
+   :court-id: cn:heilongjiang:ha.er.bin.tie.lu;zhong.yuan
+   :en: Intermediate Court

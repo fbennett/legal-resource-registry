@@ -1,0 +1,3 @@
+.. category:: 山海关区
+   :category-id: cn:hebei:qin.huang.dao.shi:shan.hai.guan.qu
+   :en: Shanhaiguanqu

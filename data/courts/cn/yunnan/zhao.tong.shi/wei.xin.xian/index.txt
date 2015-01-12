@@ -1,0 +1,3 @@
+.. category:: 威信县
+   :category-id: cn:yunnan:zhao.tong.shi:wei.xin.xian
+   :en: Weixinxian

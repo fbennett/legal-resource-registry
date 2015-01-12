@@ -1,0 +1,3 @@
+.. category:: 涪城区
+   :category-id: cn:sichuan:mian.yang.shi:fu.cheng.qu
+   :en: Fuchengqu

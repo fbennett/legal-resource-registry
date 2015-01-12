@@ -1,0 +1,3 @@
+.. category:: Bố Trạch
+   :category-id: vn:quang.binh:bo.trach
+   :en: Bo Trach

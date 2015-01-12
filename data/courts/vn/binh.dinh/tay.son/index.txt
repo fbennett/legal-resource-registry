@@ -1,0 +1,3 @@
+.. category:: Tây Sơn
+   :category-id: vn:binh.dinh:tay.son
+   :en: Tay Son

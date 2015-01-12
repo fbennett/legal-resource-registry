@@ -1,0 +1,3 @@
+.. category:: 平远县
+   :category-id: cn:guangdong:mei.zhou.shi:ping.yuan.xian
+   :en: Pingyuanxian

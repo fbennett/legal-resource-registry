@@ -1,0 +1,3 @@
+.. category:: 自贡市
+   :category-id: cn:sichuan:zi.gong.shi
+   :en: Zigong City

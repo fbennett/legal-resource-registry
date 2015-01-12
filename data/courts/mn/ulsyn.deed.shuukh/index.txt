@@ -1,0 +1,3 @@
+.. court:: Улсын дээд шүүх
+   :court-id: mn;ulsyn.deed.shuukh
+   :en: Supreme Court

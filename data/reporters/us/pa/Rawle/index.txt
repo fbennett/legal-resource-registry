@@ -1,0 +1,11 @@
+.. reporter:: Pennsylvania State Reports, Rawle
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Rawle
+   :edition-abbreviation: Rawle
+   :dates: 1828/01/01-1835/12/31
+
+   .. variation:: R.
+
+   .. variation:: Pa. Rawle
+
+   .. variation:: Raw.

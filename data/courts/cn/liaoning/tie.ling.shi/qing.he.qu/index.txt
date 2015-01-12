@@ -1,0 +1,3 @@
+.. category:: 清河区
+   :category-id: cn:liaoning:tie.ling.shi:qing.he.qu
+   :en: Qinghequ

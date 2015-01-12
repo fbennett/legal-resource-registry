@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c4:md.d;bankruptcy.court
+   :url: http://www.mdb.uscourts.gov/
+   :flp-key: mdb
+
+   .. reporter-key:: B.R.

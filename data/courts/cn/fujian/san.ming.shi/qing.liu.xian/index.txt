@@ -1,0 +1,3 @@
+.. category:: 清流县
+   :category-id: cn:fujian:san.ming.shi:qing.liu.xian
+   :en: Qingliuxian

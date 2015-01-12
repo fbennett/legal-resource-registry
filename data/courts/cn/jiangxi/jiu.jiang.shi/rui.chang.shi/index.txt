@@ -1,0 +1,3 @@
+.. category:: 瑞昌市
+   :category-id: cn:jiangxi:jiu.jiang.shi:rui.chang.shi
+   :en: Ruichangshi

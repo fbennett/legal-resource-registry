@@ -1,0 +1,3 @@
+.. category:: Mù Cang Chải
+   :category-id: vn:yen.bai:mu.cang.chai
+   :en: Mu Cang Chai

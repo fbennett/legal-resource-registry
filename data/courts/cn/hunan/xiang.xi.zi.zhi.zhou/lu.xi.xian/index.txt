@@ -1,0 +1,3 @@
+.. category:: 泸溪县
+   :category-id: cn:hunan:xiang.xi.zi.zhi.zhou:lu.xi.xian
+   :en: Luxixian

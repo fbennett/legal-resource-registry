@@ -1,0 +1,3 @@
+.. category:: 枝江市
+   :category-id: cn:hubei:yi.chang.shi:zhi.jiang.shi
+   :en: Zhijiangshi

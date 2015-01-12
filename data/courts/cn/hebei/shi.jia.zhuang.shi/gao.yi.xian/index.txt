@@ -1,0 +1,3 @@
+.. category:: 高邑县
+   :category-id: cn:hebei:shi.jia.zhuang.shi:gao.yi.xian
+   :en: Gaoyixian

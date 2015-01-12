@@ -1,0 +1,3 @@
+.. category:: Đa Krông
+   :category-id: vn:quang.tri:da.krong
+   :en: Da Krong

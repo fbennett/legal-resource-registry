@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Appellate Panel
+   :court-id: us:c1;bankruptcy.appellate.panel
+   :url: http://www.bap1.uscourts.gov/
+   :flp-key: bap1
+
+   .. reporter-key:: B.R.

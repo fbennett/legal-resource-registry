@@ -1,0 +1,3 @@
+.. category:: 香港
+   :category-id: cn:te.bie.xing.zheng.qu:hong.kong
+   :en: Hong Kong

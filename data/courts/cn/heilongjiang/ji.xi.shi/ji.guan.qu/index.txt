@@ -1,0 +1,3 @@
+.. category:: 鸡冠区
+   :category-id: cn:heilongjiang:ji.xi.shi:ji.guan.qu
+   :en: Jiguanqu

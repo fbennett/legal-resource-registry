@@ -1,0 +1,3 @@
+.. category:: 龙游县
+   :category-id: cn:zhejiang:qu.zhou.shi:long.you.xian
+   :en: Longyouxian

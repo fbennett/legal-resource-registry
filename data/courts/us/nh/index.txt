@@ -1,0 +1,2 @@
+.. category:: New Hampshire
+   :category-id: us:nh

@@ -1,0 +1,16 @@
+.. court:: District Court
+   :court-id: us:c6:tn.wd;district.court
+   :url: http://www.tnwd.uscourts.gov/
+   :flp-key: tnwd
+
+   .. reporter-key:: F. Supp.
+
+   .. reporter-key:: F. Supp. 2d
+
+   .. reporter-key:: F.R.D.
+
+   .. reporter-key:: Fed. R. Serv.
+
+   .. reporter-key:: Fed. R. Serv. 2d
+
+   .. reporter-key:: Fed. R. Serv. 3d

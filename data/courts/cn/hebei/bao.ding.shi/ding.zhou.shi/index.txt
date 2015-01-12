@@ -1,0 +1,3 @@
+.. category:: 定州市
+   :category-id: cn:hebei:bao.ding.shi:ding.zhou.shi
+   :en: Dingzhoushi

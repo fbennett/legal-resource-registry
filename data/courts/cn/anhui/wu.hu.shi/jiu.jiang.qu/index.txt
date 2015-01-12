@@ -1,0 +1,3 @@
+.. category:: 鸠江区
+   :category-id: cn:anhui:wu.hu.shi:jiu.jiang.qu
+   :en: Jiujiangqu

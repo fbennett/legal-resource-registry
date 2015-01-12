@@ -1,0 +1,3 @@
+.. category:: 苍溪县
+   :category-id: cn:sichuan:guang.yuan.shi:cang.xi.xian
+   :en: Cangxixian

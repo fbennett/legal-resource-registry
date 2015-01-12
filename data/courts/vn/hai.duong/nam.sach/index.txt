@@ -1,0 +1,3 @@
+.. category:: Nam Sách
+   :category-id: vn:hai.duong:nam.sach
+   :en: Nam Sach

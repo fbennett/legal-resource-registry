@@ -1,0 +1,3 @@
+.. category:: 马边县
+   :category-id: cn:sichuan:le.shan.shi:ma.bian.xian
+   :en: Mabianxian

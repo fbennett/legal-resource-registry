@@ -1,0 +1,3 @@
+.. category:: 山形
+   :category-id: jp:sendai:yamagata
+   :en: Yamagata

@@ -1,0 +1,3 @@
+.. category:: Bắc Kạn
+   :category-id: vn:bac.kan:bac.kan
+   :en: Bac Kan

@@ -1,0 +1,3 @@
+.. category:: 泊头市
+   :category-id: cn:hebei:cang.zhou.shi:bo.tou.shi
+   :en: Botoushi

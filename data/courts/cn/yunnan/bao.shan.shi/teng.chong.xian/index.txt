@@ -1,0 +1,3 @@
+.. category:: 腾冲县
+   :category-id: cn:yunnan:bao.shan.shi:teng.chong.xian
+   :en: Tengchongxian

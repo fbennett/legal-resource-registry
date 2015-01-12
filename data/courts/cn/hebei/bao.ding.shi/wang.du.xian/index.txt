@@ -1,0 +1,3 @@
+.. category:: 望都县
+   :category-id: cn:hebei:bao.ding.shi:wang.du.xian
+   :en: Wangduxian

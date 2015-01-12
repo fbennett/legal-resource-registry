@@ -1,0 +1,18 @@
+.. court:: Supreme Court
+   :court-id: us:ar;supreme.court
+   :url: https://courts.arkansas.gov/courts/supreme-court
+   :flp-key: ark
+
+   .. reporter-key:: Ark.
+
+   .. reporter-key:: Ark. App.
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: S.W.
+
+   .. reporter-key:: S.W.2d
+
+   .. reporter-key:: S.W.3d
+
+   .. reporter-key:: WL

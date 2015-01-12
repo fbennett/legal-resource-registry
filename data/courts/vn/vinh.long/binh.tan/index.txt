@@ -1,0 +1,3 @@
+.. category:: Bình Tân
+   :category-id: vn:vinh.long:binh.tan
+   :en: Binh Tan

@@ -1,0 +1,3 @@
+.. category:: 天祝县
+   :category-id: cn:gansu:wu.wei:tian.zhu.xian
+   :en: Tianzhuxian

@@ -1,0 +1,3 @@
+.. category:: Bình Sơn
+   :category-id: vn:quang.ngai:binh.son
+   :en: Binh Son

@@ -1,0 +1,3 @@
+.. category:: 金平区
+   :category-id: cn:guangdong:shan.tou.shi:jin.ping.qu
+   :en: Jinpingqu

@@ -1,0 +1,3 @@
+.. category:: 遵义市
+   :category-id: cn:guizhou:zun.yi.shi
+   :en: Zunyi City

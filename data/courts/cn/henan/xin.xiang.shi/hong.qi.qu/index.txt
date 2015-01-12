@@ -1,0 +1,3 @@
+.. category:: 红旗区
+   :category-id: cn:henan:xin.xiang.shi:hong.qi.qu
+   :en: Hongqiqu

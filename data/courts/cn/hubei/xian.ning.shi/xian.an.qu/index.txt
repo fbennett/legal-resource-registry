@@ -1,0 +1,3 @@
+.. category:: 咸安区
+   :category-id: cn:hubei:xian.ning.shi:xian.an.qu
+   :en: Xiananqu

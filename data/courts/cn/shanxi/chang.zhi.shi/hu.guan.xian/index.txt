@@ -1,0 +1,3 @@
+.. category:: 壶关县
+   :category-id: cn:shanxi:chang.zhi.shi:hu.guan.xian
+   :en: Huguanxian

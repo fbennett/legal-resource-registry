@@ -1,0 +1,3 @@
+.. category:: 绥德县
+   :category-id: cn:shanxi:yu.lin.shi:sui.de.xian
+   :en: Suidexian

@@ -1,0 +1,3 @@
+.. category:: Tân Kỳ
+   :category-id: vn:nghe.an:tan.ky
+   :en: Tan Ky

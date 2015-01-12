@@ -1,0 +1,3 @@
+.. category:: 仁化县
+   :category-id: cn:guangdong:shao.guan.shi:ren.hua.xian
+   :en: Renhuaxian

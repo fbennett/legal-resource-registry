@@ -1,0 +1,3 @@
+.. court:: 法院
+   :court-id: cn:neimenggu:wu.lan.cha.bu.shi:liang.cheng.xian;fa.yuan
+   :en: District Court

@@ -1,0 +1,3 @@
+.. category:: Côn Đảo
+   :category-id: vn:ba.ria.vung.tau:con.dao
+   :en: Con Dao

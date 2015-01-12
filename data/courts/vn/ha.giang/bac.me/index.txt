@@ -1,0 +1,3 @@
+.. category:: Bắc Mê
+   :category-id: vn:ha.giang:bac.me
+   :en: Bac Me

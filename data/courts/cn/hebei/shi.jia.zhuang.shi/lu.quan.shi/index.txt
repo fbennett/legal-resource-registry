@@ -1,0 +1,3 @@
+.. category:: 鹿泉市
+   :category-id: cn:hebei:shi.jia.zhuang.shi:lu.quan.shi
+   :en: Luquanshi

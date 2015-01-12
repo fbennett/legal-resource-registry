@@ -1,0 +1,3 @@
+.. category:: 延川县
+   :category-id: cn:shanxi:yan.an.shi:yan.chuan.xian
+   :en: Yanchuanxian

@@ -1,0 +1,3 @@
+.. category:: Phú Hòa
+   :category-id: vn:phu.yen:phu.hoa
+   :en: Phu Hoa

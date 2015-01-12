@@ -1,0 +1,3 @@
+.. category:: Trảng Bàng
+   :category-id: vn:tay.ninh:trang.bang
+   :en: Trang Bang

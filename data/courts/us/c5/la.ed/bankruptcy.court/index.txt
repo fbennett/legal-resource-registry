@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c5:la.ed;bankruptcy.court
+   :url: http://www.laeb.uscourts.gov/
+   :flp-key: laeb
+
+   .. reporter-key:: B.R.

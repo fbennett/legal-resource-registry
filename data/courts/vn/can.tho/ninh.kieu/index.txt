@@ -1,0 +1,3 @@
+.. category:: Ninh Kiều
+   :category-id: vn:can.tho:ninh.kieu
+   :en: Ninh Kieu

@@ -1,0 +1,3 @@
+.. category:: 汕尾市
+   :category-id: cn:guangdong:shan.wei.shi
+   :en: Shanwei City

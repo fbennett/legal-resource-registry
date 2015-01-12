@@ -1,0 +1,3 @@
+.. category:: Guyane française
+   :category-id: fr:guyane.francaise
+

@@ -1,0 +1,3 @@
+.. category:: 科尔沁左翼中旗
+   :category-id: cn:neimenggu:tong.liao.shi:ke.er.qin.zuo.yi.zhong.qi
+   :en: Keerqinzuoyizhongqi

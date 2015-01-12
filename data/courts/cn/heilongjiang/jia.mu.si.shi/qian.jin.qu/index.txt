@@ -1,0 +1,3 @@
+.. category:: 前进区
+   :category-id: cn:heilongjiang:jia.mu.si.shi:qian.jin.qu
+   :en: Qianjinqu

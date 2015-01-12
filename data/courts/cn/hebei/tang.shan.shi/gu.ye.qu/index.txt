@@ -1,0 +1,3 @@
+.. category:: 古冶区
+   :category-id: cn:hebei:tang.shan.shi:gu.ye.qu
+   :en: Guyequ

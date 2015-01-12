@@ -1,0 +1,3 @@
+.. category:: Giồng Riềng
+   :category-id: vn:kien.giang:giong.rieng
+   :en: Giong Rieng

@@ -1,0 +1,3 @@
+.. category:: 襄阳市
+   :category-id: cn:hubei:xiang.yang.shi
+   :en: Xiangyang City

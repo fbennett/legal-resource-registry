@@ -1,0 +1,3 @@
+.. category:: 新县
+   :category-id: cn:henan:xin.yang.shi:xin.xian
+   :en: Xinxian

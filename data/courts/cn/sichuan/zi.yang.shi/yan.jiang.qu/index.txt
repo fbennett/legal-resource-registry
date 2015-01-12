@@ -1,0 +1,3 @@
+.. category:: 雁江区
+   :category-id: cn:sichuan:zi.yang.shi:yan.jiang.qu
+   :en: Yanjiangqu

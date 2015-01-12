@@ -1,0 +1,3 @@
+.. category:: 黑龙江
+   :category-id: cn:heilongjiang
+   :en: Heilongjiang

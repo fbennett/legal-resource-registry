@@ -1,0 +1,3 @@
+.. category:: 青河县
+   :category-id: cn:xinjiang:a.le.tai.di.qu:qing.he.xian
+   :en: Qinghexian

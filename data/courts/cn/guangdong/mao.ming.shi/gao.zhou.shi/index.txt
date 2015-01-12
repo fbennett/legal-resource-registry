@@ -1,0 +1,3 @@
+.. category:: 高州市
+   :category-id: cn:guangdong:mao.ming.shi:gao.zhou.shi
+   :en: Gaozhoushi

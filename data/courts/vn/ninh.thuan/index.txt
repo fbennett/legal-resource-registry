@@ -1,0 +1,3 @@
+.. category:: Ninh Thuận
+   :category-id: vn:ninh.thuan
+   :en: Ninh Thuan

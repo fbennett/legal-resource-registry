@@ -1,0 +1,3 @@
+.. category:: 商河县
+   :category-id: cn:shandong:ji.nan.shi:shang.he.xian
+   :en: Shanghexian

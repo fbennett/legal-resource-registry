@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c8:ar.ed;bankruptcy.court
+   :url: http://www.arb.uscourts.gov/
+   :flp-key: areb
+
+   .. reporter-key:: B.R.

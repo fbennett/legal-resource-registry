@@ -1,0 +1,3 @@
+.. category:: La Réunion
+   :category-id: fr:reunion
+

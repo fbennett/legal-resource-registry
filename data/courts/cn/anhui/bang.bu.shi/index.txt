@@ -1,0 +1,3 @@
+.. category:: 蚌埠市
+   :category-id: cn:anhui:bang.bu.shi
+   :en: Bangbu City

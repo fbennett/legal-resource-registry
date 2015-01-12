@@ -1,0 +1,3 @@
+.. category:: 当阳市
+   :category-id: cn:hubei:yi.chang.shi:dang.yang.shi
+   :en: Dangyangshi

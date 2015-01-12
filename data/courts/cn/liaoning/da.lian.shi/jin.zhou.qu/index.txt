@@ -1,0 +1,3 @@
+.. category:: 金州区
+   :category-id: cn:liaoning:da.lian.shi:jin.zhou.qu
+   :en: Jinzhouqu

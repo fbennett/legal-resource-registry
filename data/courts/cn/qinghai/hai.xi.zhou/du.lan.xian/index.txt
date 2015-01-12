@@ -1,0 +1,3 @@
+.. category:: 都兰县
+   :category-id: cn:qinghai:hai.xi.zhou:du.lan.xian
+   :en: Dulanxian

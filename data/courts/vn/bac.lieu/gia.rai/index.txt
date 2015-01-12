@@ -1,0 +1,3 @@
+.. category:: Giá Rai
+   :category-id: vn:bac.lieu:gia.rai
+   :en: Gia Rai

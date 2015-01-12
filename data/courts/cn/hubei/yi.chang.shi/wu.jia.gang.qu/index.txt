@@ -1,0 +1,3 @@
+.. category:: 伍家岗区
+   :category-id: cn:hubei:yi.chang.shi:wu.jia.gang.qu
+   :en: Wujiagangqu

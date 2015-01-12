@@ -1,0 +1,3 @@
+.. category:: Ngân Sơn
+   :category-id: vn:bac.kan:ngan.son
+   :en: Ngan Son

@@ -1,0 +1,3 @@
+.. court:: Territorial Court
+   :court-id: ca:nt;territorial.court
+   :en: Territorial Court

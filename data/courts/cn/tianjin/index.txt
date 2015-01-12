@@ -1,0 +1,3 @@
+.. category:: 天津
+   :category-id: cn:tianjin
+   :en: Tianjin

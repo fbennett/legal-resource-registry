@@ -1,0 +1,3 @@
+.. category:: Kim Bôi
+   :category-id: vn:hoa.binh:kim.boi
+   :en: Kim Boi

@@ -1,0 +1,3 @@
+.. category:: 黄埔区
+   :category-id: cn:guangdong:guang.zhou.shi:huang.pu.qu
+   :en: Huangpuqu

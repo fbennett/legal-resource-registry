@@ -1,0 +1,3 @@
+.. category:: 临湘市
+   :category-id: cn:hunan:yue.yang.shi:lin.xiang.shi
+   :en: Linxiangshi

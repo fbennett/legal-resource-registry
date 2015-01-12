@@ -1,0 +1,3 @@
+.. category:: 宝泉岭农垦
+   :category-id: cn:heilongjiang:nong.ken:bao.quan.ling.nong.ken
+   :en: Baoquanlingnongken

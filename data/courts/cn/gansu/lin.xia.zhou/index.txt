@@ -1,0 +1,3 @@
+.. category:: 临夏州
+   :category-id: cn:gansu:lin.xia.zhou
+   :en: Linxiazhou

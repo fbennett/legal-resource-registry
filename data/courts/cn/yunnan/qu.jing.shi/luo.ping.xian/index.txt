@@ -1,0 +1,3 @@
+.. category:: 罗平县
+   :category-id: cn:yunnan:qu.jing.shi:luo.ping.xian
+   :en: Luopingxian

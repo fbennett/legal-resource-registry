@@ -1,0 +1,5 @@
+.. reporter:: Maryland Appellate Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Md. App.
+   :edition-abbreviation: Md. App.
+   :dates: 1967/01/01-present

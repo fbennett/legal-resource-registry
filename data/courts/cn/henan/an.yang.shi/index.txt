@@ -1,0 +1,3 @@
+.. category:: 安阳市
+   :category-id: cn:henan:an.yang.shi
+   :en: Anyang City

@@ -1,0 +1,3 @@
+.. category:: 清水河县
+   :category-id: cn:neimenggu:hu.he.hao.te.shi:qing.shui.he.xian
+   :en: Qingshuihexian

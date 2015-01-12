@@ -1,0 +1,3 @@
+.. category:: 长治城区
+   :category-id: cn:shanxi:chang.zhi.shi:chang.zhi.cheng.qu
+   :en: Changzhichengqu

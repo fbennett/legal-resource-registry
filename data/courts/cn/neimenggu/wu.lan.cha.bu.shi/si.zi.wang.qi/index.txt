@@ -1,0 +1,3 @@
+.. category:: 四子王旗
+   :category-id: cn:neimenggu:wu.lan.cha.bu.shi:si.zi.wang.qi
+   :en: Siziwangqi

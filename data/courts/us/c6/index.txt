@@ -1,0 +1,2 @@
+.. category:: Sixth Circuit
+   :category-id: us:c6

@@ -1,0 +1,3 @@
+.. category:: Thanh Miện
+   :category-id: vn:hai.duong:thanh.mien
+   :en: Thanh Mien

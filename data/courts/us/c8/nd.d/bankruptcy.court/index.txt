@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c8:nd.d;bankruptcy.court
+   :url: http://www.ndd.uscourts.gov/
+   :flp-key: ndb
+
+   .. reporter-key:: B.R.

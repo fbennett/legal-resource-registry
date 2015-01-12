@@ -1,0 +1,5 @@
+.. reporter:: Delaware Reports, Pennewill
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Pennewill
+   :edition-abbreviation: Pennewill
+   :dates: 1897/01/01-1909/12/31

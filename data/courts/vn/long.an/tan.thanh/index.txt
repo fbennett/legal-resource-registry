@@ -1,0 +1,3 @@
+.. category:: Tân Thạnh
+   :category-id: vn:long.an:tan.thanh
+   :en: Tan Thanh

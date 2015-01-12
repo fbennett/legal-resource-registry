@@ -1,0 +1,9 @@
+.. reporter:: Kentucky Reports, Littell's Selected Cases
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Litt. Sel. Cas.
+   :edition-abbreviation: Litt. Sel. Cas.
+   :dates: 1795/01/01-1821/12/31
+
+   .. variation:: Lit.Sel.Ca.
+
+   .. variation:: Ky.(Lit.Sel.Cas.)

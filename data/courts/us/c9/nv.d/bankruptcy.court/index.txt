@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c9:nv.d;bankruptcy.court
+   :url: http://www.nvb.uscourts.gov/
+   :flp-key: nvb
+
+   .. reporter-key:: B.R.

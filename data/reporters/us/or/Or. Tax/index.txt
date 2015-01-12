@@ -1,0 +1,5 @@
+.. reporter:: Oregon Tax Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Or. Tax
+   :edition-abbreviation: Or. Tax
+   :dates: 1962/01/01-present

@@ -1,0 +1,3 @@
+.. category:: 潮州市
+   :category-id: cn:guangdong:chao.zhou.shi
+   :en: Chaozhou City

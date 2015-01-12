@@ -1,0 +1,28 @@
+.. court:: Supreme Court
+   :court-id: us:al;supreme.court
+   :url: http://judicial.alabama.gov/supreme.cfm
+   :flp-key: ala
+
+   .. reporter-key:: Ala.
+
+   .. reporter-key:: Ala. 2d
+
+   .. reporter-key:: Ala. App.
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: Minor
+
+   .. reporter-key:: Port.
+
+   .. reporter-key:: So.
+
+   .. reporter-key:: So. 2d
+
+   .. reporter-key:: So. 3d
+
+   .. reporter-key:: Stew.
+
+   .. reporter-key:: Stew. & P.
+
+   .. reporter-key:: WL

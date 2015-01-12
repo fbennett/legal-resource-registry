@@ -1,0 +1,3 @@
+.. category:: 玉门市
+   :category-id: cn:gansu:jiu.quan.shi:yu.men.shi
+   :en: Yumenshi

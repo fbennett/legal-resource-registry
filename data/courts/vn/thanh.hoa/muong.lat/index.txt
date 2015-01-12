@@ -1,0 +1,3 @@
+.. category:: Mường Lát
+   :category-id: vn:thanh.hoa:muong.lat
+   :en: Muong Lat

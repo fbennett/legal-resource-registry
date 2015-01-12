@@ -1,0 +1,3 @@
+.. category:: Ninh Hòa
+   :category-id: vn:khanh.hoa:ninh.hoa
+   :en: Ninh Hoa

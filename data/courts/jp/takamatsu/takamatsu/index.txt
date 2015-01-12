@@ -1,0 +1,3 @@
+.. category:: 高松
+   :category-id: jp:takamatsu:takamatsu
+   :en: Takamatsu

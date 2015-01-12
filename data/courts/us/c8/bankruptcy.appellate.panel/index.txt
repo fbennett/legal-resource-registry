@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Appellate Panel
+   :court-id: us:c8;bankruptcy.appellate.panel
+   :url: http://www.ca8.uscourts.gov/bankruptcy-appellate-panel
+   :flp-key: bap8
+
+   .. reporter-key:: B.R.

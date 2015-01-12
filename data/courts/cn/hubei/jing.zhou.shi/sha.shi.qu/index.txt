@@ -1,0 +1,3 @@
+.. category:: 沙市区
+   :category-id: cn:hubei:jing.zhou.shi:sha.shi.qu
+   :en: Shashiqu

@@ -1,0 +1,3 @@
+.. category:: Mỹ Tú
+   :category-id: vn:soc.trang:my.tu
+   :en: My Tu

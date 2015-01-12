@@ -1,0 +1,3 @@
+.. category:: 卓尼林区
+   :category-id: cn:gansu:gan.nan.zhou:zhuo.ni.lin.qu
+   :en: Zhuonilinqu

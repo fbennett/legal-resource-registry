@@ -1,0 +1,3 @@
+.. category:: 彭阳县
+   :category-id: cn:ningxia:gu.yuan.shi:peng.yang.xian
+   :en: Pengyangxian

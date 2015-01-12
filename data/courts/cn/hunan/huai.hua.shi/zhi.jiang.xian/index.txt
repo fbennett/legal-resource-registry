@@ -1,0 +1,3 @@
+.. category:: 芷江县
+   :category-id: cn:hunan:huai.hua.shi:zhi.jiang.xian
+   :en: Zhijiangxian

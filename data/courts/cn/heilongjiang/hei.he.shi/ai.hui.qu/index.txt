@@ -1,0 +1,3 @@
+.. category:: 爱辉区
+   :category-id: cn:heilongjiang:hei.he.shi:ai.hui.qu
+   :en: Aihuiqu

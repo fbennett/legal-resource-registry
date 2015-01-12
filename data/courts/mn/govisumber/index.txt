@@ -1,0 +1,3 @@
+.. category:: Говьсүмбэр
+   :category-id: mn:govisumber
+   :en: Govisümber

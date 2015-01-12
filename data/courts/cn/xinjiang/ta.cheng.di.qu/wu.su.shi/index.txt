@@ -1,0 +1,3 @@
+.. category:: 乌苏市
+   :category-id: cn:xinjiang:ta.cheng.di.qu:wu.su.shi
+   :en: Wusushi

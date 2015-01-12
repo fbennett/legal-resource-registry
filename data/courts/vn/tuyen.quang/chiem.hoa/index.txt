@@ -1,0 +1,3 @@
+.. category:: Chiêm Hóa
+   :category-id: vn:tuyen.quang:chiem.hoa
+   :en: Chiem Hoa

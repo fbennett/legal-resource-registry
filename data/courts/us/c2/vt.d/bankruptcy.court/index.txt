@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c2:vt.d;bankruptcy.court
+   :url: http://www.vtb.uscourts.gov/
+   :flp-key: vtb
+
+   .. reporter-key:: B.R.

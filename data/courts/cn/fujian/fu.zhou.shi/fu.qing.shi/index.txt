@@ -1,0 +1,3 @@
+.. category:: 福清市
+   :category-id: cn:fujian:fu.zhou.shi:fu.qing.shi
+   :en: Fuqingshi

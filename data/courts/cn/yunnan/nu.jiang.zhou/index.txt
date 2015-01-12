@@ -1,0 +1,3 @@
+.. category:: 怒江州
+   :category-id: cn:yunnan:nu.jiang.zhou
+   :en: Nujiangzhou

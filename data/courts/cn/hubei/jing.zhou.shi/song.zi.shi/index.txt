@@ -1,0 +1,3 @@
+.. category:: 松滋市
+   :category-id: cn:hubei:jing.zhou.shi:song.zi.shi
+   :en: Songzishi

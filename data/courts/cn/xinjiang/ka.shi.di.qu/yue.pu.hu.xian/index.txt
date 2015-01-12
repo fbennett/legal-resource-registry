@@ -1,0 +1,3 @@
+.. category:: 岳普湖县
+   :category-id: cn:xinjiang:ka.shi.di.qu:yue.pu.hu.xian
+   :en: Yuepuhuxian

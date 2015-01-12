@@ -1,0 +1,3 @@
+.. category:: 格尔木市
+   :category-id: cn:qinghai:hai.xi.zhou:ge.er.mu.shi
+   :en: Geermushi

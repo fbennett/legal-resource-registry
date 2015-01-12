@@ -1,0 +1,3 @@
+.. category:: Nam Đông
+   :category-id: vn:thua.thien.hue:nam.dong
+   :en: Nam Dong

@@ -1,0 +1,3 @@
+.. category:: Đồng Hới
+   :category-id: vn:quang.binh:dong.hoi
+   :en: Dong Hoi

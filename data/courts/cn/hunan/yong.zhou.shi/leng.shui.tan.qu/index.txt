@@ -1,0 +1,3 @@
+.. category:: 冷水滩区
+   :category-id: cn:hunan:yong.zhou.shi:leng.shui.tan.qu
+   :en: Lengshuitanqu

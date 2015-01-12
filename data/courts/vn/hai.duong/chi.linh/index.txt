@@ -1,0 +1,3 @@
+.. category:: Chí Linh
+   :category-id: vn:hai.duong:chi.linh
+   :en: Chi Linh

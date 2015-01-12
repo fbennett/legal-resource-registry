@@ -1,0 +1,5 @@
+.. reporter:: Court of Customs and Patent Appeals Reports
+   :flp-series-cite-type: specialty
+   :flp-common-abbreviation: C.C.P.A.
+   :edition-abbreviation: C.C.P.A.
+   :dates: 1929/01/01-1982/12/31

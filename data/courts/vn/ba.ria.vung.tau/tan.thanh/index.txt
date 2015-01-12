@@ -1,0 +1,3 @@
+.. category:: Tân Thành
+   :category-id: vn:ba.ria.vung.tau:tan.thanh
+   :en: Tan Thanh

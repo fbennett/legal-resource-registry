@@ -1,0 +1,3 @@
+.. category:: 崇仁县
+   :category-id: cn:jiangxi:fu.zhou.shi:chong.ren.xian
+   :en: Chongrenxian

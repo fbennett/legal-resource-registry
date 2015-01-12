@@ -1,0 +1,3 @@
+.. category:: 神池县
+   :category-id: cn:shanxi:xin.zhou.shi:shen.chi.xian
+   :en: Shenchixian

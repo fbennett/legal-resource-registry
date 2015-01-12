@@ -1,0 +1,3 @@
+.. category:: 重庆
+   :category-id: cn:zhongqing
+   :en: Zhongqing

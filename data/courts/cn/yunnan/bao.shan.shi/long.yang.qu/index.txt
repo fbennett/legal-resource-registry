@@ -1,0 +1,3 @@
+.. category:: 隆阳区
+   :category-id: cn:yunnan:bao.shan.shi:long.yang.qu
+   :en: Longyangqu

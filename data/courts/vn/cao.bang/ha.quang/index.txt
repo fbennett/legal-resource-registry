@@ -1,0 +1,3 @@
+.. category:: Hà Quảng
+   :category-id: vn:cao.bang:ha.quang
+   :en: Ha Quang

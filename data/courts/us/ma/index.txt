@@ -1,0 +1,2 @@
+.. category:: Massachusetts
+   :category-id: us:ma

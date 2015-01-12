@@ -1,0 +1,11 @@
+.. reporter:: California Appellate Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Cal. App.
+   :edition-abbreviation: Cal. App. 2d
+   :dates: 1934/01/01-1969/12/31
+
+   .. variation:: Cal. App.2d
+
+   .. variation:: Cal.App. 2d
+
+   .. variation:: Cal.App.2d

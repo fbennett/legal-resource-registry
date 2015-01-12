@@ -1,0 +1,9 @@
+.. reporter:: Puerto Rico Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: P.R.R.
+   :edition-abbreviation: P.R.R.
+   :dates: 1899/01/01-1978/12/31
+
+   .. variation:: P.R.
+
+   .. variation:: Puerto Rico

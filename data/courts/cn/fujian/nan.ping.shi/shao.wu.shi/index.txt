@@ -1,0 +1,3 @@
+.. category:: 邵武市
+   :category-id: cn:fujian:nan.ping.shi:shao.wu.shi
+   :en: Shaowushi

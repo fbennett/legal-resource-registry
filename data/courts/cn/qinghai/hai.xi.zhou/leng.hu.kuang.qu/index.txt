@@ -1,0 +1,3 @@
+.. category:: 冷湖矿区
+   :category-id: cn:qinghai:hai.xi.zhou:leng.hu.kuang.qu
+   :en: Lenghukuangqu

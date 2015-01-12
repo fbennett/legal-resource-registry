@@ -1,0 +1,3 @@
+.. category:: 延长县
+   :category-id: cn:shanxi:yan.an.shi:yan.chang.xian
+   :en: Yanchangxian

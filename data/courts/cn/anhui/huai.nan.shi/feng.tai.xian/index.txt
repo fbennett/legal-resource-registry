@@ -1,0 +1,3 @@
+.. category:: 凤台县
+   :category-id: cn:anhui:huai.nan.shi:feng.tai.xian
+   :en: Fengtaixian

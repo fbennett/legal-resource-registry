@@ -1,0 +1,3 @@
+.. category:: Tân Phú
+   :category-id: vn:dong.nai:tan.phu
+   :en: Tan Phu

@@ -1,0 +1,3 @@
+.. category:: 齐齐哈尔市
+   :category-id: cn:heilongjiang:qi.qi.ha.er.shi
+   :en: Qiqihaer City

@@ -1,0 +1,3 @@
+.. category:: Hà Nội
+   :category-id: vn:ha.noi
+   :en: Ha Noi

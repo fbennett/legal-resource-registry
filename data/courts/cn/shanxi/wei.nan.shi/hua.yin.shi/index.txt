@@ -1,0 +1,3 @@
+.. category:: 华阴市
+   :category-id: cn:shanxi:wei.nan.shi:hua.yin.shi
+   :en: Huayinshi

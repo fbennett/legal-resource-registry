@@ -1,0 +1,3 @@
+.. category:: 建瓯市
+   :category-id: cn:fujian:nan.ping.shi:jian.ou.shi
+   :en: Jianoushi

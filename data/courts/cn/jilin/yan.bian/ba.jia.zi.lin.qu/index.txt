@@ -1,0 +1,3 @@
+.. category:: 八家子林区
+   :category-id: cn:jilin:yan.bian:ba.jia.zi.lin.qu
+   :en: Bajiazilinqu

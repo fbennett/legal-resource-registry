@@ -1,0 +1,11 @@
+.. reporter:: Pennsylvania State Reports, Dallas
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Dall.
+   :edition-abbreviation: Dall.
+   :dates: 1754/01/01-1806/12/31
+
+   .. variation:: D.
+
+   .. variation:: Dal.
+
+   .. variation:: Dallas

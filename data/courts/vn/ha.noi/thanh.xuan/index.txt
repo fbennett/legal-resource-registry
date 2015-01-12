@@ -1,0 +1,3 @@
+.. category:: Thanh Xuân
+   :category-id: vn:ha.noi:thanh.xuan
+   :en: Thanh Xuan

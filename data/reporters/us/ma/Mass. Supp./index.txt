@@ -1,0 +1,5 @@
+.. reporter:: Massachusetts Reports Supplement
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Mass. Supp.
+   :edition-abbreviation: Mass. Supp.
+   :dates: 1980/01/01-1983/12/31

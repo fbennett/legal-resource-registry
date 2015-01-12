@@ -1,0 +1,2 @@
+.. category:: People's Republic of China
+   :category-id: cn

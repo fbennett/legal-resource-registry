@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c2:ct.d;bankruptcy.court
+   :url: http://www.ctb.uscourts.gov/
+   :flp-key: ctb
+
+   .. reporter-key:: B.R.

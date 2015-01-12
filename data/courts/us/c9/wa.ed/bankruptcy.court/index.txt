@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c9:wa.ed;bankruptcy.court
+   :url: http://www.waeb.uscourts.gov/
+   :flp-key: waeb
+
+   .. reporter-key:: B.R.

@@ -1,0 +1,3 @@
+.. category:: 平和县
+   :category-id: cn:fujian:zhang.zhou.shi:ping.he.xian
+   :en: Pinghexian

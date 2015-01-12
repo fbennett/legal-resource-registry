@@ -1,0 +1,3 @@
+.. category:: 苍梧县
+   :category-id: cn:guangxi:wu.zhou.shi:cang.wu.xian
+   :en: Cangwuxian

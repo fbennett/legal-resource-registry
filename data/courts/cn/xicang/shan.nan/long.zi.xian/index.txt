@@ -1,0 +1,3 @@
+.. category:: 隆子县
+   :category-id: cn:xicang:shan.nan:long.zi.xian
+   :en: Longzixian

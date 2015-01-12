@@ -1,0 +1,3 @@
+.. category:: 剑阁县
+   :category-id: cn:sichuan:guang.yuan.shi:jian.ge.xian
+   :en: Jiangexian

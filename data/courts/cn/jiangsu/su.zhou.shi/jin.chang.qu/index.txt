@@ -1,0 +1,3 @@
+.. category:: 金阊区
+   :category-id: cn:jiangsu:su.zhou.shi:jin.chang.qu
+   :en: Jinchangqu

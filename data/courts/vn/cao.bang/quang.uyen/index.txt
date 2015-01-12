@@ -1,0 +1,3 @@
+.. category:: Quảng Uyên
+   :category-id: vn:cao.bang:quang.uyen
+   :en: Quang Uyen

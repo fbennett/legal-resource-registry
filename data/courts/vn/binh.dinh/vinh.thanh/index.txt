@@ -1,0 +1,3 @@
+.. category:: Vĩnh Thạnh
+   :category-id: vn:binh.dinh:vinh.thanh
+   :en: Vinh Thanh

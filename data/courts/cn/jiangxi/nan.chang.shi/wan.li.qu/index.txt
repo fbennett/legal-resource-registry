@@ -1,0 +1,3 @@
+.. category:: 湾里区
+   :category-id: cn:jiangxi:nan.chang.shi:wan.li.qu
+   :en: Wanliqu

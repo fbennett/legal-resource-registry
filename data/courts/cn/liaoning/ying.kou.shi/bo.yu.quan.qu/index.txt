@@ -1,0 +1,3 @@
+.. category:: 鲅鱼圈区
+   :category-id: cn:liaoning:ying.kou.shi:bo.yu.quan.qu
+   :en: Boyuquanqu

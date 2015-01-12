@@ -1,0 +1,3 @@
+.. category:: 第六师
+   :category-id: cn:xinjiang:bing.tuan:di.liu.shi
+   :en: Sixth District

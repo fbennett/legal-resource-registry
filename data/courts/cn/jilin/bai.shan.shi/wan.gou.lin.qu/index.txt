@@ -1,0 +1,3 @@
+.. category:: 湾沟林区
+   :category-id: cn:jilin:bai.shan.shi:wan.gou.lin.qu
+   :en: Wangoulinqu

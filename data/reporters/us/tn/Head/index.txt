@@ -1,0 +1,9 @@
+.. reporter:: Tennessee Reports, Head
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Head
+   :edition-abbreviation: Head
+   :dates: 1858/01/01-1860/12/31
+
+   .. variation:: Tenn.(Head)
+
+   .. variation:: Head(Tenn.)

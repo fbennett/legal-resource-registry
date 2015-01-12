@@ -1,0 +1,3 @@
+.. category:: Hoài Ân
+   :category-id: vn:binh.dinh:hoai.an
+   :en: Hoai An

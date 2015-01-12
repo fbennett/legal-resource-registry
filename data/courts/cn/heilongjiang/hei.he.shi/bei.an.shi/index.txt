@@ -1,0 +1,3 @@
+.. category:: 北安市
+   :category-id: cn:heilongjiang:hei.he.shi:bei.an.shi
+   :en: Beianshi

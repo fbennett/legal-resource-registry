@@ -1,0 +1,7 @@
+.. reporter:: California Unreported Cases
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Cal. Unrep.
+   :edition-abbreviation: Cal. Unrep.
+   :dates: 1855/01/01-1910/12/31
+
+   .. variation:: Cal.Unrep.Cas.

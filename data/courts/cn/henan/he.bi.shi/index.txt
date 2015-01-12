@@ -1,0 +1,3 @@
+.. category:: 鹤壁市
+   :category-id: cn:henan:he.bi.shi
+   :en: Hebi City

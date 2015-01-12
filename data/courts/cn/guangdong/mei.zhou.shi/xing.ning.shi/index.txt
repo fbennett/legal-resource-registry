@@ -1,0 +1,3 @@
+.. category:: 兴宁市
+   :category-id: cn:guangdong:mei.zhou.shi:xing.ning.shi
+   :en: Xingningshi

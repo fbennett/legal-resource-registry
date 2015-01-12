@@ -1,0 +1,3 @@
+.. category:: Hoa Lư
+   :category-id: vn:ninh.binh:hoa.lu
+   :en: Hoa Lu

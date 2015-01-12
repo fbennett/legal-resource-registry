@@ -1,0 +1,3 @@
+.. category:: 曲水县
+   :category-id: cn:xicang:la.sa.shi:qu.shui.xian
+   :en: Qushuixian

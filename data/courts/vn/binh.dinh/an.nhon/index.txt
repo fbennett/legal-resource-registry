@@ -1,0 +1,3 @@
+.. category:: An Nhơn
+   :category-id: vn:binh.dinh:an.nhon
+   :en: An Nhon

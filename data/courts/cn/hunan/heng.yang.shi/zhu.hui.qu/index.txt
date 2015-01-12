@@ -1,0 +1,3 @@
+.. category:: 珠晖区
+   :category-id: cn:hunan:heng.yang.shi:zhu.hui.qu
+   :en: Zhuhuiqu

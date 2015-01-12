@@ -1,0 +1,3 @@
+.. category:: 益阳市
+   :category-id: cn:hunan:yi.yang.shi
+   :en: Yiyang City

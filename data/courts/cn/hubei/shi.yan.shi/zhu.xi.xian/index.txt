@@ -1,0 +1,3 @@
+.. category:: 竹溪县
+   :category-id: cn:hubei:shi.yan.shi:zhu.xi.xian
+   :en: Zhuxixian

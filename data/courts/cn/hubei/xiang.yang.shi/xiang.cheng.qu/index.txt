@@ -1,0 +1,3 @@
+.. category:: 襄城区
+   :category-id: cn:hubei:xiang.yang.shi:xiang.cheng.qu
+   :en: Xiangchengqu

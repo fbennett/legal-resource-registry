@@ -1,0 +1,3 @@
+.. category:: 厦门海事
+   :category-id: cn:fujian:ning.de.shi:sha.men.hai.shi
+   :en: Shamenhaishi

@@ -1,0 +1,3 @@
+.. category:: 富拉尔基区
+   :category-id: cn:heilongjiang:qi.qi.ha.er.shi:fu.la.er.ji.qu
+   :en: Fulaerjiqu

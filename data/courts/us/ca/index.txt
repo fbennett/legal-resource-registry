@@ -1,0 +1,2 @@
+.. category:: California
+   :category-id: us:ca

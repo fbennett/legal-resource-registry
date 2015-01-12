@@ -1,0 +1,3 @@
+.. court:: 中院
+   :court-id: cn:xinjiang:bing.tuan:di.shi.yi.shi;zhong.yuan
+   :en: Intermediate Court

@@ -1,0 +1,5 @@
+.. reporter:: New York Miscellaneous Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Misc.
+   :edition-abbreviation: Misc.
+   :dates: 1892/01/01-1955/12/31

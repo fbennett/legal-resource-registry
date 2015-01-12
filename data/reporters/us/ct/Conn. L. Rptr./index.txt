@@ -1,0 +1,5 @@
+.. reporter:: Connecticut Law Reporter
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Conn. L. Rptr.
+   :edition-abbreviation: Conn. L. Rptr.
+   :dates: 1990/01/01-present

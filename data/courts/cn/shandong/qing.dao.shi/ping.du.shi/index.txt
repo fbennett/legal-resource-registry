@@ -1,0 +1,3 @@
+.. category:: 平度市
+   :category-id: cn:shandong:qing.dao.shi:ping.du.shi
+   :en: Pingdushi

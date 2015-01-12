@@ -1,0 +1,3 @@
+.. category:: Ba Tri
+   :category-id: vn:ben.tre:ba.tri
+   :en: Ba Tri

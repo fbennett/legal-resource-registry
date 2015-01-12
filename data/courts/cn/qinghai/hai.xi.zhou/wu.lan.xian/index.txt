@@ -1,0 +1,3 @@
+.. category:: 乌兰县
+   :category-id: cn:qinghai:hai.xi.zhou:wu.lan.xian
+   :en: Wulanxian

@@ -1,0 +1,9 @@
+.. reporter:: Maine Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Me.
+   :edition-abbreviation: Me.
+   :dates: 1820/01/01-1965/12/31
+
+   .. variation:: Mai.
+
+   .. variation:: Maine

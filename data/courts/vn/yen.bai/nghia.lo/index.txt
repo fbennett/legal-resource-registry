@@ -1,0 +1,3 @@
+.. category:: Nghĩa Lộ
+   :category-id: vn:yen.bai:nghia.lo
+   :en: Nghia Lo

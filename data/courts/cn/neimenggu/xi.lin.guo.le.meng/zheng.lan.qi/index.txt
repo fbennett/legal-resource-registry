@@ -1,0 +1,3 @@
+.. category:: 正蓝旗
+   :category-id: cn:neimenggu:xi.lin.guo.le.meng:zheng.lan.qi
+   :en: Zhenglanqi

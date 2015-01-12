@@ -1,0 +1,3 @@
+.. category:: 临汾市
+   :category-id: cn:shanxi:lin.fen.shi
+   :en: Linfen City

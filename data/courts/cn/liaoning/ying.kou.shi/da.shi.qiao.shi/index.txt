@@ -1,0 +1,3 @@
+.. category:: 大石桥市
+   :category-id: cn:liaoning:ying.kou.shi:da.shi.qiao.shi
+   :en: Dashiqiaoshi

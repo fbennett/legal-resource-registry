@@ -1,0 +1,3 @@
+.. category:: Pleiku
+   :category-id: vn:gia.lai:pleiku
+   :en: Pleiku

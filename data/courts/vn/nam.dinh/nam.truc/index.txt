@@ -1,0 +1,3 @@
+.. category:: Nam Trực
+   :category-id: vn:nam.dinh:nam.truc
+   :en: Nam Truc

@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c4:wv.sd;bankruptcy.court
+   :url: http://www.wvsb.uscourts.gov/
+   :flp-key: wvsb
+
+   .. reporter-key:: B.R.

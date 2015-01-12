@@ -1,0 +1,3 @@
+.. category:: 宜都市
+   :category-id: cn:hubei:yi.chang.shi:yi.du.shi
+   :en: Yidushi

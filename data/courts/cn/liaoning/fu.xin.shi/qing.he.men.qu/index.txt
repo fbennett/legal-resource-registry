@@ -1,0 +1,3 @@
+.. category:: 清河门区
+   :category-id: cn:liaoning:fu.xin.shi:qing.he.men.qu
+   :en: Qinghemenqu

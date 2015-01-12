@@ -1,0 +1,7 @@
+.. reporter:: Indiana Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Ind.
+   :edition-abbreviation: Ind.
+   :dates: 1848/01/01-1981/12/31
+
+   .. variation:: Ind.Rep.

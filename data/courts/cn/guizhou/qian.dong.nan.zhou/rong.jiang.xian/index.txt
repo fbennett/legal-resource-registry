@@ -1,0 +1,3 @@
+.. category:: 榕江县
+   :category-id: cn:guizhou:qian.dong.nan.zhou:rong.jiang.xian
+   :en: Rongjiangxian

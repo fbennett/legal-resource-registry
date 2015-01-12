@@ -1,0 +1,3 @@
+.. category:: Увс
+   :category-id: mn:uvs
+   :en: Uvs

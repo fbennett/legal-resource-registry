@@ -1,0 +1,3 @@
+.. category:: 曾都区
+   :category-id: cn:hubei:sui.zhou.shi:ceng.du.qu
+   :en: Cengduqu

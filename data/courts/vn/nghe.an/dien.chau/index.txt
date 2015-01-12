@@ -1,0 +1,3 @@
+.. category:: Diễn Châu
+   :category-id: vn:nghe.an:dien.chau
+   :en: Dien Chau

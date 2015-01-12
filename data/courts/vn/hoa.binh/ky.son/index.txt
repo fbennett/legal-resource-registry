@@ -1,0 +1,3 @@
+.. category:: Kỳ Sơn
+   :category-id: vn:hoa.binh:ky.son
+   :en: Ky Son

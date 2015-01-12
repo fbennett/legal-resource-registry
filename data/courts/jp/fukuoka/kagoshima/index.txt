@@ -1,0 +1,3 @@
+.. category:: 鹿児島
+   :category-id: jp:fukuoka:kagoshima
+   :en: Kagoshima

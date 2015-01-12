@@ -1,0 +1,3 @@
+.. category:: Buôn Đôn
+   :category-id: vn:dak.lak:buon.don
+   :en: Buon Don

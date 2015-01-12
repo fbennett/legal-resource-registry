@@ -1,0 +1,3 @@
+.. category:: 宝清县
+   :category-id: cn:heilongjiang:shuang.ya.shan.shi:bao.qing.xian
+   :en: Baoqingxian

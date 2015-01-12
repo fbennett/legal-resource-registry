@@ -1,0 +1,3 @@
+.. category:: 扶绥县
+   :category-id: cn:guangxi:chong.zuo.shi:fu.sui.xian
+   :en: Fusuixian

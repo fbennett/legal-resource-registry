@@ -1,0 +1,3 @@
+.. category:: 牧野区
+   :category-id: cn:henan:xin.xiang.shi:mu.ye.qu
+   :en: Muyequ

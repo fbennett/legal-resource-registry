@@ -1,0 +1,7 @@
+.. reporter:: Johnson's Cases
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Johns. Cas.
+   :edition-abbreviation: Johns. Cas.
+   :dates: 1799/01/01-1803/12/31
+
+   .. variation:: Johns.Cas.(N.Y.)

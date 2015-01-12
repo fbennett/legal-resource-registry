@@ -1,0 +1,3 @@
+.. category:: Chợ Mới
+   :category-id: vn:bac.kan:cho.moi
+   :en: Cho Moi

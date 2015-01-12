@@ -1,0 +1,3 @@
+.. category:: Cần Giuộc
+   :category-id: vn:long.an:can.giuoc
+   :en: Can Giuoc

@@ -1,0 +1,7 @@
+.. reporter:: Tennessee Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Tenn.
+   :edition-abbreviation: Tenn.
+   :dates: 1870/01/01-1971/12/31
+
+   .. variation:: Ten.

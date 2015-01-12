@@ -1,0 +1,3 @@
+.. category:: 四川
+   :category-id: cn:sichuan
+   :en: Sichuan

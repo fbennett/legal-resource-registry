@@ -1,0 +1,7 @@
+.. court:: High Court of American Samoa
+   :court-id: us:as;high.court
+   :url: http://en.wikipedia.org/wiki/High_Court_of_American_Samoa
+
+   .. reporter-key:: Am. Samoa
+
+   .. reporter-key:: Am. Samoa 2d

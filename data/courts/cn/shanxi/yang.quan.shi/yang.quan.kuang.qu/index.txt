@@ -1,0 +1,3 @@
+.. category:: 阳泉矿区
+   :category-id: cn:shanxi:yang.quan.shi:yang.quan.kuang.qu
+   :en: Yangquankuangqu

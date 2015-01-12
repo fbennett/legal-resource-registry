@@ -1,0 +1,3 @@
+.. court:: 中院
+   :court-id: cn:gansu:lan.zhou.tie.lu;zhong.yuan
+   :en: Intermediate Court

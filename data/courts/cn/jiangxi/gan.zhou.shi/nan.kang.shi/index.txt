@@ -1,0 +1,3 @@
+.. category:: 南康市
+   :category-id: cn:jiangxi:gan.zhou.shi:nan.kang.shi
+   :en: Nankangshi

@@ -1,0 +1,14 @@
+.. court:: Supreme Court
+   :court-id: us:mn;supreme.court
+   :url: http://www.mncourts.gov/?page=550
+   :flp-key: minn
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: Minn.
+
+   .. reporter-key:: N.W.
+
+   .. reporter-key:: N.W.2d
+
+   .. reporter-key:: WL

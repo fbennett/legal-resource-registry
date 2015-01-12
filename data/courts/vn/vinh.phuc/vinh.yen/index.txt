@@ -1,0 +1,3 @@
+.. category:: Vĩnh Yên
+   :category-id: vn:vinh.phuc:vinh.yen
+   :en: Vinh Yen

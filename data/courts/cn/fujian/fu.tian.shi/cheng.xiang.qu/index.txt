@@ -1,0 +1,3 @@
+.. category:: 城厢区
+   :category-id: cn:fujian:fu.tian.shi:cheng.xiang.qu
+   :en: Chengxiangqu

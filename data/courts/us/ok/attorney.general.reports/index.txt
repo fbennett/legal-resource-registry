@@ -1,0 +1,4 @@
+.. court:: Attorney General Reports
+   :court-id: us:ok;attorney.general.reports
+   :url: http://www.oscn.net/applications/oscn/Index.asp?ftdb=STOKAG&level=1
+   :flp-key: oklaag

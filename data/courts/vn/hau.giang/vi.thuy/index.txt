@@ -1,0 +1,3 @@
+.. category:: Vị Thủy
+   :category-id: vn:hau.giang:vi.thuy
+   :en: Vi Thuy

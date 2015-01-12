@@ -1,0 +1,3 @@
+.. category:: 准格尔旗
+   :category-id: cn:neimenggu:e.er.duo.si.shi:zhun.ge.er.qi
+   :en: Zhungeerqi

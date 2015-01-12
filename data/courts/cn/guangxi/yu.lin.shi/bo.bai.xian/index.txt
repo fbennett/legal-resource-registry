@@ -1,0 +1,3 @@
+.. category:: 博白县
+   :category-id: cn:guangxi:yu.lin.shi:bo.bai.xian
+   :en: Bobaixian

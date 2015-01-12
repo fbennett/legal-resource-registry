@@ -1,0 +1,20 @@
+.. court:: District Court
+   :court-id: us:c9:gu.d;district.court
+   :url: http://www.gud.uscourts.gov/
+   :flp-key: gud
+
+   .. reporter-key:: F. Supp.
+
+   .. reporter-key:: F. Supp. 2d
+
+   .. reporter-key:: F.R.D.
+
+   .. reporter-key:: Fed. R. Serv.
+
+   .. reporter-key:: Fed. R. Serv. 2d
+
+   .. reporter-key:: Fed. R. Serv. 3d
+
+   .. reporter-key:: Guam
+
+   .. reporter-key:: U.S. Dist. LEXIS

@@ -1,0 +1,3 @@
+.. category:: 枣庄市中区
+   :category-id: cn:shandong:zao.zhuang.shi:zao.zhuang.shi.zhong.qu
+   :en: Zaozhuangshizhongqu

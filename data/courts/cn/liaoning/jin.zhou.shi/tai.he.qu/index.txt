@@ -1,0 +1,3 @@
+.. category:: 太和区
+   :category-id: cn:liaoning:jin.zhou.shi:tai.he.qu
+   :en: Taihequ

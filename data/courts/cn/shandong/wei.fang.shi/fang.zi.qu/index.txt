@@ -1,0 +1,3 @@
+.. category:: 坊子区
+   :category-id: cn:shandong:wei.fang.shi:fang.zi.qu
+   :en: Fangziqu

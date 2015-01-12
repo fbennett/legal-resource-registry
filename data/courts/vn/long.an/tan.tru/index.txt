@@ -1,0 +1,3 @@
+.. category:: Tân Trụ
+   :category-id: vn:long.an:tan.tru
+   :en: Tan Tru

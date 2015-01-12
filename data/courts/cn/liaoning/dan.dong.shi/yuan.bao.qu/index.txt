@@ -1,0 +1,3 @@
+.. category:: 元宝区
+   :category-id: cn:liaoning:dan.dong.shi:yuan.bao.qu
+   :en: Yuanbaoqu

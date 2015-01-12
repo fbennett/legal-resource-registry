@@ -1,0 +1,3 @@
+.. category:: 龙马潭区
+   :category-id: cn:sichuan:lu.zhou.shi:long.ma.tan.qu
+   :en: Longmatanqu

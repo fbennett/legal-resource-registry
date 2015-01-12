@@ -1,0 +1,3 @@
+.. category:: 贵定县
+   :category-id: cn:guizhou:qian.nan.zhou:gui.ding.xian
+   :en: Guidingxian

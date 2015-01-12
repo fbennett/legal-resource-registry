@@ -1,0 +1,32 @@
+.. court:: Supreme Court
+   :court-id: us:ct;supreme.court
+   :url: http://www.jud.state.ct.us/external/supapp/default.htm
+   :flp-key: conn
+
+   .. reporter-key:: A.
+
+   .. reporter-key:: A.2d
+
+   .. reporter-key:: A.3d
+
+   .. reporter-key:: Conn.
+
+   .. reporter-key:: Conn. App.
+
+   .. reporter-key:: Conn. Cir. Ct
+
+   .. reporter-key:: Conn. L. Rptr.
+
+   .. reporter-key:: Conn. Super. Ct.
+
+   .. reporter-key:: Conn. Supp.
+
+   .. reporter-key:: Day
+
+   .. reporter-key:: Kirby
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: Root
+
+   .. reporter-key:: WL

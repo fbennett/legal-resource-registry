@@ -1,0 +1,3 @@
+.. category:: Vĩnh Cữu
+   :category-id: vn:dong.nai:vinh.cuu
+   :en: Vinh Cuu

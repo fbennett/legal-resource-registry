@@ -1,0 +1,3 @@
+.. category:: 荔波县
+   :category-id: cn:guizhou:qian.nan.zhou:li.bo.xian
+   :en: Liboxian

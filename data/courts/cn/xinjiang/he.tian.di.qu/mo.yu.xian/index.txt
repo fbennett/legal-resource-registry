@@ -1,0 +1,3 @@
+.. category:: 墨玉县
+   :category-id: cn:xinjiang:he.tian.di.qu:mo.yu.xian
+   :en: Moyuxian

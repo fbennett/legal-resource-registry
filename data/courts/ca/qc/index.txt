@@ -1,0 +1,2 @@
+.. category:: Quebec
+   :category-id: ca:qc

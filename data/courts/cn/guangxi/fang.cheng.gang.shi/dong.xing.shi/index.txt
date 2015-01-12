@@ -1,0 +1,3 @@
+.. category:: 东兴市
+   :category-id: cn:guangxi:fang.cheng.gang.shi:dong.xing.shi
+   :en: Dongxingshi

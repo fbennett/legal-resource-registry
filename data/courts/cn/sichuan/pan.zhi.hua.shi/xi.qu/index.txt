@@ -1,0 +1,3 @@
+.. category:: 西区
+   :category-id: cn:sichuan:pan.zhi.hua.shi:xi.qu
+   :en: Xiqu

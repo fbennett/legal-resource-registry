@@ -1,0 +1,3 @@
+.. category:: Архангай
+   :category-id: mn:arkhangai
+   :en: Arkhangai

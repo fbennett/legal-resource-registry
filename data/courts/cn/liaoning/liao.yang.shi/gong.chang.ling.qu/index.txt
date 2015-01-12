@@ -1,0 +1,3 @@
+.. category:: 弓长岭区
+   :category-id: cn:liaoning:liao.yang.shi:gong.chang.ling.qu
+   :en: Gongchanglingqu

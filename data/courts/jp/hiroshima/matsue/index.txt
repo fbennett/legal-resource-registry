@@ -1,0 +1,3 @@
+.. category:: 松江
+   :category-id: jp:hiroshima:matsue
+   :en: Matsue

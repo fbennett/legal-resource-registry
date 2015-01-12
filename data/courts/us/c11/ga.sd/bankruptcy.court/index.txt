@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c11:ga.sd;bankruptcy.court
+   :url: http://www.gasb.uscourts.gov/
+   :flp-key: gasb
+
+   .. reporter-key:: B.R.

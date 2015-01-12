@@ -1,0 +1,3 @@
+.. category:: 金沙县
+   :category-id: cn:guizhou:bi.jie.shi:jin.sha.xian
+   :en: Jinshaxian

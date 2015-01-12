@@ -1,0 +1,3 @@
+.. category:: 赤壁市
+   :category-id: cn:hubei:xian.ning.shi:chi.bi.shi
+   :en: Chibishi

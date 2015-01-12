@@ -1,0 +1,3 @@
+.. category:: 宜昌市
+   :category-id: cn:hubei:yi.chang.shi
+   :en: Yichang City

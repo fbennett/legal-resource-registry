@@ -1,0 +1,3 @@
+.. category:: 安国市
+   :category-id: cn:hebei:bao.ding.shi:an.guo.shi
+   :en: Anguoshi

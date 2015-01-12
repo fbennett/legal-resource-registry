@@ -1,0 +1,3 @@
+.. category:: Ninh Bình
+   :category-id: vn:ninh.binh
+   :en: Ninh Binh

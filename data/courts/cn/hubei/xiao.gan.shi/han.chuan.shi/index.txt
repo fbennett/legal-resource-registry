@@ -1,0 +1,3 @@
+.. category:: 汉川市
+   :category-id: cn:hubei:xiao.gan.shi:han.chuan.shi
+   :en: Hanchuanshi

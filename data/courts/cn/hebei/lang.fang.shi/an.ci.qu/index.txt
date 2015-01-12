@@ -1,0 +1,3 @@
+.. category:: 安次区
+   :category-id: cn:hebei:lang.fang.shi:an.ci.qu
+   :en: Anciqu

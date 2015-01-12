@@ -1,0 +1,9 @@
+.. reporter:: West Virginia Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: W. Va.
+   :edition-abbreviation: W. Va.
+   :dates: 1864/01/01-present
+
+   .. variation:: West Va.
+
+   .. variation:: W.V.

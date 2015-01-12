@@ -1,0 +1,3 @@
+.. category:: 石拐矿区
+   :category-id: cn:neimenggu:bao.tou.shi:shi.guai.kuang.qu
+   :en: Shiguaikuangqu

@@ -1,0 +1,3 @@
+.. category:: 昆山市
+   :category-id: cn:jiangsu:su.zhou.shi:kun.shan.shi
+   :en: Kunshanshi

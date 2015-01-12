@@ -1,0 +1,3 @@
+.. category:: 福島
+   :category-id: jp:sendai:fukushima
+   :en: Fukushima

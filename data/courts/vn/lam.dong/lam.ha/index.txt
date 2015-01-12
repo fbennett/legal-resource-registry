@@ -1,0 +1,3 @@
+.. category:: Lâm Hà
+   :category-id: vn:lam.dong:lam.ha
+   :en: Lam Ha

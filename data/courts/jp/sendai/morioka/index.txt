@@ -1,0 +1,3 @@
+.. category:: 盛岡
+   :category-id: jp:sendai:morioka
+   :en: Morioka

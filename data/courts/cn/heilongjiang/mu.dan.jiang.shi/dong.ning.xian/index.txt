@@ -1,0 +1,3 @@
+.. category:: 东宁县
+   :category-id: cn:heilongjiang:mu.dan.jiang.shi:dong.ning.xian
+   :en: Dongningxian

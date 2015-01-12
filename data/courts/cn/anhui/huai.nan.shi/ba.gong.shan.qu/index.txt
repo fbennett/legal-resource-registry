@@ -1,0 +1,3 @@
+.. category:: 八公山区
+   :category-id: cn:anhui:huai.nan.shi:ba.gong.shan.qu
+   :en: Bagongshanqu

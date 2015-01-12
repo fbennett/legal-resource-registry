@@ -1,0 +1,3 @@
+.. category:: 大津
+   :category-id: jp:osaka:otsu
+   :en: Otsu

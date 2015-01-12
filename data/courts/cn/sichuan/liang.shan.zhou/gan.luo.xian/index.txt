@@ -1,0 +1,3 @@
+.. category:: 甘洛县
+   :category-id: cn:sichuan:liang.shan.zhou:gan.luo.xian
+   :en: Ganluoxian

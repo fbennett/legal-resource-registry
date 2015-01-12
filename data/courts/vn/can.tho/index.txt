@@ -1,0 +1,3 @@
+.. category:: Cần Thơ
+   :category-id: vn:can.tho
+   :en: Can Tho

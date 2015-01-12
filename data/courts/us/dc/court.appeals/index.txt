@@ -1,0 +1,36 @@
+.. court:: Court of Appeals
+   :court-id: us:dc;court.appeals
+   :url: http://www.dccourts.gov/internet/appellate/main.jsf
+   :flp-key: dc
+
+   .. reporter-key:: A.
+
+   .. reporter-key:: A.2d
+
+   .. reporter-key:: A.3d
+
+   .. reporter-key:: App. D.C.
+
+   .. reporter-key:: Cranch
+
+   .. reporter-key:: Fed. R. Serv.
+
+   .. reporter-key:: Fed. R. Serv. 2d
+
+   .. reporter-key:: Fed. R. Serv. 3d
+
+   .. reporter-key:: Hay. & Haz.
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: MacArth.
+
+   .. reporter-key:: MacArth. & M.
+
+   .. reporter-key:: Mackey
+
+   .. reporter-key:: Tuck. & Cl.
+
+   .. reporter-key:: U.S. App. D.C.
+
+   .. reporter-key:: WL

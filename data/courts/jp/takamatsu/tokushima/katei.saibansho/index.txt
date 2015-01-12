@@ -1,0 +1,6 @@
+.. court:: 家庭裁判所
+   :court-id: jp:takamatsu:tokushima;katei.saibansho
+   :en: Family Court
+   :url: http://www.courts.go.jp/tokushima/
+
+   .. reporter-key:: 家月

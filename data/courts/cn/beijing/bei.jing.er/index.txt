@@ -1,0 +1,3 @@
+.. category:: 北京二
+   :category-id: cn:beijing:bei.jing.er
+   :en: Beijinger

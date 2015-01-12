@@ -1,0 +1,3 @@
+.. category:: 镶黄旗
+   :category-id: cn:neimenggu:xi.lin.guo.le.meng:xiang.huang.qi
+   :en: Xianghuangqi

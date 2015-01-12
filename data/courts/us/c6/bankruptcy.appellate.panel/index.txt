@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Appellate Panel
+   :court-id: us:c6;bankruptcy.appellate.panel
+   :url: http://www.ca6.uscourts.gov/internet/bap/bap.htm
+   :flp-key: bap6
+
+   .. reporter-key:: B.R.

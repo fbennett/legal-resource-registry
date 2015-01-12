@@ -1,0 +1,3 @@
+.. category:: Nam Định
+   :category-id: vn:nam.dinh
+   :en: Nam Dinh

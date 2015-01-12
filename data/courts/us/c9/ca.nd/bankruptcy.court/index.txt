@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c9:ca.nd;bankruptcy.court
+   :url: http://www.canb.uscourts.gov/
+   :flp-key: canb
+
+   .. reporter-key:: B.R.

@@ -1,0 +1,3 @@
+.. court:: Tòa án nhân dân
+   :court-id: vn:ba.ria.vung.tau:con.dao;toa.an.nhan.dan
+   :en: People's Court

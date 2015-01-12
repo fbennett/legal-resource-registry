@@ -1,0 +1,3 @@
+.. category:: Thanh Bình
+   :category-id: vn:dong.thap:thanh.binh
+   :en: Thanh Binh

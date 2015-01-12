@@ -1,0 +1,9 @@
+.. reporter:: New York Supplement
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: N.Y.S.
+   :edition-abbreviation: N.Y.S.
+   :dates: 1888/01/01-1937/12/31
+
+   .. variation:: NYS
+
+   .. variation:: New York Supp.

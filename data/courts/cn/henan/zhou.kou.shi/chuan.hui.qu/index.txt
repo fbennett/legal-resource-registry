@@ -1,0 +1,3 @@
+.. category:: 川汇区
+   :category-id: cn:henan:zhou.kou.shi:chuan.hui.qu
+   :en: Chuanhuiqu

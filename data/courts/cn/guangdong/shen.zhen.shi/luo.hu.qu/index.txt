@@ -1,0 +1,3 @@
+.. category:: 罗湖区
+   :category-id: cn:guangdong:shen.zhen.shi:luo.hu.qu
+   :en: Luohuqu

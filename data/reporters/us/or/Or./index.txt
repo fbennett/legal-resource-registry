@@ -1,0 +1,7 @@
+.. reporter:: Oregon Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Or.
+   :edition-abbreviation: Or.
+   :dates: 1853/01/01-present
+
+   .. variation:: O.

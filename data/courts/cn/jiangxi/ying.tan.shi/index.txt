@@ -1,0 +1,3 @@
+.. category:: 鹰潭市
+   :category-id: cn:jiangxi:ying.tan.shi
+   :en: Yingtan City

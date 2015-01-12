@@ -1,0 +1,3 @@
+.. category:: 屯留县
+   :category-id: cn:shanxi:chang.zhi.shi:tun.liu.xian
+   :en: Tunliuxian

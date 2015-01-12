@@ -1,0 +1,3 @@
+.. category:: 红古区
+   :category-id: cn:gansu:lan.zhou.shi:hong.gu.qu
+   :en: Hongguqu

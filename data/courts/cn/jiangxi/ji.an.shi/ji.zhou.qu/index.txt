@@ -1,0 +1,3 @@
+.. category:: 吉州区
+   :category-id: cn:jiangxi:ji.an.shi:ji.zhou.qu
+   :en: Jizhouqu

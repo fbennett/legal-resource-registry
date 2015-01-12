@@ -1,0 +1,3 @@
+.. category:: 牡丹江农垦
+   :category-id: cn:heilongjiang:nong.ken:mu.dan.jiang.nong.ken
+   :en: Mudanjiangnongken

@@ -1,0 +1,3 @@
+.. category:: Kon Rẫy
+   :category-id: vn:kon.tum:kon.ray
+   :en: Kon Ray

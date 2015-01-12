@@ -1,0 +1,3 @@
+.. category:: Bình Định
+   :category-id: vn:binh.dinh
+   :en: Binh Dinh

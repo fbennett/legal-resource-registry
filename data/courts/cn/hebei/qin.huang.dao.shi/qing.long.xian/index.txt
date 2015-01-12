@@ -1,0 +1,3 @@
+.. category:: 青龙县
+   :category-id: cn:hebei:qin.huang.dao.shi:qing.long.xian
+   :en: Qinglongxian

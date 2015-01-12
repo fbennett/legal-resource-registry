@@ -1,0 +1,3 @@
+.. category:: 太谷县
+   :category-id: cn:shanxi:jin.zhong.shi:tai.gu.xian
+   :en: Taiguxian

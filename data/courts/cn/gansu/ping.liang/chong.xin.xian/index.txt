@@ -1,0 +1,3 @@
+.. category:: 崇信县
+   :category-id: cn:gansu:ping.liang:chong.xin.xian
+   :en: Chongxinxian

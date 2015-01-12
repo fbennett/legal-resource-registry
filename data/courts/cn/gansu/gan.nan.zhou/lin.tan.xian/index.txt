@@ -1,0 +1,3 @@
+.. category:: 临潭县
+   :category-id: cn:gansu:gan.nan.zhou:lin.tan.xian
+   :en: Lintanxian

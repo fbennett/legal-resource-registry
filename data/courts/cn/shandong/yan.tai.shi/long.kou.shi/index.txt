@@ -1,0 +1,3 @@
+.. category:: 龙口市
+   :category-id: cn:shandong:yan.tai.shi:long.kou.shi
+   :en: Longkoushi

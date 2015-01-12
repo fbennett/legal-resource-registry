@@ -1,0 +1,3 @@
+.. court:: Court of Queen's Bench
+   :court-id: ca:nb;court.queens.bench
+   :en: Court of Queen's Bench

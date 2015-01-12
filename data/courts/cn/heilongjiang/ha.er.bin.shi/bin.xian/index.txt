@@ -1,0 +1,3 @@
+.. category:: 宾县
+   :category-id: cn:heilongjiang:ha.er.bin.shi:bin.xian
+   :en: Binxian

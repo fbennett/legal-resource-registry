@@ -1,0 +1,3 @@
+.. category:: 青县
+   :category-id: cn:hebei:cang.zhou.shi:qing.xian
+   :en: Qingxian

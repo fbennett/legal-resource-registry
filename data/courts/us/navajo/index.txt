@@ -1,0 +1,2 @@
+.. category:: Navajo Nation
+   :category-id: us:navajo

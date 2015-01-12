@@ -1,0 +1,4 @@
+.. category:: 新疆
+   :category-id: cn:xinjiang
+   :en: Xinjiang
+

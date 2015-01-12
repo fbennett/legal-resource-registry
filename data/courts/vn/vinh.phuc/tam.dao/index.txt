@@ -1,0 +1,3 @@
+.. category:: Tam Đảo
+   :category-id: vn:vinh.phuc:tam.dao
+   :en: Tam Dao

@@ -1,0 +1,5 @@
+.. reporter:: Texas Supreme Court Journal
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Tex. Sup. Ct. J.
+   :edition-abbreviation: Tex. Sup. Ct. J.
+   :dates: 1957/01/01-present

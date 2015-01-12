@@ -1,0 +1,3 @@
+.. category:: Cẩm Giàng
+   :category-id: vn:hai.duong:cam.giang
+   :en: Cam Giang

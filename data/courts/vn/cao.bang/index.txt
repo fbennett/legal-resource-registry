@@ -1,0 +1,3 @@
+.. category:: Cao Bằng
+   :category-id: vn:cao.bang
+   :en: Cao Bang

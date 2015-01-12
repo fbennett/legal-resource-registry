@@ -1,0 +1,3 @@
+.. category:: 熊本
+   :category-id: jp:fukuoka:kumamoto
+   :en: Kumamoto

@@ -1,0 +1,7 @@
+.. reporter:: Alabama Reports, Stewart
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Stew.
+   :edition-abbreviation: Stew.
+   :dates: 1827/01/01-1831/12/31
+
+   .. variation:: Stewart

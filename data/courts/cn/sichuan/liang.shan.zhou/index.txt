@@ -1,0 +1,3 @@
+.. category:: 凉山州
+   :category-id: cn:sichuan:liang.shan.zhou
+   :en: Liangshanzhou

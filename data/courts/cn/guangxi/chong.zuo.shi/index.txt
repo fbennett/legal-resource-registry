@@ -1,0 +1,3 @@
+.. category:: 崇左市
+   :category-id: cn:guangxi:chong.zuo.shi
+   :en: Chongzuo City

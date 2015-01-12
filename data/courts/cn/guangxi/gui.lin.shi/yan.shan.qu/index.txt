@@ -1,0 +1,3 @@
+.. category:: 雁山区
+   :category-id: cn:guangxi:gui.lin.shi:yan.shan.qu
+   :en: Yanshanqu

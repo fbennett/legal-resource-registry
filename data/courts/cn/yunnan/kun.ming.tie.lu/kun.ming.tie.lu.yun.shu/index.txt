@@ -1,0 +1,3 @@
+.. category:: 昆明铁路运输
+   :category-id: cn:yunnan:kun.ming.tie.lu:kun.ming.tie.lu.yun.shu
+   :en: Kunmingtieluyunshu

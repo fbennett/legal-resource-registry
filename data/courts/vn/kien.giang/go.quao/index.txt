@@ -1,0 +1,3 @@
+.. category:: Gò Quao
+   :category-id: vn:kien.giang:go.quao
+   :en: Go Quao

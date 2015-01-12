@@ -1,0 +1,3 @@
+.. category:: European Union
+   :category-id: eu.int
+

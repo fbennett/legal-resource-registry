@@ -1,0 +1,13 @@
+.. reporter:: Saratoga Chancery Sentinel
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Sarat. Ch. Sent.
+   :edition-abbreviation: Sarat. Ch. Sent.
+   :dates: 1841/01/01-1847/12/31
+
+   .. variation:: N.Y.Ch.Sent.
+
+   .. variation:: Ch.Sent.(N.Y.)
+
+   .. variation:: Sar.Ch.Sen.
+
+   .. variation:: Ch.Sent.

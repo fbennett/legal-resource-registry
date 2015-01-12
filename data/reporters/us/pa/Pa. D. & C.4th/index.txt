@@ -1,0 +1,5 @@
+.. reporter:: Pennsylvania District and County Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Pa. D. & C.
+   :edition-abbreviation: Pa. D. & C.4th
+   :dates: 1921/01/01-present

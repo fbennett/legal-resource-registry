@@ -1,0 +1,3 @@
+.. category:: Đam Rông
+   :category-id: vn:lam.dong:dam.rong
+   :en: Dam Rong

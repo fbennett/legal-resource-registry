@@ -1,0 +1,3 @@
+.. category:: 资阳区
+   :category-id: cn:hunan:yi.yang.shi:zi.yang.qu
+   :en: Ziyangqu

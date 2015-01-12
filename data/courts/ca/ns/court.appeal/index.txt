@@ -1,0 +1,4 @@
+.. court:: Court of Appeal
+   :court-id: ca:ns;court.appeal
+   :en: Court of Appeal
+   :url: http://www.ontariocourts.on.ca/appeal.htm

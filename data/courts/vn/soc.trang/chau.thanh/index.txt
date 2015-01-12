@@ -1,0 +1,3 @@
+.. category:: Châu Thành
+   :category-id: vn:soc.trang:chau.thanh
+   :en: Chau Thanh

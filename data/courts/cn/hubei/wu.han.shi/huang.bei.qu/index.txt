@@ -1,0 +1,3 @@
+.. category:: 黄陂区
+   :category-id: cn:hubei:wu.han.shi:huang.bei.qu
+   :en: Huangbeiqu

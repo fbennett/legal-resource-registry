@@ -1,0 +1,3 @@
+.. category:: 洪湖市
+   :category-id: cn:hubei:jing.zhou.shi:hong.hu.shi
+   :en: Honghushi

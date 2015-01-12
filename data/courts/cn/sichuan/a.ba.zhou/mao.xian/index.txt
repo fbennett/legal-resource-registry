@@ -1,0 +1,3 @@
+.. category:: 茂县
+   :category-id: cn:sichuan:a.ba.zhou:mao.xian
+   :en: Maoxian

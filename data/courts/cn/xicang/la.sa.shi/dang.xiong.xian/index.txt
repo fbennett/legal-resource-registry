@@ -1,0 +1,3 @@
+.. category:: 当雄县
+   :category-id: cn:xicang:la.sa.shi:dang.xiong.xian
+   :en: Dangxiongxian

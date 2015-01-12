@@ -1,0 +1,3 @@
+.. category:: 神木县
+   :category-id: cn:shanxi:yu.lin.shi:shen.mu.xian
+   :en: Shenmuxian

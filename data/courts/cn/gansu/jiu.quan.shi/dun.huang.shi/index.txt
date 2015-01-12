@@ -1,0 +1,3 @@
+.. category:: 敦煌市
+   :category-id: cn:gansu:jiu.quan.shi:dun.huang.shi
+   :en: Dunhuangshi

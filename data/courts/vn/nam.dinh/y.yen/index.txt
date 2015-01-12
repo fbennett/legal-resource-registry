@@ -1,0 +1,3 @@
+.. category:: Ý Yên
+   :category-id: vn:nam.dinh:y.yen
+   :en: Y Yen

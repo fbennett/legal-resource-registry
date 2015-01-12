@@ -1,0 +1,3 @@
+.. category:: 贵池区
+   :category-id: cn:anhui:chi.zhou.shi:gui.chi.qu
+   :en: Guichiqu

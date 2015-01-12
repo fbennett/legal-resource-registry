@@ -1,0 +1,3 @@
+.. category:: 临潼区
+   :category-id: cn:shanxi:xi.an.shi:lin.tong.qu
+   :en: Lintongqu

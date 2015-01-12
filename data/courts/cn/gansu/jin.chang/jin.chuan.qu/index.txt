@@ -1,0 +1,3 @@
+.. category:: 金川区
+   :category-id: cn:gansu:jin.chang:jin.chuan.qu
+   :en: Jinchuanqu

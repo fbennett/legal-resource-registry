@@ -1,0 +1,7 @@
+.. reporter:: Montana Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Mont.
+   :edition-abbreviation: Mont.
+   :dates: 1868/01/01-present
+
+   .. variation:: Mont.

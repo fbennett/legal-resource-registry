@@ -1,0 +1,3 @@
+.. category:: 林州市
+   :category-id: cn:henan:an.yang.shi:lin.zhou.shi
+   :en: Linzhoushi

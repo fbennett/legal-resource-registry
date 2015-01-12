@@ -1,0 +1,3 @@
+.. category:: 湘西自治州
+   :category-id: cn:hunan:xiang.xi.zi.zhi.zhou
+   :en: Xiangxizizhizhou

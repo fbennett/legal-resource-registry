@@ -1,0 +1,3 @@
+.. category:: Hương Sơn
+   :category-id: vn:ha.tinh:huong.son
+   :en: Huong Son

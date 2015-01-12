@@ -1,0 +1,3 @@
+.. category:: Yên Phong
+   :category-id: vn:bac.ninh:yen.phong
+   :en: Yen Phong

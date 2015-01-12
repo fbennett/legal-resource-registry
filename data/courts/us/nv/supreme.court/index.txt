@@ -1,0 +1,18 @@
+.. court:: Supreme Court
+   :court-id: us:nv;supreme.court
+   :url: http://www.nevadajudiciary.us/index.php/supremecourt
+   :flp-key: nev
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: Nev.
+
+   .. reporter-key:: Nev. Adv. Op. No.
+
+   .. reporter-key:: P.
+
+   .. reporter-key:: P.2d
+
+   .. reporter-key:: P.3d
+
+   .. reporter-key:: WL

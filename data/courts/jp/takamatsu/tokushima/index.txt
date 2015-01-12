@@ -1,0 +1,3 @@
+.. category:: 徳島
+   :category-id: jp:takamatsu:tokushima
+   :en: Tokushima

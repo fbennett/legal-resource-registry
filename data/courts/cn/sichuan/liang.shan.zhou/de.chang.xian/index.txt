@@ -1,0 +1,3 @@
+.. category:: 德昌县
+   :category-id: cn:sichuan:liang.shan.zhou:de.chang.xian
+   :en: Dechangxian

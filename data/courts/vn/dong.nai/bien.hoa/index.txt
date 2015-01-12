@@ -1,0 +1,3 @@
+.. category:: Biên Hòa
+   :category-id: vn:dong.nai:bien.hoa
+   :en: Bien Hoa

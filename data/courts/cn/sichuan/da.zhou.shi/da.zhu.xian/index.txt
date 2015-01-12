@@ -1,0 +1,3 @@
+.. category:: 大竹县
+   :category-id: cn:sichuan:da.zhou.shi:da.zhu.xian
+   :en: Dazhuxian

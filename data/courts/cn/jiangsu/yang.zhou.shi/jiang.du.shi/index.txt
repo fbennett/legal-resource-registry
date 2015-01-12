@@ -1,0 +1,3 @@
+.. category:: 江都市
+   :category-id: cn:jiangsu:yang.zhou.shi:jiang.du.shi
+   :en: Jiangdushi

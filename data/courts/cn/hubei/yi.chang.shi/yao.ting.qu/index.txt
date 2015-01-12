@@ -1,0 +1,3 @@
+.. category:: 猇亭区
+   :category-id: cn:hubei:yi.chang.shi:yao.ting.qu
+   :en: Yaotingqu

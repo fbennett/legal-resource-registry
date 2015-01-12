@@ -1,0 +1,3 @@
+.. category:: 新抚区
+   :category-id: cn:liaoning:fu.shun.shi:xin.fu.qu
+   :en: Xinfuqu

@@ -1,0 +1,3 @@
+.. category:: 钟山区
+   :category-id: cn:guizhou:liu.pan.shui.shi:zhong.shan.qu
+   :en: Zhongshanqu

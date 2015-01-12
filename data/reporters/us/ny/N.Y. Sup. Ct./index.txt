@@ -1,0 +1,9 @@
+.. reporter:: Supreme Court Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: N.Y. Sup. Ct.
+   :edition-abbreviation: N.Y. Sup. Ct.
+   :dates: 1873/01/01-1896/12/31
+
+   .. variation:: N.Y.Supr.Ct.
+
+   .. variation:: N.Y.Suprm.Ct.

@@ -1,0 +1,4 @@
+.. court:: 中院
+   :court-id: cn:zhongqing:zhong.qing.wu;zhong.yuan
+   :en: Intermediate Court
+   :url: http://cq5zy.chinacourt.org/&usg=ALkJrhhqWj-qVOxLKZoxxPD6bFwm5qK_rQ

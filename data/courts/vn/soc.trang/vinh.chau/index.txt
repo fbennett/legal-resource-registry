@@ -1,0 +1,3 @@
+.. category:: Vĩnh Châu
+   :category-id: vn:soc.trang:vinh.chau
+   :en: Vinh Chau

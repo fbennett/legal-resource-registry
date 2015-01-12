@@ -1,0 +1,11 @@
+.. reporter:: South Carolina Reports, Cheves' Equity
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Chev. Eq.
+   :edition-abbreviation: Chev. Eq.
+   :dates: 1839/01/01-1840/12/31
+
+   .. variation:: Cheves Eq.(S.C.)
+
+   .. variation:: S.C.Eq.(Chev.Eq.)
+
+   .. variation:: Chev.Ch.

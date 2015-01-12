@@ -1,0 +1,3 @@
+.. category:: Gia Nghĩa
+   :category-id: vn:dak.nong:gia.nghia
+   :en: Gia Nghia

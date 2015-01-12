@@ -1,0 +1,4 @@
+.. court:: Superior Court of Justice
+   :court-id: ca:on;superior.court.justice
+   :en: Superior Court of Justice
+   :url: http://www.tribunaux.qc.ca/mjq_en/c-superieure/index-cs.html

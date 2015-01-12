@@ -1,0 +1,3 @@
+.. category:: Quảng Ngãi
+   :category-id: vn:quang.ngai
+   :en: Quang Ngai

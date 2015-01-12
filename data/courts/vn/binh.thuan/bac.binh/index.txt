@@ -1,0 +1,3 @@
+.. category:: Bắc Bình
+   :category-id: vn:binh.thuan:bac.binh
+   :en: Bac Binh

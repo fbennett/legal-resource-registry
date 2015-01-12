@@ -1,0 +1,3 @@
+.. category:: 白银
+   :category-id: cn:gansu:bai.yin
+   :en: Baiyin

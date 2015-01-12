@@ -1,0 +1,3 @@
+.. court:: Court Martial Appeal Court
+   :court-id: ca;court.martial.appeal.court
+   :en: Court Martial Appeal Court

@@ -1,0 +1,3 @@
+.. category:: Tam Diệp
+   :category-id: vn:ninh.binh:tam.diep
+   :en: Tam Diep

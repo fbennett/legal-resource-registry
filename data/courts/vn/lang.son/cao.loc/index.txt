@@ -1,0 +1,3 @@
+.. category:: Cao Lộc
+   :category-id: vn:lang.son:cao.loc
+   :en: Cao Loc

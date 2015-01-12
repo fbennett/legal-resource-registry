@@ -1,0 +1,3 @@
+.. category:: 图们市
+   :category-id: cn:jilin:yan.bian:tu.men.shi
+   :en: Tumenshi

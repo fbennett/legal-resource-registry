@@ -1,0 +1,2 @@
+.. category:: D. Maine
+   :category-id: us:c1:me.d

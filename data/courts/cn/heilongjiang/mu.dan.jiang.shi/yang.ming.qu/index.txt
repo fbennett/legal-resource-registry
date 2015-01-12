@@ -1,0 +1,3 @@
+.. category:: 阳明区
+   :category-id: cn:heilongjiang:mu.dan.jiang.shi:yang.ming.qu
+   :en: Yangmingqu

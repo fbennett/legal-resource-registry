@@ -1,0 +1,3 @@
+.. category:: 振安区
+   :category-id: cn:liaoning:dan.dong.shi:zhen.an.qu
+   :en: Zhenanqu

@@ -1,0 +1,24 @@
+.. court:: Supreme Court
+   :court-id: us:wi;supreme.court
+   :url: http://www.wicourts.gov/courts/supreme/index.htm
+   :flp-key: wis
+
+   .. reporter-key:: Bur.
+
+   .. reporter-key:: Chand.
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: N.W.
+
+   .. reporter-key:: N.W.2d
+
+   .. reporter-key:: Pin.
+
+   .. reporter-key:: WI
+
+   .. reporter-key:: WL
+
+   .. reporter-key:: Wis.
+
+   .. reporter-key:: Wis. 2d

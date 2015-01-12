@@ -1,0 +1,3 @@
+.. category:: Bắc Ninh
+   :category-id: vn:bac.ninh
+   :en: Bac Ninh

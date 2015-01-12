@@ -1,0 +1,3 @@
+.. category:: 沿滩区
+   :category-id: cn:sichuan:zi.gong.shi:yan.tan.qu
+   :en: Yantanqu

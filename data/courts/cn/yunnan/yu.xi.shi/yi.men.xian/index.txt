@@ -1,0 +1,3 @@
+.. category:: 易门县
+   :category-id: cn:yunnan:yu.xi.shi:yi.men.xian
+   :en: Yimenxian

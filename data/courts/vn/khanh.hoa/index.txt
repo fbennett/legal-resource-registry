@@ -1,0 +1,3 @@
+.. category:: Khánh Hòa
+   :category-id: vn:khanh.hoa
+   :en: Khanh Hoa

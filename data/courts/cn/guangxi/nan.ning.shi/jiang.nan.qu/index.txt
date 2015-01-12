@@ -1,0 +1,3 @@
+.. category:: 江南区
+   :category-id: cn:guangxi:nan.ning.shi:jiang.nan.qu
+   :en: Jiangnanqu

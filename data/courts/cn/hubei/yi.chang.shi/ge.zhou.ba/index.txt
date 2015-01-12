@@ -1,0 +1,3 @@
+.. category:: 葛洲坝
+   :category-id: cn:hubei:yi.chang.shi:ge.zhou.ba
+   :en: Gezhouba

@@ -1,0 +1,3 @@
+.. category:: 巴彦县
+   :category-id: cn:heilongjiang:ha.er.bin.shi:ba.yan.xian
+   :en: Bayanxian

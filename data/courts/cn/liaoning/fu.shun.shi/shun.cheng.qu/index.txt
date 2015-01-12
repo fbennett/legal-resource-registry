@@ -1,0 +1,3 @@
+.. category:: 顺城区
+   :category-id: cn:liaoning:fu.shun.shi:shun.cheng.qu
+   :en: Shunchengqu

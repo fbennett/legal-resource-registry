@@ -1,0 +1,3 @@
+.. category:: 廊坊市
+   :category-id: cn:hebei:lang.fang.shi
+   :en: Langfang City

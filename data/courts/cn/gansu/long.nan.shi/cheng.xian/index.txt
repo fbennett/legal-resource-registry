@@ -1,0 +1,3 @@
+.. category:: 成县
+   :category-id: cn:gansu:long.nan.shi:cheng.xian
+   :en: Chengxian

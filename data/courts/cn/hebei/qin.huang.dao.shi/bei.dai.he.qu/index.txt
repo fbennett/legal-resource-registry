@@ -1,0 +1,3 @@
+.. category:: 北戴河区
+   :category-id: cn:hebei:qin.huang.dao.shi:bei.dai.he.qu
+   :en: Beidaihequ

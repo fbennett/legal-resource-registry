@@ -1,0 +1,3 @@
+.. category:: 八面通林区
+   :category-id: cn:heilongjiang:lin.qu:ba.mian.tong.lin.qu
+   :en: Bamiantonglinqu

@@ -1,0 +1,3 @@
+.. category:: Yên Lập
+   :category-id: vn:phu.tho:yen.lap
+   :en: Yen Lap

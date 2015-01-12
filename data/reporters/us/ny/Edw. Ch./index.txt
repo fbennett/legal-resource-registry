@@ -1,0 +1,13 @@
+.. reporter:: Edwards' Chancery Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Edw. Ch.
+   :edition-abbreviation: Edw. Ch.
+   :dates: 1831/01/01-1850/12/31
+
+   .. variation:: Edw.
+
+   .. variation:: Ed.C.R.
+
+   .. variation:: Edw.Ch.(N.Y.)
+
+   .. variation:: Ed.Ch.

@@ -1,0 +1,3 @@
+.. category:: 青云谱区
+   :category-id: cn:jiangxi:nan.chang.shi:qing.yun.pu.qu
+   :en: Qingyunpuqu

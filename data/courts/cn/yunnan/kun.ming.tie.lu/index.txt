@@ -1,0 +1,3 @@
+.. category:: 昆明铁路
+   :category-id: cn:yunnan:kun.ming.tie.lu
+   :en: Kunmingtielu

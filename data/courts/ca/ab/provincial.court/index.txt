@@ -1,0 +1,4 @@
+.. court:: Provincial Court
+   :court-id: ca:ab;provincial.court
+   :en: Provincial Court
+   :url: http://www.provincialcourt.bc.ca/

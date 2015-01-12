@@ -1,0 +1,3 @@
+.. category:: 长海县
+   :category-id: cn:liaoning:da.lian.shi:chang.hai.xian
+   :en: Changhaixian

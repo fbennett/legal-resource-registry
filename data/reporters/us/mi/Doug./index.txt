@@ -1,0 +1,9 @@
+.. reporter:: Michigan Reports, Douglass
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Doug.
+   :edition-abbreviation: Doug.
+   :dates: 1843/01/01-1847/12/31
+
+   .. variation:: Dougl.(Mich.)
+
+   .. variation:: Doug.(Mich.)

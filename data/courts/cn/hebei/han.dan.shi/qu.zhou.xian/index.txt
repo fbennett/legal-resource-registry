@@ -1,0 +1,3 @@
+.. category:: 曲周县
+   :category-id: cn:hebei:han.dan.shi:qu.zhou.xian
+   :en: Quzhouxian

@@ -1,0 +1,3 @@
+.. category:: 进贤县
+   :category-id: cn:jiangxi:nan.chang.shi:jin.xian.xian
+   :en: Jinxianxian

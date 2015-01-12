@@ -1,0 +1,3 @@
+.. category:: 酒泉市
+   :category-id: cn:gansu:jiu.quan.shi
+   :en: Jiuquan City

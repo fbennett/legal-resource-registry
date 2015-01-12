@@ -1,0 +1,3 @@
+.. category:: Đình Lập
+   :category-id: vn:lang.son:dinh.lap
+   :en: Dinh Lap

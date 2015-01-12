@@ -1,0 +1,3 @@
+.. category:: 周口市
+   :category-id: cn:henan:zhou.kou.shi
+   :en: Zhoukou City

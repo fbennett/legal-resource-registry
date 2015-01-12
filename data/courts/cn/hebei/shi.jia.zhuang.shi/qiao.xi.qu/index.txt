@@ -1,0 +1,3 @@
+.. category:: 桥西区
+   :category-id: cn:hebei:shi.jia.zhuang.shi:qiao.xi.qu
+   :en: Qiaoxiqu

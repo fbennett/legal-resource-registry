@@ -1,0 +1,3 @@
+.. category:: 河曲县
+   :category-id: cn:shanxi:xin.zhou.shi:he.qu.xian
+   :en: Hequxian

@@ -1,0 +1,3 @@
+.. category:: 辽中县
+   :category-id: cn:liaoning:chen.yang.shi:liao.zhong.xian
+   :en: Liaozhongxian

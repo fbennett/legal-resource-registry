@@ -1,0 +1,2 @@
+.. category:: South Carolina
+   :category-id: us:sc

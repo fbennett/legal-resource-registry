@@ -1,0 +1,3 @@
+.. category:: 日土县
+   :category-id: cn:xicang:a.li:ri.tu.xian
+   :en: Rituxian

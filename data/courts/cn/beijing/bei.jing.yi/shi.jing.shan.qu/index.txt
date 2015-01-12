@@ -1,0 +1,3 @@
+.. category:: 石景山区
+   :category-id: cn:beijing:bei.jing.yi:shi.jing.shan.qu
+   :en: Shijingshanqu

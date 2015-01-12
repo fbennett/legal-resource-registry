@@ -1,0 +1,3 @@
+.. category:: Дундговь
+   :category-id: mn:dundgovi
+   :en: Dundgovi

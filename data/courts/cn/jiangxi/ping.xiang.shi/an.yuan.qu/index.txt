@@ -1,0 +1,3 @@
+.. category:: 安源区
+   :category-id: cn:jiangxi:ping.xiang.shi:an.yuan.qu
+   :en: Anyuanqu

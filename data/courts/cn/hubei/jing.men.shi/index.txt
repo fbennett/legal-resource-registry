@@ -1,0 +1,3 @@
+.. category:: 荆门市
+   :category-id: cn:hubei:jing.men.shi
+   :en: Jingmen City

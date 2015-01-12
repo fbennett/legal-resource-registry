@@ -1,0 +1,3 @@
+.. category:: 長崎
+   :category-id: jp:fukuoka:nagasaki
+   :en: Nagasaki

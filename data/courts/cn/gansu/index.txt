@@ -1,0 +1,3 @@
+.. category:: 甘肃
+   :category-id: cn:gansu
+   :en: Gansu

@@ -1,0 +1,3 @@
+.. category:: 科尔沁区
+   :category-id: cn:neimenggu:tong.liao.shi:ke.er.qin.qu
+   :en: Keerqinqu

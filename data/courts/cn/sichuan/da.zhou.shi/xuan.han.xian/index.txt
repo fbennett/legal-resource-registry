@@ -1,0 +1,3 @@
+.. category:: 宣汉县
+   :category-id: cn:sichuan:da.zhou.shi:xuan.han.xian
+   :en: Xuanhanxian

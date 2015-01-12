@@ -1,0 +1,4 @@
+.. court:: Tax Court
+   :court-id: ca;tax.court
+   :en: Tax Court
+   :url: http://www.scc-csc.gc.ca/

@@ -1,0 +1,3 @@
+.. category:: Tân Biên
+   :category-id: vn:tay.ninh:tan.bien
+   :en: Tan Bien

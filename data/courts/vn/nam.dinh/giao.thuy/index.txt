@@ -1,0 +1,3 @@
+.. category:: Giao Thủy
+   :category-id: vn:nam.dinh:giao.thuy
+   :en: Giao Thuy

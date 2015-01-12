@@ -1,0 +1,3 @@
+.. category:: 牡丹江铁路运输
+   :category-id: cn:heilongjiang:ha.er.bin.tie.lu:mu.dan.jiang.tie.lu.yun.shu
+   :en: Mudanjiangtieluyunshu

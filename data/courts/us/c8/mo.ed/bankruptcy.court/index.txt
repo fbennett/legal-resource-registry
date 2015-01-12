@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c8:mo.ed;bankruptcy.court
+   :url: http://www.moeb.uscourts.gov/
+   :flp-key: moeb
+
+   .. reporter-key:: B.R.

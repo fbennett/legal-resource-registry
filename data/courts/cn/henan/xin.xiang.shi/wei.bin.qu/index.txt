@@ -1,0 +1,3 @@
+.. category:: 卫滨区
+   :category-id: cn:henan:xin.xiang.shi:wei.bin.qu
+   :en: Weibinqu

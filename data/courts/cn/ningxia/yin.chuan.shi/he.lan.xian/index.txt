@@ -1,0 +1,3 @@
+.. category:: 贺兰县
+   :category-id: cn:ningxia:yin.chuan.shi:he.lan.xian
+   :en: Helanxian

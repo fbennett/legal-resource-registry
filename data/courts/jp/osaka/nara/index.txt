@@ -1,0 +1,3 @@
+.. category:: 奈良
+   :category-id: jp:osaka:nara
+   :en: Nara

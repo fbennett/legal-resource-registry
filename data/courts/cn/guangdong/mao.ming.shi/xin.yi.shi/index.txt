@@ -1,0 +1,3 @@
+.. category:: 信宜市
+   :category-id: cn:guangdong:mao.ming.shi:xin.yi.shi
+   :en: Xinyishi

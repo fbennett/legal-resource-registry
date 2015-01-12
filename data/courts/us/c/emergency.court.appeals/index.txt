@@ -1,0 +1,4 @@
+.. court:: Emergency Court of Appeals
+   :court-id: us:c;emergency.court.appeals
+   :url: https://secure.wikimedia.org/wikipedia/en/wiki/Emergency_Court_of_Appeals
+   :flp-key: eca

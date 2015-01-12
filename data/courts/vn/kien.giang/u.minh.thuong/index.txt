@@ -1,0 +1,3 @@
+.. category:: U Minh Thượng
+   :category-id: vn:kien.giang:u.minh.thuong
+   :en: U Minh Thuong

@@ -1,0 +1,3 @@
+.. category:: 三坪垦区
+   :category-id: cn:xinjiang:bing.tuan:di.shi.er.shi:san.ping.ken.qu
+   :en: Sanpingkenqu

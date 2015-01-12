@@ -1,0 +1,3 @@
+.. category:: 宛城区
+   :category-id: cn:henan:nan.yang.shi:wan.cheng.qu
+   :en: Wanchengqu

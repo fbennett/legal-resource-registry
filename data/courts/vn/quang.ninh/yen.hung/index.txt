@@ -1,0 +1,3 @@
+.. category:: Yên Hưng
+   :category-id: vn:quang.ninh:yen.hung
+   :en: Yen Hung

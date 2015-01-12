@@ -1,0 +1,3 @@
+.. category:: 梁河县
+   :category-id: cn:yunnan:de.hong.zhou:liang.he.xian
+   :en: Lianghexian

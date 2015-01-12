@@ -1,0 +1,3 @@
+.. category:: Tuy Đức
+   :category-id: vn:dak.nong:tuy.duc
+   :en: Tuy Duc

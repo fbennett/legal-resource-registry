@@ -1,0 +1,3 @@
+.. category:: 离石区
+   :category-id: cn:shanxi:lv.liang.shi:li.shi.qu
+   :en: Lishiqu

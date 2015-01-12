@@ -1,0 +1,3 @@
+.. category:: 集美区
+   :category-id: cn:fujian:sha.men.shi:ji.mei.qu
+   :en: Jimeiqu

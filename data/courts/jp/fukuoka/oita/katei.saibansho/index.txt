@@ -1,0 +1,6 @@
+.. court:: 家庭裁判所
+   :court-id: jp:fukuoka:oita;katei.saibansho
+   :en: Family Court
+   :url: http://www.courts.go.jp/oita/
+
+   .. reporter-key:: 家月

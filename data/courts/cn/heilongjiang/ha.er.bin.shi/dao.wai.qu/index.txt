@@ -1,0 +1,3 @@
+.. category:: 道外区
+   :category-id: cn:heilongjiang:ha.er.bin.shi:dao.wai.qu
+   :en: Daowaiqu

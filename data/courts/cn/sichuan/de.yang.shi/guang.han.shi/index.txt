@@ -1,0 +1,3 @@
+.. category:: 广汉市
+   :category-id: cn:sichuan:de.yang.shi:guang.han.shi
+   :en: Guanghanshi

@@ -1,0 +1,3 @@
+.. category:: 浔阳区
+   :category-id: cn:jiangxi:jiu.jiang.shi:xun.yang.qu
+   :en: Xunyangqu

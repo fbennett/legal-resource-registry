@@ -1,0 +1,3 @@
+.. category:: 利州区
+   :category-id: cn:sichuan:guang.yuan.shi:li.zhou.qu
+   :en: Lizhouqu

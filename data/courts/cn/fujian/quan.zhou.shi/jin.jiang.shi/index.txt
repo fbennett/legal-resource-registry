@@ -1,0 +1,3 @@
+.. category:: 晋江市
+   :category-id: cn:fujian:quan.zhou.shi:jin.jiang.shi
+   :en: Jinjiangshi

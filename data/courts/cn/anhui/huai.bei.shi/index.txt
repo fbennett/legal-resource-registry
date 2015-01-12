@@ -1,0 +1,3 @@
+.. category:: 淮北市
+   :category-id: cn:anhui:huai.bei.shi
+   :en: Huaibei City

@@ -1,0 +1,13 @@
+.. reporter:: South Eastern Reporter
+   :flp-series-cite-type: state_regional
+   :flp-common-abbreviation: S.E.
+   :edition-abbreviation: S.E.2d
+   :dates: 1939/01/01-present
+
+   .. variation:: S. E.2d
+
+   .. variation:: S.E. 2d
+
+   .. variation:: S. E. 2d
+
+   .. variation:: SE 2d

@@ -1,0 +1,13 @@
+.. reporter:: Hill and Denio Supplement (Lalor)
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Hill & Den.
+   :edition-abbreviation: Hill & Den.
+   :dates: 1842/01/01-1844/12/31
+
+   .. variation:: Lalor Supp.
+
+   .. variation:: Hill & Den.Supp.
+
+   .. variation:: Hill & D.Supp.
+
+   .. variation:: Lalor

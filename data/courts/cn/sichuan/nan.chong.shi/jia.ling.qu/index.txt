@@ -1,0 +1,3 @@
+.. category:: 嘉陵区
+   :category-id: cn:sichuan:nan.chong.shi:jia.ling.qu
+   :en: Jialingqu

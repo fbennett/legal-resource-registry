@@ -1,0 +1,3 @@
+.. category:: 長野
+   :category-id: jp:tokyo:nagano
+   :en: Nagano

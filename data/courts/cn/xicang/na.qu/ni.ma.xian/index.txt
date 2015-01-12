@@ -1,0 +1,3 @@
+.. category:: 尼玛县
+   :category-id: cn:xicang:na.qu:ni.ma.xian
+   :en: Nimaxian

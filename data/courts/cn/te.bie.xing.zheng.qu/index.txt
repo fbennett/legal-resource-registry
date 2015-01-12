@@ -1,0 +1,3 @@
+.. category:: 特別行政區
+   :category-id: cn:te.bie.xing.zheng.qu
+   :en: Special Administrative Regions

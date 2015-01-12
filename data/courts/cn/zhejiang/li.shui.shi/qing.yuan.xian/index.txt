@@ -1,0 +1,3 @@
+.. category:: 庆元县
+   :category-id: cn:zhejiang:li.shui.shi:qing.yuan.xian
+   :en: Qingyuanxian

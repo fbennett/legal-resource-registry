@@ -1,0 +1,3 @@
+.. category:: 图木舒克垦区
+   :category-id: cn:xinjiang:bing.tuan:di.san.shi:tu.mu.shu.ke.ken.qu
+   :en: Tumushukekenqu

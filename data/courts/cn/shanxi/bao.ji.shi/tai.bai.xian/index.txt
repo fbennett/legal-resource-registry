@@ -1,0 +1,3 @@
+.. category:: 太白县
+   :category-id: cn:shanxi:bao.ji.shi:tai.bai.xian
+   :en: Taibaixian

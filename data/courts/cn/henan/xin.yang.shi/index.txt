@@ -1,0 +1,3 @@
+.. category:: 信阳市
+   :category-id: cn:henan:xin.yang.shi
+   :en: Xinyang City

@@ -1,0 +1,3 @@
+.. category:: Western Sahara
+   :category-id: eh
+

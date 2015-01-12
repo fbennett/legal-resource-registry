@@ -1,0 +1,363 @@
+a.court {
+    background: #bfd4fe;
+}
+
+a.court:hover {
+    background: #ccdefe !important;
+}
+
+div.larger pre {
+    margin-left: 2em;
+    padding: 1em;
+    background: #dddddd;
+}
+
+div.floater {
+    float: right;
+    margin: 0px 0px 1em 1em;
+}
+
+div.larger dd, div.larger p {
+    line-height: 130%;
+}
+
+a.reference.external {
+    text-decoration: none;
+    border-bottom: 3px dotted #888888;
+    color: black;
+}
+
+a.reference.external:hover {
+    background: #eeeeee;
+}
+
+div.larger dl {
+    /* margin: 1em; */
+    background: #dddddd;
+    padding-top: 0.5em;
+    padding-bottom: 1em;
+}
+
+div.larger dt {
+    margin-top: 0.8em;
+    margin-bottom: 0.1em;
+}
+
+table.footnote {
+    line-height: 1.6em;
+}
+
+a.footnote-reference, a.fn-backref {
+    background: #b89c4e;
+    border-radius: 1em;
+    padding: 0px 0.4em;
+    margin-bottom: 1em;
+    text-decoration: none;
+    color: #444444;
+    font-weight: bold;
+}
+
+div.larger {
+    font-size: larger;
+    border-left: 0.5em solid #888888;
+    padding-left: 1em;
+}
+
+div.larger h1, div.larger h2, div.larger h3, div.larger h4, div.larger h5, div.larger h6 {
+    text-align: left;
+    clear: both;
+}
+
+div.larger ul {
+    margin: 1em;
+    background: #dddddd;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+div.larger ul li ul, div.larger ul blockquote {
+    margin: 0.5em 0px;
+}
+
+div.larger li, div.larger li p, div.larger ul li, div.larger ul li p, div.larger {
+    margin: 0.25em 0px !important;
+}
+
+div.tabs {
+    text-align: right;
+    border-bottom: 2px solid #888888;
+    padding: 1em 0px 0px 0px;
+}
+
+div.tabs div.tab {
+    display: inline;
+    font-family: Ariel, sans, helvetica;
+    font-size: 120%;
+    font-weight: bold;
+    padding: 0px 1em 0px 0px;
+}
+
+div.tabs div.tab a {
+    color: black;
+    text-decoration: none;
+    border-top: 2px solid #888888;
+    border-left: 2px solid #888888;
+    border-right: 2px solid #888888;
+    border-radius: 0.5em 0.5em 0px 0px;
+    padding: 0.2em 0.3em 0px 0.3em;
+}
+
+div.tabs div.tab.selected a {
+    background: #b89c4e;
+}
+
+a.excel {
+    background: #fff717;
+}
+
+a.excel:hover {
+    background: #fffb93 !important;
+}
+
+
+
+span.octicon-link {
+    padding-right: 3px;
+    color: white;
+}
+
+a.reference.external:hover span.octicon-link {
+    color: black;
+}
+
+h3 a {
+    text-decoration: none;
+    color: black;
+    border: none !important;
+}
+
+div.document {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1024px;
+    min-width: 481px; 
+    position: relative;
+}
+
+div.container {
+    text-indent: 0px !important;
+    margin-left: 0px !important;
+}
+
+div.back-button {
+    position: absolute;
+    top: 0px;
+}
+
+div.back-button a {
+    border: none !important;
+}
+
+div.back-button:hover {
+    background: url('graphics/circle-arrow-down-grey.png');
+}
+
+div.back-button.left {
+    left: 0px;
+}
+
+div.back-button.right {
+    right: 0px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h2.citation-group {
+    text-align: left;
+}
+
+h3 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+}
+
+h6 {
+    text-align: center;
+}
+
+div.container.draft {
+    text-align: center;
+    margin: 1em 0;
+    text-indent: 0px;
+    font-size: 110%;
+    font-family: Helvetica, Arial, Sans-Serif;
+    font-style: italic;
+}
+
+div.container.draft div.container {    
+    color: #ff4444;
+    border: solid 1px #ff4444;
+    width: 90%;
+    text-indent: 0px;
+    padding: 0.5em;
+    display: inline-block;
+    margin: 0px;
+    text-align: left;
+}
+
+div.credits.container {
+    text-align: center;
+    margin: 0 0 1em 0;
+    text-indent: 0px;
+}
+
+div.container.credits div.container {
+    border: double 3px black;
+    width: 90%;
+    display: inline-block;
+    padding: 1em;
+    text-align: left;
+    text-indent: 0px;
+    margin: 0px;
+}
+
+div.notes {
+  margin: 0 2em;
+  padding: 0 1em;
+  border: solid 1px #666666;
+  background: #eeeeee;
+}
+
+h3.court {
+    text-align: left;
+    margin-bottom: 0;
+}
+
+div.court-id:before {
+    position: relative;
+    /* top: 0.70em; */
+    left: -0.5em;
+    content: url('graphics/down3-40.png');
+}
+
+div.court-id {
+    position: relative;
+    /* top: -0.70em; */
+    margin: 0 2em 1em 2em;
+}
+
+div.container.bubbles {
+    font-family: ariel,courier,mono;
+    font-weight: bold;
+    margin: 1em 0px;
+    text-indent: 0px;
+}
+
+div.bubbles a, a.bubble {
+    border: solid 2px #666666;
+    color: #444444;
+    border-radius: 1em;
+    padding: 0.5em;
+    text-decoration: none;
+    display: inline-block;
+    text-indent: 0px;
+    margin: 0.25em 0;
+}
+
+a.bubble.mini {
+    padding: 0.25em 0.5em;
+}
+
+div.bubbles a:hover, a.bubble:hover {
+    background: #eeeeee;
+    cursor: pointer;
+    color: #222222;
+}
+
+div.reporters {
+    margin: 1em 2em 0 2em;
+}
+
+div.reporter-box {
+    width: 33.33%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+div.reporter {
+    border: solid 1px black;
+    margin: 0.5em;
+    padding: 0.5em;
+    border-radius: 1em;
+    min-height: 4em;
+}
+
+div.reporter.neutral {
+    background: #c4ffc4;
+}
+
+div.reporter-name {
+    font-weight: bold;
+    font-size: smaller;
+    margin-bottom:0.25em;
+}
+
+div.description-box {
+    width:40%;
+    display: inline-block;
+    font-size: smaller;
+}
+
+div.description-box span.label {
+    font-weight: bold;
+    color: #666666;
+    font-family: Helvetica, Arial, Sans-Serif;
+}
+
+div.description-box span.value.unconfirmed {
+    color: red;
+}
+
+div.description-box span.value.neutral {
+    color: green;
+    font-weight: bold;
+}
+
+div.feature-box {
+    width:57%;
+    display: inline-block;
+    font-size:smaller;
+    vertical-align: top;
+    border-top:solid 1px black;
+    border-left:solid 1px black;
+    padding: 1%;
+    border-radius: 1em 0 0 0;
+}
+
+div.feature-box span.label {
+    font-family: "Lucida Console", Courier, monospace;
+    font-weight: bold;
+}
+
+div.feature-box span.value {
+    font-style: italic;
+}
+
+div.container {
+    text-indent: -1em;
+    margin-left: 1em;
+}

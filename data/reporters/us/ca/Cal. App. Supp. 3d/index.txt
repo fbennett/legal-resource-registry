@@ -1,0 +1,13 @@
+.. reporter:: California Appellate Reports, Supplement
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Cal. App. Supp.
+   :edition-abbreviation: Cal. App. Supp. 3d
+   :dates: 1929/01/01-present
+
+   .. variation:: Cal.App.3d Supp.
+
+   .. variation:: Cal.App. Supp. 3d
+
+   .. variation:: Cal.App. Supp.3d
+
+   .. variation:: Cal.App. 3d Supp.

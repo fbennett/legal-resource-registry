@@ -1,0 +1,3 @@
+.. category:: 开远市
+   :category-id: cn:yunnan:hong.he.zhou:kai.yuan.shi
+   :en: Kaiyuanshi

@@ -1,0 +1,17 @@
+.. reporter:: Washington Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Wash.
+   :edition-abbreviation: Wash.
+   :dates: 1889/01/01-present
+
+   .. variation:: Wa.
+
+   .. variation:: W.
+
+   .. variation:: W.St.
+
+   .. variation:: WASH
+
+   .. variation:: Wn
+
+   .. variation:: Wash.St.

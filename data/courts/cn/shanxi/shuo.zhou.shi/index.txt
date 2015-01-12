@@ -1,0 +1,3 @@
+.. category:: 朔州市
+   :category-id: cn:shanxi:shuo.zhou.shi
+   :en: Shuozhou City

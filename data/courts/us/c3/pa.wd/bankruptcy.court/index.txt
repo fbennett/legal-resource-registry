@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c3:pa.wd;bankruptcy.court
+   :url: http://www.pawb.uscourts.gov/
+   :flp-key: pawb
+
+   .. reporter-key:: B.R.

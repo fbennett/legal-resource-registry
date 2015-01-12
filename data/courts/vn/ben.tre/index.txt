@@ -1,0 +1,3 @@
+.. category:: Bến Tre
+   :category-id: vn:ben.tre
+   :en: Ben Tre

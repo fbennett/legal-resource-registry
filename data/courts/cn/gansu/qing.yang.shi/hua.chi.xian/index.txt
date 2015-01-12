@@ -1,0 +1,3 @@
+.. category:: 华池县
+   :category-id: cn:gansu:qing.yang.shi:hua.chi.xian
+   :en: Huachixian

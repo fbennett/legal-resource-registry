@@ -1,0 +1,3 @@
+.. category:: 樟树市
+   :category-id: cn:jiangxi:yi.chun.shi:zhang.shu.shi
+   :en: Zhangshushi

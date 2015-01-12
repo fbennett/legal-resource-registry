@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c11:ga.nd;bankruptcy.court
+   :url: http://www.ganb.uscourts.gov/
+   :flp-key: ganb
+
+   .. reporter-key:: B.R.

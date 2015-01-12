@@ -1,0 +1,3 @@
+.. category:: Hương Khê
+   :category-id: vn:ha.tinh:huong.khe
+   :en: Huong Khe

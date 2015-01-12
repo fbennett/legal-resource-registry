@@ -1,0 +1,9 @@
+.. reporter:: Lansing's Chancery Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Lans. Ch.
+   :edition-abbreviation: Lans. Ch.
+   :dates: 1824/01/01-1826/12/31
+
+   .. variation:: L.
+
+   .. variation:: Lans.

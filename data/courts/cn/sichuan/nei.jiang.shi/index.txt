@@ -1,0 +1,3 @@
+.. category:: 内江市
+   :category-id: cn:sichuan:nei.jiang.shi
+   :en: Neijiang City

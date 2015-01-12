@@ -1,0 +1,2 @@
+.. category:: Connecticut
+   :category-id: us:ct

@@ -1,0 +1,3 @@
+.. category:: 霍林郭勒市
+   :category-id: cn:neimenggu:tong.liao.shi:huo.lin.guo.le.shi
+   :en: Huolinguoleshi

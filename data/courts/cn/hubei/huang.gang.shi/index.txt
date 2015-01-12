@@ -1,0 +1,3 @@
+.. category:: 黄冈市
+   :category-id: cn:hubei:huang.gang.shi
+   :en: Huanggang City

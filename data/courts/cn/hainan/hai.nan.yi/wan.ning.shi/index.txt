@@ -1,0 +1,3 @@
+.. category:: 万宁市
+   :category-id: cn:hainan:hai.nan.yi:wan.ning.shi
+   :en: Wanningshi

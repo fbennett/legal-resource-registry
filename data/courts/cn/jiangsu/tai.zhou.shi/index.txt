@@ -1,0 +1,3 @@
+.. category:: 泰州市
+   :category-id: cn:jiangsu:tai.zhou.shi
+   :en: Taizhou City

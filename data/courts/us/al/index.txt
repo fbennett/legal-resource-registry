@@ -1,0 +1,2 @@
+.. category:: Alabama
+   :category-id: us:al

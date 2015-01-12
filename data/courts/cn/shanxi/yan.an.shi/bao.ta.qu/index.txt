@@ -1,0 +1,3 @@
+.. category:: 宝塔区
+   :category-id: cn:shanxi:yan.an.shi:bao.ta.qu
+   :en: Baotaqu

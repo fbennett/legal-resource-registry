@@ -1,0 +1,3 @@
+.. category:: Sóc Sơn
+   :category-id: vn:ha.noi:soc.son
+   :en: Soc Son

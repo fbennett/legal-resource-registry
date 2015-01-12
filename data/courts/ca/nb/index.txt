@@ -1,0 +1,2 @@
+.. category:: New Brunswick
+   :category-id: ca:nb

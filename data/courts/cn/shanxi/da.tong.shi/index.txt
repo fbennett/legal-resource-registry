@@ -1,0 +1,3 @@
+.. category:: 大同市
+   :category-id: cn:shanxi:da.tong.shi
+   :en: Datong City

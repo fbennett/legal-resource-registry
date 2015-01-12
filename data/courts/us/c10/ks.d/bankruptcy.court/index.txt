@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c10:ks.d;bankruptcy.court
+   :url: http://www.ksb.uscourts.gov/
+   :flp-key: ksb
+
+   .. reporter-key:: B.R.

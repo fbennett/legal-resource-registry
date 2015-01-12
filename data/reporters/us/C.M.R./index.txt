@@ -1,0 +1,5 @@
+.. reporter:: Court Martial Records
+   :flp-series-cite-type: specialty
+   :flp-common-abbreviation: C.M.R.
+   :edition-abbreviation: C.M.R.
+   :dates: 1951/01/01-1975/12/31

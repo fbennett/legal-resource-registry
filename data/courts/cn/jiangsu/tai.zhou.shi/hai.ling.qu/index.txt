@@ -1,0 +1,3 @@
+.. category:: 海陵区
+   :category-id: cn:jiangsu:tai.zhou.shi:hai.ling.qu
+   :en: Hailingqu

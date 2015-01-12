@@ -1,0 +1,5 @@
+.. reporter:: Delaware Reports, Marvel
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Marvel
+   :edition-abbreviation: Marvel
+   :dates: 1893/01/01-1897/12/31

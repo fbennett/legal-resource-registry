@@ -1,0 +1,7 @@
+.. reporter:: Atlantic Reporter
+   :flp-series-cite-type: state_regional
+   :flp-common-abbreviation: A.
+   :edition-abbreviation: A.3d
+   :dates: 2010/01/01-present
+
+   .. variation:: A. 3d

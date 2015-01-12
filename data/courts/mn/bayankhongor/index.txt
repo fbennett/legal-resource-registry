@@ -1,0 +1,3 @@
+.. category:: Баянхонгор
+   :category-id: mn:bayankhongor
+   :en: Bayankhongor

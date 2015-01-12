@@ -1,0 +1,3 @@
+.. category:: 孟村县
+   :category-id: cn:hebei:cang.zhou.shi:meng.cun.xian
+   :en: Mengcunxian

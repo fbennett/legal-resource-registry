@@ -1,0 +1,3 @@
+.. category:: 山河屯林区
+   :category-id: cn:heilongjiang:lin.qu:shan.he.tun.lin.qu
+   :en: Shanhetunlinqu

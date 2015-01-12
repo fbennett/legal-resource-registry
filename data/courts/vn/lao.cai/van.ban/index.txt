@@ -1,0 +1,3 @@
+.. category:: Văn Bàn
+   :category-id: vn:lao.cai:van.ban
+   :en: Van Ban

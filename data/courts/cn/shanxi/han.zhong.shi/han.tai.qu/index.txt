@@ -1,0 +1,3 @@
+.. category:: 汉台区
+   :category-id: cn:shanxi:han.zhong.shi:han.tai.qu
+   :en: Hantaiqu

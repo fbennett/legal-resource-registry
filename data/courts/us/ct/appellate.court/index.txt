@@ -1,0 +1,4 @@
+.. court:: Appellate Court
+   :court-id: us:ct;appellate.court
+   :url: http://www.jud.ct.gov/external/supapp/appellate.htm
+   :flp-key: connappct

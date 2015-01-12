@@ -1,0 +1,4 @@
+.. court:: Michigan Court of Appeals
+   :court-id: us:mi;court.appeals
+   :url: http://courts.mi.gov/courts/coa/pages/default.aspx
+   :flp-key: michctapp

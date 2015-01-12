@@ -1,0 +1,3 @@
+.. category:: 虹口区
+   :category-id: cn:shanghai:shang.hai.er:hong.kou.qu
+   :en: Hongkouqu

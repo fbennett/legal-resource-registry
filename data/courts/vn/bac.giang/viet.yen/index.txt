@@ -1,0 +1,3 @@
+.. category:: Việt Yên
+   :category-id: vn:bac.giang:viet.yen
+   :en: Viet Yen

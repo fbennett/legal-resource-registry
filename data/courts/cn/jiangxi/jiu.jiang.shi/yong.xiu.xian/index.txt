@@ -1,0 +1,3 @@
+.. category:: 永修县
+   :category-id: cn:jiangxi:jiu.jiang.shi:yong.xiu.xian
+   :en: Yongxiuxian

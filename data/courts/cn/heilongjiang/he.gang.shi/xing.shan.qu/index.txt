@@ -1,0 +1,3 @@
+.. category:: 兴山区
+   :category-id: cn:heilongjiang:he.gang.shi:xing.shan.qu
+   :en: Xingshanqu

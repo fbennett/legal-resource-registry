@@ -1,0 +1,3 @@
+.. category:: 宝兴县
+   :category-id: cn:sichuan:ya.an.shi:bao.xing.xian
+   :en: Baoxingxian

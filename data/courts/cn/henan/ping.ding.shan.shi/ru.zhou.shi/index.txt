@@ -1,0 +1,3 @@
+.. category:: 汝州市
+   :category-id: cn:henan:ping.ding.shan.shi:ru.zhou.shi
+   :en: Ruzhoushi

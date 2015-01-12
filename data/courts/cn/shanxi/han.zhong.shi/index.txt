@@ -1,0 +1,3 @@
+.. category:: 汉中市
+   :category-id: cn:shanxi:han.zhong.shi
+   :en: Hanzhong City

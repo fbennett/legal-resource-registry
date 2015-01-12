@@ -1,0 +1,3 @@
+.. category:: 张家口桥西
+   :category-id: cn:hebei:zhang.jia.kou.shi:zhang.jia.kou.qiao.xi
+   :en: Zhangjiakouqiaoxi

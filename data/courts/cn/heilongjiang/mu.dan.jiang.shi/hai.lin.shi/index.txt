@@ -1,0 +1,3 @@
+.. category:: 海林市
+   :category-id: cn:heilongjiang:mu.dan.jiang.shi:hai.lin.shi
+   :en: Hailinshi

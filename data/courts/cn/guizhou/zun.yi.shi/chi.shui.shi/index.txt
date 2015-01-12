@@ -1,0 +1,3 @@
+.. category:: 赤水市
+   :category-id: cn:guizhou:zun.yi.shi:chi.shui.shi
+   :en: Chishuishi

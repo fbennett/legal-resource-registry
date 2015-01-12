@@ -1,0 +1,18 @@
+.. court:: Supreme Court
+   :court-id: us:wy;supreme.court
+   :url: http://www.courts.state.wy.us/
+   :flp-key: wyo
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: P.
+
+   .. reporter-key:: P.2d
+
+   .. reporter-key:: P.3d
+
+   .. reporter-key:: WL
+
+   .. reporter-key:: WY
+
+   .. reporter-key:: Wyo.

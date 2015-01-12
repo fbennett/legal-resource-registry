@@ -1,0 +1,3 @@
+.. category:: Cam Ranh
+   :category-id: vn:khanh.hoa:cam.ranh
+   :en: Cam Ranh

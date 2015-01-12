@@ -1,0 +1,3 @@
+.. category:: 泗阳县
+   :category-id: cn:jiangsu:su.qian.shi:si.yang.xian
+   :en: Siyangxian

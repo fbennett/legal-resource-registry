@@ -1,0 +1,3 @@
+.. category:: 五常市
+   :category-id: cn:heilongjiang:ha.er.bin.shi:wu.chang.shi
+   :en: Wuchangshi

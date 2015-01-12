@@ -1,0 +1,4 @@
+.. court:: Court of Appeals
+   :court-id: us:ga;court.appeals
+   :url: http://www.gaappeals.us/
+   :flp-key: gactapp

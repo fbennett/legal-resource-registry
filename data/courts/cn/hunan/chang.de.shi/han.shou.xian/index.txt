@@ -1,0 +1,3 @@
+.. category:: 汉寿县
+   :category-id: cn:hunan:chang.de.shi:han.shou.xian
+   :en: Hanshouxian

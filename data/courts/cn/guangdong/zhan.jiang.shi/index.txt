@@ -1,0 +1,3 @@
+.. category:: 湛江市
+   :category-id: cn:guangdong:zhan.jiang.shi
+   :en: Zhanjiang City

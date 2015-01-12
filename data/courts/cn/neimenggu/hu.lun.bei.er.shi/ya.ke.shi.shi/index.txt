@@ -1,0 +1,3 @@
+.. category:: 牙克石市
+   :category-id: cn:neimenggu:hu.lun.bei.er.shi:ya.ke.shi.shi
+   :en: Yakeshishi

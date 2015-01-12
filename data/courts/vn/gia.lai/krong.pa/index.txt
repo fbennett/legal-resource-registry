@@ -1,0 +1,3 @@
+.. category:: Krông Pa
+   :category-id: vn:gia.lai:krong.pa
+   :en: Krong Pa

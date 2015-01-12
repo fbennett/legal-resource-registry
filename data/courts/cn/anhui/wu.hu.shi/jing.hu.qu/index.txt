@@ -1,0 +1,3 @@
+.. category:: 镜湖区
+   :category-id: cn:anhui:wu.hu.shi:jing.hu.qu
+   :en: Jinghuqu

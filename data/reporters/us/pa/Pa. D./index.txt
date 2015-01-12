@@ -1,0 +1,13 @@
+.. reporter:: Pennsylvania District Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Pa. D.
+   :edition-abbreviation: Pa. D.
+   :dates: 1892/01/01-1921/12/31
+
+   .. variation:: Pa.Dist.
+
+   .. variation:: Dist.Rep.
+
+   .. variation:: Penn.Dist.Rep.
+
+   .. variation:: Pa.Dist.R.

@@ -1,0 +1,3 @@
+.. category:: 五台县
+   :category-id: cn:shanxi:xin.zhou.shi:wu.tai.xian
+   :en: Wutaixian

@@ -1,0 +1,3 @@
+.. category:: 赤坎区
+   :category-id: cn:guangdong:zhan.jiang.shi:chi.kan.qu
+   :en: Chikanqu

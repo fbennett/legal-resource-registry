@@ -1,0 +1,3 @@
+.. category:: 福州鼓楼区
+   :category-id: cn:fujian:fu.zhou.shi:fu.zhou.gu.lou.qu
+   :en: Fuzhougulouqu

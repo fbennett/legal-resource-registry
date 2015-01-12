@@ -1,0 +1,3 @@
+.. category:: 安塞县
+   :category-id: cn:shanxi:yan.an.shi:an.sai.xian
+   :en: Ansaixian

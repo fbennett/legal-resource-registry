@@ -1,0 +1,3 @@
+.. category:: 东方红林区
+   :category-id: cn:heilongjiang:lin.qu:dong.fang.hong.lin.qu
+   :en: Dongfanghonglinqu

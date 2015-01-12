@@ -1,0 +1,3 @@
+.. category:: Hậu Lộc
+   :category-id: vn:thanh.hoa:hau.loc
+   :en: Hau Loc

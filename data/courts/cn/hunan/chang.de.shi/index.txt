@@ -1,0 +1,3 @@
+.. category:: 常德市
+   :category-id: cn:hunan:chang.de.shi
+   :en: Changde City

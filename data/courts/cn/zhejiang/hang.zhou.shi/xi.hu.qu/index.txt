@@ -1,0 +1,3 @@
+.. category:: 西湖区
+   :category-id: cn:zhejiang:hang.zhou.shi:xi.hu.qu
+   :en: Xihuqu

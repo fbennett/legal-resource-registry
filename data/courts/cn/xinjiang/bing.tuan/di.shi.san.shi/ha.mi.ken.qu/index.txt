@@ -1,0 +1,3 @@
+.. category:: 哈密垦区
+   :category-id: cn:xinjiang:bing.tuan:di.shi.san.shi:ha.mi.ken.qu
+   :en: Hamikenqu

@@ -1,0 +1,4 @@
+.. court:: 中院
+   :court-id: cn:hunan:yong.zhou.shi;zhong.yuan
+   :en: Intermediate Court
+   :url: http://yzzy.chinacourt.org/&usg=ALkJrhjz7K-ltDCKRAN4e3DcO43ZGDZHrA

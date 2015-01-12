@@ -1,0 +1,11 @@
+.. reporter:: North Carolina Reports, Murphey
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Mur.
+   :edition-abbreviation: Mur.
+   :dates: 1804/01/01-1819/12/31
+
+   .. variation:: N.C.(Mur.)
+
+   .. variation:: Murph.
+
+   .. variation:: Murph.(N.C.)

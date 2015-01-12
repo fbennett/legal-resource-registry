@@ -1,0 +1,3 @@
+.. category:: 上城区
+   :category-id: cn:zhejiang:hang.zhou.shi:shang.cheng.qu
+   :en: Shangchengqu

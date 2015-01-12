@@ -1,0 +1,5 @@
+.. reporter:: LexisNexis U.S. Appeals Citation
+   :flp-series-cite-type: specialty_lexis
+   :flp-common-abbreviation: U.S. App. LEXIS
+   :edition-abbreviation: U.S. App. LEXIS
+   :dates: 1750/01/01-present

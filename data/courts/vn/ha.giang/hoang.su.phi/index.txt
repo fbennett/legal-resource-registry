@@ -1,0 +1,3 @@
+.. category:: Hoàng Su Phì
+   :category-id: vn:ha.giang:hoang.su.phi
+   :en: Hoang Su Phi

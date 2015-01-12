@@ -1,0 +1,5 @@
+.. reporter:: Reports of the United States Board of Tax Appeals
+   :flp-series-cite-type: specialty
+   :flp-common-abbreviation: B.T.A.
+   :edition-abbreviation: B.T.A.
+   :dates: 1924/01/01-1942/12/31

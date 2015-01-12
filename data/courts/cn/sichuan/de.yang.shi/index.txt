@@ -1,0 +1,3 @@
+.. category:: 德阳市
+   :category-id: cn:sichuan:de.yang.shi
+   :en: Deyang City

@@ -1,0 +1,3 @@
+.. category:: 迪庆州
+   :category-id: cn:yunnan:di.qing.zhou
+   :en: Diqingzhou

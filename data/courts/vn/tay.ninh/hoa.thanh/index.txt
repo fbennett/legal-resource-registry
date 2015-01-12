@@ -1,0 +1,3 @@
+.. category:: Hòa Thành
+   :category-id: vn:tay.ninh:hoa.thanh
+   :en: Hoa Thanh

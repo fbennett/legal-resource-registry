@@ -1,0 +1,3 @@
+.. category:: 金城江区
+   :category-id: cn:guangxi:he.chi.shi:jin.cheng.jiang.qu
+   :en: Jinchengjiangqu

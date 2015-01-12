@@ -1,0 +1,3 @@
+.. category:: 平江区
+   :category-id: cn:jiangsu:su.zhou.shi:ping.jiang.qu
+   :en: Pingjiangqu

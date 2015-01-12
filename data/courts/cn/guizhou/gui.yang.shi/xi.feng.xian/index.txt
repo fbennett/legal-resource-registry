@@ -1,0 +1,3 @@
+.. category:: 息烽县
+   :category-id: cn:guizhou:gui.yang.shi:xi.feng.xian
+   :en: Xifengxian

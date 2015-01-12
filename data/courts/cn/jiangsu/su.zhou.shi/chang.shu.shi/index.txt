@@ -1,0 +1,3 @@
+.. category:: 常熟市
+   :category-id: cn:jiangsu:su.zhou.shi:chang.shu.shi
+   :en: Changshushi

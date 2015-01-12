@@ -1,0 +1,3 @@
+.. category:: 吉安市
+   :category-id: cn:jiangxi:ji.an.shi
+   :en: Jian City

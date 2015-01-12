@@ -1,0 +1,3 @@
+.. category:: 开阳县
+   :category-id: cn:guizhou:gui.yang.shi:kai.yang.xian
+   :en: Kaiyangxian

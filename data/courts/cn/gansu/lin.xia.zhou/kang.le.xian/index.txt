@@ -1,0 +1,3 @@
+.. category:: 康乐县
+   :category-id: cn:gansu:lin.xia.zhou:kang.le.xian
+   :en: Kanglexian

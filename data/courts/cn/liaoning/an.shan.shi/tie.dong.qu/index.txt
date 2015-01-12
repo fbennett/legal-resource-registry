@@ -1,0 +1,3 @@
+.. category:: 铁东区
+   :category-id: cn:liaoning:an.shan.shi:tie.dong.qu
+   :en: Tiedongqu

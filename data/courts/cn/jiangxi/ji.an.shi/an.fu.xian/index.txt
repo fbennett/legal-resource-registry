@@ -1,0 +1,3 @@
+.. category:: 安福县
+   :category-id: cn:jiangxi:ji.an.shi:an.fu.xian
+   :en: Anfuxian

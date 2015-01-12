@@ -1,0 +1,3 @@
+.. category:: 金堂县
+   :category-id: cn:sichuan:cheng.du.shi:jin.tang.xian
+   :en: Jintangxian

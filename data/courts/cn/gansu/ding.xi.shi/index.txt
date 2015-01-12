@@ -1,0 +1,3 @@
+.. category:: 定西市
+   :category-id: cn:gansu:ding.xi.shi
+   :en: Dingxi City

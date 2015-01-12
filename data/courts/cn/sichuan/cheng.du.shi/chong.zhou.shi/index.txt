@@ -1,0 +1,3 @@
+.. category:: 崇州市
+   :category-id: cn:sichuan:cheng.du.shi:chong.zhou.shi
+   :en: Chongzhoushi

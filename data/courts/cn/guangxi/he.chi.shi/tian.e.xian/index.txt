@@ -1,0 +1,3 @@
+.. category:: 天峨县
+   :category-id: cn:guangxi:he.chi.shi:tian.e.xian
+   :en: Tianexian

@@ -1,0 +1,3 @@
+.. category:: 册亨县
+   :category-id: cn:guizhou:qian.xi.nan.zhou:ce.heng.xian
+   :en: Cehengxian

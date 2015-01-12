@@ -1,0 +1,9 @@
+.. reporter:: South Carolina Reports, McMullen's Equity
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: McMul. Eq.
+   :edition-abbreviation: McMul. Eq.
+   :dates: 1840/01/01-1842/12/31
+
+   .. variation:: McMul.Eq.(S.C.)
+
+   .. variation:: S.C.L.(McMullan Eq.)

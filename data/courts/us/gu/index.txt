@@ -1,0 +1,2 @@
+.. category:: Guam
+   :category-id: us:gu

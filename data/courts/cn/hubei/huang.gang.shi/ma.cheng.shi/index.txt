@@ -1,0 +1,3 @@
+.. category:: 麻城市
+   :category-id: cn:hubei:huang.gang.shi:ma.cheng.shi
+   :en: Machengshi

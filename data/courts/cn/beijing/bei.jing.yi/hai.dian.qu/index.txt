@@ -1,0 +1,3 @@
+.. category:: 海淀区
+   :category-id: cn:beijing:bei.jing.yi:hai.dian.qu
+   :en: Haidianqu

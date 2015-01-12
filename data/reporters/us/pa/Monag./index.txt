@@ -1,0 +1,13 @@
+.. reporter:: Pennsylvania State Reports, Monaghan
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Monag.
+   :edition-abbreviation: Monag.
+   :dates: 1888/01/01-1890/12/31
+
+   .. variation:: Mon.
+
+   .. variation:: Mona.
+
+   .. variation:: Monaghan
+
+   .. variation:: Monaghan(Pa.)

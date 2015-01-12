@@ -1,0 +1,3 @@
+.. category:: 新荣区
+   :category-id: cn:shanxi:da.tong.shi:xin.rong.qu
+   :en: Xinrongqu

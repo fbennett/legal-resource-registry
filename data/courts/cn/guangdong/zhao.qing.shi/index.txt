@@ -1,0 +1,3 @@
+.. category:: 肇庆市
+   :category-id: cn:guangdong:zhao.qing.shi
+   :en: Zhaoqing City

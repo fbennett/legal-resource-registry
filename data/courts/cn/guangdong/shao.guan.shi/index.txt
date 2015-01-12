@@ -1,0 +1,3 @@
+.. category:: 韶关市
+   :category-id: cn:guangdong:shao.guan.shi
+   :en: Shaoguan City

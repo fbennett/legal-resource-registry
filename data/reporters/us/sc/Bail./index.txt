@@ -1,0 +1,15 @@
+.. reporter:: South Carolina Reports, Bailey
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Bail.
+   :edition-abbreviation: Bail.
+   :dates: 1828/01/01-1832/12/31
+
+   .. variation:: Bailey
+
+   .. variation:: S.C.L.(Bail.)
+
+   .. variation:: Bail.L.
+
+   .. variation:: Bail.L.(S.C.)
+
+   .. variation:: Bai.

@@ -1,0 +1,3 @@
+.. category:: Hà Tĩnh
+   :category-id: vn:ha.tinh
+   :en: Ha Tinh

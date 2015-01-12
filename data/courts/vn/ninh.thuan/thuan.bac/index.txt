@@ -1,0 +1,3 @@
+.. category:: Thuận Bắc
+   :category-id: vn:ninh.thuan:thuan.bac
+   :en: Thuan Bac

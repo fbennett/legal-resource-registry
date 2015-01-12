@@ -1,0 +1,3 @@
+.. category:: 大通湖管理区
+   :category-id: cn:hunan:yi.yang.shi:da.tong.hu.guan.li.qu
+   :en: Datonghuguanliqu

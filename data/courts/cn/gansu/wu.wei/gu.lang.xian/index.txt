@@ -1,0 +1,3 @@
+.. category:: 古浪县
+   :category-id: cn:gansu:wu.wei:gu.lang.xian
+   :en: Gulangxian

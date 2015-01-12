@@ -1,0 +1,5 @@
+.. reporter:: Court of Customs Appeals Reports
+   :flp-series-cite-type: specialty
+   :flp-common-abbreviation: Ct. Cust.
+   :edition-abbreviation: Ct. Cust.
+   :dates: 1910/01/01-1929/12/31

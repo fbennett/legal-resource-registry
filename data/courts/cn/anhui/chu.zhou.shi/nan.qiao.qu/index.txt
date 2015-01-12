@@ -1,0 +1,3 @@
+.. category:: 南谯区
+   :category-id: cn:anhui:chu.zhou.shi:nan.qiao.qu
+   :en: Nanqiaoqu

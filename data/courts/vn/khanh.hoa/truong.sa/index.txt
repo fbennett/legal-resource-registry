@@ -1,0 +1,3 @@
+.. category:: Trường Sa
+   :category-id: vn:khanh.hoa:truong.sa
+   :en: Truong Sa

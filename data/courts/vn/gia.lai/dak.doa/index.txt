@@ -1,0 +1,3 @@
+.. category:: Đắk Đoa
+   :category-id: vn:gia.lai:dak.doa
+   :en: Dak Doa

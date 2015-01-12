@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c4:nc.ed;bankruptcy.court
+   :url: https://ecf.nceb.uscourts.gov/
+   :flp-key: nceb
+
+   .. reporter-key:: B.R.

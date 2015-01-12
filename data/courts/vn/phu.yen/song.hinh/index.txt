@@ -1,0 +1,3 @@
+.. category:: Sông Hinh
+   :category-id: vn:phu.yen:song.hinh
+   :en: Song Hinh

@@ -1,0 +1,3 @@
+.. category:: Thốt Nốt
+   :category-id: vn:can.tho:thot.not
+   :en: Thot Not

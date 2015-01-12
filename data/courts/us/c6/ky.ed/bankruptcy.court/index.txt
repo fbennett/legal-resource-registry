@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c6:ky.ed;bankruptcy.court
+   :url: http://www.kyeb.uscourts.gov/
+   :flp-key: kyeb
+
+   .. reporter-key:: B.R.

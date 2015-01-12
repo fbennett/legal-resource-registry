@@ -1,0 +1,3 @@
+.. category:: 淮安市
+   :category-id: cn:jiangsu:huai.an.shi
+   :en: Huaian City

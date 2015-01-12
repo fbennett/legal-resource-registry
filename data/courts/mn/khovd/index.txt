@@ -1,0 +1,3 @@
+.. category:: Ховд
+   :category-id: mn:khovd
+   :en: Khovd

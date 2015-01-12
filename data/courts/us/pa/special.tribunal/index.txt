@@ -1,0 +1,4 @@
+.. court:: Special Tribunal
+   :court-id: us:pa;special.tribunal
+   :url: https://www.courtlistener.com/?court=stp
+   :flp-key: stp

@@ -1,0 +1,3 @@
+.. category:: 莱阳市
+   :category-id: cn:shandong:yan.tai.shi:lai.yang.shi
+   :en: Laiyangshi

@@ -1,0 +1,3 @@
+.. category:: Yên Khánh
+   :category-id: vn:ninh.binh:yen.khanh
+   :en: Yen Khanh

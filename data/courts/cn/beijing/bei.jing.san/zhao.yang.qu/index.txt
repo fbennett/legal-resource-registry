@@ -1,0 +1,3 @@
+.. category:: 朝阳区
+   :category-id: cn:beijing:bei.jing.san:zhao.yang.qu
+   :en: Zhaoyangqu

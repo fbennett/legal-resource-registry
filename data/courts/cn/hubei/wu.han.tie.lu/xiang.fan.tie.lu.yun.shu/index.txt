@@ -1,0 +1,3 @@
+.. category:: 襄樊铁路运输
+   :category-id: cn:hubei:wu.han.tie.lu:xiang.fan.tie.lu.yun.shu
+   :en: Xiangfantieluyunshu

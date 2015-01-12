@@ -1,0 +1,3 @@
+.. category:: 湘乡市
+   :category-id: cn:hunan:xiang.tan.shi:xiang.xiang.shi
+   :en: Xiangxiangshi

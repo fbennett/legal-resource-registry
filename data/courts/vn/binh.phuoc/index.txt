@@ -1,0 +1,3 @@
+.. category:: Bình Phước
+   :category-id: vn:binh.phuoc
+   :en: Binh Phuoc

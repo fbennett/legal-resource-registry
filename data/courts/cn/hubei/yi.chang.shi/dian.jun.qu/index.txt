@@ -1,0 +1,3 @@
+.. category:: 点军区
+   :category-id: cn:hubei:yi.chang.shi:dian.jun.qu
+   :en: Dianjunqu

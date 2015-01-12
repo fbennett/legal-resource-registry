@@ -1,0 +1,3 @@
+.. category:: 迁西县
+   :category-id: cn:hebei:tang.shan.shi:qian.xi.xian
+   :en: Qianxixian

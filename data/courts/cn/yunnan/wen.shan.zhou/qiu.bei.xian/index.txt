@@ -1,0 +1,3 @@
+.. category:: 丘北县
+   :category-id: cn:yunnan:wen.shan.zhou:qiu.bei.xian
+   :en: Qiubeixian

@@ -1,0 +1,3 @@
+.. category:: 阜新县
+   :category-id: cn:liaoning:fu.xin.shi:fu.xin.xian
+   :en: Fuxinxian

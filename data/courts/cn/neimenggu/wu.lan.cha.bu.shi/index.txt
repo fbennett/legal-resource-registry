@@ -1,0 +1,3 @@
+.. category:: 乌兰察布市
+   :category-id: cn:neimenggu:wu.lan.cha.bu.shi
+   :en: Wulanchabu City

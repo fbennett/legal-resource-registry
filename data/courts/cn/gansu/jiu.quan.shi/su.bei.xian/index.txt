@@ -1,0 +1,3 @@
+.. category:: 肃北县
+   :category-id: cn:gansu:jiu.quan.shi:su.bei.xian
+   :en: Subeixian

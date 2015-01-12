@@ -1,0 +1,16 @@
+.. court:: Supreme Court
+   :court-id: us:nh;supreme.court
+   :url: http://www.courts.state.nh.us/supreme/
+   :flp-key: nh
+
+   .. reporter-key:: A.
+
+   .. reporter-key:: A.2d
+
+   .. reporter-key:: A.3d
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: N.H.
+
+   .. reporter-key:: WL

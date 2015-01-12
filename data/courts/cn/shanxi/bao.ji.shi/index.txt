@@ -1,0 +1,3 @@
+.. category:: 宝鸡市
+   :category-id: cn:shanxi:bao.ji.shi
+   :en: Baoji City

@@ -1,0 +1,3 @@
+.. category:: 扎赉特旗
+   :category-id: cn:neimenggu:xing.an.meng:zha.lai.te.qi
+   :en: Zhalaiteqi

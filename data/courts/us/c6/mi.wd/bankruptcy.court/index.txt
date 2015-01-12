@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c6:mi.wd;bankruptcy.court
+   :url: http://www.miwb.uscourts.gov/
+   :flp-key: miwb
+
+   .. reporter-key:: B.R.

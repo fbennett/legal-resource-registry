@@ -1,0 +1,24 @@
+.. court:: Supreme Court
+   :court-id: us:ms;supreme.court
+   :url: http://courts.ms.gov/appellate_courts/sc/sc.html
+   :flp-key: miss
+
+   .. reporter-key:: Howard
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: MS
+
+   .. reporter-key:: Miss.
+
+   .. reporter-key:: S. & M.
+
+   .. reporter-key:: So.
+
+   .. reporter-key:: So. 2d
+
+   .. reporter-key:: So. 3d
+
+   .. reporter-key:: WL
+
+   .. reporter-key:: Walker

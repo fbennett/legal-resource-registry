@@ -1,0 +1,3 @@
+.. category:: 寻甸县
+   :category-id: cn:yunnan:kun.ming.shi:xun.dian.xian
+   :en: Xundianxian

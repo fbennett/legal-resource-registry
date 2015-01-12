@@ -1,0 +1,3 @@
+.. category:: 商城县
+   :category-id: cn:henan:xin.yang.shi:shang.cheng.xian
+   :en: Shangchengxian

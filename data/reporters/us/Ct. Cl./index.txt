@@ -1,0 +1,9 @@
+.. reporter:: Court of Claims Reports
+   :flp-series-cite-type: specialty
+   :flp-common-abbreviation: Ct. Cl.
+   :edition-abbreviation: Ct. Cl.
+   :dates: 1863/01/01-1982/12/31
+
+   .. variation:: Court Cl.
+
+   .. variation:: Ct.Cl.

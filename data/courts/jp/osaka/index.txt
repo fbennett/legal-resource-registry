@@ -1,0 +1,4 @@
+.. category:: 大阪
+   :category-id: jp:osaka
+   :en: Osaka
+

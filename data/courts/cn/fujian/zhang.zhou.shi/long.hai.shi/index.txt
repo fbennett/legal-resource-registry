@@ -1,0 +1,3 @@
+.. category:: 龙海市
+   :category-id: cn:fujian:zhang.zhou.shi:long.hai.shi
+   :en: Longhaishi

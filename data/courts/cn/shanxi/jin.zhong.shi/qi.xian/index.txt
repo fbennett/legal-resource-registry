@@ -1,0 +1,3 @@
+.. category:: 祁县
+   :category-id: cn:shanxi:jin.zhong.shi:qi.xian
+   :en: Qixian

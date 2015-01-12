@@ -1,0 +1,3 @@
+.. category:: 常宁市
+   :category-id: cn:hunan:heng.yang.shi:chang.ning.shi
+   :en: Changningshi

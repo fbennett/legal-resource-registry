@@ -1,0 +1,3 @@
+.. category:: 内蒙古
+   :category-id: cn:neimenggu
+   :en: Neimenggu

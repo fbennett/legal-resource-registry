@@ -1,0 +1,3 @@
+.. court:: Bankruptcy Appellate Panel
+   :court-id: us:c4;bankruptcy.appellate.panel
+

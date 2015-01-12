@@ -1,0 +1,3 @@
+.. category:: Sóc Trăng
+   :category-id: vn:soc.trang
+   :en: Soc Trang

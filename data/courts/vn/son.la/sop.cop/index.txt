@@ -1,0 +1,3 @@
+.. category:: Sốp Cộp
+   :category-id: vn:son.la:sop.cop
+   :en: Sop Cop

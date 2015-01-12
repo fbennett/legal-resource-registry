@@ -1,0 +1,3 @@
+.. category:: 巴彦淖尔市
+   :category-id: cn:neimenggu:ba.yan.nao.er.shi
+   :en: Bayannaoer City

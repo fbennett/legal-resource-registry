@@ -1,0 +1,3 @@
+.. category:: 阎良区
+   :category-id: cn:shanxi:xi.an.shi:yan.liang.qu
+   :en: Yanliangqu

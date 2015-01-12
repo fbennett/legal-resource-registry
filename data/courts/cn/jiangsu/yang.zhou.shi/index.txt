@@ -1,0 +1,3 @@
+.. category:: 扬州市
+   :category-id: cn:jiangsu:yang.zhou.shi
+   :en: Yangzhou City

@@ -1,0 +1,3 @@
+.. category:: Nghĩa Hành
+   :category-id: vn:quang.ngai:nghia.hanh
+   :en: Nghia Hanh

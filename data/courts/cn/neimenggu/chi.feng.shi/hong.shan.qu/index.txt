@@ -1,0 +1,3 @@
+.. category:: 红山区
+   :category-id: cn:neimenggu:chi.feng.shi:hong.shan.qu
+   :en: Hongshanqu

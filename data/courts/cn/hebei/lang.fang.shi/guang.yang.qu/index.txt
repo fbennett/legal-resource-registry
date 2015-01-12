@@ -1,0 +1,3 @@
+.. category:: 广阳区
+   :category-id: cn:hebei:lang.fang.shi:guang.yang.qu
+   :en: Guangyangqu

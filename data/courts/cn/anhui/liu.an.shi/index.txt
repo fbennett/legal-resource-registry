@@ -1,0 +1,3 @@
+.. category:: 六安市
+   :category-id: cn:anhui:liu.an.shi
+   :en: Liuan City

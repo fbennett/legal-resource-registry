@@ -1,0 +1,3 @@
+.. category:: 怀仁县
+   :category-id: cn:shanxi:shuo.zhou.shi:huai.ren.xian
+   :en: Huairenxian

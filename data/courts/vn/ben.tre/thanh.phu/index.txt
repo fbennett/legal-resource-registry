@@ -1,0 +1,3 @@
+.. category:: Thạnh Phú
+   :category-id: vn:ben.tre:thanh.phu
+   :en: Thanh Phu

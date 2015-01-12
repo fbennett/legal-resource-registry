@@ -1,0 +1,3 @@
+.. category:: Yên Lạc
+   :category-id: vn:vinh.phuc:yen.lac
+   :en: Yen Lac

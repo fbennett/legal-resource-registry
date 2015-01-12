@@ -1,0 +1,3 @@
+.. category:: Sầm Sơn
+   :category-id: vn:thanh.hoa:sam.son
+   :en: Sam Son

@@ -1,0 +1,3 @@
+.. category:: 锦江区
+   :category-id: cn:sichuan:cheng.du.shi:jin.jiang.qu
+   :en: Jinjiangqu

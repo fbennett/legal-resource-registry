@@ -1,0 +1,3 @@
+.. category:: 钦北区
+   :category-id: cn:guangxi:qin.zhou.shi:qin.bei.qu
+   :en: Qinbeiqu

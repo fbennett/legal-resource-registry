@@ -1,0 +1,3 @@
+.. category:: 敖汉旗
+   :category-id: cn:neimenggu:chi.feng.shi:ao.han.qi
+   :en: Aohanqi

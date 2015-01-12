@@ -1,0 +1,3 @@
+.. category:: Phú Yên
+   :category-id: vn:phu.yen
+   :en: Phu Yen

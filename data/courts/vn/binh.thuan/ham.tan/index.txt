@@ -1,0 +1,3 @@
+.. category:: Hàm Tân
+   :category-id: vn:binh.thuan:ham.tan
+   :en: Ham Tan

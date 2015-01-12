@@ -1,0 +1,3 @@
+.. category:: Kinh Môn
+   :category-id: vn:hai.duong:kinh.mon
+   :en: Kinh Mon

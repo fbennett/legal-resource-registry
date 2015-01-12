@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c9:id.d;bankruptcy.court
+   :url: http://www.id.uscourts.gov/
+   :flp-key: idb
+
+   .. reporter-key:: B.R.

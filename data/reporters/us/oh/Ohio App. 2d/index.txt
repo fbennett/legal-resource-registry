@@ -1,0 +1,11 @@
+.. reporter:: Ohio Appellate Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Ohio App.
+   :edition-abbreviation: Ohio App. 2d
+   :dates: 1913/01/01-present
+
+   .. variation:: O.A.R.2d
+
+   .. variation:: O.App.2d
+
+   .. variation:: Oh.A.2d

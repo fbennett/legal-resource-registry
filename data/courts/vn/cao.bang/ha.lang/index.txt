@@ -1,0 +1,3 @@
+.. category:: Hạ Lang
+   :category-id: vn:cao.bang:ha.lang
+   :en: Ha Lang

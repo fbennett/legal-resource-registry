@@ -1,0 +1,3 @@
+.. category:: Cát Hải
+   :category-id: vn:hai.phong:cat.hai
+   :en: Cat Hai

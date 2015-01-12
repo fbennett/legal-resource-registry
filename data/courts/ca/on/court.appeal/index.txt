@@ -1,0 +1,4 @@
+.. court:: Court of Appeal
+   :court-id: ca:on;court.appeal
+   :en: Court of Appeal
+   :url: http://www.tribunaux.qc.ca/c-appel/index-ca.html

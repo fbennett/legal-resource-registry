@@ -1,0 +1,5 @@
+.. reporter:: New Mexico Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: N.M.
+   :edition-abbreviation: N.M.
+   :dates: 1852/01/01-present

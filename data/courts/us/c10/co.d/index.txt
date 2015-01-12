@@ -1,0 +1,2 @@
+.. category:: D. Colorado
+   :category-id: us:c10:co.d

@@ -1,0 +1,3 @@
+.. category:: 龙亭区
+   :category-id: cn:henan:kai.feng.shi:long.ting.qu
+   :en: Longtingqu

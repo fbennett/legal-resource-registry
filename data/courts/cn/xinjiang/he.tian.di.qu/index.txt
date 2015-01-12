@@ -1,0 +1,3 @@
+.. category:: 和田地区
+   :category-id: cn:xinjiang:he.tian.di.qu
+   :en: Hetiandi District

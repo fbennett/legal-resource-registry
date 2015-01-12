@@ -1,0 +1,3 @@
+.. category:: 杨浦区
+   :category-id: cn:shanghai:shang.hai.er:yang.pu.qu
+   :en: Yangpuqu

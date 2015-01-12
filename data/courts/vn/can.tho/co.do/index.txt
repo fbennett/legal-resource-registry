@@ -1,0 +1,3 @@
+.. category:: Cờ Đỏ
+   :category-id: vn:can.tho:co.do
+   :en: Co Do

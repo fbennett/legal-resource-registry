@@ -1,0 +1,3 @@
+.. category:: 龙岩市
+   :category-id: cn:fujian:long.yan.shi
+   :en: Longyan City

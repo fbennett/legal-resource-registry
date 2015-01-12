@@ -1,0 +1,3 @@
+.. category:: 华龙区
+   :category-id: cn:henan:pu.yang.shi:hua.long.qu
+   :en: Hualongqu

@@ -1,0 +1,7 @@
+.. reporter:: Day's Connecticut Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Day
+   :edition-abbreviation: Day
+   :dates: 1802/01/01-1813/12/31
+
+   .. variation:: Day (Conn)

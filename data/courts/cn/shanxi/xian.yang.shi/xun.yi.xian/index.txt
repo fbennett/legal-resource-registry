@@ -1,0 +1,3 @@
+.. category:: 旬邑县
+   :category-id: cn:shanxi:xian.yang.shi:xun.yi.xian
+   :en: Xunyixian

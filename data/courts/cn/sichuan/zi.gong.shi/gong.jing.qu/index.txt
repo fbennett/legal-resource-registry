@@ -1,0 +1,3 @@
+.. category:: 贡井区
+   :category-id: cn:sichuan:zi.gong.shi:gong.jing.qu
+   :en: Gongjingqu

@@ -1,0 +1,20 @@
+.. court:: Supreme Court
+   :court-id: us:ut;supreme.court
+   :url: http://www.utcourts.gov/opinions/supopin/index.htm
+   :flp-key: utah
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: P.
+
+   .. reporter-key:: P.2d
+
+   .. reporter-key:: P.3d
+
+   .. reporter-key:: UT
+
+   .. reporter-key:: Utah
+
+   .. reporter-key:: Utah 2d
+
+   .. reporter-key:: WL

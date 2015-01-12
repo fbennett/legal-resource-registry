@@ -1,0 +1,3 @@
+.. category:: 巴里巴盖垦区
+   :category-id: cn:xinjiang:bing.tuan:di.shi.shi:ba.li.ba.gai.ken.qu
+   :en: Balibagaikenqu

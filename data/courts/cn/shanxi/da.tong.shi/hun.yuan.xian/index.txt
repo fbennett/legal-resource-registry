@@ -1,0 +1,3 @@
+.. category:: 浑源县
+   :category-id: cn:shanxi:da.tong.shi:hun.yuan.xian
+   :en: Hunyuanxian

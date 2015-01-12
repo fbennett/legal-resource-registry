@@ -1,0 +1,3 @@
+.. category:: 秦州区
+   :category-id: cn:gansu:tian.shui:qin.zhou.qu
+   :en: Qinzhouqu

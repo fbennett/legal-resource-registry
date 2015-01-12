@@ -1,0 +1,3 @@
+.. category:: 句容市
+   :category-id: cn:jiangsu:zhen.jiang.shi:ju.rong.shi
+   :en: Jurongshi

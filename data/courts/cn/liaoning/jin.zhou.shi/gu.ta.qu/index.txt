@@ -1,0 +1,3 @@
+.. category:: 古塔区
+   :category-id: cn:liaoning:jin.zhou.shi:gu.ta.qu
+   :en: Gutaqu

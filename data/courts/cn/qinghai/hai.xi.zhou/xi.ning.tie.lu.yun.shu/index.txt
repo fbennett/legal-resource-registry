@@ -1,0 +1,3 @@
+.. category:: 西宁铁路运输
+   :category-id: cn:qinghai:hai.xi.zhou:xi.ning.tie.lu.yun.shu
+   :en: Xiningtieluyunshu

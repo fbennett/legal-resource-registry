@@ -1,0 +1,4 @@
+.. court:: 中院
+   :court-id: cn:neimenggu:e.er.duo.si.shi;zhong.yuan
+   :en: Intermediate Court
+   :url: http://eedszy.chinacourt.org/&usg=ALkJrhjxKa6owTcJd_xSPQ6MxbPnMvBjKw

@@ -1,0 +1,3 @@
+.. category:: Kế Sách
+   :category-id: vn:soc.trang:ke.sach
+   :en: Ke Sach

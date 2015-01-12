@@ -1,0 +1,3 @@
+.. category:: Yên Dũng
+   :category-id: vn:bac.giang:yen.dung
+   :en: Yen Dung

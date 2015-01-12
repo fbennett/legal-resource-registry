@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c6:mi.ed;bankruptcy.court
+   :url: http://www.mnb.uscourts.gov/
+   :flp-key: mnb
+
+   .. reporter-key:: B.R.

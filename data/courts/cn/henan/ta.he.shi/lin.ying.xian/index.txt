@@ -1,0 +1,3 @@
+.. category:: 临颍县
+   :category-id: cn:henan:ta.he.shi:lin.ying.xian
+   :en: Linyingxian

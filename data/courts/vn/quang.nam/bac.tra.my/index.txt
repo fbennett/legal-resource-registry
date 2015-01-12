@@ -1,0 +1,3 @@
+.. category:: Bắc Trà My
+   :category-id: vn:quang.nam:bac.tra.my
+   :en: Bac Tra My

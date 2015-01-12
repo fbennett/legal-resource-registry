@@ -1,0 +1,3 @@
+.. category:: 麦积区
+   :category-id: cn:gansu:tian.shui:mai.ji.qu
+   :en: Maijiqu

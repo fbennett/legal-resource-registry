@@ -1,0 +1,3 @@
+.. category:: 会宁县
+   :category-id: cn:gansu:bai.yin:hui.ning.xian
+   :en: Huiningxian

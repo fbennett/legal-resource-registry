@@ -1,0 +1,3 @@
+.. category:: Bình Gia
+   :category-id: vn:lang.son:binh.gia
+   :en: Binh Gia

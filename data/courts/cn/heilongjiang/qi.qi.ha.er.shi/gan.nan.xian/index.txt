@@ -1,0 +1,3 @@
+.. category:: 甘南县
+   :category-id: cn:heilongjiang:qi.qi.ha.er.shi:gan.nan.xian
+   :en: Gannanxian

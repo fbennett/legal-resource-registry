@@ -1,0 +1,3 @@
+.. category:: 南市区
+   :category-id: cn:hebei:bao.ding.shi:nan.shi.qu
+   :en: Nanshiqu

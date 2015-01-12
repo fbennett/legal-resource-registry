@@ -1,0 +1,3 @@
+.. category:: 涟水县
+   :category-id: cn:jiangsu:huai.an.shi:lian.shui.xian
+   :en: Lianshuixian

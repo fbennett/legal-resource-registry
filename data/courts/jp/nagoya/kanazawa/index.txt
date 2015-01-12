@@ -1,0 +1,3 @@
+.. category:: 金沢
+   :category-id: jp:nagoya:kanazawa
+   :en: Kanazawa

@@ -1,0 +1,3 @@
+.. category:: 诸暨市
+   :category-id: cn:zhejiang:shao.xing.shi:zhu.ji.shi
+   :en: Zhujishi

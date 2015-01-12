@@ -1,0 +1,3 @@
+.. court:: Аймгийн шүүх
+   :court-id: mn:dornogovi;aimgiin.shuukh
+   :en: Aimag Court

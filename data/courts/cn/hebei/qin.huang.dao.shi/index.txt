@@ -1,0 +1,3 @@
+.. category:: 秦皇岛市
+   :category-id: cn:hebei:qin.huang.dao.shi
+   :en: Qinhuangdao City

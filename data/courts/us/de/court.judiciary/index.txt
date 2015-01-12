@@ -1,0 +1,4 @@
+.. court:: Court on the Judiciary
+   :court-id: us:de;court.judiciary
+   :url: http://courts.delaware.gov/
+   :flp-key: deljudct

@@ -1,0 +1,3 @@
+.. category:: Trà Bồng
+   :category-id: vn:quang.ngai:tra.bong
+   :en: Tra Bong

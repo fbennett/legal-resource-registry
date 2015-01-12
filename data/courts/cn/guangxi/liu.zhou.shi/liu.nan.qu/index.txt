@@ -1,0 +1,3 @@
+.. category:: 柳南区
+   :category-id: cn:guangxi:liu.zhou.shi:liu.nan.qu
+   :en: Liunanqu

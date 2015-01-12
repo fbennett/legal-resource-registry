@@ -1,0 +1,3 @@
+.. category:: 卫东区
+   :category-id: cn:henan:ping.ding.shan.shi:wei.dong.qu
+   :en: Weidongqu

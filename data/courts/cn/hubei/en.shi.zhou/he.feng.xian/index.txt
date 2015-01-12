@@ -1,0 +1,3 @@
+.. category:: 鹤峰县
+   :category-id: cn:hubei:en.shi.zhou:he.feng.xian
+   :en: Hefengxian

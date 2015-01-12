@@ -1,0 +1,3 @@
+.. category:: Lai Vung
+   :category-id: vn:dong.thap:lai.vung
+   :en: Lai Vung

@@ -1,0 +1,3 @@
+.. category:: Sơn Tây
+   :category-id: vn:quang.ngai:son.tay
+   :en: Son Tay

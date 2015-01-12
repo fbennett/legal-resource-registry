@@ -1,0 +1,11 @@
+.. reporter:: South Carolina Reports, Richardson
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Rich.
+   :edition-abbreviation: Rich.
+   :dates: 1846/01/01-1868/12/31
+
+   .. variation:: Rich.L.(S.C.)
+
+   .. variation:: Rich.Law(S.C.)
+
+   .. variation:: S.C.L.(Rich.)

@@ -1,0 +1,4 @@
+.. court:: Bankruptcy Appellate Panel
+   :court-id: us:ma;bankruptcy.appellate.panel
+   :url: http://www.uscourts.gov/
+   :flp-key: bapma

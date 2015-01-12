@@ -1,0 +1,16 @@
+.. court:: District Court
+   :court-id: us:c11:ga.nd;district.court
+   :url: http://www.gand.uscourts.gov/
+   :flp-key: gand
+
+   .. reporter-key:: F. Supp.
+
+   .. reporter-key:: F. Supp. 2d
+
+   .. reporter-key:: F.R.D.
+
+   .. reporter-key:: Fed. R. Serv.
+
+   .. reporter-key:: Fed. R. Serv. 2d
+
+   .. reporter-key:: Fed. R. Serv. 3d

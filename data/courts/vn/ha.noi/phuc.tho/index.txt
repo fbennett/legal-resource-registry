@@ -1,0 +1,3 @@
+.. category:: Phúc Thọ
+   :category-id: vn:ha.noi:phuc.tho
+   :en: Phuc Tho

@@ -1,0 +1,3 @@
+.. category:: 林口林区
+   :category-id: cn:heilongjiang:lin.qu:lin.kou.lin.qu
+   :en: Linkoulinqu

@@ -1,0 +1,3 @@
+.. category:: 城东区
+   :category-id: cn:qinghai:xi.ning.shi:cheng.dong.qu
+   :en: Chengdongqu

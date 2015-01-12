@@ -1,0 +1,3 @@
+.. category:: 漾濞县
+   :category-id: cn:yunnan:da.li.zhou:yang.pi.xian
+   :en: Yangpixian

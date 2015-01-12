@@ -1,0 +1,3 @@
+.. category:: 高碑店市
+   :category-id: cn:hebei:bao.ding.shi:gao.bei.dian.shi
+   :en: Gaobeidianshi

@@ -1,0 +1,4 @@
+.. court:: Provincial Court
+   :court-id: ca:bc;provincial.court
+   :en: Provincial Court
+   :url: http://www.manitobacourts.mb.ca/pr/provincial_court.html

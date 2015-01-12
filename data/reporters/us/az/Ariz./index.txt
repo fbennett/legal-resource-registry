@@ -1,0 +1,5 @@
+.. reporter:: Arizona Reporter
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Ariz.
+   :edition-abbreviation: Ariz.
+   :dates: 1866/01/01-present

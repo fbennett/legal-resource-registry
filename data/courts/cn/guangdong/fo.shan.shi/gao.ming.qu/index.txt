@@ -1,0 +1,3 @@
+.. category:: 高明区
+   :category-id: cn:guangdong:fo.shan.shi:gao.ming.qu
+   :en: Gaomingqu

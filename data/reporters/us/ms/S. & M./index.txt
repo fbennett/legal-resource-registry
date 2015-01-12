@@ -1,0 +1,15 @@
+.. reporter:: Mississippi Reports, Smedes and Marshall
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: S. & M.
+   :edition-abbreviation: S. & M.
+   :dates: 1843/01/01-1850/12/31
+
+   .. variation:: Smed.& M.
+
+   .. variation:: Smedes & M.(Miss.)
+
+   .. variation:: Sm.& M.
+
+   .. variation:: Miss.(S.& M.)
+
+   .. variation:: S.& Mar.

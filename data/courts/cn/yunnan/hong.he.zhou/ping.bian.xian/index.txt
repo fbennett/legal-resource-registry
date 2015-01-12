@@ -1,0 +1,3 @@
+.. category:: 屏边县
+   :category-id: cn:yunnan:hong.he.zhou:ping.bian.xian
+   :en: Pingbianxian

@@ -1,0 +1,7 @@
+.. reporter:: Virginia Reports, Randolph
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Rand.
+   :edition-abbreviation: Rand.
+   :dates: 1821/01/01-1828/12/31
+
+   .. variation:: Va.(Rand.)

@@ -1,0 +1,3 @@
+.. category:: 昭通市
+   :category-id: cn:yunnan:zhao.tong.shi
+   :en: Zhaotong City

@@ -1,0 +1,3 @@
+.. category:: Mỹ Đức
+   :category-id: vn:ha.noi:my.duc
+   :en: My Duc

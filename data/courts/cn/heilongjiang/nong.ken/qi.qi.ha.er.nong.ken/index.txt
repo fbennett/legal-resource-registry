@@ -1,0 +1,3 @@
+.. category:: 齐齐哈尔农垦
+   :category-id: cn:heilongjiang:nong.ken:qi.qi.ha.er.nong.ken
+   :en: Qiqihaernongken

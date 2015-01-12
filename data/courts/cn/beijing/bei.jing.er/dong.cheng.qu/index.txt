@@ -1,0 +1,3 @@
+.. category:: 东城区
+   :category-id: cn:beijing:bei.jing.er:dong.cheng.qu
+   :en: Dongchengqu

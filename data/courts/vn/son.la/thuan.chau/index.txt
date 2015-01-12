@@ -1,0 +1,3 @@
+.. category:: Thuận Châu
+   :category-id: vn:son.la:thuan.chau
+   :en: Thuan Chau

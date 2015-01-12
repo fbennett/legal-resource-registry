@@ -1,0 +1,3 @@
+.. category:: 措美县
+   :category-id: cn:xicang:shan.nan:cuo.mei.xian
+   :en: Cuomeixian

@@ -1,0 +1,5 @@
+.. reporter:: Ohio Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Ohio
+   :edition-abbreviation: Ohio
+   :dates: 1821/01/01-1851/12/31

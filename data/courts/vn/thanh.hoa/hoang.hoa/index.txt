@@ -1,0 +1,3 @@
+.. category:: Hoằng Hóa
+   :category-id: vn:thanh.hoa:hoang.hoa
+   :en: Hoang Hoa

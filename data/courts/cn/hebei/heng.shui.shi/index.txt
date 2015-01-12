@@ -1,0 +1,3 @@
+.. category:: 衡水市
+   :category-id: cn:hebei:heng.shui.shi
+   :en: Hengshui City

@@ -1,0 +1,3 @@
+.. category:: Phú Lộc
+   :category-id: vn:thua.thien.hue:phu.loc
+   :en: Phu Loc

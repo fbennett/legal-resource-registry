@@ -1,0 +1,3 @@
+.. category:: 鲤城区
+   :category-id: cn:fujian:quan.zhou.shi:li.cheng.qu
+   :en: Lichengqu

@@ -1,0 +1,3 @@
+.. category:: 宁河县
+   :category-id: cn:tianjin:tian.jin.er:ning.he.xian
+   :en: Ninghexian

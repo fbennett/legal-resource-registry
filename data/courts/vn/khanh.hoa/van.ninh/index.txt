@@ -1,0 +1,3 @@
+.. category:: Vạn Ninh
+   :category-id: vn:khanh.hoa:van.ninh
+   :en: Van Ninh

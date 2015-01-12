@@ -1,0 +1,3 @@
+.. category:: Cẩm Xuyên
+   :category-id: vn:ha.tinh:cam.xuyen
+   :en: Cam Xuyen

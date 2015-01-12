@@ -1,0 +1,3 @@
+.. category:: Tĩnh Gia
+   :category-id: vn:thanh.hoa:tinh.gia
+   :en: Tinh Gia

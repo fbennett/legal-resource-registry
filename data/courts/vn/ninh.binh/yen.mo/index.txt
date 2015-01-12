@@ -1,0 +1,3 @@
+.. category:: Yên Mô
+   :category-id: vn:ninh.binh:yen.mo
+   :en: Yen Mo

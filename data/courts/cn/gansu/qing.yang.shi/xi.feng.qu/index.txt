@@ -1,0 +1,3 @@
+.. category:: 西峰区
+   :category-id: cn:gansu:qing.yang.shi:xi.feng.qu
+   :en: Xifengqu

@@ -1,0 +1,3 @@
+.. category:: 西夏区
+   :category-id: cn:ningxia:yin.chuan.shi:xi.xia.qu
+   :en: Xixiaqu

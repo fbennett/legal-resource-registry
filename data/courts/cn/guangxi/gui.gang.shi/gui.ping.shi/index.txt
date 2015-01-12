@@ -1,0 +1,3 @@
+.. category:: 桂平市
+   :category-id: cn:guangxi:gui.gang.shi:gui.ping.shi
+   :en: Guipingshi

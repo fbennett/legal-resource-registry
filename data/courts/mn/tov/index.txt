@@ -1,0 +1,3 @@
+.. category:: Төв
+   :category-id: mn:tov
+   :en: Töv

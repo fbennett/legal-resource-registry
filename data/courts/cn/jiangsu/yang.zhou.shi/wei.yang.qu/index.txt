@@ -1,0 +1,3 @@
+.. category:: 维扬区
+   :category-id: cn:jiangsu:yang.zhou.shi:wei.yang.qu
+   :en: Weiyangqu

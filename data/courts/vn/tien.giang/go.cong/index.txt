@@ -1,0 +1,3 @@
+.. category:: Gò Công
+   :category-id: vn:tien.giang:go.cong
+   :en: Go Cong

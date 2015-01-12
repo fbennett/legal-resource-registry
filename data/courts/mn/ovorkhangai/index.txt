@@ -1,0 +1,3 @@
+.. category:: Өвөрхангай
+   :category-id: mn:ovorkhangai
+   :en: Övörkhangai

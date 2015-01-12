@@ -1,0 +1,3 @@
+.. category:: 栾城县
+   :category-id: cn:hebei:shi.jia.zhuang.shi:luan.cheng.xian
+   :en: Luanchengxian

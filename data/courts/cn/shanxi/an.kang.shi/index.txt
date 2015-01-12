@@ -1,0 +1,3 @@
+.. category:: 安康市
+   :category-id: cn:shanxi:an.kang.shi
+   :en: Ankang City

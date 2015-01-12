@@ -1,0 +1,3 @@
+.. category:: 梅列区
+   :category-id: cn:fujian:san.ming.shi:mei.lie.qu
+   :en: Meiliequ

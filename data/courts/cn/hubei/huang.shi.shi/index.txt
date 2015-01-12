@@ -1,0 +1,3 @@
+.. category:: 黄石市
+   :category-id: cn:hubei:huang.shi.shi
+   :en: Huangshi City

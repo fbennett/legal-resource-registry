@@ -1,0 +1,3 @@
+.. category:: Thạch Thành
+   :category-id: vn:thanh.hoa:thach.thanh
+   :en: Thach Thanh

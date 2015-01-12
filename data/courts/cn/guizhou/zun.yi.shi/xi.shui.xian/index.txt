@@ -1,0 +1,3 @@
+.. category:: 习水县
+   :category-id: cn:guizhou:zun.yi.shi:xi.shui.xian
+   :en: Xishuixian

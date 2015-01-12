@@ -1,0 +1,3 @@
+.. category:: 新浦区
+   :category-id: cn:jiangsu:lian.yun.gang.shi:xin.pu.qu
+   :en: Xinpuqu

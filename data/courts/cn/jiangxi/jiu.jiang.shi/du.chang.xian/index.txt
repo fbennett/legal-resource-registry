@@ -1,0 +1,3 @@
+.. category:: 都昌县
+   :category-id: cn:jiangxi:jiu.jiang.shi:du.chang.xian
+   :en: Duchangxian

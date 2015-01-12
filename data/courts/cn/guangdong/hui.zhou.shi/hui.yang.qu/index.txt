@@ -1,0 +1,3 @@
+.. category:: 惠阳区
+   :category-id: cn:guangdong:hui.zhou.shi:hui.yang.qu
+   :en: Huiyangqu

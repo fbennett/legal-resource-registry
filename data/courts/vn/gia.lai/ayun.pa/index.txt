@@ -1,0 +1,3 @@
+.. category:: Ayun Pa
+   :category-id: vn:gia.lai:ayun.pa
+   :en: Ayun Pa

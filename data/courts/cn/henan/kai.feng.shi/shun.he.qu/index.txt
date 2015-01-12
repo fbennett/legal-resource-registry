@@ -1,0 +1,3 @@
+.. category:: 顺河区
+   :category-id: cn:henan:kai.feng.shi:shun.he.qu
+   :en: Shunhequ

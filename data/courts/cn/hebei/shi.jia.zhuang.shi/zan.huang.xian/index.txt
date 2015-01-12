@@ -1,0 +1,3 @@
+.. category:: 赞皇县
+   :category-id: cn:hebei:shi.jia.zhuang.shi:zan.huang.xian
+   :en: Zanhuangxian

@@ -1,0 +1,3 @@
+.. category:: 富锦市
+   :category-id: cn:heilongjiang:jia.mu.si.shi:fu.jin.shi
+   :en: Fujinshi

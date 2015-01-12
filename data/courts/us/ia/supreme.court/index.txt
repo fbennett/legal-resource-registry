@@ -1,0 +1,20 @@
+.. court:: Supreme Court
+   :court-id: us:ia;supreme.court
+   :url: http://www.iowacourts.gov/About_the_Courts/Supreme_Court/
+   :flp-key: iowa
+
+   .. reporter-key:: Bradf.
+
+   .. reporter-key:: Greene
+
+   .. reporter-key:: Iowa
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: Morris
+
+   .. reporter-key:: N.W.
+
+   .. reporter-key:: N.W.2d
+
+   .. reporter-key:: WL

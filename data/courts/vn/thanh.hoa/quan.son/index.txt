@@ -1,0 +1,3 @@
+.. category:: Quan Sơn
+   :category-id: vn:thanh.hoa:quan.son
+   :en: Quan Son

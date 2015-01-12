@@ -1,0 +1,5 @@
+.. reporter:: United States Claims Court Reporter
+   :flp-series-cite-type: specialty
+   :flp-common-abbreviation: Cl. Ct.
+   :edition-abbreviation: Cl. Ct.
+   :dates: 1983/01/01-1992/12/31

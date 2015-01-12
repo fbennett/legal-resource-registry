@@ -1,0 +1,3 @@
+.. category:: 开远铁路运输
+   :category-id: cn:yunnan:kun.ming.tie.lu:kai.yuan.tie.lu.yun.shu
+   :en: Kaiyuantieluyunshu

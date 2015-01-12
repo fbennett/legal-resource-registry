@@ -1,0 +1,3 @@
+.. category:: Mỹ Xuyên
+   :category-id: vn:soc.trang:my.xuyen
+   :en: My Xuyen

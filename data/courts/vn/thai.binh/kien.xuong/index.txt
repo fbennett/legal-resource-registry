@@ -1,0 +1,3 @@
+.. category:: Kiến Xương
+   :category-id: vn:thai.binh:kien.xuong
+   :en: Kien Xuong

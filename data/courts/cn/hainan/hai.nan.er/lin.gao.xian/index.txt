@@ -1,0 +1,3 @@
+.. category:: 临高县
+   :category-id: cn:hainan:hai.nan.er:lin.gao.xian
+   :en: Lingaoxian

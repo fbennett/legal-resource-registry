@@ -1,0 +1,3 @@
+.. category:: 江门市
+   :category-id: cn:guangdong:jiang.men.shi
+   :en: Jiangmen City

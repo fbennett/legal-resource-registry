@@ -1,0 +1,3 @@
+.. category:: 彭州市
+   :category-id: cn:sichuan:cheng.du.shi:peng.zhou.shi
+   :en: Pengzhoushi

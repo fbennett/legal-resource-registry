@@ -1,0 +1,3 @@
+.. category:: 中山市
+   :category-id: cn:guangdong:zhong.shan.shi
+   :en: Zhongshan City

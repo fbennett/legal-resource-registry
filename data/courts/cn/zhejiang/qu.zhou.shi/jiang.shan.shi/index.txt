@@ -1,0 +1,3 @@
+.. category:: 江山市
+   :category-id: cn:zhejiang:qu.zhou.shi:jiang.shan.shi
+   :en: Jiangshanshi

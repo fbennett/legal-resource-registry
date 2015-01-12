@@ -1,0 +1,3 @@
+.. category:: 鹿城区
+   :category-id: cn:zhejiang:wen.zhou.shi:lu.cheng.qu
+   :en: Luchengqu

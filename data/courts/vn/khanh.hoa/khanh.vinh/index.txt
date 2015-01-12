@@ -1,0 +1,3 @@
+.. category:: Khánh Vĩnh
+   :category-id: vn:khanh.hoa:khanh.vinh
+   :en: Khanh Vinh

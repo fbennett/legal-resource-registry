@@ -1,0 +1,3 @@
+.. category:: 汉滨区
+   :category-id: cn:shanxi:an.kang.shi:han.bin.qu
+   :en: Hanbinqu

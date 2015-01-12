@@ -1,0 +1,3 @@
+.. court:: 法院
+   :court-id: cn:hebei:cheng.de.shi:ying.shou.ying.zi.kuang.qu;fa.yuan
+   :en: District Court

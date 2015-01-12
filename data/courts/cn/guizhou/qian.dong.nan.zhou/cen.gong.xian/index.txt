@@ -1,0 +1,3 @@
+.. category:: 岑巩县
+   :category-id: cn:guizhou:qian.dong.nan.zhou:cen.gong.xian
+   :en: Cengongxian

@@ -1,0 +1,3 @@
+.. category:: 邯山区
+   :category-id: cn:hebei:han.dan.shi:han.shan.qu
+   :en: Hanshanqu

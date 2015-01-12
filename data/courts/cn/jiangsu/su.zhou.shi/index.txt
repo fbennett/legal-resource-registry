@@ -1,0 +1,3 @@
+.. category:: 苏州市
+   :category-id: cn:jiangsu:su.zhou.shi
+   :en: Suzhou City

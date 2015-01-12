@@ -1,0 +1,3 @@
+.. category:: 泰来县
+   :category-id: cn:heilongjiang:qi.qi.ha.er.shi:tai.lai.xian
+   :en: Tailaixian

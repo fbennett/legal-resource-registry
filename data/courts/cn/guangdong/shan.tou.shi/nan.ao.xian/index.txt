@@ -1,0 +1,3 @@
+.. category:: 南澳县
+   :category-id: cn:guangdong:shan.tou.shi:nan.ao.xian
+   :en: Nanaoxian

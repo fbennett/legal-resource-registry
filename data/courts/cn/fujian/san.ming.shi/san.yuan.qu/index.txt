@@ -1,0 +1,3 @@
+.. category:: 三元区
+   :category-id: cn:fujian:san.ming.shi:san.yuan.qu
+   :en: Sanyuanqu

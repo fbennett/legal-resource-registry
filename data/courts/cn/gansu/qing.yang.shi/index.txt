@@ -1,0 +1,3 @@
+.. category:: 庆阳市
+   :category-id: cn:gansu:qing.yang.shi
+   :en: Qingyang City

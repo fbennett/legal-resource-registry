@@ -1,0 +1,3 @@
+.. category:: 龙江县人民
+   :category-id: cn:heilongjiang:qi.qi.ha.er.shi:long.jiang.xian.ren.min
+   :en: Longjiangxianrenmin

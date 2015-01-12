@@ -1,0 +1,4 @@
+.. court:: 中院
+   :court-id: cn:guangxi:liu.zhou.shi;zhong.yuan
+   :en: Intermediate Court
+   :url: http://lzzy.chinacourt.org/&usg=ALkJrhi3GEvWtQXkjzs8UNFt9yyFjOnuTA

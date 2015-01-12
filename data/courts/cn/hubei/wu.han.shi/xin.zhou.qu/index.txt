@@ -1,0 +1,3 @@
+.. category:: 新洲区
+   :category-id: cn:hubei:wu.han.shi:xin.zhou.qu
+   :en: Xinzhouqu

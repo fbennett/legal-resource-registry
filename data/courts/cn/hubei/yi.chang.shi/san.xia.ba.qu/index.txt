@@ -1,0 +1,3 @@
+.. category:: 三峡坝区
+   :category-id: cn:hubei:yi.chang.shi:san.xia.ba.qu
+   :en: Sanxiabaqu

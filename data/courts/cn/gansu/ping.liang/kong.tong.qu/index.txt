@@ -1,0 +1,3 @@
+.. category:: 崆峒区
+   :category-id: cn:gansu:ping.liang:kong.tong.qu
+   :en: Kongtongqu

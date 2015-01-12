@@ -1,0 +1,3 @@
+.. category:: 高知
+   :category-id: jp:takamatsu:kochi
+   :en: Kochi

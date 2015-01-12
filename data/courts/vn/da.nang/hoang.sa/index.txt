@@ -1,0 +1,3 @@
+.. category:: Hoàng Sa
+   :category-id: vn:da.nang:hoang.sa
+   :en: Hoang Sa

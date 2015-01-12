@@ -1,0 +1,3 @@
+.. category:: Mang Yang
+   :category-id: vn:gia.lai:mang.yang
+   :en: Mang Yang

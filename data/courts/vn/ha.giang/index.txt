@@ -1,0 +1,3 @@
+.. category:: Hà Giang
+   :category-id: vn:ha.giang
+   :en: Ha Giang

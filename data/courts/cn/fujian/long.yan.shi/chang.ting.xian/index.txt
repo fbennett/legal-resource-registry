@@ -1,0 +1,3 @@
+.. category:: 长汀县
+   :category-id: cn:fujian:long.yan.shi:chang.ting.xian
+   :en: Changtingxian

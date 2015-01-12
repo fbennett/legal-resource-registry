@@ -1,0 +1,3 @@
+.. category:: Bát Xát
+   :category-id: vn:lao.cai:bat.xat
+   :en: Bat Xat

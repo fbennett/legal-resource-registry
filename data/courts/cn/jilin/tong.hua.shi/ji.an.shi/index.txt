@@ -1,0 +1,3 @@
+.. category:: 集安市
+   :category-id: cn:jilin:tong.hua.shi:ji.an.shi
+   :en: Jianshi

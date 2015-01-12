@@ -1,0 +1,3 @@
+.. category:: Quảng Bình
+   :category-id: vn:ha.giang:quang.binh
+   :en: Quang Binh

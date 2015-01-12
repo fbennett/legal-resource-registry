@@ -1,0 +1,8 @@
+fukuoka 福岡
+hiroshima 広島
+nagoya 名古屋
+osaka 大阪
+sapporo 札幌
+sendai 仙台
+takamatsu 高松
+tokyo 東京

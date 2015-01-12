@@ -1,0 +1,3 @@
+.. category:: 简阳市
+   :category-id: cn:sichuan:zi.yang.shi:jian.yang.shi
+   :en: Jianyangshi

@@ -1,0 +1,3 @@
+.. category:: 凯里市
+   :category-id: cn:guizhou:qian.dong.nan.zhou:kai.li.shi
+   :en: Kailishi

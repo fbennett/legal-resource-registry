@@ -1,0 +1,3 @@
+.. category:: 连江县
+   :category-id: cn:fujian:fu.zhou.shi:lian.jiang.xian
+   :en: Lianjiangxian

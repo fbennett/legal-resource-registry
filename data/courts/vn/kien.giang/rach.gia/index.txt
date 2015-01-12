@@ -1,0 +1,3 @@
+.. category:: Rạch Giá
+   :category-id: vn:kien.giang:rach.gia
+   :en: Rach Gia

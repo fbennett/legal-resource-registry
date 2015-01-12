@@ -1,0 +1,3 @@
+.. category:: 杭锦旗
+   :category-id: cn:neimenggu:e.er.duo.si.shi:hang.jin.qi
+   :en: Hangjinqi

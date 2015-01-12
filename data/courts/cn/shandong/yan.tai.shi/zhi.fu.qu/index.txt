@@ -1,0 +1,3 @@
+.. category:: 芝罘区
+   :category-id: cn:shandong:yan.tai.shi:zhi.fu.qu
+   :en: Zhifuqu

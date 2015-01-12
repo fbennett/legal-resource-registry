@@ -1,0 +1,3 @@
+.. category:: 乐山市
+   :category-id: cn:sichuan:le.shan.shi
+   :en: Leshan City

@@ -1,0 +1,3 @@
+.. category:: 冷水江市
+   :category-id: cn:hunan:lou.di.shi:leng.shui.jiang.shi
+   :en: Lengshuijiangshi

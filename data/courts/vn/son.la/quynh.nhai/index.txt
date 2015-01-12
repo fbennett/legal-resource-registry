@@ -1,0 +1,3 @@
+.. category:: Quỳnh Nhai
+   :category-id: vn:son.la:quynh.nhai
+   :en: Quynh Nhai

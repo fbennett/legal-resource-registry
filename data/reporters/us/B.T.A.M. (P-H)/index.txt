@@ -1,0 +1,5 @@
+.. reporter:: Board of Tax Appeals Memorandum Decisions
+   :flp-series-cite-type: specialty
+   :flp-common-abbreviation: B.T.A.M. (P-H)
+   :edition-abbreviation: B.T.A.M. (P-H)
+   :dates: 1928/01/01-1942/12/31

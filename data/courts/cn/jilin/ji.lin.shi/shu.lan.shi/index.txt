@@ -1,0 +1,3 @@
+.. category:: 舒兰市
+   :category-id: cn:jilin:ji.lin.shi:shu.lan.shi
+   :en: Shulanshi

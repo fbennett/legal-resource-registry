@@ -1,0 +1,3 @@
+.. category:: Bình Xuyên
+   :category-id: vn:vinh.phuc:binh.xuyen
+   :en: Binh Xuyen

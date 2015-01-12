@@ -1,0 +1,3 @@
+.. category:: 景宁县
+   :category-id: cn:zhejiang:li.shui.shi:jing.ning.xian
+   :en: Jingningxian

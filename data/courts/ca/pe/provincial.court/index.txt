@@ -1,0 +1,4 @@
+.. court:: Provincial Court
+   :court-id: ca:pe;provincial.court
+   :en: Provincial Court
+   :url: http://www.tribunaux.qc.ca/mjq_en/c-quebec/index-cq.html

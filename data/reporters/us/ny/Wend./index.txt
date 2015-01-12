@@ -1,0 +1,11 @@
+.. reporter:: Wendell's Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Wend.
+   :edition-abbreviation: Wend.
+   :dates: 1828/01/01-1841/12/31
+
+   .. variation:: Wendell
+
+   .. variation:: W.
+
+   .. variation:: Wend.(N.Y.)

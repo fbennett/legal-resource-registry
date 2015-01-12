@@ -1,0 +1,3 @@
+.. category:: 宁南县
+   :category-id: cn:sichuan:liang.shan.zhou:ning.nan.xian
+   :en: Ningnanxian

@@ -1,0 +1,3 @@
+.. category:: 原州区
+   :category-id: cn:ningxia:gu.yuan.shi:yuan.zhou.qu
+   :en: Yuanzhouqu

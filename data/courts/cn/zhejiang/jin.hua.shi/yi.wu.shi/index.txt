@@ -1,0 +1,3 @@
+.. category:: 义乌市
+   :category-id: cn:zhejiang:jin.hua.shi:yi.wu.shi
+   :en: Yiwushi

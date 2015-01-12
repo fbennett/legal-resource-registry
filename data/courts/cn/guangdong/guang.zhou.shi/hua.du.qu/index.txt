@@ -1,0 +1,3 @@
+.. category:: 花都区
+   :category-id: cn:guangdong:guang.zhou.shi:hua.du.qu
+   :en: Huaduqu

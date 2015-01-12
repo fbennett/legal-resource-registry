@@ -1,0 +1,3 @@
+.. category:: Khánh Sơn
+   :category-id: vn:khanh.hoa:khanh.son
+   :en: Khanh Son

@@ -1,0 +1,3 @@
+.. category:: 达坂城区
+   :category-id: cn:xinjiang:wu.lu.mu.qi.shi:da.ban.cheng.qu
+   :en: Dabanchengqu

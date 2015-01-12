@@ -1,0 +1,3 @@
+.. category:: Mường Chà
+   :category-id: vn:dien.bien:muong.cha
+   :en: Muong Cha

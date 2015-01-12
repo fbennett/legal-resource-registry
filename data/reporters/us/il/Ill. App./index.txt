@@ -1,0 +1,7 @@
+.. reporter:: Illinois Appellate Court Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Ill. App.
+   :edition-abbreviation: Ill. App.
+   :dates: 1877/01/01-present
+
+   .. variation:: Ill.A.

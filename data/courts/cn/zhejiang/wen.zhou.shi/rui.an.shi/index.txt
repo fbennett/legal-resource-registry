@@ -1,0 +1,3 @@
+.. category:: 瑞安市
+   :category-id: cn:zhejiang:wen.zhou.shi:rui.an.shi
+   :en: Ruianshi

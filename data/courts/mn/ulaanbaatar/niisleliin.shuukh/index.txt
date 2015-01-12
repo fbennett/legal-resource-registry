@@ -1,0 +1,3 @@
+.. court:: Niisleliin Shuukh
+   :court-id: mn:ulaanbaatar;niisleliin.shuukh
+

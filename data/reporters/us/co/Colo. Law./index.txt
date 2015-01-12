@@ -1,0 +1,7 @@
+.. reporter:: Colorado Lawyer
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Colo. Law.
+   :edition-abbreviation: Colo. Law.
+   :dates: 1750/01/01-present
+
+   .. variation:: Colorado Law.

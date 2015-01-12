@@ -1,0 +1,3 @@
+.. category:: 函館
+   :category-id: jp:sapporo:hakodate
+   :en: Hakodate

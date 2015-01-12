@@ -1,0 +1,3 @@
+.. category:: 西城区
+   :category-id: cn:beijing:bei.jing.er:xi.cheng.qu
+   :en: Xichengqu

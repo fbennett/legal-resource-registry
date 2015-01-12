@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c7:il.sd;bankruptcy.court
+   :url: http://www.ilsb.uscourts.gov/
+   :flp-key: ilsb
+
+   .. reporter-key:: B.R.

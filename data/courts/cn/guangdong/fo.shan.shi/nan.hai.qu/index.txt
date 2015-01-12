@@ -1,0 +1,3 @@
+.. category:: 南海区
+   :category-id: cn:guangdong:fo.shan.shi:nan.hai.qu
+   :en: Nanhaiqu

@@ -1,0 +1,3 @@
+.. category:: 南川区
+   :category-id: cn:zhongqing:zhong.qing.san:nan.chuan.qu
+   :en: Nanchuanqu

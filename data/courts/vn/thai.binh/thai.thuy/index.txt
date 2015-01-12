@@ -1,0 +1,3 @@
+.. category:: Thái Thụy
+   :category-id: vn:thai.binh:thai.thuy
+   :en: Thai Thuy

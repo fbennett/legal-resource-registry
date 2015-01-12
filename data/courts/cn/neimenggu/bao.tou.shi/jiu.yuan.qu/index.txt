@@ -1,0 +1,3 @@
+.. category:: 九原区
+   :category-id: cn:neimenggu:bao.tou.shi:jiu.yuan.qu
+   :en: Jiuyuanqu

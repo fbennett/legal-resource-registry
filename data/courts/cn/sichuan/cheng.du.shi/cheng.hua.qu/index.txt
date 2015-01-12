@@ -1,0 +1,3 @@
+.. category:: 成华区
+   :category-id: cn:sichuan:cheng.du.shi:cheng.hua.qu
+   :en: Chenghuaqu

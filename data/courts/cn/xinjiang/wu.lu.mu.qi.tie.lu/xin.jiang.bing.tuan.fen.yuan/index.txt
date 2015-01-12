@@ -1,0 +1,4 @@
+.. court:: 新疆兵团分院
+   :court-id: cn:xinjiang:wu.lu.mu.qi.tie.lu;xin.jiang.bing.tuan.fen.yuan
+   :en: Xinjiangbingtuan Branch Court
+   :url: http://xjbtfy.chinacourt.org/&usg=ALkJrhgJLgMx4AdxeNzHvs0Mw-7mie-g7g

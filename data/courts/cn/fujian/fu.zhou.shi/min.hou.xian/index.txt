@@ -1,0 +1,3 @@
+.. category:: 闽侯县
+   :category-id: cn:fujian:fu.zhou.shi:min.hou.xian
+   :en: Minhouxian

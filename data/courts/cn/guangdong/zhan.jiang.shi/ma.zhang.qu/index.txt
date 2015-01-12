@@ -1,0 +1,3 @@
+.. category:: 麻章区
+   :category-id: cn:guangdong:zhan.jiang.shi:ma.zhang.qu
+   :en: Mazhangqu

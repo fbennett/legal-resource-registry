@@ -1,0 +1,3 @@
+.. category:: Lạng Sơn
+   :category-id: vn:lang.son:lang.son
+   :en: Lang Son

@@ -1,0 +1,3 @@
+.. category:: 颍州区
+   :category-id: cn:anhui:fu.yang.shi:ying.zhou.qu
+   :en: Yingzhouqu

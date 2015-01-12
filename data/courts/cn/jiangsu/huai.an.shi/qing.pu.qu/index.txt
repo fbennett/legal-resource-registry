@@ -1,0 +1,3 @@
+.. category:: 清浦区
+   :category-id: cn:jiangsu:huai.an.shi:qing.pu.qu
+   :en: Qingpuqu

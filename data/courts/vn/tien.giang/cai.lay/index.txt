@@ -1,0 +1,3 @@
+.. category:: Cai Lậy
+   :category-id: vn:tien.giang:cai.lay
+   :en: Cai Lay

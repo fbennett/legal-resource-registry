@@ -1,0 +1,3 @@
+.. category:: 黄州区
+   :category-id: cn:hubei:huang.gang.shi:huang.zhou.qu
+   :en: Huangzhouqu

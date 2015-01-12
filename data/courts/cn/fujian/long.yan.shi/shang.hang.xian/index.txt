@@ -1,0 +1,3 @@
+.. category:: 上杭县
+   :category-id: cn:fujian:long.yan.shi:shang.hang.xian
+   :en: Shanghangxian

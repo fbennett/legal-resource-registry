@@ -1,0 +1,3 @@
+.. category:: Vị Xuyên
+   :category-id: vn:ha.giang:vi.xuyen
+   :en: Vi Xuyen

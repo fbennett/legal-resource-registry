@@ -1,0 +1,3 @@
+.. court:: 法院
+   :court-id: cn:jiangxi:xin.yu.shi:fen.yi.xian;fa.yuan
+   :en: District Court

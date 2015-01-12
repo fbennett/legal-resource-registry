@@ -1,0 +1,3 @@
+.. category:: Bảo Lộc
+   :category-id: vn:lam.dong:bao.loc
+   :en: Bao Loc

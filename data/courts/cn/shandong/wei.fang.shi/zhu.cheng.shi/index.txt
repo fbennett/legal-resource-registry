@@ -1,0 +1,3 @@
+.. category:: 诸城市
+   :category-id: cn:shandong:wei.fang.shi:zhu.cheng.shi
+   :en: Zhuchengshi

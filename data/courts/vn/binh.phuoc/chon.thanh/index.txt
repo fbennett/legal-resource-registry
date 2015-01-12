@@ -1,0 +1,3 @@
+.. category:: Chơn Thành
+   :category-id: vn:binh.phuoc:chon.thanh
+   :en: Chon Thanh

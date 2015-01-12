@@ -1,0 +1,3 @@
+.. category:: 长垣县
+   :category-id: cn:henan:xin.xiang.shi:chang.yuan.xian
+   :en: Changyuanxian

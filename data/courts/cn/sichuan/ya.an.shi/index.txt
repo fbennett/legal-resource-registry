@@ -1,0 +1,3 @@
+.. category:: 雅安市
+   :category-id: cn:sichuan:ya.an.shi
+   :en: Yaan City

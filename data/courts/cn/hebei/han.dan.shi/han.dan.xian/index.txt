@@ -1,0 +1,3 @@
+.. category:: 邯郸县
+   :category-id: cn:hebei:han.dan.shi:han.dan.xian
+   :en: Handanxian

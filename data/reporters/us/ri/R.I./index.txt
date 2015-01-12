@@ -1,0 +1,5 @@
+.. reporter:: Rhode Island Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: R.I.
+   :edition-abbreviation: R.I.
+   :dates: 1828/01/01-1980/12/31

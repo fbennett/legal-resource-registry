@@ -1,0 +1,3 @@
+.. category:: Cư Jút
+   :category-id: vn:dak.nong:cu.jut
+   :en: Cu Jut

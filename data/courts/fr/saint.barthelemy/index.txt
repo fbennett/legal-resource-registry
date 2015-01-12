@@ -1,0 +1,3 @@
+.. category:: Saint Barthélemy
+   :category-id: fr:saint.barthelemy
+

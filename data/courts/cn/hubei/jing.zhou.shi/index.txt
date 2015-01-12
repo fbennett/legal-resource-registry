@@ -1,0 +1,3 @@
+.. category:: 荆州市
+   :category-id: cn:hubei:jing.zhou.shi
+   :en: Jingzhou City

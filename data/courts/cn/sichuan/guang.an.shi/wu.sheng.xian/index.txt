@@ -1,0 +1,3 @@
+.. category:: 武胜县
+   :category-id: cn:sichuan:guang.an.shi:wu.sheng.xian
+   :en: Wushengxian

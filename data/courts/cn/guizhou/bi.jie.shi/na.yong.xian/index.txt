@@ -1,0 +1,3 @@
+.. category:: 纳雍县
+   :category-id: cn:guizhou:bi.jie.shi:na.yong.xian
+   :en: Nayongxian

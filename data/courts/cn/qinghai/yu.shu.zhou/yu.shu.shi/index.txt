@@ -1,0 +1,3 @@
+.. category:: 玉树市
+   :category-id: cn:qinghai:yu.shu.zhou:yu.shu.shi
+   :en: Yushushi

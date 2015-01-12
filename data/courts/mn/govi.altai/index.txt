@@ -1,0 +1,3 @@
+.. category:: Говь-Алтай
+   :category-id: mn:govi.altai
+   :en: Govi-Altai

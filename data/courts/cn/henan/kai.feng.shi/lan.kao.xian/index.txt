@@ -1,0 +1,3 @@
+.. category:: 兰考县
+   :category-id: cn:henan:kai.feng.shi:lan.kao.xian
+   :en: Lankaoxian

@@ -1,0 +1,3 @@
+.. category:: 木里县
+   :category-id: cn:sichuan:liang.shan.zhou:mu.li.xian
+   :en: Mulixian

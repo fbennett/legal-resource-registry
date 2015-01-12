@@ -1,0 +1,3 @@
+.. category:: 紫阳县
+   :category-id: cn:shanxi:an.kang.shi:zi.yang.xian
+   :en: Ziyangxian

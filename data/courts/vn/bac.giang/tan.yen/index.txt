@@ -1,0 +1,3 @@
+.. category:: Tân Yên
+   :category-id: vn:bac.giang:tan.yen
+   :en: Tan Yen

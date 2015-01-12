@@ -1,0 +1,3 @@
+.. category:: 兴和县
+   :category-id: cn:neimenggu:wu.lan.cha.bu.shi:xing.he.xian
+   :en: Xinghexian

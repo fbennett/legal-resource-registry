@@ -1,0 +1,3 @@
+.. category:: 井冈山市
+   :category-id: cn:jiangxi:ji.an.shi:jing.gang.shan.shi
+   :en: Jinggangshanshi

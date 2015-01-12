@@ -1,0 +1,3 @@
+.. category:: 虎丘区
+   :category-id: cn:jiangsu:su.zhou.shi:hu.qiu.qu
+   :en: Huqiuqu

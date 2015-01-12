@@ -1,0 +1,1438 @@
+{
+  "afcca": [
+    "us;federal;special;air.force.court.criminal.appeals", 
+    "Air Force Court of Criminal Appeals"
+  ], 
+  "akb": [
+    "us;federal;district;ak.d;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "akd": [
+    "us;federal;district;ak.d;district.court", 
+    "District Court"
+  ], 
+  "ala": [
+    "us;state;al;supreme.court", 
+    "Supreme Court"
+  ], 
+  "alacivapp": [
+    "us;state;al;court.civil.appeals", 
+    "Court of Civil Appeals"
+  ], 
+  "alacrimapp": [
+    "us;state;al;court.criminal.appeals", 
+    "Court of Criminal Appeals"
+  ], 
+  "alactapp": [
+    "us;state;al;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "alaska": [
+    "us;state;ak;supreme.court", 
+    "Supreme Court"
+  ], 
+  "alaskactapp": [
+    "us;state;ak;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "almb": [
+    "us;federal;district;al.md;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "almd": [
+    "us;federal;district;al.md;district.court", 
+    "District Court"
+  ], 
+  "alnb": [
+    "us;federal;district;al.nd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "alnd": [
+    "us;federal;district;al.nd;district.court", 
+    "District Court"
+  ], 
+  "alsb": [
+    "us;federal;district;al.sd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "alsd": [
+    "us;federal;district;al.sd;district.court", 
+    "District Court"
+  ], 
+  "arb": [
+    "us;federal;district;az.d;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "areb": [
+    "us;federal;district;ar.ed;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "ared": [
+    "us;federal;district;ar.ed;district.court", 
+    "District Court"
+  ], 
+  "ariz": [
+    "us;state;az;supreme.court", 
+    "Supreme Court"
+  ], 
+  "arizctapp": [
+    "us;state;az;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "ariztaxct": [
+    "us;state;az;tax.court", 
+    "Tax Court"
+  ], 
+  "ark": [
+    "us;state;ar;supreme.court", 
+    "Supreme Court"
+  ], 
+  "arkctapp": [
+    "us;state;ar;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "armfor": [
+    "us;federal;special;court.appeals.armed.forces", 
+    "Court of Appeals for the Armed Forces"
+  ], 
+  "arwb": [
+    "us;federal;district;ar.wd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "arwd": [
+    "us;federal;district;ar.wd;district.court", 
+    "District Court"
+  ], 
+  "asbca": [
+    "us;federal;special;armed.services.board.contract.appeals", 
+    "Armed Services Board of Contract Appeals"
+  ], 
+  "azd": [
+    "us;federal;district;az.d;district.court", 
+    "District Court"
+  ], 
+  "bap1": [
+    "us;federal;c1;bankruptcy.appellate.panel", 
+    "Bankruptcy Appellate Panel"
+  ], 
+  "bap10": [
+    "us;federal;c10;bankruptcy.appellate.panel", 
+    "Bankruptcy Appellate Panel"
+  ], 
+  "bap2": [
+    "us;federal;c2;bankruptcy.appellate.panel", 
+    "Bankruptcy Appellate Panel"
+  ], 
+  "bap6": [
+    "us;federal;c6;bankruptcy.appellate.panel", 
+    "Bankruptcy Appellate Panel"
+  ], 
+  "bap8": [
+    "us;federal;c8;bankruptcy.appellate.panel", 
+    "Bankruptcy Appellate Panel"
+  ], 
+  "bap9": [
+    "us;federal;c9;bankruptcy.appellate.panel", 
+    "Bankruptcy Appellate Panel"
+  ], 
+  "bapma": [
+    "us;state;ma;bankruptcy.appellate.panel", 
+    "Bankruptcy Appellate Panel"
+  ], 
+  "bva": [
+    "us;federal;special;board.veterans.appeals", 
+    "Board of Veterans' Appeals"
+  ], 
+  "ca1": [
+    "us;federal;c1;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "ca10": [
+    "us;federal;c10;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "ca11": [
+    "us;federal;c11;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "ca2": [
+    "us;federal;c2;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "ca3": [
+    "us;federal;c3;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "ca4": [
+    "us;federal;c4;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "ca5": [
+    "us;federal;c5;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "ca6": [
+    "us;federal;c6;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "ca7": [
+    "us;federal;c7;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "ca8": [
+    "us;federal;c8;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "ca9": [
+    "us;federal;c9;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "cacb": [
+    "us;federal;district;ca.cd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "cacd": [
+    "us;federal;district;ca.cd;district.court", 
+    "District Court"
+  ], 
+  "cadc": [
+    "us;federal;special;court.appeals.dc.circuit", 
+    "Court of Appeals for the D.C. Circuit"
+  ], 
+  "caeb": [
+    "us;federal;district;ca.ed;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "caed": [
+    "us;federal;district;ca.ed;district.court", 
+    "District Court"
+  ], 
+  "cafc": [
+    "us;federal;special;court.appeals.federal.circuit", 
+    "Court of Appeals for the Federal Circuit"
+  ], 
+  "cal": [
+    "us;state;ca;supreme.court", 
+    "Supreme Court"
+  ], 
+  "calctapp": [
+    "us;state;ca;court.appeal", 
+    "Court of Appeal"
+  ], 
+  "californiad": [
+    "us;federal;district;ca.d;district.court", 
+    "District Court"
+  ], 
+  "canalzoned": [
+    "us;federal;district;pz.d;district.court", 
+    "District Court"
+  ], 
+  "canb": [
+    "us;federal;district;ca.nd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "cand": [
+    "us;federal;district;ca.nd;district.court", 
+    "District Court"
+  ], 
+  "casb": [
+    "us;federal;district;ca.sd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "casd": [
+    "us;federal;district;ca.sd;district.court", 
+    "District Court"
+  ], 
+  "cavc": [
+    "us;federal;special;court.appeals.veterans.claims", 
+    "Court of Appeals for Veterans Claims"
+  ], 
+  "cc": [
+    "us;federal;special;court.claims", 
+    "Court of Claims"
+  ], 
+  "ccpa": [
+    "us;federal;special;court.customs.patent.appeals", 
+    "Court of Customs and Patent Appeals"
+  ], 
+  "cit": [
+    "us;federal;special;court.international.trade", 
+    "Court of International Trade"
+  ], 
+  "cjdpa": [
+    "us;state;pa;court.judicial.discipline", 
+    "Court of Judicial Discipline"
+  ], 
+  "cob": [
+    "us;federal;district;co.d;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "cod": [
+    "us;federal;district;co.d;district.court", 
+    "District Court"
+  ], 
+  "colo": [
+    "us;state;co;supreme.court", 
+    "Supreme Court"
+  ], 
+  "coloctapp": [
+    "us;state;co;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "com": [
+    "us;federal;special;commerce.court", 
+    "Commerce Court"
+  ], 
+  "conn": [
+    "us;state;ct;supreme.court", 
+    "Supreme Court"
+  ], 
+  "connappct": [
+    "us;state;ct;appellate.court", 
+    "Appellate Court"
+  ], 
+  "connsuperct": [
+    "us;state;ct;superior.court", 
+    "Superior Court"
+  ], 
+  "ctb": [
+    "us;federal;district;ct.d;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "ctd": [
+    "us;federal;district;ct.d;district.court", 
+    "District Court"
+  ], 
+  "cusc": [
+    "us;federal;special;customs.court", 
+    "Customs Court"
+  ], 
+  "dc": [
+    "us;federal;district.columbia;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "dcb": [
+    "us;federal;district;dc.d;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "dcd": [
+    "us;federal;district;dc.d;district.court", 
+    "District Court"
+  ], 
+  "deb": [
+    "us;federal;district;de.d;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "ded": [
+    "us;federal;district;de.d;district.court", 
+    "District Court"
+  ], 
+  "del": [
+    "us;state;de;supreme.court", 
+    "Supreme Court"
+  ], 
+  "delch": [
+    "us;state;de;court.chancery", 
+    "Court of Chancery"
+  ], 
+  "delctcompl": [
+    "us;state;de;court.common.pleas", 
+    "Court of Common Pleas"
+  ], 
+  "delfamct": [
+    "us;state;de;family.court", 
+    "Family Court"
+  ], 
+  "deljudct": [
+    "us;state;de;court.judiciary", 
+    "Court on the Judiciary"
+  ], 
+  "delsuperct": [
+    "us;state;de;superior.court", 
+    "Superior Court"
+  ], 
+  "eca": [
+    "us;federal;special;emergency.court.appeals", 
+    "Emergency Court of Appeals"
+  ], 
+  "fisc": [
+    "us;federal;special;foreign.intelligence.surveillance.court", 
+    "Foreign Intelligence Surveillance Court"
+  ], 
+  "fiscr": [
+    "us;federal;special;foreign.intelligence.surveillance.court.review", 
+    "Foreign Intelligence Surveillance Court of Review"
+  ], 
+  "fla": [
+    "us;state;fl;supreme.court", 
+    "Supreme Court"
+  ], 
+  "fladistctapp": [
+    "us;state;fl;district.court.appeal", 
+    "District Court of Appeal"
+  ], 
+  "flmb": [
+    "us;federal;district;fl.md;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "flmd": [
+    "us;federal;district;fl.md;district.court", 
+    "District Court"
+  ], 
+  "flnb": [
+    "us;federal;district;fl.nd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "flnd": [
+    "us;federal;district;fl.nd;district.court", 
+    "District Court"
+  ], 
+  "flsb": [
+    "us;federal;district;fl.sd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "flsd": [
+    "us;federal;district;fl.sd;district.court", 
+    "District Court"
+  ], 
+  "ga": [
+    "us;state;ga;supreme.court", 
+    "Supreme Court"
+  ], 
+  "gactapp": [
+    "us;state;ga;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "gamb": [
+    "us;federal;district;ga.md;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "gamd": [
+    "us;federal;district;ga.md;district.court", 
+    "District Court"
+  ], 
+  "ganb": [
+    "us;federal;district;ga.nd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "gand": [
+    "us;federal;district;ga.nd;district.court", 
+    "District Court"
+  ], 
+  "gasb": [
+    "us;federal;district;ga.sd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "gasd": [
+    "us;federal;district;ga.sd;district.court", 
+    "District Court"
+  ], 
+  "gub": [
+    "us;federal;district;gu.d;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "gud": [
+    "us;federal;district;gu.d;district.court", 
+    "District Court"
+  ], 
+  "haw": [
+    "us;state;hi;supreme.court", 
+    "Supreme Court"
+  ], 
+  "hawapp": [
+    "us;state;hi;intermediate.court.appeals", 
+    "Intermediate Court of Appeals"
+  ], 
+  "hib": [
+    "us;federal;district;hi.d;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "hid": [
+    "us;federal;district;hi.d;district.court", 
+    "District Court"
+  ], 
+  "ianb": [
+    "us;federal;district;ia.nd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "iand": [
+    "us;federal;district;ia.nd;district.court", 
+    "District Court"
+  ], 
+  "iasb": [
+    "us;federal;district;ia.sd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "iasd": [
+    "us;federal;district;ia.sd;district.court", 
+    "District Court"
+  ], 
+  "idaho": [
+    "us;state;id;supreme.court", 
+    "Supreme Court"
+  ], 
+  "idahoctapp": [
+    "us;state;id;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "idb": [
+    "us;federal;district;id.d;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "idd": [
+    "us;federal;district;id.d;district.court", 
+    "District Court"
+  ], 
+  "ilcb": [
+    "us;federal;district;il.cd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "ilcd": [
+    "us;federal;district;il.cd;district.court", 
+    "District Court"
+  ], 
+  "ill": [
+    "us;state;il;supreme.court", 
+    "Supreme Court"
+  ], 
+  "illappct": [
+    "us;state;il;appellate.court", 
+    "Appellate Court"
+  ], 
+  "illinoisd": [
+    "us;federal;district;il.d;district.court", 
+    "District Court"
+  ], 
+  "illinoised": [
+    "us;federal;district;il.ed;district.court", 
+    "District Court"
+  ], 
+  "ilnb": [
+    "us;federal;district;il.nd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "ilnd": [
+    "us;federal;district;il.nd;district.court", 
+    "District Court"
+  ], 
+  "ilsb": [
+    "us;federal;district;il.sd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "ilsd": [
+    "us;federal;district;il.sd;district.court", 
+    "District Court"
+  ], 
+  "ind": [
+    "us;state;in;supreme.court", 
+    "Supreme Court"
+  ], 
+  "indctapp": [
+    "us;state;in;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "indianad": [
+    "us;federal;district;in.d;district.court", 
+    "District Court"
+  ], 
+  "indtc": [
+    "us;state;in;tax.court", 
+    "Tax Court"
+  ], 
+  "innb": [
+    "us;federal;district;in.nd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "innd": [
+    "us;federal;district;in.nd;district.court", 
+    "District Court"
+  ], 
+  "insb": [
+    "us;federal;district;in.sd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "insd": [
+    "us;federal;district;in.sd;district.court", 
+    "District Court"
+  ], 
+  "iowa": [
+    "us;state;ia;supreme.court", 
+    "Supreme Court"
+  ], 
+  "iowactapp": [
+    "us;state;ia;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "jpml": [
+    "us;federal;special;judicial.panel.multidistrict.litigation", 
+    "Judicial Panel on Multidistrict Litigation"
+  ], 
+  "kan": [
+    "us;state;ks;supreme.court", 
+    "Supreme Court"
+  ], 
+  "kanctapp": [
+    "us;state;ks;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "ksb": [
+    "us;federal;district;ks.d;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "ksd": [
+    "us;federal;district;ks.d;district.court", 
+    "District Court"
+  ], 
+  "ky": [
+    "us;state;ky;supreme.court", 
+    "Supreme Court"
+  ], 
+  "kyctapp": [
+    "us;state;ky;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "kyeb": [
+    "us;federal;district;ky.ed;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "kyed": [
+    "us;federal;district;ky.ed;district.court", 
+    "District Court"
+  ], 
+  "kywb": [
+    "us;federal;district;ky.wd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "kywd": [
+    "us;federal;district;ky.wd;district.court", 
+    "District Court"
+  ], 
+  "la": [
+    "us;state;la;supreme.court", 
+    "Supreme Court"
+  ], 
+  "lactapp": [
+    "us;state;la;court.appeal", 
+    "Court of Appeal"
+  ], 
+  "laeb": [
+    "us;federal;district;la.ed;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "laed": [
+    "us;federal;district;la.ed;district.court", 
+    "District Court"
+  ], 
+  "lamb": [
+    "us;federal;district;la.md;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "lamd": [
+    "us;federal;district;la.md;district.court", 
+    "District Court"
+  ], 
+  "lawb": [
+    "us;federal;district;la.wd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "lawd": [
+    "us;federal;district;la.wd;district.court", 
+    "District Court"
+  ], 
+  "mab": [
+    "us;federal;district;ma.d;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "mad": [
+    "us;federal;district;ma.d;district.court", 
+    "District Court"
+  ], 
+  "mass": [
+    "us;state;ma;supreme.judicial.court", 
+    "Supreme Judicial Court"
+  ], 
+  "massappct": [
+    "us;state;ma;appeals.court", 
+    "Appeals Court"
+  ], 
+  "mc": [
+    "us;federal;special;court.military.commission.review", 
+    "Court of Military Commission Review"
+  ], 
+  "md": [
+    "us;state;md;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "mdb": [
+    "us;federal;district;md.d;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "mdctspecapp": [
+    "us;state;md;court.special.appeals", 
+    "Court of Special Appeals"
+  ], 
+  "mdd": [
+    "us;federal;district;md.d;district.court", 
+    "District Court"
+  ], 
+  "me": [
+    "us;state;me;supreme.judicial.court", 
+    "Supreme Judicial Court"
+  ], 
+  "meb": [
+    "us;federal;district;me.d;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "med": [
+    "us;federal;district;me.d;district.court", 
+    "District Court"
+  ], 
+  "mich": [
+    "us;state;mi;supreme.court", 
+    "Michigan Supreme Court"
+  ], 
+  "michctapp": [
+    "us;state;mi;court.appeals", 
+    "Michigan Court of Appeals"
+  ], 
+  "mieb": [
+    "us;federal;district;mi.ed;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "mied": [
+    "us;federal;district;mi.ed;district.court", 
+    "District Court"
+  ], 
+  "minn": [
+    "us;state;mn;supreme.court", 
+    "Supreme Court"
+  ], 
+  "minnctapp": [
+    "us;state;mn;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "miss": [
+    "us;state;ms;supreme.court", 
+    "Supreme Court"
+  ], 
+  "missctapp": [
+    "us;state;ms;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "miwb": [
+    "us;federal;district;mi.wd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "miwd": [
+    "us;federal;district;mi.wd;district.court", 
+    "District Court"
+  ], 
+  "mnb": [
+    "us;federal;district;mn.d;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "mnd": [
+    "us;federal;district;mn.d;district.court", 
+    "District Court"
+  ], 
+  "mo": [
+    "us;state;mo;supreme.court", 
+    "Supreme Court"
+  ], 
+  "mocd": [
+    "us;federal;district;mo.cd;district.court", 
+    "District Court"
+  ], 
+  "moctapp": [
+    "us;state;mo;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "moeb": [
+    "us;federal;district;mo.ed;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "moed": [
+    "us;federal;district;mo.ed;district.court", 
+    "District Court"
+  ], 
+  "mont": [
+    "us;state;mt;supreme.court", 
+    "Supreme Court"
+  ], 
+  "mosd": [
+    "us;federal;district;mo.sd;district.court", 
+    "District Court"
+  ], 
+  "mowb": [
+    "us;federal;district;mo.wd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "mowd": [
+    "us;federal;district;mo.wd;district.court", 
+    "District Court"
+  ], 
+  "msnb": [
+    "us;federal;district;ms.nd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "msnd": [
+    "us;federal;district;ms.nd;district.court", 
+    "District Court"
+  ], 
+  "mspb": [
+    "us;federal;special;merit.systems.protection.board", 
+    "Merit Systems Protection Board"
+  ], 
+  "mssb": [
+    "us;federal;district;ms.sd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "mssd": [
+    "us;federal;district;ms.sd;district.court", 
+    "District Court"
+  ], 
+  "mtb": [
+    "us;federal;district;mt.d;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "mtd": [
+    "us;federal;district;mt.d;district.court", 
+    "District Court"
+  ], 
+  "nc": [
+    "us;state;nc;supreme.court", 
+    "Supreme Court"
+  ], 
+  "ncctapp": [
+    "us;state;nc;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "nceb": [
+    "us;federal;district;nc.ed;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "nced": [
+    "us;federal;district;nc.ed;district.court", 
+    "District Court"
+  ], 
+  "ncmb": [
+    "us;federal;district;nc.md;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "ncmd": [
+    "us;federal;district;nc.md;district.court", 
+    "District Court"
+  ], 
+  "ncwb": [
+    "us;federal;district;nc.wd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "ncwd": [
+    "us;federal;district;nc.wd;district.court", 
+    "District Court"
+  ], 
+  "nd": [
+    "us;state;nd;supreme.court", 
+    "Supreme Court"
+  ], 
+  "ndb": [
+    "us;federal;district;nd.d;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "ndctapp": [
+    "us;state;nd;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "ndd": [
+    "us;federal;district;nd.d;district.court", 
+    "District Court"
+  ], 
+  "neb": [
+    "us;state;ne;supreme.court", 
+    "Supreme Court"
+  ], 
+  "nebctapp": [
+    "us;state;ne;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "nebraskab": [
+    "us;federal;district;ne.d;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "ned": [
+    "us;federal;district;ne.d;district.court", 
+    "District Court"
+  ], 
+  "nev": [
+    "us;state;nv;supreme.court", 
+    "Supreme Court"
+  ], 
+  "nh": [
+    "us;state;nh;supreme.court", 
+    "Supreme Court"
+  ], 
+  "nhb": [
+    "us;federal;district;nh.d;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "nhd": [
+    "us;federal;district;nh.d;district.court", 
+    "District Court"
+  ], 
+  "nj": [
+    "us;state;nj;supreme.court", 
+    "Supreme Court"
+  ], 
+  "njb": [
+    "us;federal;district;nj.d;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "njd": [
+    "us;federal;district;nj.d;district.court", 
+    "District Court"
+  ], 
+  "njsuperctappdiv": [
+    "us;state;nj;superior.court", 
+    "Superior Court"
+  ], 
+  "njtaxct": [
+    "us;state;nj;tax.court", 
+    "Tax Court"
+  ], 
+  "nm": [
+    "us;state;nm;supreme.court", 
+    "Supreme Court"
+  ], 
+  "nmb": [
+    "us;federal;district;nm.d;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "nmcca": [
+    "us;federal;special;navy-marine.corps.court.criminal.appeals", 
+    "Navy-Marine Corps Court of Criminal Appeals"
+  ], 
+  "nmctapp": [
+    "us;state;nm;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "nmd": [
+    "us;federal;district;nm.d;district.court", 
+    "District Court"
+  ], 
+  "nmib": [
+    "us;federal;district;mp.d;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "nmid": [
+    "us;federal;district;mp.d;district.court", 
+    "District Court"
+  ], 
+  "nvb": [
+    "us;federal;district;nv.d;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "nvd": [
+    "us;federal;district;nv.d;district.court", 
+    "District Court"
+  ], 
+  "ny": [
+    "us;state;ny;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "nyappdiv": [
+    "us;state;ny;appellate.division.supreme.court.state", 
+    "Appellate Division of the Supreme Court of the State"
+  ], 
+  "nyeb": [
+    "us;federal;district;ny.ed;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "nyed": [
+    "us;federal;district;ny.ed;district.court", 
+    "District Court"
+  ], 
+  "nyfamct": [
+    "us;state;ny;family.court", 
+    "Family Court"
+  ], 
+  "nynb": [
+    "us;federal;district;ny.nd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "nynd": [
+    "us;federal;district;ny.nd;district.court", 
+    "District Court"
+  ], 
+  "nysb": [
+    "us;federal;district;ny.sd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "nysd": [
+    "us;federal;district;ny.sd;district.court", 
+    "District Court"
+  ], 
+  "nysurct": [
+    "us;state;ny;surrogates.court", 
+    "Surrogate's Court"
+  ], 
+  "nywb": [
+    "us;federal;district;ny.wd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "nywd": [
+    "us;federal;district;ny.wd;district.court", 
+    "District Court"
+  ], 
+  "ohio": [
+    "us;state;oh;supreme.court", 
+    "Supreme Court"
+  ], 
+  "ohioctapp": [
+    "us;state;oh;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "ohioctcl": [
+    "us;state;oh;court.claims", 
+    "Court of Claims"
+  ], 
+  "ohiod": [
+    "us;federal;district;oh.d;district.court", 
+    "District Court"
+  ], 
+  "ohnb": [
+    "us;federal;district;oh.nd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "ohnd": [
+    "us;federal;district;oh.nd;district.court", 
+    "District Court"
+  ], 
+  "ohsb": [
+    "us;federal;district;oh.sd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "ohsd": [
+    "us;federal;district;oh.sd;district.court", 
+    "District Court"
+  ], 
+  "okeb": [
+    "us;federal;district;ok.ed;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "oked": [
+    "us;federal;district;ok.ed;district.court", 
+    "District Court"
+  ], 
+  "okla": [
+    "us;state;ok;supreme.court", 
+    "Supreme Court"
+  ], 
+  "oklaag": [
+    "us;state;ok;attorney.general.reports", 
+    "Attorney General Reports"
+  ], 
+  "oklacivapp": [
+    "us;state;ok;court.civil.appeals", 
+    "Court of Civil Appeals"
+  ], 
+  "oklacoj": [
+    "us;state;ok;court.judiciary", 
+    "Court on the Judiciary"
+  ], 
+  "oklacrimapp": [
+    "us;state;ok;court.criminal.appeals", 
+    "Court of Criminal Appeals"
+  ], 
+  "oklajeap": [
+    "us;state;ok;judicial.ethics.advisory.panel", 
+    "Judicial Ethics Advisory Panel"
+  ], 
+  "oknb": [
+    "us;federal;district;ok.nd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "oknd": [
+    "us;federal;district;ok.nd;district.court", 
+    "District Court"
+  ], 
+  "okwb": [
+    "us;federal;district;ok.wd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "okwd": [
+    "us;federal;district;ok.wd;district.court", 
+    "District Court"
+  ], 
+  "or": [
+    "us;state;or;supreme.court", 
+    "Supreme Court"
+  ], 
+  "orb": [
+    "us;federal;district;or.d;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "orctapp": [
+    "us;state;or;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "ord": [
+    "us;federal;district;or.d;district.court", 
+    "District Court"
+  ], 
+  "pa": [
+    "us;state;pa;supreme.court", 
+    "Supreme Court"
+  ], 
+  "pacommwct": [
+    "us;state;pa;commonwealth.court", 
+    "Commonwealth Court"
+  ], 
+  "paeb": [
+    "us;federal;district;pa.ed;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "paed": [
+    "us;federal;district;pa.ed;district.court", 
+    "District Court"
+  ], 
+  "pamb": [
+    "us;federal;district;pa.md;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "pamd": [
+    "us;federal;district;pa.md;district.court", 
+    "District Court"
+  ], 
+  "pasuperct": [
+    "us;state;pa;superior.court", 
+    "Superior Court"
+  ], 
+  "pawb": [
+    "us;federal;district;pa.wd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "pawd": [
+    "us;federal;district;pa.wd;district.court", 
+    "District Court"
+  ], 
+  "pennsylvaniad": [
+    "us;federal;district;pa.d;district.court", 
+    "District Court"
+  ], 
+  "prb": [
+    "us;federal;district;pr.d;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "prd": [
+    "us;federal;district;pr.d;district.court", 
+    "District Court"
+  ], 
+  "reglrailreorgct": [
+    "us;federal;special;special.court.regional.rail.reorganization.act", 
+    "Special Court under the Regional Rail Reorganization Act"
+  ], 
+  "ri": [
+    "us;state;ri;supreme.court", 
+    "Supreme Court"
+  ], 
+  "rib": [
+    "us;federal;district;ri.d;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "rid": [
+    "us;federal;district;ri.d;district.court", 
+    "District Court"
+  ], 
+  "sc": [
+    "us;state;sc;supreme.court", 
+    "Supreme Court"
+  ], 
+  "scb": [
+    "us;federal;district;sc.d;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "scctapp": [
+    "us;state;sc;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "scd": [
+    "us;federal;district;sc.d;district.court", 
+    "District Court"
+  ], 
+  "scotus": [
+    "us;federal;supreme.court", 
+    "Supreme Court"
+  ], 
+  "sd": [
+    "us;state;sd;supreme.court", 
+    "Supreme Court"
+  ], 
+  "sdb": [
+    "us;federal;district;sd.d;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "sdd": [
+    "us;federal;district;sd.d;district.court", 
+    "District Court"
+  ], 
+  "southcarolinaed": [
+    "us;federal;district;sc.ed;district.court", 
+    "District Court"
+  ], 
+  "southcarolinawd": [
+    "us;federal;district;sc.wd;district.court", 
+    "District Court"
+  ], 
+  "stp": [
+    "us;state;pa;special.tribunal", 
+    "Special Tribunal"
+  ], 
+  "tax": [
+    "us;federal;special;tax.court", 
+    "Tax Court"
+  ], 
+  "tecoa": [
+    "us;federal;special;temporary.emergency.court.appeals", 
+    "Temporary Emergency Court of Appeals"
+  ], 
+  "tenn": [
+    "us;state;tn;supreme.court", 
+    "Supreme Court"
+  ], 
+  "tenncrimapp": [
+    "us;state;tn;court.criminal.appeals", 
+    "Court of Criminal Appeals"
+  ], 
+  "tennctapp": [
+    "us;state;tn;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "tennessed": [
+    "us;federal;district;tn.d;district.court", 
+    "District Court"
+  ], 
+  "tennesseeb": [
+    "us;federal;district;tn.d;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "tex": [
+    "us;state;tx;supreme.court", 
+    "Supreme Court"
+  ], 
+  "texapp": [
+    "us;state;tx;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "texcrimapp": [
+    "us;state;tx;court.criminal.appeals", 
+    "Court of Criminal Appeals"
+  ], 
+  "texreview": [
+    "us;state;tx;special.court.review", 
+    "Special Court of Review"
+  ], 
+  "tneb": [
+    "us;federal;district;tn.ed;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "tned": [
+    "us;federal;district;tn.ed;district.court", 
+    "District Court"
+  ], 
+  "tnmb": [
+    "us;federal;district;tn.md;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "tnmd": [
+    "us;federal;district;tn.md;district.court", 
+    "District Court"
+  ], 
+  "tnwb": [
+    "us;federal;district;tn.wd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "tnwd": [
+    "us;federal;district;tn.wd;district.court", 
+    "District Court"
+  ], 
+  "txeb": [
+    "us;federal;district;tx.ed;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "txed": [
+    "us;federal;district;tx.ed;district.court", 
+    "District Court"
+  ], 
+  "txnb": [
+    "us;federal;district;tx.nd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "txnd": [
+    "us;federal;district;tx.nd;district.court", 
+    "District Court"
+  ], 
+  "txsb": [
+    "us;federal;district;tx.sd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "txsd": [
+    "us;federal;district;tx.sd;district.court", 
+    "District Court"
+  ], 
+  "txwb": [
+    "us;federal;district;tx.wd;bankruptcy.court", 
+    "District Court"
+  ], 
+  "txwd": [
+    "us;federal;district;tx.wd;district.court", 
+    "District Court"
+  ], 
+  "uscfc": [
+    "us;federal;special;court.federal.claims", 
+    "Court of Federal Claims"
+  ], 
+  "usjc": [
+    "us;federal;special;judicial.conference.committee", 
+    "Judicial Conference Committee"
+  ], 
+  "utah": [
+    "us;state;ut;supreme.court", 
+    "Supreme Court"
+  ], 
+  "utahctapp": [
+    "us;state;ut;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "utb": [
+    "us;federal;district;ut.d;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "utd": [
+    "us;federal;district;ut.d;district.court", 
+    "District Court"
+  ], 
+  "va": [
+    "us;state;va;supreme.court", 
+    "Supreme Court"
+  ], 
+  "vactapp": [
+    "us;state;va;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "vaeb": [
+    "us;federal;district;va.ed;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "vaed": [
+    "us;federal;district;va.ed;district.court", 
+    "District Court"
+  ], 
+  "vawb": [
+    "us;federal;district;va.wd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "vawd": [
+    "us;federal;district;va.wd;district.court", 
+    "District Court"
+  ], 
+  "vib": [
+    "us;federal;district;vi.d;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "vid": [
+    "us;federal;district;vi.d;district.court", 
+    "District Court"
+  ], 
+  "vt": [
+    "us;state;vt;supreme.court", 
+    "Supreme Court"
+  ], 
+  "vtb": [
+    "us;federal;district;vt.d;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "vtd": [
+    "us;federal;district;vt.d;district.court", 
+    "District Court"
+  ], 
+  "waeb": [
+    "us;federal;district;wa.ed;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "waed": [
+    "us;federal;district;wa.ed;district.court", 
+    "District Court"
+  ], 
+  "wash": [
+    "us;state;wa;supreme.court", 
+    "Supreme Court"
+  ], 
+  "washctapp": [
+    "us;state;wa;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "wawb": [
+    "us;federal;district;wa.wd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "wawd": [
+    "us;federal;district;wa.wd;district.court", 
+    "District Court"
+  ], 
+  "wieb": [
+    "us;federal;district;wi.ed;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "wied": [
+    "us;federal;district;wi.ed;district.court", 
+    "District Court"
+  ], 
+  "wis": [
+    "us;state;wi;supreme.court", 
+    "Supreme Court"
+  ], 
+  "wisctapp": [
+    "us;state;wi;court.appeals", 
+    "Court of Appeals"
+  ], 
+  "wiwb": [
+    "us;federal;district;wi.wd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "wiwd": [
+    "us;federal;district;wi.wd;district.court", 
+    "District Court"
+  ], 
+  "wva": [
+    "us;state;wv;supreme.court", 
+    "Supreme Court"
+  ], 
+  "wvnb": [
+    "us;federal;district;wv.nd;bankruptcy.court", 
+    "District Court"
+  ], 
+  "wvnd": [
+    "us;federal;district;wv.nd;district.court", 
+    "District Court"
+  ], 
+  "wvsb": [
+    "us;federal;district;wv.sd;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "wvsd": [
+    "us;federal;district;wv.sd;district.court", 
+    "District Court"
+  ], 
+  "wyb": [
+    "us;federal;district;wy.d;bankruptcy.court", 
+    "Bankruptcy Court"
+  ], 
+  "wyd": [
+    "us;federal;district;wy.d;district.court", 
+    "District Court"
+  ], 
+  "wyo": [
+    "us;state;wy;supreme.court", 
+    "Supreme Court"
+  ]
+}

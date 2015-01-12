@@ -1,0 +1,3 @@
+.. category:: 北塔区
+   :category-id: cn:hunan:shao.yang.shi:bei.ta.qu
+   :en: Beitaqu

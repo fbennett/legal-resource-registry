@@ -1,0 +1,3 @@
+.. category:: 盐田区
+   :category-id: cn:guangdong:shen.zhen.shi:yan.tian.qu
+   :en: Yantianqu

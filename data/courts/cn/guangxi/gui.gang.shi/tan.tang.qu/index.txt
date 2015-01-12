@@ -1,0 +1,3 @@
+.. category:: 覃塘区
+   :category-id: cn:guangxi:gui.gang.shi:tan.tang.qu
+   :en: Tantangqu

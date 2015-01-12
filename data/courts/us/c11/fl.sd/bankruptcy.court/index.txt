@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c11:fl.sd;bankruptcy.court
+   :url: http://www.flsb.uscourts.gov/
+   :flp-key: flsb
+
+   .. reporter-key:: B.R.

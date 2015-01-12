@@ -1,0 +1,3 @@
+.. category:: Tam Kỳ
+   :category-id: vn:quang.nam:tam.ky
+   :en: Tam Ky

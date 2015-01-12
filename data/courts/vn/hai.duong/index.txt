@@ -1,0 +1,3 @@
+.. category:: Hải Dương
+   :category-id: vn:hai.duong
+   :en: Hai Duong

@@ -1,0 +1,3 @@
+.. category:: 武鸣县
+   :category-id: cn:guangxi:nan.ning.shi:wu.ming.xian
+   :en: Wumingxian

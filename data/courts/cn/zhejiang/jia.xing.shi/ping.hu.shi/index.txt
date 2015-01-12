@@ -1,0 +1,3 @@
+.. category:: 平湖市
+   :category-id: cn:zhejiang:jia.xing.shi:ping.hu.shi
+   :en: Pinghushi

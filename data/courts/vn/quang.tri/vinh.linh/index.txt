@@ -1,0 +1,3 @@
+.. category:: Vĩnh Linh
+   :category-id: vn:quang.tri:vinh.linh
+   :en: Vinh Linh

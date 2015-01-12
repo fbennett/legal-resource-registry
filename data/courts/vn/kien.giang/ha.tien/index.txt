@@ -1,0 +1,3 @@
+.. category:: Hà Tiên
+   :category-id: vn:kien.giang:ha.tien
+   :en: Ha Tien

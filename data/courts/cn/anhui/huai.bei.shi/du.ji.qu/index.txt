@@ -1,0 +1,3 @@
+.. category:: 杜集区
+   :category-id: cn:anhui:huai.bei.shi:du.ji.qu
+   :en: Dujiqu

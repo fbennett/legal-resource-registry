@@ -1,0 +1,36 @@
+.. court:: Supreme Court
+   :court-id: us:va;supreme.court
+   :url: http://www.courts.state.va.us/courts/scv/
+   :flp-key: va
+
+   .. reporter-key:: Call
+
+   .. reporter-key:: Gilmer
+
+   .. reporter-key:: Gratt.
+
+   .. reporter-key:: Hen. & M.
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: Leigh
+
+   .. reporter-key:: Munf.
+
+   .. reporter-key:: Rand.
+
+   .. reporter-key:: Rob.
+
+   .. reporter-key:: S.E.
+
+   .. reporter-key:: S.E.2d
+
+   .. reporter-key:: Va.
+
+   .. reporter-key:: Va. App.
+
+   .. reporter-key:: Va. Cas.
+
+   .. reporter-key:: WL
+
+   .. reporter-key:: Wash.

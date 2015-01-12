@@ -1,0 +1,3 @@
+.. category:: Bù Gia Mập
+   :category-id: vn:binh.phuoc:bu.gia.map
+   :en: Bu Gia Map

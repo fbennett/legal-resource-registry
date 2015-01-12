@@ -1,0 +1,3 @@
+.. category:: 官渡区
+   :category-id: cn:yunnan:kun.ming.shi:guan.du.qu
+   :en: Guanduqu

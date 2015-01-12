@@ -1,0 +1,3 @@
+.. category:: 呼兰区
+   :category-id: cn:heilongjiang:ha.er.bin.shi:hu.lan.qu
+   :en: Hulanqu

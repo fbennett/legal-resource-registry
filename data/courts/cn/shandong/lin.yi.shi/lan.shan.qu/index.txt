@@ -1,0 +1,3 @@
+.. category:: 兰山区
+   :category-id: cn:shandong:lin.yi.shi:lan.shan.qu
+   :en: Lanshanqu

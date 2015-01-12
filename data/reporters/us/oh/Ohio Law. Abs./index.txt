@@ -1,0 +1,15 @@
+.. reporter:: Ohio Law Abstracts
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Ohio Law. Abs.
+   :edition-abbreviation: Ohio Law. Abs.
+   :dates: 1922/01/01-1964/12/31
+
+   .. variation:: Ohio L.Abs.
+
+   .. variation:: O.L.Abs.
+
+   .. variation:: Ohio Abs.
+
+   .. variation:: O.L.A.
+
+   .. variation:: Ohio Law Abst.

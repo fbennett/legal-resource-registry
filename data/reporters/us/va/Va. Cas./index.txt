@@ -1,0 +1,5 @@
+.. reporter:: Virginia Cases, Criminal
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Va. Cas.
+   :edition-abbreviation: Va. Cas.
+   :dates: 1789/01/01-1826/12/31

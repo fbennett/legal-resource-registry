@@ -1,0 +1,3 @@
+.. category:: 抚州市
+   :category-id: cn:jiangxi:fu.zhou.shi
+   :en: Fuzhou City

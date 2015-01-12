@@ -1,0 +1,3 @@
+.. category:: 策勒县
+   :category-id: cn:xinjiang:he.tian.di.qu:ce.le.xian
+   :en: Celexian

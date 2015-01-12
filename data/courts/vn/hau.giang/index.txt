@@ -1,0 +1,3 @@
+.. category:: Hậu Giang
+   :category-id: vn:hau.giang
+   :en: Hau Giang

@@ -1,0 +1,3 @@
+.. category:: 宜兴市
+   :category-id: cn:jiangsu:wu.xi.shi:yi.xing.shi
+   :en: Yixingshi

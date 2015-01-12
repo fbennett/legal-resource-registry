@@ -1,0 +1,3 @@
+.. category:: Kim Động
+   :category-id: vn:hung.yen:kim.dong
+   :en: Kim Dong

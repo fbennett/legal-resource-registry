@@ -1,0 +1,3 @@
+.. category:: Vân Canh
+   :category-id: vn:binh.dinh:van.canh
+   :en: Van Canh

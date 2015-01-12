@@ -1,0 +1,3 @@
+.. category:: 筠连县
+   :category-id: cn:sichuan:yi.bin.shi:yun.lian.xian
+   :en: Yunlianxian

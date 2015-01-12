@@ -1,0 +1,3 @@
+.. category:: Chợ Lách
+   :category-id: vn:ben.tre:cho.lach
+   :en: Cho Lach

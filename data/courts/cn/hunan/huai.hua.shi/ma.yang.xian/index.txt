@@ -1,0 +1,3 @@
+.. category:: 麻阳县
+   :category-id: cn:hunan:huai.hua.shi:ma.yang.xian
+   :en: Mayangxian

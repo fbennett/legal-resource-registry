@@ -1,0 +1,3 @@
+.. category:: 比如县
+   :category-id: cn:xicang:na.qu:bi.ru.xian
+   :en: Biruxian

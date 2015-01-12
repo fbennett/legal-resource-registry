@@ -1,0 +1,17 @@
+.. reporter:: South Carolina Reports, Riley's Chancery
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Ril. Eq.
+   :edition-abbreviation: Ril. Eq.
+   :dates: 1836/01/01-1837/12/31
+
+   .. variation:: S.C.Eq.(Ril.)
+
+   .. variation:: Riley Ch.
+
+   .. variation:: Riley
+
+   .. variation:: Riley Eq.(S.C.)
+
+   .. variation:: Ril.
+
+   .. variation:: Riley Eq.

@@ -1,0 +1,3 @@
+.. category:: Đông Hưng
+   :category-id: vn:thai.binh:dong.hung
+   :en: Dong Hung

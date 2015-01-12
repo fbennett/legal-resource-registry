@@ -1,0 +1,3 @@
+.. category:: Mộc Châu
+   :category-id: vn:son.la:moc.chau
+   :en: Moc Chau

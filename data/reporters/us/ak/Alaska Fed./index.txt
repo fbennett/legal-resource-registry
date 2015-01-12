@@ -1,0 +1,13 @@
+.. reporter:: Alaska Federal Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Alaska Fed.
+   :edition-abbreviation: Alaska Fed.
+   :dates: 1869/01/01-1937/12/31
+
+   .. variation:: Alaska Fed.Rep.
+
+   .. variation:: Alaska Fed.
+
+   .. variation:: A.F.Rep.
+
+   .. variation:: Alaska Fed.R.

@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c5:tx.sd;bankruptcy.court
+   :url: http://www.txs.uscourts.gov/bankruptcy/
+   :flp-key: txsb
+
+   .. reporter-key:: B.R.

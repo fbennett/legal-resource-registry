@@ -1,0 +1,3 @@
+.. category:: 湖里区
+   :category-id: cn:fujian:sha.men.shi:hu.li.qu
+   :en: Huliqu

@@ -1,0 +1,3 @@
+.. category:: 广水市
+   :category-id: cn:hubei:sui.zhou.shi:guang.shui.shi
+   :en: Guangshuishi

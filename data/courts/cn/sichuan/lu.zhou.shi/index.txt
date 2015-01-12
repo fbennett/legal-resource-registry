@@ -1,0 +1,3 @@
+.. category:: 泸州市
+   :category-id: cn:sichuan:lu.zhou.shi
+   :en: Luzhou City

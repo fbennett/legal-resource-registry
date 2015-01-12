@@ -1,0 +1,3 @@
+.. category:: 安义县
+   :category-id: cn:jiangxi:nan.chang.shi:an.yi.xian
+   :en: Anyixian

@@ -1,0 +1,3 @@
+.. category:: 白碱滩区
+   :category-id: cn:xinjiang:ke.la.ma.yi.shi:bai.jian.tan.qu
+   :en: Baijiantanqu

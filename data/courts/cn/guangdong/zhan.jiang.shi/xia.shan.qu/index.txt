@@ -1,0 +1,3 @@
+.. category:: 霞山区
+   :category-id: cn:guangdong:zhan.jiang.shi:xia.shan.qu
+   :en: Xiashanqu

@@ -1,0 +1,3 @@
+.. category:: 梅县
+   :category-id: cn:guangdong:mei.zhou.shi:mei.xian
+   :en: Meixian

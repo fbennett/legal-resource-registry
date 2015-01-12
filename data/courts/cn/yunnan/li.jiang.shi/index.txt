@@ -1,0 +1,3 @@
+.. category:: 丽江市
+   :category-id: cn:yunnan:li.jiang.shi
+   :en: Lijiang City

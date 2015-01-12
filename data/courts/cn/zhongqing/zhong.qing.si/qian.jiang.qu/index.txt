@@ -1,0 +1,3 @@
+.. category:: 黔江区
+   :category-id: cn:zhongqing:zhong.qing.si:qian.jiang.qu
+   :en: Qianjiangqu

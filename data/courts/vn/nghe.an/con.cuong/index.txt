@@ -1,0 +1,3 @@
+.. category:: Con Cuông
+   :category-id: vn:nghe.an:con.cuong
+   :en: Con Cuong

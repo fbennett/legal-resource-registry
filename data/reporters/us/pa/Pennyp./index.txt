@@ -1,0 +1,11 @@
+.. reporter:: Pennsylvania State Reports, Pennypacker
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Pennyp.
+   :edition-abbreviation: Pennyp.
+   :dates: 1881/01/01-1884/12/31
+
+   .. variation:: Penny.
+
+   .. variation:: Penn.
+
+   .. variation:: Pennyp.(Pa.)

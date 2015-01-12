@@ -1,0 +1,3 @@
+.. category:: Nghi Lộc
+   :category-id: vn:nghe.an:nghi.loc
+   :en: Nghi Loc

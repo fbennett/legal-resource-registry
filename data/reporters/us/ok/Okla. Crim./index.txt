@@ -1,0 +1,13 @@
+.. reporter:: Oklahoma Criminal Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Okla. Crim.
+   :edition-abbreviation: Okla. Crim.
+   :dates: 1908/01/01-1953/12/31
+
+   .. variation:: Okla.
+
+   .. variation:: Okl.Cr.
+
+   .. variation:: Okla.Cr.
+
+   .. variation:: O.Cr.

@@ -1,0 +1,3 @@
+.. category:: Cái Nước
+   :category-id: vn:ca.mau:cai.nuoc
+   :en: Cai Nuoc

@@ -1,0 +1,3 @@
+.. category:: 忻府区
+   :category-id: cn:shanxi:xin.zhou.shi:xin.fu.qu
+   :en: Xinfuqu

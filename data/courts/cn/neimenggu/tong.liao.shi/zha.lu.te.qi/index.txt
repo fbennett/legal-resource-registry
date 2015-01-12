@@ -1,0 +1,3 @@
+.. category:: 扎鲁特旗
+   :category-id: cn:neimenggu:tong.liao.shi:zha.lu.te.qi
+   :en: Zhaluteqi

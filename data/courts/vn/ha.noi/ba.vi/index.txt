@@ -1,0 +1,3 @@
+.. category:: Ba Vì
+   :category-id: vn:ha.noi:ba.vi
+   :en: Ba Vi

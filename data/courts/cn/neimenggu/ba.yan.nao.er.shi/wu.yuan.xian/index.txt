@@ -1,0 +1,3 @@
+.. category:: 五原县
+   :category-id: cn:neimenggu:ba.yan.nao.er.shi:wu.yuan.xian
+   :en: Wuyuanxian

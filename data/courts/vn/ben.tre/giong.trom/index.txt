@@ -1,0 +1,3 @@
+.. category:: Giồng Trôm
+   :category-id: vn:ben.tre:giong.trom
+   :en: Giong Trom

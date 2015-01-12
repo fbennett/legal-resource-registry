@@ -1,0 +1,5 @@
+.. reporter:: Connecticut Circuit Court Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Conn. Cir. Ct
+   :edition-abbreviation: Conn. Cir. Ct
+   :dates: 1961/01/01-1974/12/31

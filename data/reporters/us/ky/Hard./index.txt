@@ -1,0 +1,11 @@
+.. reporter:: Kentucky Reports, Hardin
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Hard.
+   :edition-abbreviation: Hard.
+   :dates: 1805/01/01-1808/12/31
+
+   .. variation:: Ky.(Hard.)
+
+   .. variation:: Hardin(Ky.)
+
+   .. variation:: Hardin

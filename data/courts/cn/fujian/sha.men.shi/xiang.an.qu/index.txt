@@ -1,0 +1,3 @@
+.. category:: 翔安区
+   :category-id: cn:fujian:sha.men.shi:xiang.an.qu
+   :en: Xianganqu

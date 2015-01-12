@@ -1,0 +1,3 @@
+.. category:: Việt Trì
+   :category-id: vn:phu.tho:viet.tri
+   :en: Viet Tri

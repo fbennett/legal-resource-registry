@@ -1,0 +1,9 @@
+.. reporter:: Black's Supreme Court Reports
+   :flp-series-cite-type: scotus_early
+   :flp-common-abbreviation: Black
+   :edition-abbreviation: Black
+   :dates: 1861/01/01-1862/12/31
+
+   .. variation:: U.S.(Black)
+
+   .. variation:: Black R.

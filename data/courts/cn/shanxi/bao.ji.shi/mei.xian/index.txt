@@ -1,0 +1,3 @@
+.. category:: 眉县
+   :category-id: cn:shanxi:bao.ji.shi:mei.xian
+   :en: Meixian

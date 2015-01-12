@@ -1,0 +1,3 @@
+.. category:: 建三江农垦
+   :category-id: cn:heilongjiang:nong.ken:jian.san.jiang.nong.ken
+   :en: Jiansanjiangnongken

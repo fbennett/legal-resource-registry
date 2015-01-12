@@ -1,0 +1,3 @@
+.. category:: Yên Bình
+   :category-id: vn:yen.bai:yen.binh
+   :en: Yen Binh

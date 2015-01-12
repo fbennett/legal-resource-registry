@@ -1,0 +1,3 @@
+.. category:: 唐山市
+   :category-id: cn:hebei:tang.shan.shi
+   :en: Tangshan City

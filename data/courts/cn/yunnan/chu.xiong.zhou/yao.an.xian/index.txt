@@ -1,0 +1,3 @@
+.. category:: 姚安县
+   :category-id: cn:yunnan:chu.xiong.zhou:yao.an.xian
+   :en: Yaoanxian

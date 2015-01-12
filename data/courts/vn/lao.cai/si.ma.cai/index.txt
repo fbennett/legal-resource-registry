@@ -1,0 +1,3 @@
+.. category:: Si Ma Cai
+   :category-id: vn:lao.cai:si.ma.cai
+   :en: Si Ma Cai

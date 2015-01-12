@@ -1,0 +1,3 @@
+.. category:: 岳塘区
+   :category-id: cn:hunan:xiang.tan.shi:yue.tang.qu
+   :en: Yuetangqu

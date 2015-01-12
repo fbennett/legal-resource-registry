@@ -1,0 +1,3 @@
+.. category:: 竹山县
+   :category-id: cn:hubei:shi.yan.shi:zhu.shan.xian
+   :en: Zhushanxian

@@ -1,0 +1,3 @@
+.. category:: 百色市
+   :category-id: cn:guangxi:bai.se.shi
+   :en: Baise City

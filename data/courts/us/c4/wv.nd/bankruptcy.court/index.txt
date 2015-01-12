@@ -1,0 +1,6 @@
+.. court:: District Court
+   :court-id: us:c4:wv.nd;bankruptcy.court
+   :url: http://www.wvsb.uscourts.gov/
+   :flp-key: wvnb
+
+   .. reporter-key:: B.R.

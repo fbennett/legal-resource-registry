@@ -1,0 +1,3 @@
+.. category:: Cầu Ngang
+   :category-id: vn:tra.vinh:cau.ngang
+   :en: Cau Ngang

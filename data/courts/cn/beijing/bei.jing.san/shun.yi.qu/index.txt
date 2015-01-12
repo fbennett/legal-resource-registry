@@ -1,0 +1,3 @@
+.. category:: 顺义区
+   :category-id: cn:beijing:bei.jing.san:shun.yi.qu
+   :en: Shunyiqu

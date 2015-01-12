@@ -1,0 +1,3 @@
+.. category:: 达拉特旗
+   :category-id: cn:neimenggu:e.er.duo.si.shi:da.la.te.qi
+   :en: Dalateqi

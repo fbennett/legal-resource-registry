@@ -1,0 +1,5 @@
+.. reporter:: Oklahoma Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Okla.
+   :edition-abbreviation: Okla.
+   :dates: 1890/01/01-1953/12/31

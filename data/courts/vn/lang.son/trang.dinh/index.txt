@@ -1,0 +1,3 @@
+.. category:: Tràng Định
+   :category-id: vn:lang.son:trang.dinh
+   :en: Trang Dinh

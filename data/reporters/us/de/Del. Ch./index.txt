@@ -1,0 +1,5 @@
+.. reporter:: Delaware Chancery Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Del. Ch.
+   :edition-abbreviation: Del. Ch.
+   :dates: 1814/01/01-1968/12/31

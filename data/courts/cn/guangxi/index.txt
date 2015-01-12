@@ -1,0 +1,3 @@
+.. category:: 广西
+   :category-id: cn:guangxi
+   :en: Guangxi

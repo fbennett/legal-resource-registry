@@ -1,0 +1,3 @@
+.. category:: 萍乡市
+   :category-id: cn:jiangxi:ping.xiang.shi
+   :en: Pingxiang City

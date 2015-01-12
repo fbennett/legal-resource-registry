@@ -1,0 +1,3 @@
+.. category:: Kiên Giang
+   :category-id: vn:kien.giang
+   :en: Kien Giang

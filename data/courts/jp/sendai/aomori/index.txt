@@ -1,0 +1,3 @@
+.. category:: 青森
+   :category-id: jp:sendai:aomori
+   :en: Aomori

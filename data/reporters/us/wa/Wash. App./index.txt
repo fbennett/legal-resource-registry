@@ -1,0 +1,13 @@
+.. reporter:: Washington Appellate Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Wash. App.
+   :edition-abbreviation: Wash. App.
+   :dates: 1969/01/01-present
+
+   .. variation:: W.App.
+
+   .. variation:: Wn. App.
+
+   .. variation:: Wn.App.
+
+   .. variation:: Wa.A.

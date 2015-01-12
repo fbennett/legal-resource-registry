@@ -1,0 +1,3 @@
+.. category:: 龙岗区
+   :category-id: cn:guangdong:shen.zhen.shi:long.gang.qu
+   :en: Longgangqu

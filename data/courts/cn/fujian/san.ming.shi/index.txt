@@ -1,0 +1,3 @@
+.. category:: 三明市
+   :category-id: cn:fujian:san.ming.shi
+   :en: Sanming City

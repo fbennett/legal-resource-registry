@@ -1,0 +1,3 @@
+.. category:: 什邡市
+   :category-id: cn:sichuan:de.yang.shi:shi.fang.shi
+   :en: Shifangshi

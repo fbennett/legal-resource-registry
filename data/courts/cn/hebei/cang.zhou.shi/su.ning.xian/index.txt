@@ -1,0 +1,3 @@
+.. category:: 肃宁县
+   :category-id: cn:hebei:cang.zhou.shi:su.ning.xian
+   :en: Suningxian

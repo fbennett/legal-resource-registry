@@ -1,0 +1,3 @@
+.. category:: Đông Hải
+   :category-id: vn:bac.lieu:dong.hai
+   :en: Dong Hai

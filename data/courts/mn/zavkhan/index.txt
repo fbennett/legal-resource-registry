@@ -1,0 +1,3 @@
+.. category:: Завхан
+   :category-id: mn:zavkhan
+   :en: Zavkhan

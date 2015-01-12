@@ -1,0 +1,6 @@
+.. court:: District Court
+   :court-id: us:c5:tx.wd;bankruptcy.court
+   :url: http://www.txs.uscourts.gov/bankruptcy/
+   :flp-key: txwb
+
+   .. reporter-key:: B.R.

@@ -1,0 +1,3 @@
+.. category:: 孟州市
+   :category-id: cn:henan:jiao.zuo.shi:meng.zhou.shi
+   :en: Mengzhoushi

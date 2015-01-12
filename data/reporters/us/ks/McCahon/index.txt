@@ -1,0 +1,7 @@
+.. reporter:: Kansas Reports, McCahon
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: McCahon
+   :edition-abbreviation: McCahon
+   :dates: 1858/01/01-1868/12/31
+
+   .. variation:: McCah.

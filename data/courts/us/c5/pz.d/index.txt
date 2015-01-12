@@ -1,0 +1,2 @@
+.. category:: D. Panama Canal Zone
+   :category-id: us:c5:pz.d

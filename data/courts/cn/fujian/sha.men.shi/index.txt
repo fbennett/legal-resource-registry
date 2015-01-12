@@ -1,0 +1,3 @@
+.. category:: 厦门市
+   :category-id: cn:fujian:sha.men.shi
+   :en: Shamen City

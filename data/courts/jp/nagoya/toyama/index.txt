@@ -1,0 +1,3 @@
+.. category:: 富山
+   :category-id: jp:nagoya:toyama
+   :en: Toyama

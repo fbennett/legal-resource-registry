@@ -1,0 +1,3 @@
+.. category:: 攀枝花市
+   :category-id: cn:sichuan:pan.zhi.hua.shi
+   :en: Panzhihua City

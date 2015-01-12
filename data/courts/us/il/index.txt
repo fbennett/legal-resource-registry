@@ -1,0 +1,2 @@
+.. category:: Illinois
+   :category-id: us:il

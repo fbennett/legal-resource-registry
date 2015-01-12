@@ -1,0 +1,3 @@
+.. category:: 鼎城区
+   :category-id: cn:hunan:chang.de.shi:ding.cheng.qu
+   :en: Dingchengqu

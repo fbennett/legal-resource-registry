@@ -1,0 +1,3 @@
+.. category:: 镇远县
+   :category-id: cn:guizhou:qian.dong.nan.zhou:zhen.yuan.xian
+   :en: Zhenyuanxian

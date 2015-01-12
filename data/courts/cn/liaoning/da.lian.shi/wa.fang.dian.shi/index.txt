@@ -1,0 +1,3 @@
+.. category:: 瓦房店市
+   :category-id: cn:liaoning:da.lian.shi:wa.fang.dian.shi
+   :en: Wafangdianshi

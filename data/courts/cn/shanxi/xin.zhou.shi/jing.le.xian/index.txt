@@ -1,0 +1,3 @@
+.. category:: 静乐县
+   :category-id: cn:shanxi:xin.zhou.shi:jing.le.xian
+   :en: Jinglexian

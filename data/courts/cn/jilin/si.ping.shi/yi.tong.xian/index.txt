@@ -1,0 +1,3 @@
+.. category:: 伊通县
+   :category-id: cn:jilin:si.ping.shi:yi.tong.xian
+   :en: Yitongxian

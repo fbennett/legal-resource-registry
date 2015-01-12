@@ -1,0 +1,2 @@
+.. category:: D. Vermont
+   :category-id: us:c2:vt.d

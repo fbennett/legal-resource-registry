@@ -1,0 +1,7 @@
+.. reporter:: Kentucky Opinions
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Ky. Op.
+   :edition-abbreviation: Ky. Op.
+   :dates: 1864/01/01-1886/12/31
+
+   .. variation:: Ken.Opin.

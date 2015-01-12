@@ -1,0 +1,3 @@
+.. category:: 德惠市
+   :category-id: cn:jilin:chang.chun.shi:de.hui.shi
+   :en: Dehuishi

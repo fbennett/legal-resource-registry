@@ -1,0 +1,3 @@
+.. category:: 邢台桥东
+   :category-id: cn:hebei:xing.tai.shi:xing.tai.qiao.dong
+   :en: Xingtaiqiaodong

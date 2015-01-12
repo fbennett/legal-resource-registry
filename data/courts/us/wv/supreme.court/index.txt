@@ -1,0 +1,14 @@
+.. court:: Supreme Court
+   :court-id: us:wv;supreme.court
+   :url: http://www.courtswv.gov/supreme-court/
+   :flp-key: wva
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: S.E.
+
+   .. reporter-key:: S.E.2d
+
+   .. reporter-key:: W. Va.
+
+   .. reporter-key:: WL

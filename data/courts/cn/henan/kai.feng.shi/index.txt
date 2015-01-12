@@ -1,0 +1,3 @@
+.. category:: 开封市
+   :category-id: cn:henan:kai.feng.shi
+   :en: Kaifeng City

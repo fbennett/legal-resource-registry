@@ -1,0 +1,3 @@
+.. court:: 法院
+   :court-id: cn:jilin:song.yuan.shi:qian.guo.er.luo.si.xian;fa.yuan
+   :en: District Court

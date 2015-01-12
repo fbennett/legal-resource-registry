@@ -1,0 +1,3 @@
+.. category:: 沙河市
+   :category-id: cn:hebei:xing.tai.shi:sha.he.shi
+   :en: Shaheshi

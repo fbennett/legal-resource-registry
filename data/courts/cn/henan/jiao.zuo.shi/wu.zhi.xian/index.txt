@@ -1,0 +1,3 @@
+.. category:: 武陟县
+   :category-id: cn:henan:jiao.zuo.shi:wu.zhi.xian
+   :en: Wuzhixian

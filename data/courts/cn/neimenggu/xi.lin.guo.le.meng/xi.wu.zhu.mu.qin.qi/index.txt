@@ -1,0 +1,3 @@
+.. category:: 西乌珠穆沁旗
+   :category-id: cn:neimenggu:xi.lin.guo.le.meng:xi.wu.zhu.mu.qin.qi
+   :en: Xiwuzhumuqinqi

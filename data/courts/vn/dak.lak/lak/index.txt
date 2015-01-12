@@ -1,0 +1,3 @@
+.. category:: Lắk
+   :category-id: vn:dak.lak:lak
+   :en: Lak

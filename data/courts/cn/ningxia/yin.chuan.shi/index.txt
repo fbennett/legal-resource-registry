@@ -1,0 +1,3 @@
+.. category:: 银川市
+   :category-id: cn:ningxia:yin.chuan.shi
+   :en: Yinchuan City

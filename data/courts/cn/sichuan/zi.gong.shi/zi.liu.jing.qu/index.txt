@@ -1,0 +1,3 @@
+.. category:: 自流井区
+   :category-id: cn:sichuan:zi.gong.shi:zi.liu.jing.qu
+   :en: Ziliujingqu

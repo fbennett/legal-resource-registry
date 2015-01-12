@@ -1,0 +1,3 @@
+.. category:: 海口市
+   :category-id: cn:hainan:hai.kou.shi
+   :en: Haikou City

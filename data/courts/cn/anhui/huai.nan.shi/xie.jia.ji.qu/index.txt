@@ -1,0 +1,3 @@
+.. category:: 谢家集区
+   :category-id: cn:anhui:huai.nan.shi:xie.jia.ji.qu
+   :en: Xiejiajiqu

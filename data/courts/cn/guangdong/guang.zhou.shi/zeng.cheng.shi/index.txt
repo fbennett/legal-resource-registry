@@ -1,0 +1,3 @@
+.. category:: 增城市
+   :category-id: cn:guangdong:guang.zhou.shi:zeng.cheng.shi
+   :en: Zengchengshi

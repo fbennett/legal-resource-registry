@@ -1,0 +1,3 @@
+.. category:: 那覇
+   :category-id: jp:fukuoka:naha
+   :en: Naha

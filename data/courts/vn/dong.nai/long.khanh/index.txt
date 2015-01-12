@@ -1,0 +1,3 @@
+.. category:: Long Khánh
+   :category-id: vn:dong.nai:long.khanh
+   :en: Long Khanh

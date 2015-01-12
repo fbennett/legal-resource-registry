@@ -1,0 +1,3 @@
+.. category:: 南沙区
+   :category-id: cn:guangdong:guang.zhou.shi:nan.sha.qu
+   :en: Nanshaqu

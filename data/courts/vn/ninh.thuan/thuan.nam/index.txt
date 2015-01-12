@@ -1,0 +1,3 @@
+.. category:: Thuận Nam
+   :category-id: vn:ninh.thuan:thuan.nam
+   :en: Thuan Nam

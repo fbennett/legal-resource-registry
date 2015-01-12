@@ -1,0 +1,5 @@
+.. reporter:: Appeal Cases, District of Columbia
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: App. D.C.
+   :edition-abbreviation: App. D.C.
+   :dates: 1893/01/01-1941/12/31

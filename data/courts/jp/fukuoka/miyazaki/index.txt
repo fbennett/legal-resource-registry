@@ -1,0 +1,3 @@
+.. category:: 宮崎
+   :category-id: jp:fukuoka:miyazaki
+   :en: Miyazaki

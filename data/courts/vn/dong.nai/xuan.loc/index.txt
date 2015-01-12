@@ -1,0 +1,3 @@
+.. category:: Xuân Lộc
+   :category-id: vn:dong.nai:xuan.loc
+   :en: Xuan Loc

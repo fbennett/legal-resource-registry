@@ -1,0 +1,3 @@
+.. category:: 小店区
+   :category-id: cn:shanxi:tai.yuan.shi:xiao.dian.qu
+   :en: Xiaodianqu

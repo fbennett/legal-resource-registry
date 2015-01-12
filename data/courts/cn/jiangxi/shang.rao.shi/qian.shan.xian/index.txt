@@ -1,0 +1,3 @@
+.. category:: 铅山县
+   :category-id: cn:jiangxi:shang.rao.shi:qian.shan.xian
+   :en: Qianshanxian

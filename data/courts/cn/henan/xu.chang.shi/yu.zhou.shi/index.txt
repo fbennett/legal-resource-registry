@@ -1,0 +1,3 @@
+.. category:: 禹州市
+   :category-id: cn:henan:xu.chang.shi:yu.zhou.shi
+   :en: Yuzhoushi

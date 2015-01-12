@@ -1,0 +1,3 @@
+.. category:: 华容区
+   :category-id: cn:hubei:e.zhou.shi:hua.rong.qu
+   :en: Huarongqu

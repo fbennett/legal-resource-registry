@@ -1,0 +1,3 @@
+.. category:: 玉林市
+   :category-id: cn:guangxi:yu.lin.shi
+   :en: Yulin City

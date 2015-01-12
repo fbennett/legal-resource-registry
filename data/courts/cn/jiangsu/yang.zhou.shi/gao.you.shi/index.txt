@@ -1,0 +1,3 @@
+.. category:: 高邮市
+   :category-id: cn:jiangsu:yang.zhou.shi:gao.you.shi
+   :en: Gaoyoushi

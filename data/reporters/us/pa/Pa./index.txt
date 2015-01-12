@@ -1,0 +1,21 @@
+.. reporter:: Pennsylvania State Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Pa.
+   :edition-abbreviation: Pa.
+   :dates: 1845/01/01-present
+
+   .. variation:: Pa.St.
+
+   .. variation:: Pa.State
+
+   .. variation:: Pa.Rep.
+
+   .. variation:: Penn.Rep.
+
+   .. variation:: P.S.R.
+
+   .. variation:: Penn.St.R.
+
+   .. variation:: Penn.St.
+
+   .. variation:: Penn.

@@ -1,0 +1,13 @@
+.. reporter:: Federal Reporter
+   :flp-series-cite-type: federal
+   :flp-common-abbreviation: F.
+   :edition-abbreviation: F.2d
+   :dates: 1924/01/01-1993/12/31
+
+   .. variation:: Fed.Rep.2d
+
+   .. variation:: F.2d.
+
+   .. variation:: F. 2d
+
+   .. variation:: Fed.R.2d

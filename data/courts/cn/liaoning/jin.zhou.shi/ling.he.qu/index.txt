@@ -1,0 +1,3 @@
+.. category:: 凌河区
+   :category-id: cn:liaoning:jin.zhou.shi:ling.he.qu
+   :en: Linghequ

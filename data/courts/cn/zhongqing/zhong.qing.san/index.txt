@@ -1,0 +1,3 @@
+.. category:: 重庆三
+   :category-id: cn:zhongqing:zhong.qing.san
+   :en: Zhongqingsan

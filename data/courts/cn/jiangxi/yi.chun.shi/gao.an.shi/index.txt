@@ -1,0 +1,3 @@
+.. category:: 高安市
+   :category-id: cn:jiangxi:yi.chun.shi:gao.an.shi
+   :en: Gaoanshi

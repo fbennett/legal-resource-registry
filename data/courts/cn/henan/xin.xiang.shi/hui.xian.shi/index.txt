@@ -1,0 +1,3 @@
+.. category:: 辉县市
+   :category-id: cn:henan:xin.xiang.shi:hui.xian.shi
+   :en: Huixianshi

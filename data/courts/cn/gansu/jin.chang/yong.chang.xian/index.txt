@@ -1,0 +1,3 @@
+.. category:: 永昌县
+   :category-id: cn:gansu:jin.chang:yong.chang.xian
+   :en: Yongchangxian

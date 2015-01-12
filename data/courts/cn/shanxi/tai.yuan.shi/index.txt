@@ -1,0 +1,3 @@
+.. category:: 太原市
+   :category-id: cn:shanxi:tai.yuan.shi
+   :en: Taiyuan City

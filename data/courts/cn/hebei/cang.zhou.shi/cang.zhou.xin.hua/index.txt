@@ -1,0 +1,3 @@
+.. category:: 沧州新华
+   :category-id: cn:hebei:cang.zhou.shi:cang.zhou.xin.hua
+   :en: Cangzhouxinhua

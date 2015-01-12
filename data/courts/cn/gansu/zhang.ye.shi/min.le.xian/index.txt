@@ -1,0 +1,3 @@
+.. category:: 民乐县
+   :category-id: cn:gansu:zhang.ye.shi:min.le.xian
+   :en: Minlexian

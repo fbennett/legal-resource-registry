@@ -1,0 +1,3 @@
+.. category:: 秀山县
+   :category-id: cn:zhongqing:zhong.qing.si:xiu.shan.xian
+   :en: Xiushanxian

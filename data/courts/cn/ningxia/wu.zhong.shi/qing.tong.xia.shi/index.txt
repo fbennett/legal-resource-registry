@@ -1,0 +1,3 @@
+.. category:: 青铜峡市
+   :category-id: cn:ningxia:wu.zhong.shi:qing.tong.xia.shi
+   :en: Qingtongxiashi

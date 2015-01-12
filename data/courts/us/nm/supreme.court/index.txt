@@ -1,0 +1,24 @@
+.. court:: Supreme Court
+   :court-id: us:nm;supreme.court
+   :url: https://nmsupremecourt.nmcourts.gov/index.php
+   :flp-key: nm
+
+   .. reporter-key:: Gild.
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: N.M.
+
+   .. reporter-key:: NM
+
+   .. reporter-key:: NMCERT
+
+   .. reporter-key:: NMSC
+
+   .. reporter-key:: P.
+
+   .. reporter-key:: P.2d
+
+   .. reporter-key:: P.3d
+
+   .. reporter-key:: WL

@@ -1,0 +1,3 @@
+.. category:: Can Lộc
+   :category-id: vn:ha.tinh:can.loc
+   :en: Can Loc

@@ -1,0 +1,3 @@
+.. category:: 通道县
+   :category-id: cn:hunan:huai.hua.shi:tong.dao.xian
+   :en: Tongdaoxian

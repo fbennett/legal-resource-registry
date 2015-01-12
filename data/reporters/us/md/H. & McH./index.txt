@@ -1,0 +1,5 @@
+.. reporter:: Maryland Reports, Harris and McHenry
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: H. & McH.
+   :edition-abbreviation: H. & McH.
+   :dates: 1770/01/01-1799/12/31

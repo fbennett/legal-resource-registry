@@ -1,0 +1,3 @@
+.. category:: 独山县
+   :category-id: cn:guizhou:qian.nan.zhou:du.shan.xian
+   :en: Dushanxian

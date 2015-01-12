@@ -1,0 +1,3 @@
+.. category:: Булган
+   :category-id: mn:bulgan
+   :en: Bulgan

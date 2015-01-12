@@ -1,0 +1,3 @@
+.. category:: 尖山区
+   :category-id: cn:heilongjiang:shuang.ya.shan.shi:jian.shan.qu
+   :en: Jianshanqu

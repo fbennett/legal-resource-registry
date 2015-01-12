@@ -1,0 +1,3 @@
+.. category:: 沧州市
+   :category-id: cn:hebei:cang.zhou.shi
+   :en: Cangzhou City

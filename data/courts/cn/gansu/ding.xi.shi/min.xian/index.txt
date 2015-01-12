@@ -1,0 +1,3 @@
+.. category:: 岷县
+   :category-id: cn:gansu:ding.xi.shi:min.xian
+   :en: Minxian

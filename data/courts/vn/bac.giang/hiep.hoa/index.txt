@@ -1,0 +1,3 @@
+.. category:: Hiệp Hòa
+   :category-id: vn:bac.giang:hiep.hoa
+   :en: Hiep Hoa

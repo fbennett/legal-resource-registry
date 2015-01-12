@@ -1,0 +1,5 @@
+.. reporter:: United States Law Week
+   :flp-series-cite-type: specialty
+   :flp-common-abbreviation: U.S.L.W.
+   :edition-abbreviation: U.S.L.W.
+   :dates: 1933/01/01-present

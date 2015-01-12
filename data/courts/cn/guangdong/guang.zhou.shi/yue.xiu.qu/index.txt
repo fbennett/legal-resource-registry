@@ -1,0 +1,3 @@
+.. category:: 越秀区
+   :category-id: cn:guangdong:guang.zhou.shi:yue.xiu.qu
+   :en: Yuexiuqu

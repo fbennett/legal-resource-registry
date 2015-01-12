@@ -1,0 +1,3 @@
+.. category:: 阿克陶县
+   :category-id: cn:xinjiang:ke.zi.le.su.ke.er.ke.zi.zhou:a.ke.tao.xian
+   :en: Aketaoxian

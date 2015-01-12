@@ -1,0 +1,3 @@
+.. category:: 樊城区
+   :category-id: cn:hubei:xiang.yang.shi:fan.cheng.qu
+   :en: Fanchengqu

@@ -1,0 +1,3 @@
+.. category:: 盖州市
+   :category-id: cn:liaoning:ying.kou.shi:gai.zhou.shi
+   :en: Gaizhoushi

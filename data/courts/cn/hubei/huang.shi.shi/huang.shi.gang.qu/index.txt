@@ -1,0 +1,3 @@
+.. category:: 黄石港区
+   :category-id: cn:hubei:huang.shi.shi:huang.shi.gang.qu
+   :en: Huangshigangqu

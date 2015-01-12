@@ -1,0 +1,3 @@
+.. category:: 成都市
+   :category-id: cn:sichuan:cheng.du.shi
+   :en: Chengdu City

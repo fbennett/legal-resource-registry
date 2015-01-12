@@ -1,0 +1,3 @@
+.. category:: 鄂城区
+   :category-id: cn:hubei:e.zhou.shi:e.cheng.qu
+   :en: Echengqu

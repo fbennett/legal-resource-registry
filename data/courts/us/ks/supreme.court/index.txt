@@ -1,0 +1,22 @@
+.. court:: Supreme Court
+   :court-id: us:ks;supreme.court
+   :url: http://www.kscourts.org/kansas-courts/supreme-court/
+   :flp-key: kan
+
+   .. reporter-key:: Kan.
+
+   .. reporter-key:: Kan. App.
+
+   .. reporter-key:: Kan. App. 2d
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: McCahon
+
+   .. reporter-key:: P.
+
+   .. reporter-key:: P.2d
+
+   .. reporter-key:: P.3d
+
+   .. reporter-key:: WL

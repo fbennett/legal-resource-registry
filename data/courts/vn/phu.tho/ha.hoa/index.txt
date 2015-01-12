@@ -1,0 +1,3 @@
+.. category:: Hạ Hòa
+   :category-id: vn:phu.tho:ha.hoa
+   :en: Ha Hoa

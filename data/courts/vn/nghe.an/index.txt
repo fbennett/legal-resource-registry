@@ -1,0 +1,3 @@
+.. category:: Nghệ An
+   :category-id: vn:nghe.an
+   :en: Nghe An

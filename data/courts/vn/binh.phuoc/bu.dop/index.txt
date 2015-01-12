@@ -1,0 +1,3 @@
+.. category:: Bù Đốp
+   :category-id: vn:binh.phuoc:bu.dop
+   :en: Bu Dop

@@ -1,0 +1,4 @@
+.. category:: Улаанбаатар
+   :category-id: mn:ulaanbaatar
+   :en: Ulan Bator
+

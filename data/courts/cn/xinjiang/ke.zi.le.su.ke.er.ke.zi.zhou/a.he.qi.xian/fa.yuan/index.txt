@@ -1,0 +1,3 @@
+.. court:: 法院
+   :court-id: cn:xinjiang:ke.zi.le.su.ke.er.ke.zi.zhou:a.he.qi.xian;fa.yuan
+   :en: District Court

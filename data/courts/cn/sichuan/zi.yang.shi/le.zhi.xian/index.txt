@@ -1,0 +1,3 @@
+.. category:: 乐至县
+   :category-id: cn:sichuan:zi.yang.shi:le.zhi.xian
+   :en: Lezhixian

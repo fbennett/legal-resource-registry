@@ -1,0 +1,3 @@
+.. category:: Tánh Linh
+   :category-id: vn:binh.thuan:tanh.linh
+   :en: Tanh Linh

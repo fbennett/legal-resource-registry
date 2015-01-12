@@ -1,0 +1,3 @@
+.. category:: 武义县
+   :category-id: cn:zhejiang:jin.hua.shi:wu.yi.xian
+   :en: Wuyixian

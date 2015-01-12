@@ -1,0 +1,3 @@
+.. category:: 秋田
+   :category-id: jp:sendai:akita
+   :en: Akita

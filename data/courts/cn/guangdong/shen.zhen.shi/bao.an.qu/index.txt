@@ -1,0 +1,3 @@
+.. category:: 宝安区
+   :category-id: cn:guangdong:shen.zhen.shi:bao.an.qu
+   :en: Baoanqu

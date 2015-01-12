@@ -1,0 +1,3 @@
+.. category:: Vị Thanh
+   :category-id: vn:hau.giang:vi.thanh
+   :en: Vi Thanh

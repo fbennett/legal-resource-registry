@@ -1,0 +1,3 @@
+.. category:: 耒阳市
+   :category-id: cn:hunan:heng.yang.shi:lei.yang.shi
+   :en: Leiyangshi

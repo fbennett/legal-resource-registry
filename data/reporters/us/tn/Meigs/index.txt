@@ -1,0 +1,7 @@
+.. reporter:: Tennessee Reports, Meigs
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Meigs
+   :edition-abbreviation: Meigs
+   :dates: 1838/01/01-1839/12/31
+
+   .. variation:: Tenn.(Meigs)

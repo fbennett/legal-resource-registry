@@ -1,0 +1,3 @@
+.. category:: Lục Yên
+   :category-id: vn:yen.bai:luc.yen
+   :en: Luc Yen

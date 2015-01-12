@@ -1,0 +1,3 @@
+.. category:: 麻山区
+   :category-id: cn:heilongjiang:ji.xi.shi:ma.shan.qu
+   :en: Mashanqu

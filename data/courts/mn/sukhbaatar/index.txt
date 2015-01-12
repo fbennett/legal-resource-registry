@@ -1,0 +1,3 @@
+.. category:: Сүхбаатар
+   :category-id: mn:sukhbaatar
+   :en: Sükhbaatar

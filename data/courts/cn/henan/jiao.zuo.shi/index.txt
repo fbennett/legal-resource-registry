@@ -1,0 +1,3 @@
+.. category:: 焦作市
+   :category-id: cn:henan:jiao.zuo.shi
+   :en: Jiaozuo City

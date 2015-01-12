@@ -1,0 +1,3 @@
+.. category:: 铁山区
+   :category-id: cn:hubei:huang.shi.shi:tie.shan.qu
+   :en: Tieshanqu

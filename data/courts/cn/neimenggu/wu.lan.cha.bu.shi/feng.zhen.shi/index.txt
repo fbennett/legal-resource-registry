@@ -1,0 +1,3 @@
+.. category:: 丰镇市
+   :category-id: cn:neimenggu:wu.lan.cha.bu.shi:feng.zhen.shi
+   :en: Fengzhenshi

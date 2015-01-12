@@ -1,0 +1,3 @@
+.. court:: 法院
+   :court-id: cn:sichuan:mei.shan.shi:ren.shou.xian;fa.yuan
+   :en: District Court

@@ -1,0 +1,3 @@
+.. category:: 岐阜
+   :category-id: jp:nagoya:gifu
+   :en: Gifu

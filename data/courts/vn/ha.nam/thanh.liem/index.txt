@@ -1,0 +1,3 @@
+.. category:: Thanh Liêm
+   :category-id: vn:ha.nam:thanh.liem
+   :en: Thanh Liem

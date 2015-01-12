@@ -1,0 +1,3 @@
+.. category:: 安乡县
+   :category-id: cn:hunan:chang.de.shi:an.xiang.xian
+   :en: Anxiangxian

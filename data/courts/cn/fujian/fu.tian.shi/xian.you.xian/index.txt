@@ -1,0 +1,3 @@
+.. category:: 仙游县
+   :category-id: cn:fujian:fu.tian.shi:xian.you.xian
+   :en: Xianyouxian

@@ -1,0 +1,3 @@
+.. category:: 达尔罕茂明安联合旗
+   :category-id: cn:neimenggu:bao.tou.shi:da.er.han.mao.ming.an.lian.he.qi
+   :en: Daerhanmaominganlianheqi

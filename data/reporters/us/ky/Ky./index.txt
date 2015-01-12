@@ -1,0 +1,5 @@
+.. reporter:: Kentucky Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Ky.
+   :edition-abbreviation: Ky.
+   :dates: 1879/01/01-1951/12/31

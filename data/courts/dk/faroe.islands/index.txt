@@ -1,0 +1,3 @@
+.. category:: Faroe Islands
+   :category-id: dk:faroe.islands
+

@@ -1,0 +1,3 @@
+.. category:: 鹤城区
+   :category-id: cn:hunan:huai.hua.shi:he.cheng.qu
+   :en: Hechengqu

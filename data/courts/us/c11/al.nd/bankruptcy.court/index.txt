@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c11:al.nd;bankruptcy.court
+   :url: http://www.alnb.uscourts.gov/
+   :flp-key: alnb
+
+   .. reporter-key:: B.R.

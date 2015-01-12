@@ -1,0 +1,3 @@
+.. category:: 阆中市
+   :category-id: cn:sichuan:nan.chong.shi:lang.zhong.shi
+   :en: Langzhongshi

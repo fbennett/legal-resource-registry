@@ -1,0 +1,3 @@
+.. category:: Lạng Giang
+   :category-id: vn:bac.giang:lang.giang
+   :en: Lang Giang

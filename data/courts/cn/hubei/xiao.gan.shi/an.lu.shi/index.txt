@@ -1,0 +1,3 @@
+.. category:: 安陆市
+   :category-id: cn:hubei:xiao.gan.shi:an.lu.shi
+   :en: Anlushi

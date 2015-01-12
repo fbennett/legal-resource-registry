@@ -1,0 +1,3 @@
+.. category:: 郧西县
+   :category-id: cn:hubei:shi.yan.shi:yun.xi.xian
+   :en: Yunxixian

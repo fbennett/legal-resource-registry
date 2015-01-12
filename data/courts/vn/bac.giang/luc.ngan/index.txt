@@ -1,0 +1,3 @@
+.. category:: Lục Ngạn
+   :category-id: vn:bac.giang:luc.ngan
+   :en: Luc Ngan

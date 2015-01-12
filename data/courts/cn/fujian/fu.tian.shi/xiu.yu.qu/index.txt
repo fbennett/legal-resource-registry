@@ -1,0 +1,3 @@
+.. category:: 秀屿区
+   :category-id: cn:fujian:fu.tian.shi:xiu.yu.qu
+   :en: Xiuyuqu

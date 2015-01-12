@@ -1,0 +1,3 @@
+.. category:: 北镇市
+   :category-id: cn:liaoning:jin.zhou.shi:bei.zhen.shi
+   :en: Beizhenshi

@@ -1,0 +1,3 @@
+.. category:: 兴业县
+   :category-id: cn:guangxi:yu.lin.shi:xing.ye.xian
+   :en: Xingyexian

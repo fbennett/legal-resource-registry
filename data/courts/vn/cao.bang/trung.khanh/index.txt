@@ -1,0 +1,3 @@
+.. category:: Trùng Khánh
+   :category-id: vn:cao.bang:trung.khanh
+   :en: Trung Khanh

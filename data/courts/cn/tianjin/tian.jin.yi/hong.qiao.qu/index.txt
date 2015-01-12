@@ -1,0 +1,3 @@
+.. category:: 红桥区
+   :category-id: cn:tianjin:tian.jin.yi:hong.qiao.qu
+   :en: Hongqiaoqu

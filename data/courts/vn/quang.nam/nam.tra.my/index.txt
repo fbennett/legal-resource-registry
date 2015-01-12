@@ -1,0 +1,3 @@
+.. category:: Nam Trà My
+   :category-id: vn:quang.nam:nam.tra.my
+   :en: Nam Tra My

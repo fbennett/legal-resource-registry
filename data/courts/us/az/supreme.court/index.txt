@@ -1,0 +1,20 @@
+.. court:: Supreme Court
+   :court-id: us:az;supreme.court
+   :url: http://www.azcourts.gov/azsupremecourt.aspx
+   :flp-key: ariz
+
+   .. reporter-key:: AZ
+
+   .. reporter-key:: Ariz.
+
+   .. reporter-key:: Ariz. App.
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: P.
+
+   .. reporter-key:: P.2d
+
+   .. reporter-key:: P.3d
+
+   .. reporter-key:: WL

@@ -1,0 +1,19 @@
+.. reporter:: New York Supreme Court Appellate Division Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: A.D.
+   :edition-abbreviation: A.D.
+   :dates: 1896/01/01-1955/12/31
+
+   .. variation:: N.Y.App.Div.
+
+   .. variation:: Ap.2d.
+
+   .. variation:: App.Div.2d.
+
+   .. variation:: App.Div.(N.Y.)
+
+   .. variation:: N.Y.App.Dec.
+
+   .. variation:: Ap.
+
+   .. variation:: App.Div.

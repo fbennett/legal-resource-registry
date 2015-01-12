@@ -1,0 +1,3 @@
+.. category:: 上海
+   :category-id: cn:shanghai
+   :en: Shanghai

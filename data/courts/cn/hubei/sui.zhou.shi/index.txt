@@ -1,0 +1,3 @@
+.. category:: 随州市
+   :category-id: cn:hubei:sui.zhou.shi
+   :en: Suizhou City

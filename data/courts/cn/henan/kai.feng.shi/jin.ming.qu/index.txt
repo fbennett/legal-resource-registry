@@ -1,0 +1,3 @@
+.. category:: 金明区
+   :category-id: cn:henan:kai.feng.shi:jin.ming.qu
+   :en: Jinmingqu

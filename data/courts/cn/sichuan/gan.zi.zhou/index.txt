@@ -1,0 +1,3 @@
+.. category:: 甘孜州
+   :category-id: cn:sichuan:gan.zi.zhou
+   :en: Ganzizhou

@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c9:gu.d;bankruptcy.court
+   :url: https://en.wikipedia.org/wiki/District_Court_of_Guam
+   :flp-key: gub
+
+   .. reporter-key:: B.R.

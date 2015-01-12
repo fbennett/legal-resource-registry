@@ -1,0 +1,3 @@
+.. category:: 翁牛特旗
+   :category-id: cn:neimenggu:chi.feng.shi:weng.niu.te.qi
+   :en: Wengniuteqi

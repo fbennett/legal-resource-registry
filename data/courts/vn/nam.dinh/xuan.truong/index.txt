@@ -1,0 +1,3 @@
+.. category:: Xuân Trường
+   :category-id: vn:nam.dinh:xuan.truong
+   :en: Xuan Truong

@@ -1,0 +1,3 @@
+.. category:: 二道江区
+   :category-id: cn:jilin:tong.hua.shi:er.dao.jiang.qu
+   :en: Erdaojiangqu

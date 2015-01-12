@@ -1,0 +1,3 @@
+.. court:: 中院
+   :court-id: cn:henan:kai.feng.shi;zhong.yuan
+   :en: Intermediate Court

@@ -1,0 +1,3 @@
+.. category:: 天镇县
+   :category-id: cn:shanxi:da.tong.shi:tian.zhen.xian
+   :en: Tianzhenxian

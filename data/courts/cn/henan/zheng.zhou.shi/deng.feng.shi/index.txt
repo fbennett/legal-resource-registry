@@ -1,0 +1,3 @@
+.. category:: 登封市
+   :category-id: cn:henan:zheng.zhou.shi:deng.feng.shi
+   :en: Dengfengshi

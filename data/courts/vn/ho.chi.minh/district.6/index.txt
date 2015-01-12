@@ -1,0 +1,3 @@
+.. category:: District 6
+   :category-id: vn:ho.chi.minh:district.6
+   :en: District 6

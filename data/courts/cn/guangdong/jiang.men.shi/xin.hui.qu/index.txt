@@ -1,0 +1,3 @@
+.. category:: 新会区
+   :category-id: cn:guangdong:jiang.men.shi:xin.hui.qu
+   :en: Xinhuiqu

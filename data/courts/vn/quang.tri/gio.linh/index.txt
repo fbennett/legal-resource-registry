@@ -1,0 +1,3 @@
+.. category:: Gio Linh
+   :category-id: vn:quang.tri:gio.linh
+   :en: Gio Linh

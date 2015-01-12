@@ -1,0 +1,3 @@
+.. category:: 新民市
+   :category-id: cn:liaoning:chen.yang.shi:xin.min.shi
+   :en: Xinminshi

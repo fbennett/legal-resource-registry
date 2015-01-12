@@ -1,0 +1,3 @@
+.. category:: Đắk Tô
+   :category-id: vn:kon.tum:dak.to
+   :en: Dak To

@@ -1,0 +1,3 @@
+.. category:: Tân Hồng
+   :category-id: vn:dong.thap:tan.hong
+   :en: Tan Hong

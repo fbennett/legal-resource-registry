@@ -1,0 +1,3 @@
+.. category:: 延平区
+   :category-id: cn:fujian:nan.ping.shi:yan.ping.qu
+   :en: Yanpingqu

@@ -1,0 +1,3 @@
+.. category:: Qui Nhơn
+   :category-id: vn:binh.dinh:qui.nhon
+   :en: Qui Nhon

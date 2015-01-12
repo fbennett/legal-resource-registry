@@ -1,0 +1,4 @@
+.. court:: Federal Court of Appeal
+   :court-id: ca;federal.court.appeal
+   :en: Federal Court of Appeal
+   :url: http://www.bchrt.bc.ca/

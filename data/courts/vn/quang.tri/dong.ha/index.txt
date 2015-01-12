@@ -1,0 +1,3 @@
+.. category:: Đông Hà
+   :category-id: vn:quang.tri:dong.ha
+   :en: Dong Ha

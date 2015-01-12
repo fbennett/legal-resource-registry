@@ -1,0 +1,3 @@
+.. category:: 兰溪市
+   :category-id: cn:zhejiang:jin.hua.shi:lan.xi.shi
+   :en: Lanxishi

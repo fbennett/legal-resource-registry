@@ -1,0 +1,3 @@
+.. category:: 怀集县
+   :category-id: cn:guangdong:zhao.qing.shi:huai.ji.xian
+   :en: Huaijixian

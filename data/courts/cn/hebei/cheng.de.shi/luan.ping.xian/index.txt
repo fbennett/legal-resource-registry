@@ -1,0 +1,3 @@
+.. category:: 滦平县
+   :category-id: cn:hebei:cheng.de.shi:luan.ping.xian
+   :en: Luanpingxian

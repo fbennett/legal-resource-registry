@@ -1,0 +1,3 @@
+.. court:: 中院
+   :court-id: cn:sichuan:gan.zi.zhou;zhong.yuan
+   :en: Intermediate Court

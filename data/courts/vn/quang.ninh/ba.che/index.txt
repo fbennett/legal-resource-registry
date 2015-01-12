@@ -1,0 +1,3 @@
+.. category:: Ba Chẽ
+   :category-id: vn:quang.ninh:ba.che
+   :en: Ba Che

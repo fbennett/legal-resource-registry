@@ -1,0 +1,3 @@
+.. category:: 中卫市
+   :category-id: cn:ningxia:zhong.wei.shi
+   :en: Zhongwei City

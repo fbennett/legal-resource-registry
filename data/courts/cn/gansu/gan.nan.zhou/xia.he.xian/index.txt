@@ -1,0 +1,3 @@
+.. category:: 夏河县
+   :category-id: cn:gansu:gan.nan.zhou:xia.he.xian
+   :en: Xiahexian

@@ -1,0 +1,3 @@
+.. category:: Sơn Động
+   :category-id: vn:bac.giang:son.dong
+   :en: Son Dong

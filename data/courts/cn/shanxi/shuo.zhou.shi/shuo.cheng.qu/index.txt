@@ -1,0 +1,3 @@
+.. category:: 朔城区
+   :category-id: cn:shanxi:shuo.zhou.shi:shuo.cheng.qu
+   :en: Shuochengqu

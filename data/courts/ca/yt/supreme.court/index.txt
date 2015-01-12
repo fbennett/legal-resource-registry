@@ -1,0 +1,4 @@
+.. court:: Supreme Court
+   :court-id: ca:yt;supreme.court
+   :en: Supreme Court
+   :url: http://www.nwtcourts.ca/Courts/sc.htm

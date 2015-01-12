@@ -1,0 +1,3 @@
+.. category:: 大祥区
+   :category-id: cn:hunan:shao.yang.shi:da.xiang.qu
+   :en: Daxiangqu

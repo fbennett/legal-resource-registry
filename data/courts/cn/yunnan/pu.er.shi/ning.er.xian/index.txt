@@ -1,0 +1,3 @@
+.. category:: 宁洱县
+   :category-id: cn:yunnan:pu.er.shi:ning.er.xian
+   :en: Ningerxian

@@ -1,0 +1,3 @@
+.. category:: Hồng Dân
+   :category-id: vn:bac.lieu:hong.dan
+   :en: Hong Dan

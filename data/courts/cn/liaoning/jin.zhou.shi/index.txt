@@ -1,0 +1,3 @@
+.. category:: 锦州市
+   :category-id: cn:liaoning:jin.zhou.shi
+   :en: Jinzhou City

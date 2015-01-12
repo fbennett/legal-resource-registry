@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c9:mp.d;bankruptcy.court
+   :url: http://www.nmid.uscourts.gov/
+   :flp-key: nmib
+
+   .. reporter-key:: B.R.

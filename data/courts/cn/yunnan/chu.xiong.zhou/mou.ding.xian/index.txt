@@ -1,0 +1,3 @@
+.. category:: 牟定县
+   :category-id: cn:yunnan:chu.xiong.zhou:mou.ding.xian
+   :en: Moudingxian

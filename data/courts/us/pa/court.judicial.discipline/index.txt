@@ -1,0 +1,4 @@
+.. court:: Court of Judicial Discipline
+   :court-id: us:pa;court.judicial.discipline
+   :url: http://www.pacourts.us/courts/court-of-judicial-discipline
+   :flp-key: cjdpa

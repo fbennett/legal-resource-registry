@@ -1,0 +1,16 @@
+.. court:: Supreme Court
+   :court-id: us:id;supreme.court
+   :url: http://www.isc.idaho.gov/
+   :flp-key: idaho
+
+   .. reporter-key:: Idaho
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: P.
+
+   .. reporter-key:: P.2d
+
+   .. reporter-key:: P.3d
+
+   .. reporter-key:: WL

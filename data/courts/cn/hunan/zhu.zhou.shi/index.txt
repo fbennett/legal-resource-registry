@@ -1,0 +1,3 @@
+.. category:: 株洲市
+   :category-id: cn:hunan:zhu.zhou.shi
+   :en: Zhuzhou City

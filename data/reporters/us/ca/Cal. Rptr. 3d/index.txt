@@ -1,0 +1,11 @@
+.. reporter:: West's California Reporter
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Cal. Rptr.
+   :edition-abbreviation: Cal. Rptr. 3d
+   :dates: 2003/01/01-present
+
+   .. variation:: Cal.Rptr. 3d
+
+   .. variation:: Cal. Rptr.3d
+
+   .. variation:: Cal.Rptr.3d

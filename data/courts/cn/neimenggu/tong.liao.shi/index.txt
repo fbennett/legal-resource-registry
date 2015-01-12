@@ -1,0 +1,3 @@
+.. category:: 通辽市
+   :category-id: cn:neimenggu:tong.liao.shi
+   :en: Tongliao City

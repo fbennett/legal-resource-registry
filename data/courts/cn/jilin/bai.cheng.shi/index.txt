@@ -1,0 +1,3 @@
+.. category:: 白城市
+   :category-id: cn:jilin:bai.cheng.shi
+   :en: Baicheng City

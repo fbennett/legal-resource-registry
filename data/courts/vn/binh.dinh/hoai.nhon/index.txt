@@ -1,0 +1,3 @@
+.. category:: Hoài Nhơn
+   :category-id: vn:binh.dinh:hoai.nhon
+   :en: Hoai Nhon

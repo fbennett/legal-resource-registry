@@ -1,0 +1,5 @@
+.. reporter:: Florida Supplement
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Fla. Supp.
+   :edition-abbreviation: Fla. Supp. 2d
+   :dates: 1983/01/01-1992/12/31

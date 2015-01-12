@@ -1,0 +1,3 @@
+.. category:: 彰武县
+   :category-id: cn:liaoning:fu.xin.shi:zhang.wu.xian
+   :en: Zhangwuxian

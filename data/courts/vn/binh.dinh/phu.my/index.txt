@@ -1,0 +1,3 @@
+.. category:: Phù Mỹ
+   :category-id: vn:binh.dinh:phu.my
+   :en: Phu My

@@ -1,0 +1,3 @@
+.. category:: 城北区
+   :category-id: cn:qinghai:xi.ning.shi:cheng.bei.qu
+   :en: Chengbeiqu

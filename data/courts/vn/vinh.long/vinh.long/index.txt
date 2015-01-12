@@ -1,0 +1,3 @@
+.. category:: Vĩnh Long
+   :category-id: vn:vinh.long:vinh.long
+   :en: Vinh Long

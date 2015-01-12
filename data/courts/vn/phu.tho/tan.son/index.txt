@@ -1,0 +1,3 @@
+.. category:: Tân Sơn
+   :category-id: vn:phu.tho:tan.son
+   :en: Tan Son

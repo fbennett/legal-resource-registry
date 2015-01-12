@@ -1,0 +1,4 @@
+.. court:: Court of Appeal
+   :court-id: ca:yt;court.appeal
+   :en: Court of Appeal
+   :url: http://www.nwtcourts.ca/Courts/ca.htm

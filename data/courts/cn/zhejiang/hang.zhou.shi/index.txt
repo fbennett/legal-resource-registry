@@ -1,0 +1,3 @@
+.. category:: 杭州市
+   :category-id: cn:zhejiang:hang.zhou.shi
+   :en: Hangzhou City

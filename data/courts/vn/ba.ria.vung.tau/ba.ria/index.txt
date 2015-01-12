@@ -1,0 +1,3 @@
+.. category:: Bà Rịa
+   :category-id: vn:ba.ria.vung.tau:ba.ria
+   :en: Ba Ria

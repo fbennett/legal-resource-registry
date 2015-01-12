@@ -1,0 +1,3 @@
+.. category:: 连山县
+   :category-id: cn:guangdong:qing.yuan.shi:lian.shan.xian
+   :en: Lianshanxian

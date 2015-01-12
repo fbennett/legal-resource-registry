@@ -1,0 +1,4 @@
+.. court:: 中院
+   :court-id: cn:henan:ji.yuan;zhong.yuan
+   :en: Intermediate Court
+   :url: http://jyzy.chinacourt.org/&usg=ALkJrhi6UT11LBkUOt_mSHIkBNLlNjBHcg

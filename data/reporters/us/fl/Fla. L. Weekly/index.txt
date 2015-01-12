@@ -1,0 +1,5 @@
+.. reporter:: Florida Law Weekly
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Fla. L. Weekly
+   :edition-abbreviation: Fla. L. Weekly
+   :dates: 1978/01/01-present

@@ -1,0 +1,3 @@
+.. category:: 永靖县
+   :category-id: cn:gansu:lin.xia.zhou:yong.jing.xian
+   :en: Yongjingxian

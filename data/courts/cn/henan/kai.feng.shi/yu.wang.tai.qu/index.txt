@@ -1,0 +1,3 @@
+.. category:: 禹王台区
+   :category-id: cn:henan:kai.feng.shi:yu.wang.tai.qu
+   :en: Yuwangtaiqu

@@ -1,0 +1,3 @@
+.. category:: 任城区
+   :category-id: cn:shandong:ji.ning.shi:ren.cheng.qu
+   :en: Renchengqu

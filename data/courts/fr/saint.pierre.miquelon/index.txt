@@ -1,0 +1,3 @@
+.. category:: Saint Pierre and Miquelon
+   :category-id: fr:saint.pierre.miquelon
+

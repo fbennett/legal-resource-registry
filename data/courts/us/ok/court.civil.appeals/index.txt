@@ -1,0 +1,6 @@
+.. court:: Court of Civil Appeals
+   :court-id: us:ok;court.civil.appeals
+   :url: http://www.oscn.net/oscn/schome/civilappeals.htm
+   :flp-key: oklacivapp
+
+   .. reporter-key:: OK CIV APP

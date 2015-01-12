@@ -1,0 +1,3 @@
+.. category:: Vĩnh Bảo
+   :category-id: vn:hai.phong:vinh.bao
+   :en: Vinh Bao

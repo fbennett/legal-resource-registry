@@ -1,0 +1,3 @@
+.. category:: 广德县
+   :category-id: cn:anhui:xuan.cheng.shi:guang.de.xian
+   :en: Guangdexian

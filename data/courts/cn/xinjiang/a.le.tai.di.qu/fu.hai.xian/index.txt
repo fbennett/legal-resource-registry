@@ -1,0 +1,3 @@
+.. category:: 福海县
+   :category-id: cn:xinjiang:a.le.tai.di.qu:fu.hai.xian
+   :en: Fuhaixian

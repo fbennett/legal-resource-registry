@@ -1,0 +1,3 @@
+.. category:: 阿拉善左旗
+   :category-id: cn:neimenggu:a.la.shan.meng:a.la.shan.zuo.qi
+   :en: Alashanzuoqi

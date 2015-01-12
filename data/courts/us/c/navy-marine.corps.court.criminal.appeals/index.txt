@@ -1,0 +1,4 @@
+.. court:: Navy-Marine Corps Court of Criminal Appeals
+   :court-id: us:c;navy-marine.corps.court.criminal.appeals
+   :url: http://www.jag.navy.mil/
+   :flp-key: nmcca

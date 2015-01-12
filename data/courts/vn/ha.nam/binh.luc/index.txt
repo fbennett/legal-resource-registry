@@ -1,0 +1,3 @@
+.. category:: Bình Lục
+   :category-id: vn:ha.nam:binh.luc
+   :en: Binh Luc

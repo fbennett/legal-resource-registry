@@ -1,0 +1,3 @@
+.. category:: 昭觉县
+   :category-id: cn:sichuan:liang.shan.zhou:zhao.jue.xian
+   :en: Zhaojuexian

@@ -1,0 +1,3 @@
+.. category:: 邢台市
+   :category-id: cn:hebei:xing.tai.shi
+   :en: Xingtai City

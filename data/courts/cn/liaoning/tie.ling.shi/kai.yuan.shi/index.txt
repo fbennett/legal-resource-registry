@@ -1,0 +1,3 @@
+.. category:: 开原市
+   :category-id: cn:liaoning:tie.ling.shi:kai.yuan.shi
+   :en: Kaiyuanshi

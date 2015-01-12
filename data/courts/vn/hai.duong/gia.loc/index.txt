@@ -1,0 +1,3 @@
+.. category:: Gia Lộc
+   :category-id: vn:hai.duong:gia.loc
+   :en: Gia Loc

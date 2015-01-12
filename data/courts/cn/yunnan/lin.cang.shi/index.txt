@@ -1,0 +1,3 @@
+.. category:: 临沧市
+   :category-id: cn:yunnan:lin.cang.shi
+   :en: Lincang City

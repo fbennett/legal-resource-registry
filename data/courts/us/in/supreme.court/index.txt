@@ -1,0 +1,18 @@
+.. court:: Supreme Court
+   :court-id: us:in;supreme.court
+   :url: http://www.in.gov/judiciary/supreme/
+   :flp-key: ind
+
+   .. reporter-key:: Blackf.
+
+   .. reporter-key:: Ind.
+
+   .. reporter-key:: Ind. App.
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: N.E.
+
+   .. reporter-key:: N.E.2d
+
+   .. reporter-key:: WL

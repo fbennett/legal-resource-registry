@@ -1,0 +1,4 @@
+.. court:: Court of Queen's Bench
+   :court-id: ca:sk;court.queens.bench
+   :en: Court of Queen's Bench
+   :url: http://www.ontariocourts.on.ca/scj.htm

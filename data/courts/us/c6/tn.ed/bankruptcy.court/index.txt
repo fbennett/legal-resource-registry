@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c6:tn.ed;bankruptcy.court
+   :url: http://www.tneb.uscourts.gov/
+   :flp-key: tneb
+
+   .. reporter-key:: B.R.

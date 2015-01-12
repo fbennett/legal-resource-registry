@@ -1,0 +1,3 @@
+.. category:: 都匀市
+   :category-id: cn:guizhou:qian.nan.zhou:du.yun.shi
+   :en: Duyunshi

@@ -1,0 +1,3 @@
+.. category:: 岑溪市
+   :category-id: cn:guangxi:wu.zhou.shi:cen.xi.shi
+   :en: Cenxishi

@@ -1,0 +1,3 @@
+.. category:: Ninh Sơn
+   :category-id: vn:ninh.thuan:ninh.son
+   :en: Ninh Son

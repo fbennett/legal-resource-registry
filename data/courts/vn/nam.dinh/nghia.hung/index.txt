@@ -1,0 +1,3 @@
+.. category:: Nghĩa Hưng
+   :category-id: vn:nam.dinh:nghia.hung
+   :en: Nghia Hung

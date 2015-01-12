@@ -1,0 +1,3 @@
+.. category:: 北京铁路运输
+   :category-id: cn:beijing:bei.jing.tie.lu:bei.jing.tie.lu.yun.shu
+   :en: Beijingtieluyunshu

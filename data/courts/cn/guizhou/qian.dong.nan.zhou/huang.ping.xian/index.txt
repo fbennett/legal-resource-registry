@@ -1,0 +1,3 @@
+.. category:: 黄平县
+   :category-id: cn:guizhou:qian.dong.nan.zhou:huang.ping.xian
+   :en: Huangpingxian

@@ -1,0 +1,3 @@
+.. category:: 昌平区
+   :category-id: cn:beijing:bei.jing.yi:chang.ping.qu
+   :en: Changpingqu

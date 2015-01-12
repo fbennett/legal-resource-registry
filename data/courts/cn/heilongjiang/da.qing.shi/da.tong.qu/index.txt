@@ -1,0 +1,3 @@
+.. category:: 大同区
+   :category-id: cn:heilongjiang:da.qing.shi:da.tong.qu
+   :en: Datongqu

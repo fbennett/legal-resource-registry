@@ -1,0 +1,3 @@
+.. category:: 烟台市
+   :category-id: cn:shandong:yan.tai.shi
+   :en: Yantai City

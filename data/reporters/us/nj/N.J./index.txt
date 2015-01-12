@@ -1,0 +1,5 @@
+.. reporter:: New Jersey Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: N.J.
+   :edition-abbreviation: N.J.
+   :dates: 1948/01/01-present

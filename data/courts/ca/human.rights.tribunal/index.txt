@@ -1,0 +1,4 @@
+.. court:: Human Rights Tribunal
+   :court-id: ca;human.rights.tribunal
+   :en: Human Rights Tribunal
+   :url: http://www.ct-tc.gc.ca/

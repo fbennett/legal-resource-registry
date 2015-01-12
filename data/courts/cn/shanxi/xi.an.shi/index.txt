@@ -1,0 +1,3 @@
+.. category:: 西安市
+   :category-id: cn:shanxi:xi.an.shi
+   :en: Xian City

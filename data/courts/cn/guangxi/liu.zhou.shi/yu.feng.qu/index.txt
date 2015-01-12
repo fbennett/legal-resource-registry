@@ -1,0 +1,3 @@
+.. category:: 鱼峰区
+   :category-id: cn:guangxi:liu.zhou.shi:yu.feng.qu
+   :en: Yufengqu

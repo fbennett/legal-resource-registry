@@ -1,0 +1,20 @@
+.. court:: Supreme Court
+   :court-id: us:or;supreme.court
+   :url: http://www.publications.ojd.state.or.us/Pages/OpinionsSC.aspx
+   :flp-key: or
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: Or.
+
+   .. reporter-key:: Or. App.
+
+   .. reporter-key:: Or. Tax
+
+   .. reporter-key:: P.
+
+   .. reporter-key:: P.2d
+
+   .. reporter-key:: P.3d
+
+   .. reporter-key:: WL

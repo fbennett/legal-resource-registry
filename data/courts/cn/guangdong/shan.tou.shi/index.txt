@@ -1,0 +1,3 @@
+.. category:: 汕头市
+   :category-id: cn:guangdong:shan.tou.shi
+   :en: Shantou City

@@ -1,0 +1,3 @@
+.. category:: Kiến Thuỵ
+   :category-id: vn:hai.phong:kien.thuy
+   :en: Kien Thuy

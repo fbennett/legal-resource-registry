@@ -1,0 +1,5 @@
+.. reporter:: Alabama Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Ala.
+   :edition-abbreviation: Ala. 2d
+   :dates: 1977/01/01-present

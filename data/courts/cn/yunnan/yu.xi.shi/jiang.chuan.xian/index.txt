@@ -1,0 +1,3 @@
+.. category:: 江川县
+   :category-id: cn:yunnan:yu.xi.shi:jiang.chuan.xian
+   :en: Jiangchuanxian

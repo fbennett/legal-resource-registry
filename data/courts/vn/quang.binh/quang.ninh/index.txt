@@ -1,0 +1,3 @@
+.. category:: Quảng Ninh
+   :category-id: vn:quang.binh:quang.ninh
+   :en: Quang Ninh

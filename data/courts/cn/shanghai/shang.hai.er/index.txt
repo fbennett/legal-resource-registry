@@ -1,0 +1,3 @@
+.. category:: 上海二
+   :category-id: cn:shanghai:shang.hai.er
+   :en: Shanghaier

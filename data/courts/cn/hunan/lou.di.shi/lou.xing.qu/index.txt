@@ -1,0 +1,3 @@
+.. category:: 娄星区
+   :category-id: cn:hunan:lou.di.shi:lou.xing.qu
+   :en: Louxingqu

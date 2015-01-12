@@ -1,0 +1,2 @@
+.. category:: Wyoming
+   :category-id: us:wy

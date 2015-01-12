@@ -1,0 +1,3 @@
+.. category:: Thuận Thành
+   :category-id: vn:bac.ninh:thuan.thanh
+   :en: Thuan Thanh

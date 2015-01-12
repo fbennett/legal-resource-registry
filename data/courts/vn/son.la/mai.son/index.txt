@@ -1,0 +1,3 @@
+.. category:: Mai Sơn
+   :category-id: vn:son.la:mai.son
+   :en: Mai Son

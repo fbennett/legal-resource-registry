@@ -1,0 +1,3 @@
+.. category:: 许昌市
+   :category-id: cn:henan:xu.chang.shi
+   :en: Xuchang City

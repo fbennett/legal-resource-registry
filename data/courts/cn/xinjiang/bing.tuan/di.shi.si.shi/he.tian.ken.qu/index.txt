@@ -1,0 +1,3 @@
+.. category:: 和田垦区
+   :category-id: cn:xinjiang:bing.tuan:di.shi.si.shi:he.tian.ken.qu
+   :en: Hetiankenqu

@@ -1,0 +1,22 @@
+.. court:: District Court
+   :court-id: us:c9:mp.d;district.court
+   :url: http://www.nmid.uscourts.gov/
+   :flp-key: nmid
+
+   .. reporter-key:: F. Supp.
+
+   .. reporter-key:: F. Supp. 2d
+
+   .. reporter-key:: F.R.D.
+
+   .. reporter-key:: Fed. R. Serv.
+
+   .. reporter-key:: Fed. R. Serv. 2d
+
+   .. reporter-key:: Fed. R. Serv. 3d
+
+   .. reporter-key:: N. Mar. I.
+
+   .. reporter-key:: N. Mar. I. Commw. Rptr.
+
+   .. reporter-key:: U.S. Dist. LEXIS

@@ -1,0 +1,3 @@
+.. category:: 北关区
+   :category-id: cn:henan:an.yang.shi:bei.guan.qu
+   :en: Beiguanqu

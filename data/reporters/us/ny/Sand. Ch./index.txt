@@ -1,0 +1,13 @@
+.. reporter:: Sandford's Chancery Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Sand. Ch.
+   :edition-abbreviation: Sand. Ch.
+   :dates: 1843/01/01-1847/12/31
+
+   .. variation:: Sandf.Chy.
+
+   .. variation:: Sandf.Ch.
+
+   .. variation:: Sand.Chy.
+
+   .. variation:: Sandf.Ch.(N.Y.)

@@ -1,0 +1,7 @@
+.. reporter:: Kentucky Reports, Duvall
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Duv.
+   :edition-abbreviation: Duv.
+   :dates: 1863/01/01-1866/12/31
+
+   .. variation:: Ky.(Duv.)

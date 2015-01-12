@@ -1,0 +1,3 @@
+.. category:: 乐昌市
+   :category-id: cn:guangdong:shao.guan.shi:le.chang.shi
+   :en: Lechangshi

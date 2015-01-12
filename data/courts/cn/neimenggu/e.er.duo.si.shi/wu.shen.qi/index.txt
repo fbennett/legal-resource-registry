@@ -1,0 +1,3 @@
+.. category:: 乌审旗
+   :category-id: cn:neimenggu:e.er.duo.si.shi:wu.shen.qi
+   :en: Wushenqi

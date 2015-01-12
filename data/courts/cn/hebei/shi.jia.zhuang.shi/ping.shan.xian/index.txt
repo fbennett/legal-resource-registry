@@ -1,0 +1,3 @@
+.. category:: 平山县
+   :category-id: cn:hebei:shi.jia.zhuang.shi:ping.shan.xian
+   :en: Pingshanxian

@@ -1,0 +1,3 @@
+.. category:: 英吉沙县
+   :category-id: cn:xinjiang:ka.shi.di.qu:ying.ji.sha.xian
+   :en: Yingjishaxian

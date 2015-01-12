@@ -1,0 +1,3 @@
+.. category:: 北市区
+   :category-id: cn:hebei:bao.ding.shi:bei.shi.qu
+   :en: Beishiqu

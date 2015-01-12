@@ -1,0 +1,3 @@
+.. category:: 仁和区
+   :category-id: cn:sichuan:pan.zhi.hua.shi:ren.he.qu
+   :en: Renhequ

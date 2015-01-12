@@ -1,0 +1,3 @@
+.. category:: 五大连池市
+   :category-id: cn:heilongjiang:hei.he.shi:wu.da.lian.chi.shi
+   :en: Wudalianchishi

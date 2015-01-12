@@ -1,0 +1,4 @@
+.. court:: Court of Military Commission Review
+   :court-id: us:c;court.military.commission.review
+   :url: http://www.mc.mil/cases/USCourtofMilitaryCommissionReview.aspx
+   :flp-key: mc

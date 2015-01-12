@@ -1,0 +1,3 @@
+.. category:: 闸北区
+   :category-id: cn:shanghai:shang.hai.er:zha.bei.qu
+   :en: Zhabeiqu

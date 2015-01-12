@@ -1,0 +1,3 @@
+.. category:: 阳江市
+   :category-id: cn:guangdong:yang.jiang.shi
+   :en: Yangjiang City

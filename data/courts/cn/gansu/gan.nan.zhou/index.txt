@@ -1,0 +1,3 @@
+.. category:: 甘南州
+   :category-id: cn:gansu:gan.nan.zhou
+   :en: Gannanzhou

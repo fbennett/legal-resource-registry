@@ -1,0 +1,9 @@
+.. reporter:: Wyoming Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Wyo.
+   :edition-abbreviation: Wyo.
+   :dates: 1870/01/01-1959/12/31
+
+   .. variation:: W.
+
+   .. variation:: Wy.

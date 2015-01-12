@@ -1,0 +1,3 @@
+.. category:: Lương Tài
+   :category-id: vn:bac.ninh:luong.tai
+   :en: Luong Tai

@@ -1,0 +1,3 @@
+.. category:: 站前区
+   :category-id: cn:liaoning:ying.kou.shi:zhan.qian.qu
+   :en: Zhanqianqu

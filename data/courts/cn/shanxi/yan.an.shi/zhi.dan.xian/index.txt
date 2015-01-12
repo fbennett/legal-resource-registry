@@ -1,0 +1,3 @@
+.. category:: 志丹县
+   :category-id: cn:shanxi:yan.an.shi:zhi.dan.xian
+   :en: Zhidanxian

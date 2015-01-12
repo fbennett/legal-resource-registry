@@ -1,0 +1,3 @@
+.. category:: 望奎县
+   :category-id: cn:heilongjiang:sui.hua.shi:wang.kui.xian
+   :en: Wangkuixian

@@ -1,0 +1,3 @@
+.. category:: 阳泉市郊区
+   :category-id: cn:shanxi:yang.quan.shi:yang.quan.shi.jiao.qu
+   :en: Yangquanshijiaoqu

@@ -1,0 +1,19 @@
+.. reporter:: Johnsons' Chancery Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Johns. Ch.
+   :edition-abbreviation: Johns. Ch.
+   :dates: 1814/01/01-1823/12/31
+
+   .. variation:: Johns.
+
+   .. variation:: Johns.Rep.
+
+   .. variation:: Johnson
+
+   .. variation:: Johns.(N.Y.)
+
+   .. variation:: Johns.Ch.Cas.
+
+   .. variation:: J.Ch.
+
+   .. variation:: Johns.Ch.(N.Y.)

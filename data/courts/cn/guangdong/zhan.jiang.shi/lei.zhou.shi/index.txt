@@ -1,0 +1,3 @@
+.. category:: 雷州市
+   :category-id: cn:guangdong:zhan.jiang.shi:lei.zhou.shi
+   :en: Leizhoushi

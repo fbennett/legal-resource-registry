@@ -1,0 +1,18 @@
+.. court:: Supreme Court
+   :court-id: us:nd;supreme.court
+   :url: http://www.ndcourts.gov/default.htm
+   :flp-key: nd
+
+   .. reporter-key:: Dakota
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: N.D.
+
+   .. reporter-key:: N.W.
+
+   .. reporter-key:: N.W.2d
+
+   .. reporter-key:: ND
+
+   .. reporter-key:: WL

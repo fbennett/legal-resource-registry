@@ -1,0 +1,11 @@
+.. reporter:: Federal Supplement
+   :flp-series-cite-type: federal
+   :flp-common-abbreviation: F. Supp.
+   :edition-abbreviation: F. Supp. 2d
+   :dates: 1988/01/01-present
+
+   .. variation:: F.Supp. 2d
+
+   .. variation:: F.Supp.2d
+
+   .. variation:: F. Supp.2d

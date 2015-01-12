@@ -1,0 +1,3 @@
+.. category:: Hải Châu
+   :category-id: vn:da.nang:hai.chau
+   :en: Hai Chau

@@ -1,0 +1,3 @@
+.. category:: 龙里县
+   :category-id: cn:guizhou:qian.nan.zhou:long.li.xian
+   :en: Longlixian

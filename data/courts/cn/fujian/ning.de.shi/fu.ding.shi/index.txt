@@ -1,0 +1,3 @@
+.. category:: 福鼎市
+   :category-id: cn:fujian:ning.de.shi:fu.ding.shi
+   :en: Fudingshi

@@ -1,0 +1,5 @@
+.. reporter:: LexisNexis U.S. District Court Citation
+   :flp-series-cite-type: specialty_lexis
+   :flp-common-abbreviation: U.S. Dist. LEXIS
+   :edition-abbreviation: U.S. Dist. LEXIS
+   :dates: 1750/01/01-present

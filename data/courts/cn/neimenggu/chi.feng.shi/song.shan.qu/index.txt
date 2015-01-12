@@ -1,0 +1,3 @@
+.. category:: 松山区
+   :category-id: cn:neimenggu:chi.feng.shi:song.shan.qu
+   :en: Songshanqu

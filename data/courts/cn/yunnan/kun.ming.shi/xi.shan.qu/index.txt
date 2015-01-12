@@ -1,0 +1,3 @@
+.. category:: 西山区
+   :category-id: cn:yunnan:kun.ming.shi:xi.shan.qu
+   :en: Xishanqu

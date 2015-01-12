@@ -1,0 +1,3 @@
+.. category:: 福州市
+   :category-id: cn:fujian:fu.zhou.shi
+   :en: Fuzhou City

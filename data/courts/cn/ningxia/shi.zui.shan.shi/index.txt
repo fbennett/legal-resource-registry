@@ -1,0 +1,3 @@
+.. category:: 石嘴山市
+   :category-id: cn:ningxia:shi.zui.shan.shi
+   :en: Shizuishan City

@@ -1,0 +1,3 @@
+.. category:: 久治县
+   :category-id: cn:qinghai:guo.luo.zhou:jiu.zhi.xian
+   :en: Jiuzhixian

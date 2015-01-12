@@ -1,0 +1,3 @@
+.. category:: Hồng Bàng
+   :category-id: vn:hai.phong:hong.bang
+   :en: Hong Bang

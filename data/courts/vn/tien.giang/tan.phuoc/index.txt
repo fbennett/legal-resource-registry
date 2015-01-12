@@ -1,0 +1,3 @@
+.. category:: Tân Phước
+   :category-id: vn:tien.giang:tan.phuoc
+   :en: Tan Phuoc

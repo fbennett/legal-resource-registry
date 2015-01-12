@@ -1,0 +1,3 @@
+.. category:: 石楼县
+   :category-id: cn:shanxi:lv.liang.shi:shi.lou.xian
+   :en: Shilouxian

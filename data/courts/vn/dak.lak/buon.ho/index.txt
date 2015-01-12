@@ -1,0 +1,3 @@
+.. category:: Buôn Hồ
+   :category-id: vn:dak.lak:buon.ho
+   :en: Buon Ho

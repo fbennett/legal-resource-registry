@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c10:wy.d;bankruptcy.court
+   :url: http://www.wyb.uscourts.gov/
+   :flp-key: wyb
+
+   .. reporter-key:: B.R.

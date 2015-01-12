@@ -1,0 +1,3 @@
+.. category:: Ngã Bảy
+   :category-id: vn:hau.giang:nga.bay
+   :en: Nga Bay

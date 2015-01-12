@@ -1,0 +1,3 @@
+.. court:: 中院
+   :court-id: cn:xicang:chang.du;zhong.yuan
+   :en: Intermediate Court

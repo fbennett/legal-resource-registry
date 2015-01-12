@@ -1,0 +1,3 @@
+.. category:: 海沧区
+   :category-id: cn:fujian:sha.men.shi:hai.cang.qu
+   :en: Haicangqu

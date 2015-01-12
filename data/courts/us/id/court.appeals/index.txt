@@ -1,0 +1,4 @@
+.. court:: Court of Appeals
+   :court-id: us:id;court.appeals
+   :url: http://www.isc.idaho.gov/
+   :flp-key: idahoctapp

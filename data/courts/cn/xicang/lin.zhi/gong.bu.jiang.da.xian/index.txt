@@ -1,0 +1,3 @@
+.. category:: 工布江达县
+   :category-id: cn:xicang:lin.zhi:gong.bu.jiang.da.xian
+   :en: Gongbujiangdaxian

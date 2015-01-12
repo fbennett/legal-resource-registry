@@ -1,0 +1,3 @@
+.. court:: 法院
+   :court-id: cn:gansu:bai.yin:bai.yin.qu;fa.yuan
+   :en: District Court

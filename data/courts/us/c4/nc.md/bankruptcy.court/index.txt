@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c4:nc.md;bankruptcy.court
+   :url: http://www.ncmb.uscourts.gov/
+   :flp-key: ncmb
+
+   .. reporter-key:: B.R.

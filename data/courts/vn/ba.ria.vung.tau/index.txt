@@ -1,0 +1,3 @@
+.. category:: Bà Rịa–Vũng Tàu
+   :category-id: vn:ba.ria.vung.tau
+   :en: Ba Ria-Vung Tau

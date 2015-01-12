@@ -1,0 +1,3 @@
+.. category:: 雷波县
+   :category-id: cn:sichuan:liang.shan.zhou:lei.bo.xian
+   :en: Leiboxian

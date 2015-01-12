@@ -1,0 +1,3 @@
+.. category:: Isle of Man
+   :category-id: gb:isle.man
+

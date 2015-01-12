@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c1:ri.d;bankruptcy.court
+   :url: http://www.rib.uscourts.gov/
+   :flp-key: rib
+
+   .. reporter-key:: B.R.

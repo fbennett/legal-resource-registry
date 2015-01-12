@@ -1,0 +1,3 @@
+.. category:: 靖州县
+   :category-id: cn:hunan:huai.hua.shi:jing.zhou.xian
+   :en: Jingzhouxian

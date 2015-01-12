@@ -1,0 +1,3 @@
+.. category:: 乌拉特前旗
+   :category-id: cn:neimenggu:ba.yan.nao.er.shi:wu.la.te.qian.qi
+   :en: Wulateqianqi

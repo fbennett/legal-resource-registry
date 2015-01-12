@@ -1,0 +1,3 @@
+.. category:: 临翔区
+   :category-id: cn:yunnan:lin.cang.shi:lin.xiang.qu
+   :en: Linxiangqu

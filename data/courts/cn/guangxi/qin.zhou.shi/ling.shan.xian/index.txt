@@ -1,0 +1,3 @@
+.. category:: 灵山县
+   :category-id: cn:guangxi:qin.zhou.shi:ling.shan.xian
+   :en: Lingshanxian

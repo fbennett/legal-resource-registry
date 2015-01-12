@@ -1,0 +1,3 @@
+.. category:: 九龙坡区
+   :category-id: cn:zhongqing:zhong.qing.wu:jiu.long.po.qu
+   :en: Jiulongpoqu

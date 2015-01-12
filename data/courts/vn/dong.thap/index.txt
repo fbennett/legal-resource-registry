@@ -1,0 +1,3 @@
+.. category:: Đồng Tháp
+   :category-id: vn:dong.thap
+   :en: Dong Thap

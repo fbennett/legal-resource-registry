@@ -1,0 +1,3 @@
+.. category:: 南郑县
+   :category-id: cn:shanxi:han.zhong.shi:nan.zheng.xian
+   :en: Nanzhengxian

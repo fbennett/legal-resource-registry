@@ -1,0 +1,3 @@
+.. category:: 社旗县
+   :category-id: cn:henan:nan.yang.shi:she.qi.xian
+   :en: Sheqixian

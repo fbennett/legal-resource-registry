@@ -1,0 +1,3 @@
+.. category:: 维西县
+   :category-id: cn:yunnan:di.qing.zhou:wei.xi.xian
+   :en: Weixixian

@@ -1,0 +1,3 @@
+.. category:: 苏州工业园区
+   :category-id: cn:jiangsu:su.zhou.shi:su.zhou.gong.ye.yuan.qu
+   :en: Suzhougongyeyuanqu

@@ -1,0 +1,4 @@
+.. court:: Judicial Ethics Advisory Panel
+   :court-id: us:ok;judicial.ethics.advisory.panel
+   :url: http://www.oscn.net/applications/oscn/index.asp?ftdb=STOKCSJE&level=1
+   :flp-key: oklajeap

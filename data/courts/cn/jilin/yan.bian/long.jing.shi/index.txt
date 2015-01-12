@@ -1,0 +1,3 @@
+.. category:: 龙井市
+   :category-id: cn:jilin:yan.bian:long.jing.shi
+   :en: Longjingshi

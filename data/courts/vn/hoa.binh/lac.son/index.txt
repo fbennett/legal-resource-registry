@@ -1,0 +1,3 @@
+.. category:: Lạc Sơn
+   :category-id: vn:hoa.binh:lac.son
+   :en: Lac Son

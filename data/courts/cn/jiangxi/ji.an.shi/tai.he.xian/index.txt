@@ -1,0 +1,3 @@
+.. category:: 泰和县
+   :category-id: cn:jiangxi:ji.an.shi:tai.he.xian
+   :en: Taihexian

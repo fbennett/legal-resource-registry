@@ -1,0 +1,3 @@
+.. category:: An Minh
+   :category-id: vn:kien.giang:an.minh
+   :en: An Minh

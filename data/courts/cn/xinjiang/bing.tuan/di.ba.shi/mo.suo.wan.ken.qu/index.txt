@@ -1,0 +1,3 @@
+.. category:: 莫索湾垦区
+   :category-id: cn:xinjiang:bing.tuan:di.ba.shi:mo.suo.wan.ken.qu
+   :en: Mosuowankenqu

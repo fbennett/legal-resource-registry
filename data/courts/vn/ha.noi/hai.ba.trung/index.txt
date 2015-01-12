@@ -1,0 +1,3 @@
+.. category:: Hai Bà Trưng
+   :category-id: vn:ha.noi:hai.ba.trung
+   :en: Hai Ba Trung

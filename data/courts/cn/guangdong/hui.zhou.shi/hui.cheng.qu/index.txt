@@ -1,0 +1,3 @@
+.. category:: 惠城区
+   :category-id: cn:guangdong:hui.zhou.shi:hui.cheng.qu
+   :en: Huichengqu

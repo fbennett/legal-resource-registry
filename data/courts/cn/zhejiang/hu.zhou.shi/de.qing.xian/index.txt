@@ -1,0 +1,3 @@
+.. category:: 德清县
+   :category-id: cn:zhejiang:hu.zhou.shi:de.qing.xian
+   :en: Deqingxian

@@ -1,0 +1,3 @@
+.. category:: 辽阳市
+   :category-id: cn:liaoning:liao.yang.shi
+   :en: Liaoyang City

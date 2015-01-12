@@ -1,0 +1,3 @@
+.. category:: 朝阳市
+   :category-id: cn:liaoning:zhao.yang.shi
+   :en: Zhaoyang City

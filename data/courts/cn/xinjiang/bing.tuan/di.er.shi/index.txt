@@ -1,0 +1,3 @@
+.. category:: 第二师
+   :category-id: cn:xinjiang:bing.tuan:di.er.shi
+   :en: Second District

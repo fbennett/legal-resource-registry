@@ -1,0 +1,3 @@
+.. category:: 临洮县
+   :category-id: cn:gansu:ding.xi.shi:lin.tao.xian
+   :en: Lintaoxian

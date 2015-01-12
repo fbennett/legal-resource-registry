@@ -1,0 +1,3 @@
+.. category:: 碑林区
+   :category-id: cn:shanxi:xi.an.shi:bei.lin.qu
+   :en: Beilinqu

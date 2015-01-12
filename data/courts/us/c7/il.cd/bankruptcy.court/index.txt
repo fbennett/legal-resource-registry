@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c7:il.cd;bankruptcy.court
+   :url: http://www.ilcb.uscourts.gov/
+   :flp-key: ilcb
+
+   .. reporter-key:: B.R.

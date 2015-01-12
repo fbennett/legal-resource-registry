@@ -1,0 +1,3 @@
+.. category:: Pác Nặm
+   :category-id: vn:bac.kan:pac.nam
+   :en: Pac Nam

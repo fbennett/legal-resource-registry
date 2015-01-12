@@ -1,0 +1,3 @@
+.. category:: 三亚市
+   :category-id: cn:hainan:san.ya.shi
+   :en: Sanya City

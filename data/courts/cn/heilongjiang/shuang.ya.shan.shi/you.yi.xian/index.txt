@@ -1,0 +1,3 @@
+.. category:: 友谊县
+   :category-id: cn:heilongjiang:shuang.ya.shan.shi:you.yi.xian
+   :en: Youyixian

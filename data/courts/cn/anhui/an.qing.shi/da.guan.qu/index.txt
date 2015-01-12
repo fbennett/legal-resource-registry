@@ -1,0 +1,3 @@
+.. category:: 大观区
+   :category-id: cn:anhui:an.qing.shi:da.guan.qu
+   :en: Daguanqu

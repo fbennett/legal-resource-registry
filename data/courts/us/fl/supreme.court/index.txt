@@ -1,0 +1,26 @@
+.. court:: Supreme Court
+   :court-id: us:fl;supreme.court
+   :url: http://www.floridasupremecourt.org/
+   :flp-key: fla
+
+   .. reporter-key:: FL
+
+   .. reporter-key:: Fla.
+
+   .. reporter-key:: Fla. L. Weekly
+
+   .. reporter-key:: Fla. L. Weekly Supp.
+
+   .. reporter-key:: Fla. Supp.
+
+   .. reporter-key:: Fla. Supp. 2d
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: So.
+
+   .. reporter-key:: So. 2d
+
+   .. reporter-key:: So. 3d
+
+   .. reporter-key:: WL

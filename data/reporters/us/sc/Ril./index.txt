@@ -1,0 +1,11 @@
+.. reporter:: South Carolina Reports, Riley
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Ril.
+   :edition-abbreviation: Ril.
+   :dates: 1836/01/01-1837/12/31
+
+   .. variation:: Riley L.(S.C.)
+
+   .. variation:: S.C.L.(Riley)
+
+   .. variation:: Riley

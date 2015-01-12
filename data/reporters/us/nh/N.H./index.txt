@@ -1,0 +1,7 @@
+.. reporter:: New Hampshire Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: N.H.
+   :edition-abbreviation: N.H.
+   :dates: 1816/01/01-present
+
+   .. variation:: N.H.R.

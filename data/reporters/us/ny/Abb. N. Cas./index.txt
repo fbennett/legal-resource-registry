@@ -1,0 +1,11 @@
+.. reporter:: Abbott's New Cases
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Abb. N. Cas.
+   :edition-abbreviation: Abb. N. Cas.
+   :dates: 1876/01/01-1894/12/31
+
+   .. variation:: A.N.
+
+   .. variation:: Abb.N.C.
+
+   .. variation:: A.N.C.

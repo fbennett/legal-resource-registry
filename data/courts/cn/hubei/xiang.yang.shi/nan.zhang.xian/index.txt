@@ -1,0 +1,3 @@
+.. category:: 南漳县
+   :category-id: cn:hubei:xiang.yang.shi:nan.zhang.xian
+   :en: Nanzhangxian

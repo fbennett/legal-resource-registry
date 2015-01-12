@@ -1,0 +1,3 @@
+.. category:: 顺平县
+   :category-id: cn:hebei:bao.ding.shi:shun.ping.xian
+   :en: Shunpingxian

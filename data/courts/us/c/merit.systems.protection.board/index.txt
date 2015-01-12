@@ -1,0 +1,4 @@
+.. court:: Merit Systems Protection Board
+   :court-id: us:c;merit.systems.protection.board
+   :url: http://www.mspb.gov/
+   :flp-key: mspb

@@ -1,0 +1,3 @@
+.. category:: 黄南州
+   :category-id: cn:qinghai:huang.nan.zhou
+   :en: Huangnanzhou

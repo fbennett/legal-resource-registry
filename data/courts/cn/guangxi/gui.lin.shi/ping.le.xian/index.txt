@@ -1,0 +1,3 @@
+.. category:: 平乐县
+   :category-id: cn:guangxi:gui.lin.shi:ping.le.xian
+   :en: Pinglexian

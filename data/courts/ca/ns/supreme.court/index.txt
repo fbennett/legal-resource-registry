@@ -1,0 +1,4 @@
+.. court:: Supreme Court
+   :court-id: ca:ns;supreme.court
+   :en: Supreme Court
+   :url: http://www.gov.pe.ca/courts/supreme/index.php3

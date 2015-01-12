@@ -1,0 +1,2 @@
+.. category:: S.D. Alabama
+   :category-id: us:c11:al.sd

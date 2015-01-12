@@ -1,0 +1,3 @@
+.. category:: 蜀山区
+   :category-id: cn:anhui:he.fei.shi:shu.shan.qu
+   :en: Shushanqu

@@ -1,0 +1,3 @@
+.. court:: 法院
+   :court-id: cn:xinjiang:bo.er.ta.la.meng.gu.zi.zhi.zhou:bo.le.shi;fa.yuan
+   :en: District Court

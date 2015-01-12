@@ -1,0 +1,3 @@
+.. category:: 丹东市
+   :category-id: cn:liaoning:dan.dong.shi
+   :en: Dandong City

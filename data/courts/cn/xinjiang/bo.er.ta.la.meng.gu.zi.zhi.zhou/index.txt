@@ -1,0 +1,3 @@
+.. category:: 博尔塔拉蒙古自治州
+   :category-id: cn:xinjiang:bo.er.ta.la.meng.gu.zi.zhi.zhou
+   :en: Boertalamengguzizhizhou

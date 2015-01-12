@@ -1,0 +1,3 @@
+.. category:: 多伦县
+   :category-id: cn:neimenggu:xi.lin.guo.le.meng:duo.lun.xian
+   :en: Duolunxian

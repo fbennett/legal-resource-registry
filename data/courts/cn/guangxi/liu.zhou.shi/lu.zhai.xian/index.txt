@@ -1,0 +1,3 @@
+.. category:: 鹿寨县
+   :category-id: cn:guangxi:liu.zhou.shi:lu.zhai.xian
+   :en: Luzhaixian

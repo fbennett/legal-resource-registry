@@ -1,0 +1,3 @@
+.. category:: 汉阳区
+   :category-id: cn:hubei:wu.han.shi:han.yang.qu
+   :en: Hanyangqu

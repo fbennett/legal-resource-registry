@@ -1,0 +1,3 @@
+.. category:: 广宗县
+   :category-id: cn:hebei:xing.tai.shi:guang.zong.xian
+   :en: Guangzongxian

@@ -1,0 +1,3 @@
+.. category:: 中方县
+   :category-id: cn:hunan:huai.hua.shi:zhong.fang.xian
+   :en: Zhongfangxian

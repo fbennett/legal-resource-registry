@@ -1,0 +1,3 @@
+.. category:: 玉州区
+   :category-id: cn:guangxi:yu.lin.shi:yu.zhou.qu
+   :en: Yuzhouqu

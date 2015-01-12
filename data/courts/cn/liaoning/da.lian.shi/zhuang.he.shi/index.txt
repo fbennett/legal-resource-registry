@@ -1,0 +1,3 @@
+.. category:: 庄河市
+   :category-id: cn:liaoning:da.lian.shi:zhuang.he.shi
+   :en: Zhuangheshi

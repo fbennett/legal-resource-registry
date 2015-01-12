@@ -1,0 +1,3 @@
+.. category:: Đức Trọng
+   :category-id: vn:lam.dong:duc.trong
+   :en: Duc Trong

@@ -1,0 +1,3 @@
+.. category:: 莱城区
+   :category-id: cn:shandong:lai.wu.shi:lai.cheng.qu
+   :en: Laichengqu

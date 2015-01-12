@@ -1,0 +1,3 @@
+.. category:: 镇康县
+   :category-id: cn:yunnan:lin.cang.shi:zhen.kang.xian
+   :en: Zhenkangxian

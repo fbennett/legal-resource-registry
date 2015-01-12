@@ -1,0 +1,3 @@
+.. category:: 和龙林区
+   :category-id: cn:jilin:yan.bian:he.long.lin.qu
+   :en: Helonglinqu

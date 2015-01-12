@@ -1,0 +1,3 @@
+.. category:: 晋州市
+   :category-id: cn:hebei:shi.jia.zhuang.shi:jin.zhou.shi
+   :en: Jinzhoushi

@@ -1,0 +1,3 @@
+.. category:: 陕西
+   :category-id: cn:shanxi
+   :en: Shanxi

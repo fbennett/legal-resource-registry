@@ -1,0 +1,3 @@
+.. category:: 云龙区
+   :category-id: cn:jiangsu:xu.zhou.shi:yun.long.qu
+   :en: Yunlongqu

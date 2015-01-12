@@ -1,0 +1,4 @@
+.. court:: Court of Appeals for Veterans Claims
+   :court-id: us:c;court.appeals.veterans.claims
+   :url: http://www.uscourts.cavc.gov/
+   :flp-key: cavc

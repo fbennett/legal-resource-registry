@@ -1,0 +1,3 @@
+.. court:: 法院
+   :court-id: cn:gansu:jiu.quan.shi:yu.men.shi;fa.yuan
+   :en: District Court

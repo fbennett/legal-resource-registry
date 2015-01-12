@@ -1,0 +1,15 @@
+.. reporter:: South Carolina Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: S.C.
+   :edition-abbreviation: S.C.
+   :dates: 1868/01/01-present
+
+   .. variation:: S.Car.
+
+   .. variation:: S.C.R.
+
+   .. variation:: So.Car.
+
+   .. variation:: So.C.
+
+   .. variation:: South Car.

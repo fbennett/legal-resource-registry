@@ -1,0 +1,3 @@
+.. category:: An Giang
+   :category-id: vn:an.giang
+   :en: An Giang

@@ -1,0 +1,3 @@
+.. category:: Hong Kong
+   :category-id: gb:hong.kong
+

@@ -1,0 +1,3 @@
+.. category:: 临泉县
+   :category-id: cn:anhui:fu.yang.shi:lin.quan.xian
+   :en: Linquanxian

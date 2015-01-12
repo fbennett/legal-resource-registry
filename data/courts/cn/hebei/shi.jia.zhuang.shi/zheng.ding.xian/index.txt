@@ -1,0 +1,3 @@
+.. category:: 正定县
+   :category-id: cn:hebei:shi.jia.zhuang.shi:zheng.ding.xian
+   :en: Zhengdingxian

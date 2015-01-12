@@ -1,0 +1,3 @@
+.. category:: 涟源市
+   :category-id: cn:hunan:lou.di.shi:lian.yuan.shi
+   :en: Lianyuanshi

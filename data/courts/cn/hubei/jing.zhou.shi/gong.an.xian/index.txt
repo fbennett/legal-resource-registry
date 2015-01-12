@@ -1,0 +1,3 @@
+.. category:: 公安县
+   :category-id: cn:hubei:jing.zhou.shi:gong.an.xian
+   :en: Gonganxian

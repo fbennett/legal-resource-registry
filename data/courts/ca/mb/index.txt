@@ -1,0 +1,2 @@
+.. category:: Manitoba
+   :category-id: ca:mb

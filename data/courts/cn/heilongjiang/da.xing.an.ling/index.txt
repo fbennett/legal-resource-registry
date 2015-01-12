@@ -1,0 +1,3 @@
+.. category:: 大兴安岭
+   :category-id: cn:heilongjiang:da.xing.an.ling
+   :en: Daxinganling

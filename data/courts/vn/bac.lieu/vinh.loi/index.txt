@@ -1,0 +1,3 @@
+.. category:: Vĩnh Lợi
+   :category-id: vn:bac.lieu:vinh.loi
+   :en: Vinh Loi

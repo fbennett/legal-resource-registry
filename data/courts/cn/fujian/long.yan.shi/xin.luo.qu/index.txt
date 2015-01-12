@@ -1,0 +1,3 @@
+.. category:: 新罗区
+   :category-id: cn:fujian:long.yan.shi:xin.luo.qu
+   :en: Xinluoqu

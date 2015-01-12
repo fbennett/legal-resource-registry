@@ -1,0 +1,3 @@
+.. category:: 永新县
+   :category-id: cn:jiangxi:ji.an.shi:yong.xin.xian
+   :en: Yongxinxian

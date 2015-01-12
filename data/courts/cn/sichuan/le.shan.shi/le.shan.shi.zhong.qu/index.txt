@@ -1,0 +1,3 @@
+.. category:: 乐山市中区
+   :category-id: cn:sichuan:le.shan.shi:le.shan.shi.zhong.qu
+   :en: Leshanshizhongqu

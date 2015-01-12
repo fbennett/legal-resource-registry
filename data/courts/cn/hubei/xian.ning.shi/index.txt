@@ -1,0 +1,3 @@
+.. category:: 咸宁市
+   :category-id: cn:hubei:xian.ning.shi
+   :en: Xianning City

@@ -1,0 +1,3 @@
+.. category:: 林西县
+   :category-id: cn:neimenggu:chi.feng.shi:lin.xi.xian
+   :en: Linxixian

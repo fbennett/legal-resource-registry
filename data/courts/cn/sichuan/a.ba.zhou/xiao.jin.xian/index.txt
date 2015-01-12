@@ -1,0 +1,3 @@
+.. category:: 小金县
+   :category-id: cn:sichuan:a.ba.zhou:xiao.jin.xian
+   :en: Xiaojinxian

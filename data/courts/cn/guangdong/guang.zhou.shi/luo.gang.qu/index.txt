@@ -1,0 +1,3 @@
+.. category:: 萝岗区
+   :category-id: cn:guangdong:guang.zhou.shi:luo.gang.qu
+   :en: Luogangqu

@@ -1,0 +1,3 @@
+.. category:: 喀左县
+   :category-id: cn:liaoning:zhao.yang.shi:ka.zuo.xian
+   :en: Kazuoxian

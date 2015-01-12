@@ -1,0 +1,3 @@
+.. category:: Hồ Chí Minh
+   :category-id: vn:ho.chi.minh
+   :en: Ho Chi Minh

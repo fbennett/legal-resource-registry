@@ -1,0 +1,3 @@
+.. category:: Đà Lạt
+   :category-id: vn:lam.dong:da.lat
+   :en: Da Lat

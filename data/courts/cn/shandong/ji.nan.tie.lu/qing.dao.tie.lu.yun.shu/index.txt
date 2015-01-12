@@ -1,0 +1,3 @@
+.. category:: 青岛铁路运输
+   :category-id: cn:shandong:ji.nan.tie.lu:qing.dao.tie.lu.yun.shu
+   :en: Qingdaotieluyunshu

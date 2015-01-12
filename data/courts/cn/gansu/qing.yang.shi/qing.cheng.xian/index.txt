@@ -1,0 +1,3 @@
+.. category:: 庆城县
+   :category-id: cn:gansu:qing.yang.shi:qing.cheng.xian
+   :en: Qingchengxian

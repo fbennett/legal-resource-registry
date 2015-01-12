@@ -1,0 +1,3 @@
+.. category:: 抚远县
+   :category-id: cn:heilongjiang:jia.mu.si.shi:fu.yuan.xian
+   :en: Fuyuanxian

@@ -1,0 +1,3 @@
+.. category:: 迎江区
+   :category-id: cn:anhui:an.qing.shi:ying.jiang.qu
+   :en: Yingjiangqu

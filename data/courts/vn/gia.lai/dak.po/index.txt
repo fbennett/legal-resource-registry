@@ -1,0 +1,3 @@
+.. category:: Đắk Pơ
+   :category-id: vn:gia.lai:dak.po
+   :en: Dak Po

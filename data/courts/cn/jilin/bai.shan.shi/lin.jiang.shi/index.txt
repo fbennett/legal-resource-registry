@@ -1,0 +1,3 @@
+.. category:: 临江市
+   :category-id: cn:jilin:bai.shan.shi:lin.jiang.shi
+   :en: Linjiangshi

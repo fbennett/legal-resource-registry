@@ -1,0 +1,5 @@
+.. reporter:: West Law Citation
+   :flp-series-cite-type: specialty_west
+   :flp-common-abbreviation: WL
+   :edition-abbreviation: WL
+   :dates: 1750/01/01-present

@@ -1,0 +1,3 @@
+.. category:: Thiệu Hóa
+   :category-id: vn:thanh.hoa:thieu.hoa
+   :en: Thieu Hoa

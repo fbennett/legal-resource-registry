@@ -1,0 +1,3 @@
+.. category:: 深泽县
+   :category-id: cn:hebei:shi.jia.zhuang.shi:shen.ze.xian
+   :en: Shenzexian

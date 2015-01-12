@@ -1,0 +1,3 @@
+.. category:: 昆都仑区
+   :category-id: cn:neimenggu:bao.tou.shi:kun.du.lun.qu
+   :en: Kundulunqu

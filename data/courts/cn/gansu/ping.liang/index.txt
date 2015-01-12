@@ -1,0 +1,3 @@
+.. category:: 平凉
+   :category-id: cn:gansu:ping.liang
+   :en: Pingliang

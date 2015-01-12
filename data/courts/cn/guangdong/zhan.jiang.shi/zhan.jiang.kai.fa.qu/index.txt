@@ -1,0 +1,3 @@
+.. category:: 湛江开发区
+   :category-id: cn:guangdong:zhan.jiang.shi:zhan.jiang.kai.fa.qu
+   :en: Zhanjiangkaifaqu

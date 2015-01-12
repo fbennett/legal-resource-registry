@@ -1,0 +1,5 @@
+.. reporter:: New Jersey Tax Court
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: N.J. Tax
+   :edition-abbreviation: N.J. Tax
+   :dates: 1979/01/01-present

@@ -1,0 +1,3 @@
+.. category:: 宜君县
+   :category-id: cn:shanxi:tong.chuan.shi:yi.jun.xian
+   :en: Yijunxian

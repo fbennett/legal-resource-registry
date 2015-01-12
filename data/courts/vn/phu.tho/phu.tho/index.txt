@@ -1,0 +1,3 @@
+.. category:: Phú Thọ
+   :category-id: vn:phu.tho:phu.tho
+   :en: Phu Tho

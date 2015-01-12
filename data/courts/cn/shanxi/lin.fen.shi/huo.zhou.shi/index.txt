@@ -1,0 +1,3 @@
+.. category:: 霍州市
+   :category-id: cn:shanxi:lin.fen.shi:huo.zhou.shi
+   :en: Huozhoushi

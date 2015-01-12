@@ -1,0 +1,4 @@
+.. court:: Federal Court
+   :court-id: ca;federal.court
+   :en: Federal Court
+   :url: http://www.fca-caf.gc.ca/

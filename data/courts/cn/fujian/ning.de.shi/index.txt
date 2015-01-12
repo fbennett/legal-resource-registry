@@ -1,0 +1,3 @@
+.. category:: 宁德市
+   :category-id: cn:fujian:ning.de.shi
+   :en: Ningde City

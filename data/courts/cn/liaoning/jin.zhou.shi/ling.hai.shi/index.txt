@@ -1,0 +1,3 @@
+.. category:: 凌海市
+   :category-id: cn:liaoning:jin.zhou.shi:ling.hai.shi
+   :en: Linghaishi

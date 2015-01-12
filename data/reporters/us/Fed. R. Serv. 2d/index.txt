@@ -1,0 +1,7 @@
+.. reporter:: Federal Rules Service
+   :flp-series-cite-type: specialty
+   :flp-common-abbreviation: Fed. R. Serv.
+   :edition-abbreviation: Fed. R. Serv. 2d
+   :dates: 1938/01/01-present
+
+   .. variation:: Fed. R. Serv. 2d (Callaghan)

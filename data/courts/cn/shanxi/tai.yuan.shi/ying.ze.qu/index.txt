@@ -1,0 +1,3 @@
+.. category:: 迎泽区
+   :category-id: cn:shanxi:tai.yuan.shi:ying.ze.qu
+   :en: Yingzequ

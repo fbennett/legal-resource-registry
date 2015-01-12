@@ -1,0 +1,3 @@
+.. category:: 芳草湖垦区
+   :category-id: cn:xinjiang:bing.tuan:di.liu.shi:fang.cao.hu.ken.qu
+   :en: Fangcaohukenqu

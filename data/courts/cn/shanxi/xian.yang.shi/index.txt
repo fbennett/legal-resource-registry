@@ -1,0 +1,3 @@
+.. category:: 咸阳市
+   :category-id: cn:shanxi:xian.yang.shi
+   :en: Xianyang City

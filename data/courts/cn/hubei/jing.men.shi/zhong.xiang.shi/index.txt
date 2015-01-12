@@ -1,0 +1,3 @@
+.. category:: 钟祥市
+   :category-id: cn:hubei:jing.men.shi:zhong.xiang.shi
+   :en: Zhongxiangshi

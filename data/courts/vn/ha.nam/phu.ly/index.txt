@@ -1,0 +1,3 @@
+.. category:: Phủ Lý
+   :category-id: vn:ha.nam:phu.ly
+   :en: Phu Ly

@@ -1,0 +1,3 @@
+.. category:: Thạch Thất
+   :category-id: vn:ha.noi:thach.that
+   :en: Thach That

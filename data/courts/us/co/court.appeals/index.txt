@@ -1,0 +1,7 @@
+.. court:: Court of Appeals
+   :court-id: us:co;court.appeals
+   :url: http://www.courts.state.co.us/Courts/Court_Of_Appeals/
+   :flp-key: coloctapp
+
+   .. reporter-key:: COA
+

@@ -1,0 +1,3 @@
+.. category:: Mộc Hóa
+   :category-id: vn:long.an:moc.hoa
+   :en: Moc Hoa

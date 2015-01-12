@@ -1,0 +1,3 @@
+.. category:: 思明区
+   :category-id: cn:fujian:sha.men.shi:si.ming.qu
+   :en: Simingqu

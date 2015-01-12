@@ -1,0 +1,3 @@
+.. category:: 城西区
+   :category-id: cn:qinghai:xi.ning.shi:cheng.xi.qu
+   :en: Chengxiqu

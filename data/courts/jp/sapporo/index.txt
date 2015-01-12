@@ -1,0 +1,4 @@
+.. category:: 札幌
+   :category-id: jp:sapporo
+   :en: Sapporo
+

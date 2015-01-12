@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c9:ak.d;bankruptcy.court
+   :url: http://www.akb.uscourts.gov/
+   :flp-key: akb
+
+   .. reporter-key:: B.R.

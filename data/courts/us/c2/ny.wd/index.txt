@@ -1,0 +1,2 @@
+.. category:: W.D. New York
+   :category-id: us:c2:ny.wd

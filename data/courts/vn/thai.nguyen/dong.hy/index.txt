@@ -1,0 +1,3 @@
+.. category:: Đồng Hỷ
+   :category-id: vn:thai.nguyen:dong.hy
+   :en: Dong Hy

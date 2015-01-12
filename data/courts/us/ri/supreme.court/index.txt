@@ -1,0 +1,16 @@
+.. court:: Supreme Court
+   :court-id: us:ri;supreme.court
+   :url: http://www.courts.ri.gov/courts/supremecourt/default.aspx
+   :flp-key: ri
+
+   .. reporter-key:: A.
+
+   .. reporter-key:: A.2d
+
+   .. reporter-key:: A.3d
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: R.I.
+
+   .. reporter-key:: WL

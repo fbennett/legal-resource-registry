@@ -1,0 +1,3 @@
+.. category:: 大兴区
+   :category-id: cn:beijing:bei.jing.er:da.xing.qu
+   :en: Daxingqu

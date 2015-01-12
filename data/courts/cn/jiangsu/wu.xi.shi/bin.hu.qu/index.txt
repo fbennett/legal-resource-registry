@@ -1,0 +1,3 @@
+.. category:: 滨湖区
+   :category-id: cn:jiangsu:wu.xi.shi:bin.hu.qu
+   :en: Binhuqu

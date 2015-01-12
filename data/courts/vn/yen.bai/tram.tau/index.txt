@@ -1,0 +1,3 @@
+.. category:: Trạm Tấu
+   :category-id: vn:yen.bai:tram.tau
+   :en: Tram Tau

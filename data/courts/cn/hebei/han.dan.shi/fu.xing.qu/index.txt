@@ -1,0 +1,3 @@
+.. category:: 复兴区
+   :category-id: cn:hebei:han.dan.shi:fu.xing.qu
+   :en: Fuxingqu

@@ -1,0 +1,3 @@
+.. category:: 西固区
+   :category-id: cn:gansu:lan.zhou.shi:xi.gu.qu
+   :en: Xiguqu

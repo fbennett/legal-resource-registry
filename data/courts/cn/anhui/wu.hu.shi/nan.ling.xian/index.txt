@@ -1,0 +1,3 @@
+.. category:: 南陵县
+   :category-id: cn:anhui:wu.hu.shi:nan.ling.xian
+   :en: Nanlingxian

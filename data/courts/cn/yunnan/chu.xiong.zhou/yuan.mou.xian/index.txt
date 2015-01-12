@@ -1,0 +1,3 @@
+.. category:: 元谋县
+   :category-id: cn:yunnan:chu.xiong.zhou:yuan.mou.xian
+   :en: Yuanmouxian

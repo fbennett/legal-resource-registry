@@ -1,0 +1,3 @@
+.. category:: 济宁市中区
+   :category-id: cn:shandong:ji.ning.shi:ji.ning.shi.zhong.qu
+   :en: Jiningshizhongqu

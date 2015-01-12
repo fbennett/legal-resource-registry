@@ -1,0 +1,4 @@
+.. court:: Court of Appeal
+   :court-id: ca:ab;court.appeal
+   :en: Court of Appeal
+   :url: http://www.courts.gov.bc.ca/

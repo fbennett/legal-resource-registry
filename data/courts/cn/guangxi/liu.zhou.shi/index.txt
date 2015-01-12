@@ -1,0 +1,3 @@
+.. category:: 柳州市
+   :category-id: cn:guangxi:liu.zhou.shi
+   :en: Liuzhou City

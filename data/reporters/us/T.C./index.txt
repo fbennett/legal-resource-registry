@@ -1,0 +1,11 @@
+.. reporter:: Reports of the United States Tax Court
+   :flp-series-cite-type: specialty
+   :flp-common-abbreviation: T.C.
+   :edition-abbreviation: T.C.
+   :dates: 1942/01/01-present
+
+   .. variation:: T. C.
+
+   .. variation:: T.Ct.
+
+   .. variation:: T.Ct

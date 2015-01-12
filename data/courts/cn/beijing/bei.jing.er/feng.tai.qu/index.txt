@@ -1,0 +1,3 @@
+.. category:: 丰台区
+   :category-id: cn:beijing:bei.jing.er:feng.tai.qu
+   :en: Fengtaiqu

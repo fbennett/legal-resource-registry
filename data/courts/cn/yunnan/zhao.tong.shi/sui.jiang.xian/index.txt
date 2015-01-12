@@ -1,0 +1,3 @@
+.. category:: 绥江县
+   :category-id: cn:yunnan:zhao.tong.shi:sui.jiang.xian
+   :en: Suijiangxian

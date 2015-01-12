@@ -1,0 +1,3 @@
+.. category:: 福建
+   :category-id: cn:fujian
+   :en: Fujian

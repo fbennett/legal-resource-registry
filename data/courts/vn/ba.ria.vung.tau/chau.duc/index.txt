@@ -1,0 +1,3 @@
+.. category:: Châu Đức
+   :category-id: vn:ba.ria.vung.tau:chau.duc
+   :en: Chau Duc

@@ -1,0 +1,3 @@
+.. category:: 灵宝市
+   :category-id: cn:henan:san.men.xia.shi:ling.bao.shi
+   :en: Lingbaoshi

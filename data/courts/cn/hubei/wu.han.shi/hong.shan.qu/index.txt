@@ -1,0 +1,3 @@
+.. category:: 洪山区
+   :category-id: cn:hubei:wu.han.shi:hong.shan.qu
+   :en: Hongshanqu

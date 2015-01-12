@@ -1,0 +1,3 @@
+.. category:: 政和县
+   :category-id: cn:fujian:nan.ping.shi:zheng.he.xian
+   :en: Zhenghexian

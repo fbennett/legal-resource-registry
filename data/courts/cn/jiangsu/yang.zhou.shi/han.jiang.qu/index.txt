@@ -1,0 +1,3 @@
+.. category:: 邗江区
+   :category-id: cn:jiangsu:yang.zhou.shi:han.jiang.qu
+   :en: Hanjiangqu

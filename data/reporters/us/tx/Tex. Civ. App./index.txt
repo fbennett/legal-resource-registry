@@ -1,0 +1,7 @@
+.. reporter:: Texas Civil Appeals Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Tex. Civ. App.
+   :edition-abbreviation: Tex. Civ. App.
+   :dates: 1892/01/01-1911/12/31
+
+   .. variation:: Tex.Civ.App.

@@ -1,0 +1,3 @@
+.. category:: 平昌县
+   :category-id: cn:sichuan:ba.zhong.shi:ping.chang.xian
+   :en: Pingchangxian

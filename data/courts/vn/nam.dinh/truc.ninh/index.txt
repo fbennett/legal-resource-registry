@@ -1,0 +1,3 @@
+.. category:: Trực Ninh
+   :category-id: vn:nam.dinh:truc.ninh
+   :en: Truc Ninh

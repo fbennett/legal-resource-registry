@@ -1,0 +1,3 @@
+.. category:: Như Thanh
+   :category-id: vn:thanh.hoa:nhu.thanh
+   :en: Nhu Thanh

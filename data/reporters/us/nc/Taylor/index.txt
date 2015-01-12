@@ -1,0 +1,13 @@
+.. reporter:: Taylor's North Carolina Term Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Taylor
+   :edition-abbreviation: Taylor
+   :dates: 1816/01/01-1818/12/31
+
+   .. variation:: N.C.Term.Rep.
+
+   .. variation:: N.C.T.Rep.
+
+   .. variation:: N.C.Term.R.
+
+   .. variation:: N.C.(Taylor)

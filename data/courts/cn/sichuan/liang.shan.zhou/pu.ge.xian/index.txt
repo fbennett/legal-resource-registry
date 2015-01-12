@@ -1,0 +1,3 @@
+.. category:: 普格县
+   :category-id: cn:sichuan:liang.shan.zhou:pu.ge.xian
+   :en: Pugexian

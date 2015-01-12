@@ -1,0 +1,3 @@
+.. category:: 盘锦市
+   :category-id: cn:liaoning:pan.jin.shi
+   :en: Panjin City

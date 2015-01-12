@@ -1,0 +1,3 @@
+.. category:: 红塔区
+   :category-id: cn:yunnan:yu.xi.shi:hong.ta.qu
+   :en: Hongtaqu

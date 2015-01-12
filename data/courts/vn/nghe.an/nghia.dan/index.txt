@@ -1,0 +1,3 @@
+.. category:: Nghĩa Đàn
+   :category-id: vn:nghe.an:nghia.dan
+   :en: Nghia Dan

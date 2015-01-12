@@ -1,0 +1,3 @@
+.. category:: 获嘉县
+   :category-id: cn:henan:xin.xiang.shi:huo.jia.xian
+   :en: Huojiaxian

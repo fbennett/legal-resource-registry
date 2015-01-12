@@ -1,0 +1,3 @@
+.. category:: 茂南区
+   :category-id: cn:guangdong:mao.ming.shi:mao.nan.qu
+   :en: Maonanqu

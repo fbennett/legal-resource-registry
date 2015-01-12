@@ -1,0 +1,3 @@
+.. category:: 稷山县
+   :category-id: cn:shanxi:yun.cheng.shi:ji.shan.xian
+   :en: Jishanxian

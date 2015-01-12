@@ -1,0 +1,3 @@
+.. category:: 鳥取
+   :category-id: jp:hiroshima:tottori
+   :en: Tottori

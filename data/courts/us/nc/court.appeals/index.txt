@@ -1,0 +1,4 @@
+.. court:: Court of Appeals
+   :court-id: us:nc;court.appeals
+   :url: http://www.nccourts.org/courts/appellate/appeal/
+   :flp-key: ncctapp

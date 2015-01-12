@@ -1,0 +1,3 @@
+.. category:: 西藏
+   :category-id: cn:xicang
+   :en: Xicang

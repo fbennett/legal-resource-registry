@@ -1,0 +1,3 @@
+.. category:: Bắc Hà
+   :category-id: vn:lao.cai:bac.ha
+   :en: Bac Ha

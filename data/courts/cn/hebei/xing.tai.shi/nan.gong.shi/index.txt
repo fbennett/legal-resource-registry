@@ -1,0 +1,3 @@
+.. category:: 南宫市
+   :category-id: cn:hebei:xing.tai.shi:nan.gong.shi
+   :en: Nangongshi

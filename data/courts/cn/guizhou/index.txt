@@ -1,0 +1,3 @@
+.. category:: 贵州
+   :category-id: cn:guizhou
+   :en: Guizhou

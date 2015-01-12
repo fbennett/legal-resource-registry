@@ -1,0 +1,3 @@
+.. category:: 乌鲁木齐铁路
+   :category-id: cn:xinjiang:wu.lu.mu.qi.tie.lu
+   :en: Wulumuqitielu

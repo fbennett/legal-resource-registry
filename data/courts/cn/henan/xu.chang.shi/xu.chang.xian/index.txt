@@ -1,0 +1,3 @@
+.. category:: 许昌县
+   :category-id: cn:henan:xu.chang.shi:xu.chang.xian
+   :en: Xuchangxian

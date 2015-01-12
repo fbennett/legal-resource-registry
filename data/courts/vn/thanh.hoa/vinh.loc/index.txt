@@ -1,0 +1,3 @@
+.. category:: Vĩnh Lộc
+   :category-id: vn:thanh.hoa:vinh.loc
+   :en: Vinh Loc

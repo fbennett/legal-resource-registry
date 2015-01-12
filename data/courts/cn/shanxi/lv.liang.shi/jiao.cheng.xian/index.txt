@@ -1,0 +1,3 @@
+.. category:: 交城县
+   :category-id: cn:shanxi:lv.liang.shi:jiao.cheng.xian
+   :en: Jiaochengxian

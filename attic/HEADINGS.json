@@ -1,0 +1,4613 @@
+{
+  "Administrative Appellate Court": [
+    {
+      "country": "Australia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctaus.htm"
+    }, 
+    {
+      "country": "Bangladesh", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctban.htm"
+    }, 
+    {
+      "country": "Egypt", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctegy.htm"
+    }, 
+    {
+      "country": "France", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctfra.htm"
+    }, 
+    {
+      "country": "Germany", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctdui.htm"
+    }, 
+    {
+      "country": "Guatemala", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctgua.htm"
+    }, 
+    {
+      "country": "Honduras", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcthnd.htm"
+    }, 
+    {
+      "country": "Indonesia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctine.htm"
+    }, 
+    {
+      "country": "Jordan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctjor.htm"
+    }, 
+    {
+      "country": "Latvia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctlat.htm"
+    }, 
+    {
+      "country": "Moldova", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmol.htm"
+    }, 
+    {
+      "country": "Morroco", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmar.htm"
+    }, 
+    {
+      "country": "Sweden", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctzwe.htm"
+    }, 
+    {
+      "country": "Turkey", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxcttur.htm"
+    }, 
+    {
+      "country": "Ukraine", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctukr.htm"
+    }, 
+    {
+      "country": "Venezuela", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctven.htm"
+    }
+  ], 
+  "Administrative Courts (First Instance)": [
+    {
+      "country": "Algeria", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctalg.htm"
+    }, 
+    {
+      "country": "Armenia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctarm.htm"
+    }, 
+    {
+      "country": "Australia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctaus.htm"
+    }, 
+    {
+      "country": "Bahrain", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbah.htm"
+    }, 
+    {
+      "country": "Bangladesh", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctban.htm"
+    }, 
+    {
+      "country": "Belarus", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbru.htm"
+    }, 
+    {
+      "country": "Bulgaria", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctbul.htm"
+    }, 
+    {
+      "country": "Burkina Faso", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbfa.htm"
+    }, 
+    {
+      "country": "Colombia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcol.htm"
+    }, 
+    {
+      "country": "Ecuador", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctecu.htm"
+    }, 
+    {
+      "country": "Egypt", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctegy.htm"
+    }, 
+    {
+      "country": "Estonia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctest.htm"
+    }, 
+    {
+      "country": "Finland", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctfin.htm"
+    }, 
+    {
+      "country": "France", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctfra.htm"
+    }, 
+    {
+      "country": "Germany", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctdui.htm"
+    }, 
+    {
+      "country": "Indonesia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctine.htm"
+    }, 
+    {
+      "country": "Italy", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctita.htm"
+    }, 
+    {
+      "country": "Kazakhstan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctkaz.htm"
+    }, 
+    {
+      "country": "Korea", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctkor.htm"
+    }, 
+    {
+      "country": "Latvia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctlat.htm"
+    }, 
+    {
+      "country": "Lithuania", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctlit.htm"
+    }, 
+    {
+      "country": "Macedonia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctmac.htm"
+    }, 
+    {
+      "country": "Mali", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmai.htm"
+    }, 
+    {
+      "country": "Morroco", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmar.htm"
+    }, 
+    {
+      "country": "Oman", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctoma.htm"
+    }, 
+    {
+      "country": "Poland", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctpol.htm"
+    }, 
+    {
+      "country": "Portugal", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctpor.htm"
+    }, 
+    {
+      "country": "Saudi Arabia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctsau.htm"
+    }, 
+    {
+      "country": "Serbia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctser.htm"
+    }, 
+    {
+      "country": "Slovenia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctslv.htm"
+    }, 
+    {
+      "country": "Spain", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctspa.htm"
+    }, 
+    {
+      "country": "Sweden", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctzwe.htm"
+    }, 
+    {
+      "country": "Switzerland", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctzwi.htm"
+    }, 
+    {
+      "country": "Tunisia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttun.htm"
+    }, 
+    {
+      "country": "Turkey", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxcttur.htm"
+    }, 
+    {
+      "country": "Ukraine", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctukr.htm"
+    }, 
+    {
+      "country": "Uruguay", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcturu.htm"
+    }
+  ], 
+  "Administrative Supreme Court": [
+    {
+      "country": "Algeria", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctalg.htm"
+    }, 
+    {
+      "country": "Austria", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctoos.htm"
+    }, 
+    {
+      "country": "Belarus", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbru.htm"
+    }, 
+    {
+      "country": "Belgium", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctbel.htm"
+    }, 
+    {
+      "country": "Bulgaria", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctbul.htm"
+    }, 
+    {
+      "country": "Burkina Faso", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbfa.htm"
+    }, 
+    {
+      "country": "Colombia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcol.htm"
+    }, 
+    {
+      "country": "Croatia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctcro.htm"
+    }, 
+    {
+      "country": "C\u00f4te-d'Ivoire", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcdi.htm"
+    }, 
+    {
+      "country": "Czech republic", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctcze.htm"
+    }, 
+    {
+      "country": "Ecuador", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctecu.htm"
+    }, 
+    {
+      "country": "Egypt", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctegy.htm"
+    }, 
+    {
+      "country": "Finland", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctfin.htm"
+    }, 
+    {
+      "country": "France", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctfra.htm"
+    }, 
+    {
+      "country": "Germany", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctdui.htm"
+    }, 
+    {
+      "country": "Greece", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctgri.htm"
+    }, 
+    {
+      "country": "Italy", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctita.htm"
+    }, 
+    {
+      "country": "Lebanon", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctleb.htm"
+    }, 
+    {
+      "country": "Lithuania", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctlit.htm"
+    }, 
+    {
+      "country": "Luxembourg", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctlux.htm"
+    }, 
+    {
+      "country": "Madagascar", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmad.htm"
+    }, 
+    {
+      "country": "Montenegro", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctmnt.htm"
+    }, 
+    {
+      "country": "Poland", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctpol.htm"
+    }, 
+    {
+      "country": "Portugal", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctpor.htm"
+    }, 
+    {
+      "country": "Sweden", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctzwe.htm"
+    }, 
+    {
+      "country": "Switzerland", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctzwi.htm"
+    }, 
+    {
+      "country": "Thailand", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttha.htm"
+    }, 
+    {
+      "country": "Ukraine", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctukr.htm"
+    }, 
+    {
+      "country": "Venezuela", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctven.htm"
+    }
+  ], 
+  "Administrative Supreme Court (Danistay)": [
+    {
+      "country": "Turkey", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxcttur.htm"
+    }
+  ], 
+  "Appellate Courts": [
+    {
+      "country": "Afghanistan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctafg.htm"
+    }, 
+    {
+      "country": "Albania", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctalb.htm"
+    }, 
+    {
+      "country": "Algeria", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctalg.htm"
+    }, 
+    {
+      "country": "Angola", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctang.htm"
+    }, 
+    {
+      "country": "Anguilla", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctaga.htm"
+    }, 
+    {
+      "country": "Antigua and Barbuda", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctaab.htm"
+    }, 
+    {
+      "country": "Armenia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctarm.htm"
+    }, 
+    {
+      "country": "Austria", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctoos.htm"
+    }, 
+    {
+      "country": "Azerbaijan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctaze.htm"
+    }, 
+    {
+      "country": "Bahamas", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbhs.htm"
+    }, 
+    {
+      "country": "Bahrain", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbah.htm"
+    }, 
+    {
+      "country": "Bangladesh", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctban.htm"
+    }, 
+    {
+      "country": "Belgium", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctbel.htm"
+    }, 
+    {
+      "country": "Belize", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctblz.htm"
+    }, 
+    {
+      "country": "Benin", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctben.htm"
+    }, 
+    {
+      "country": "Bolivia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbol.htm"
+    }, 
+    {
+      "country": "British Virgin islands", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbvi.htm"
+    }, 
+    {
+      "country": "Brunei", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbri.htm"
+    }, 
+    {
+      "country": "Bulgaria", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctbul.htm"
+    }, 
+    {
+      "country": "Burkina Faso", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbfa.htm"
+    }, 
+    {
+      "country": "Burundi", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbur.htm"
+    }, 
+    {
+      "country": "Cambodia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcam.htm"
+    }, 
+    {
+      "country": "Cameroon", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcmr.htm"
+    }, 
+    {
+      "country": "Cayman Islands", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcis.htm"
+    }, 
+    {
+      "country": "Chile", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctchl.htm"
+    }, 
+    {
+      "country": "China", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctchi.htm"
+    }, 
+    {
+      "country": "Colombia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcol.htm"
+    }, 
+    {
+      "country": "Costa Rica", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcri.htm"
+    }, 
+    {
+      "country": "C\u00f4te-d'Ivoire", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcdi.htm"
+    }, 
+    {
+      "country": "Cuba", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcub.htm"
+    }, 
+    {
+      "country": "Czech republic", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctcze.htm"
+    }, 
+    {
+      "country": "Denmark", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctden.htm"
+    }, 
+    {
+      "country": "Dominican Republic", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctdom.htm"
+    }, 
+    {
+      "country": "Ecuador", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctecu.htm"
+    }, 
+    {
+      "country": "Egypt", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctegy.htm"
+    }, 
+    {
+      "country": "El Salvador", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctesa.htm"
+    }, 
+    {
+      "country": "Estonia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctest.htm"
+    }, 
+    {
+      "country": "Fiji", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctfij.htm"
+    }, 
+    {
+      "country": "Finland", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctfin.htm"
+    }, 
+    {
+      "country": "France", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctfra.htm"
+    }, 
+    {
+      "country": "Gabon", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctgab.htm"
+    }, 
+    {
+      "country": "Gambia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctgam.htm"
+    }, 
+    {
+      "country": "Georgia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctgeo.htm"
+    }, 
+    {
+      "country": "Ghana", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctgha.htm"
+    }, 
+    {
+      "country": "Greece", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctgri.htm"
+    }, 
+    {
+      "country": "Guam", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctgum.htm"
+    }, 
+    {
+      "country": "Guatemala", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctgua.htm"
+    }, 
+    {
+      "country": "Guinee", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctgui.htm"
+    }, 
+    {
+      "country": "Guyana", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctguy.htm"
+    }, 
+    {
+      "country": "Honduras", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcthnd.htm"
+    }, 
+    {
+      "country": "Hong Kong", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcthon.htm"
+    }, 
+    {
+      "country": "Hungary", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxcthun.htm"
+    }, 
+    {
+      "country": "India", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctind.htm"
+    }, 
+    {
+      "country": "Indonesia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctine.htm"
+    }, 
+    {
+      "country": "Israel", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctisr.htm"
+    }, 
+    {
+      "country": "Italy", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctita.htm"
+    }, 
+    {
+      "country": "Ireland", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctier.htm"
+    }, 
+    {
+      "country": "Jamaica", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctjam.htm"
+    }, 
+    {
+      "country": "Jersey", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctjer.htm"
+    }, 
+    {
+      "country": "Jordan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctjor.htm"
+    }, 
+    {
+      "country": "Kenya", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctken.htm"
+    }, 
+    {
+      "country": "Korea", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctkor.htm"
+    }, 
+    {
+      "country": "Kuwait", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctkuw.htm"
+    }, 
+    {
+      "country": "Latvia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctlat.htm"
+    }, 
+    {
+      "country": "Lao DPR", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctlao.htm"
+    }, 
+    {
+      "country": "Lebanon", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctleb.htm"
+    }, 
+    {
+      "country": "Libya", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctlib.htm"
+    }, 
+    {
+      "country": "Lithuania", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctlit.htm"
+    }, 
+    {
+      "country": "Luxembourg", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctlux.htm"
+    }, 
+    {
+      "country": "Macedonia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctmac.htm"
+    }, 
+    {
+      "country": "Madagascar", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmad.htm"
+    }, 
+    {
+      "country": "Malaysia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmal.htm"
+    }, 
+    {
+      "country": "Maldives", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmdv.htm"
+    }, 
+    {
+      "country": "Mali", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmai.htm"
+    }, 
+    {
+      "country": "Marshall Islands", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmis.htm"
+    }, 
+    {
+      "country": "Mauritania", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmrt.htm"
+    }, 
+    {
+      "country": "Mauritius", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmau.htm"
+    }, 
+    {
+      "country": "Moldova", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmol.htm"
+    }, 
+    {
+      "country": "Mongolia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmon.htm"
+    }, 
+    {
+      "country": "Montenegro", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctmnt.htm"
+    }, 
+    {
+      "country": "Morroco", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmar.htm"
+    }, 
+    {
+      "country": "Namibia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctnam.htm"
+    }, 
+    {
+      "country": "Nepal", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctnep.htm"
+    }, 
+    {
+      "country": "Netherlands", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctned.htm"
+    }, 
+    {
+      "country": "New Zealand", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctnzl.htm"
+    }, 
+    {
+      "country": "Nicaragua", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctnic.htm"
+    }, 
+    {
+      "country": "Niger", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctnge.htm"
+    }, 
+    {
+      "country": "Northern Ireland", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctnie.htm"
+    }, 
+    {
+      "country": "Norway", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctnoo.htm"
+    }, 
+    {
+      "country": "Oman", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctoma.htm"
+    }, 
+    {
+      "country": "Pakistan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctpak.htm"
+    }, 
+    {
+      "country": "Panama", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctpan.htm"
+    }, 
+    {
+      "country": "Papua New Guinea", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctpng.htm"
+    }, 
+    {
+      "country": "Paraguay", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctpar.htm"
+    }, 
+    {
+      "country": "Peru", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctper.htm"
+    }, 
+    {
+      "country": "Philippines", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctphi.htm"
+    }, 
+    {
+      "country": "Poland", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctpol.htm"
+    }, 
+    {
+      "country": "Portugal", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctpor.htm"
+    }, 
+    {
+      "country": "Qatar", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctqat.htm"
+    }, 
+    {
+      "country": "Romania", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctrom.htm"
+    }, 
+    {
+      "country": "Russia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctrus.htm"
+    }, 
+    {
+      "country": "Rwanda", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctrwa.htm"
+    }, 
+    {
+      "country": "Saudi Arabia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctsau.htm"
+    }, 
+    {
+      "country": "Senegal", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctsen.htm"
+    }, 
+    {
+      "country": "Serbia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctser.htm"
+    }, 
+    {
+      "country": "Sierra Leone", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctsle.htm"
+    }, 
+    {
+      "country": "Slovenia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctslv.htm"
+    }, 
+    {
+      "country": "South Africa", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctzaf.htm"
+    }, 
+    {
+      "country": "Spain", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctspa.htm"
+    }, 
+    {
+      "country": "Sri Lanka", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctsri.htm"
+    }, 
+    {
+      "country": "Sudan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctsud.htm"
+    }, 
+    {
+      "country": "Sweden", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctzwe.htm"
+    }, 
+    {
+      "country": "Syria", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctsyr.htm"
+    }, 
+    {
+      "country": "Tajikistan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttaj.htm"
+    }, 
+    {
+      "country": "Tanzania", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttan.htm"
+    }, 
+    {
+      "country": "Tchad", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttch.htm"
+    }, 
+    {
+      "country": "Thailand", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttha.htm"
+    }, 
+    {
+      "country": "Trinidad & Tobago", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttat.htm"
+    }, 
+    {
+      "country": "Tunisia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttun.htm"
+    }, 
+    {
+      "country": "Turkmenistan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttmi.htm"
+    }, 
+    {
+      "country": "Tuvalu", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttuv.htm"
+    }, 
+    {
+      "country": "Uganda", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctuga.htm"
+    }, 
+    {
+      "country": "Ukraine", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctukr.htm"
+    }, 
+    {
+      "country": "United Arab Emirates", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctuae.htm"
+    }, 
+    {
+      "country": "Uruguay", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcturu.htm"
+    }, 
+    {
+      "country": "Uzbekistan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctuzb.htm"
+    }, 
+    {
+      "country": "Venezuela", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctven.htm"
+    }, 
+    {
+      "country": "Zambia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctzam.htm"
+    }, 
+    {
+      "country": "Zimbabwe", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctzim.htm"
+    }
+  ], 
+  "Circuit Courts": [
+    {
+      "country": "Ireland", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctier.htm"
+    }
+  ], 
+  "Commercial Courts": [
+    {
+      "country": "Belgium", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctbel.htm"
+    }
+  ], 
+  "Constitutional Court": [
+    {
+      "country": "Albania", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctalb.htm"
+    }, 
+    {
+      "country": "Algeria", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctalg.htm"
+    }, 
+    {
+      "country": "Angola", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctang.htm"
+    }, 
+    {
+      "country": "Armenia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctarm.htm"
+    }, 
+    {
+      "country": "Austria", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctoos.htm"
+    }, 
+    {
+      "country": "Azerbaijan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctaze.htm"
+    }, 
+    {
+      "country": "Bahrain", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbah.htm"
+    }, 
+    {
+      "country": "Belarus", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbru.htm"
+    }, 
+    {
+      "country": "Belgium", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctbel.htm"
+    }, 
+    {
+      "country": "Benin", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctben.htm"
+    }, 
+    {
+      "country": "Bolivia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbol.htm"
+    }, 
+    {
+      "country": "Bosnia & Herzegovina", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctbhe.htm"
+    }, 
+    {
+      "country": "Brasil", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbra.htm"
+    }, 
+    {
+      "country": "Bulgaria", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctbul.htm"
+    }, 
+    {
+      "country": "Burkina Faso", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbfa.htm"
+    }, 
+    {
+      "country": "Burundi", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbur.htm"
+    }, 
+    {
+      "country": "Cambodia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcam.htm"
+    }, 
+    {
+      "country": "Cameroon", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcmr.htm"
+    }, 
+    {
+      "country": "Chile", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctchl.htm"
+    }, 
+    {
+      "country": "Colombia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcol.htm"
+    }, 
+    {
+      "country": "Croatia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctcro.htm"
+    }, 
+    {
+      "country": "C\u00f4te-d'Ivoire", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcdi.htm"
+    }, 
+    {
+      "country": "Czech republic", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctcze.htm"
+    }, 
+    {
+      "country": "Ecuador", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctecu.htm"
+    }, 
+    {
+      "country": "Egypt", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctegy.htm"
+    }, 
+    {
+      "country": "Estonia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctest.htm"
+    }, 
+    {
+      "country": "France", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctfra.htm"
+    }, 
+    {
+      "country": "Gabon", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctgab.htm"
+    }, 
+    {
+      "country": "Georgia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctgeo.htm"
+    }, 
+    {
+      "country": "Greece", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctgri.htm"
+    }, 
+    {
+      "country": "Guatemala", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctgua.htm"
+    }, 
+    {
+      "country": "Hungary", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxcthun.htm"
+    }, 
+    {
+      "country": "Indonesia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctine.htm"
+    }, 
+    {
+      "country": "Italy", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctita.htm"
+    }, 
+    {
+      "country": "Kazakhstan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctkaz.htm"
+    }, 
+    {
+      "country": "Korea", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctkor.htm"
+    }, 
+    {
+      "country": "Kyrgyz Republic", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctkyr.htm"
+    }, 
+    {
+      "country": "Latvia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctlat.htm"
+    }, 
+    {
+      "country": "Lebanon", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctleb.htm"
+    }, 
+    {
+      "country": "Lithuania", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctlit.htm"
+    }, 
+    {
+      "country": "Luxembourg", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctlux.htm"
+    }, 
+    {
+      "country": "Macedonia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctmac.htm"
+    }, 
+    {
+      "country": "Madagascar", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmad.htm"
+    }, 
+    {
+      "country": "Mali", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmai.htm"
+    }, 
+    {
+      "country": "Moldova", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmol.htm"
+    }, 
+    {
+      "country": "Mongolia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmon.htm"
+    }, 
+    {
+      "country": "Montenegro", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctmnt.htm"
+    }, 
+    {
+      "country": "Niger", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctnge.htm"
+    }, 
+    {
+      "country": "Peru", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctper.htm"
+    }, 
+    {
+      "country": "Poland", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctpol.htm"
+    }, 
+    {
+      "country": "Portugal", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctpor.htm"
+    }, 
+    {
+      "country": "Romania", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctrom.htm"
+    }, 
+    {
+      "country": "Russia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctrus.htm"
+    }, 
+    {
+      "country": "Senegal", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctsen.htm"
+    }, 
+    {
+      "country": "Serbia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctser.htm"
+    }, 
+    {
+      "country": "Slovak Republic", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctslw.htm"
+    }, 
+    {
+      "country": "Slovenia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctslv.htm"
+    }, 
+    {
+      "country": "South Africa", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctzaf.htm"
+    }, 
+    {
+      "country": "Spain", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctspa.htm"
+    }, 
+    {
+      "country": "Sprska", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctspr.htm"
+    }, 
+    {
+      "country": "Sudan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctsud.htm"
+    }, 
+    {
+      "country": "Syria", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctsyr.htm"
+    }, 
+    {
+      "country": "Tajikistan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttaj.htm"
+    }, 
+    {
+      "country": "Tchad", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttch.htm"
+    }, 
+    {
+      "country": "Thailand", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttha.htm"
+    }, 
+    {
+      "country": "Turkey", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxcttur.htm"
+    }, 
+    {
+      "country": "Uganda", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctuga.htm"
+    }, 
+    {
+      "country": "Ukraine", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctukr.htm"
+    }, 
+    {
+      "country": "Uzbekistan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctuzb.htm"
+    }
+  ], 
+  "Court of Audit": [
+    {
+      "country": "Albania", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctalb.htm"
+    }, 
+    {
+      "country": "Algeria", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctalg.htm"
+    }, 
+    {
+      "country": "Angola", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctang.htm"
+    }, 
+    {
+      "country": "Austria", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctoos.htm"
+    }, 
+    {
+      "country": "Belgium", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctbel.htm"
+    }, 
+    {
+      "country": "Bolivia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbol.htm"
+    }, 
+    {
+      "country": "Bosnia & Herzegovina", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctbhe.htm"
+    }, 
+    {
+      "country": "Brasil", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbra.htm"
+    }, 
+    {
+      "country": "Burkina Faso", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbfa.htm"
+    }, 
+    {
+      "country": "Chile", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctchl.htm"
+    }, 
+    {
+      "country": "Colombia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcol.htm"
+    }, 
+    {
+      "country": "Costa Rica", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcri.htm"
+    }, 
+    {
+      "country": "Croatia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctcro.htm"
+    }, 
+    {
+      "country": "C\u00f4te-d'Ivoire", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcdi.htm"
+    }, 
+    {
+      "country": "Cuba", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcub.htm"
+    }, 
+    {
+      "country": "Czech republic", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctcze.htm"
+    }, 
+    {
+      "country": "Dominican Republic", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctdom.htm"
+    }, 
+    {
+      "country": "Ecuador", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctecu.htm"
+    }, 
+    {
+      "country": "El Salvador", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctesa.htm"
+    }, 
+    {
+      "country": "Estonia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctest.htm"
+    }, 
+    {
+      "country": "France", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctfra.htm"
+    }, 
+    {
+      "country": "Germany", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctdui.htm"
+    }, 
+    {
+      "country": "Greece", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctgri.htm"
+    }, 
+    {
+      "country": "Guatemala", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctgua.htm"
+    }, 
+    {
+      "country": "Guyana", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctguy.htm"
+    }, 
+    {
+      "country": "Honduras", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcthnd.htm"
+    }, 
+    {
+      "country": "Hungary", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxcthun.htm"
+    }, 
+    {
+      "country": "Indonesia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctine.htm"
+    }, 
+    {
+      "country": "Iran", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctira.htm"
+    }, 
+    {
+      "country": "Italy", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctita.htm"
+    }, 
+    {
+      "country": "Ireland", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctier.htm"
+    }, 
+    {
+      "country": "Kuwait", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctkuw.htm"
+    }, 
+    {
+      "country": "Latvia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctlat.htm"
+    }, 
+    {
+      "country": "Lebanon", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctleb.htm"
+    }, 
+    {
+      "country": "Lesotho", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctles.htm"
+    }, 
+    {
+      "country": "Lithuania", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctlit.htm"
+    }, 
+    {
+      "country": "Madagascar", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmad.htm"
+    }, 
+    {
+      "country": "Maldives", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmdv.htm"
+    }, 
+    {
+      "country": "Mauritania", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmrt.htm"
+    }, 
+    {
+      "country": "Netherlands", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctned.htm"
+    }, 
+    {
+      "country": "Nicaragua", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctnic.htm"
+    }, 
+    {
+      "country": "Panama", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctpan.htm"
+    }, 
+    {
+      "country": "Peru", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctper.htm"
+    }, 
+    {
+      "country": "Poland", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctpol.htm"
+    }, 
+    {
+      "country": "Portugal", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctpor.htm"
+    }, 
+    {
+      "country": "Romania", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctrom.htm"
+    }, 
+    {
+      "country": "Saudi Arabia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctsau.htm"
+    }, 
+    {
+      "country": "Senegal", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctsen.htm"
+    }, 
+    {
+      "country": "Slovenia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctslv.htm"
+    }, 
+    {
+      "country": "Spain", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctspa.htm"
+    }, 
+    {
+      "country": "Thailand", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttha.htm"
+    }, 
+    {
+      "country": "Tunisia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttun.htm"
+    }, 
+    {
+      "country": "Turkey", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxcttur.htm"
+    }, 
+    {
+      "country": "Uruguay", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcturu.htm"
+    }, 
+    {
+      "country": "Venezuela", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctven.htm"
+    }
+  ], 
+  "Federal Administrative Court": [
+    {
+      "country": "Mexico", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmex.htm"
+    }
+  ], 
+  "Federal Appellate Courts": [
+    {
+      "country": "Argentina", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctarg.htm"
+    }, 
+    {
+      "country": "Australia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctaus.htm"
+    }, 
+    {
+      "country": "Brasil", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbra.htm"
+    }, 
+    {
+      "country": "Canada", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcan.htm"
+    }, 
+    {
+      "country": "Guam", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctgum.htm"
+    }, 
+    {
+      "country": "Mexico", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmex.htm"
+    }, 
+    {
+      "country": "Nigeria", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctnig.htm"
+    }, 
+    {
+      "country": "Russia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctrus.htm"
+    }
+  ], 
+  "Federal Constitutional Court": [
+    {
+      "country": "Germany", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctdui.htm"
+    }
+  ], 
+  "Federal Courts of First Instance": [
+    {
+      "country": "Australia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctaus.htm"
+    }
+  ], 
+  "Federal District Courts": [
+    {
+      "country": "Canada", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcan.htm"
+    }, 
+    {
+      "country": "Mexico", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmex.htm"
+    }
+  ], 
+  "Federal District Courts of First Instance": [
+    {
+      "country": "Argentina", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctarg.htm"
+    }, 
+    {
+      "country": "Brasil", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbra.htm"
+    }, 
+    {
+      "country": "Ethiopia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcteth.htm"
+    }
+  ], 
+  "Federal Labor Court": [
+    {
+      "country": "Germany", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctdui.htm"
+    }
+  ], 
+  "Federal Supreme Court": [
+    {
+      "country": "Australia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctaus.htm"
+    }, 
+    {
+      "country": "Brasil", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbra.htm"
+    }, 
+    {
+      "country": "Ethiopia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcteth.htm"
+    }, 
+    {
+      "country": "Germany", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctdui.htm"
+    }
+  ], 
+  "Federal Supreme Court (Highest Instance)": [
+    {
+      "country": "Argentina", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctarg.htm"
+    }, 
+    {
+      "country": "Malaysia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmal.htm"
+    }, 
+    {
+      "country": "Mexico", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmex.htm"
+    }, 
+    {
+      "country": "Nigeria", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctnig.htm"
+    }, 
+    {
+      "country": "Switzerland", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctzwi.htm"
+    }
+  ], 
+  "Federal Territorial Courts": [
+    {
+      "country": "Argentina", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctarg.htm"
+    }, 
+    {
+      "country": "Nigeria", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctnig.htm"
+    }
+  ], 
+  "First Instance Courts": [
+    {
+      "country": "Afghanistan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctafg.htm"
+    }, 
+    {
+      "country": "Albania", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctalb.htm"
+    }, 
+    {
+      "country": "Algeria", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctalg.htm"
+    }, 
+    {
+      "country": "Andorra", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctand.htm"
+    }, 
+    {
+      "country": "Angola", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctang.htm"
+    }, 
+    {
+      "country": "Anguilla", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctaga.htm"
+    }, 
+    {
+      "country": "Antigua and Barbuda", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctaab.htm"
+    }, 
+    {
+      "country": "Argentina", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctarg.htm"
+    }, 
+    {
+      "country": "Armenia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctarm.htm"
+    }, 
+    {
+      "country": "Australia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctaus.htm"
+    }, 
+    {
+      "country": "Austria", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctoos.htm"
+    }, 
+    {
+      "country": "Azerbaijan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctaze.htm"
+    }, 
+    {
+      "country": "Bahamas", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbhs.htm"
+    }, 
+    {
+      "country": "Bahrain", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbah.htm"
+    }, 
+    {
+      "country": "Bangladesh", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctban.htm"
+    }, 
+    {
+      "country": "Barbados", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbar.htm"
+    }, 
+    {
+      "country": "Belarus", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbru.htm"
+    }, 
+    {
+      "country": "Belgium", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctbel.htm"
+    }, 
+    {
+      "country": "Belize", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctblz.htm"
+    }, 
+    {
+      "country": "Benin", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctben.htm"
+    }, 
+    {
+      "country": "Bhutan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbhu.htm"
+    }, 
+    {
+      "country": "Bolivia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbol.htm"
+    }, 
+    {
+      "country": "Bosnia & Herzegovina", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctbhe.htm"
+    }, 
+    {
+      "country": "Botswana", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbot.htm"
+    }, 
+    {
+      "country": "Brasil", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbra.htm"
+    }, 
+    {
+      "country": "British Virgin islands", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbvi.htm"
+    }, 
+    {
+      "country": "Brunei", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbri.htm"
+    }, 
+    {
+      "country": "Bulgaria", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctbul.htm"
+    }, 
+    {
+      "country": "Burkina Faso", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbfa.htm"
+    }, 
+    {
+      "country": "Burundi", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbur.htm"
+    }, 
+    {
+      "country": "Cambodia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcam.htm"
+    }, 
+    {
+      "country": "Cameroon", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcmr.htm"
+    }, 
+    {
+      "country": "Canada", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcan.htm"
+    }, 
+    {
+      "country": "Cayman Islands", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcis.htm"
+    }, 
+    {
+      "country": "Chile", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctchl.htm"
+    }, 
+    {
+      "country": "China", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctchi.htm"
+    }, 
+    {
+      "country": "Colombia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcol.htm"
+    }, 
+    {
+      "country": "Costa Rica", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcri.htm"
+    }, 
+    {
+      "country": "Croatia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctcro.htm"
+    }, 
+    {
+      "country": "C\u00f4te-d'Ivoire", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcdi.htm"
+    }, 
+    {
+      "country": "Cuba", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcub.htm"
+    }, 
+    {
+      "country": "Cyprus", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctcyp.htm"
+    }, 
+    {
+      "country": "Czech republic", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctcze.htm"
+    }, 
+    {
+      "country": "Denmark", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctden.htm"
+    }, 
+    {
+      "country": "Dominican Republic", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctdom.htm"
+    }, 
+    {
+      "country": "Ecuador", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctecu.htm"
+    }, 
+    {
+      "country": "Egypt", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctegy.htm"
+    }, 
+    {
+      "country": "El Salvador", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctesa.htm"
+    }, 
+    {
+      "country": "Estonia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctest.htm"
+    }, 
+    {
+      "country": "Fiji", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctfij.htm"
+    }, 
+    {
+      "country": "Finland", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctfin.htm"
+    }, 
+    {
+      "country": "France", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctfra.htm"
+    }, 
+    {
+      "country": "Gambia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctgam.htm"
+    }, 
+    {
+      "country": "Georgia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctgeo.htm"
+    }, 
+    {
+      "country": "Germany", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctdui.htm"
+    }, 
+    {
+      "country": "Ghana", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctgha.htm"
+    }, 
+    {
+      "country": "Greece", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctgri.htm"
+    }, 
+    {
+      "country": "Guam", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctgum.htm"
+    }, 
+    {
+      "country": "Guatemala", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctgua.htm"
+    }, 
+    {
+      "country": "Guinee", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctgui.htm"
+    }, 
+    {
+      "country": "Guyana", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctguy.htm"
+    }, 
+    {
+      "country": "Honduras", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcthnd.htm"
+    }, 
+    {
+      "country": "Hong Kong", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcthon.htm"
+    }, 
+    {
+      "country": "Hungary", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxcthun.htm"
+    }, 
+    {
+      "country": "Iceland", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctice.htm"
+    }, 
+    {
+      "country": "India", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctind.htm"
+    }, 
+    {
+      "country": "Indonesia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctine.htm"
+    }, 
+    {
+      "country": "Iran", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctira.htm"
+    }, 
+    {
+      "country": "Israel", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctisr.htm"
+    }, 
+    {
+      "country": "Italy", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctita.htm"
+    }, 
+    {
+      "country": "Ireland", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctier.htm"
+    }, 
+    {
+      "country": "Jamaica", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctjam.htm"
+    }, 
+    {
+      "country": "Jersey", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctjer.htm"
+    }, 
+    {
+      "country": "Jordan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctjor.htm"
+    }, 
+    {
+      "country": "Kazakhstan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctkaz.htm"
+    }, 
+    {
+      "country": "Kenya", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctken.htm"
+    }, 
+    {
+      "country": "Korea", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctkor.htm"
+    }, 
+    {
+      "country": "Kuwait", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctkuw.htm"
+    }, 
+    {
+      "country": "Kyrgyz Republic", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctkyr.htm"
+    }, 
+    {
+      "country": "Latvia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctlat.htm"
+    }, 
+    {
+      "country": "Lao DPR", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctlao.htm"
+    }, 
+    {
+      "country": "Lebanon", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctleb.htm"
+    }, 
+    {
+      "country": "Lesotho", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctles.htm"
+    }, 
+    {
+      "country": "Libya", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctlib.htm"
+    }, 
+    {
+      "country": "Lithuania", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctlit.htm"
+    }, 
+    {
+      "country": "Luxembourg", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctlux.htm"
+    }, 
+    {
+      "country": "Macedonia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctmac.htm"
+    }, 
+    {
+      "country": "Madagascar", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmad.htm"
+    }, 
+    {
+      "country": "Malaysia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmal.htm"
+    }, 
+    {
+      "country": "Maldives", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmdv.htm"
+    }, 
+    {
+      "country": "Mali", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmai.htm"
+    }, 
+    {
+      "country": "Marshall Islands", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmis.htm"
+    }, 
+    {
+      "country": "Mauritania", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmrt.htm"
+    }, 
+    {
+      "country": "Mauritius", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmau.htm"
+    }, 
+    {
+      "country": "Mexico", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmex.htm"
+    }, 
+    {
+      "country": "Moldova", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmol.htm"
+    }, 
+    {
+      "country": "Mongolia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmon.htm"
+    }, 
+    {
+      "country": "Montenegro", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctmnt.htm"
+    }, 
+    {
+      "country": "Morroco", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmar.htm"
+    }, 
+    {
+      "country": "Myanmar (Burma)", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbum.htm"
+    }, 
+    {
+      "country": "Namibia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctnam.htm"
+    }, 
+    {
+      "country": "Nepal", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctnep.htm"
+    }, 
+    {
+      "country": "Netherlands", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctned.htm"
+    }, 
+    {
+      "country": "New Zealand", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctnzl.htm"
+    }, 
+    {
+      "country": "Nicaragua", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctnic.htm"
+    }, 
+    {
+      "country": "Niger", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctnge.htm"
+    }, 
+    {
+      "country": "Northern Ireland", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctnie.htm"
+    }, 
+    {
+      "country": "Norway", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctnoo.htm"
+    }, 
+    {
+      "country": "Oman", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctoma.htm"
+    }, 
+    {
+      "country": "Pakistan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctpak.htm"
+    }, 
+    {
+      "country": "Panama", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctpan.htm"
+    }, 
+    {
+      "country": "Papua New Guinea", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctpng.htm"
+    }, 
+    {
+      "country": "Paraguay", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctpar.htm"
+    }, 
+    {
+      "country": "Peru", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctper.htm"
+    }, 
+    {
+      "country": "Philippines", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctphi.htm"
+    }, 
+    {
+      "country": "Poland", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctpol.htm"
+    }, 
+    {
+      "country": "Portugal", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctpor.htm"
+    }, 
+    {
+      "country": "Qatar", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctqat.htm"
+    }, 
+    {
+      "country": "Romania", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctrom.htm"
+    }, 
+    {
+      "country": "Russia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctrus.htm"
+    }, 
+    {
+      "country": "Rwanda", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctrwa.htm"
+    }, 
+    {
+      "country": "Saudi Arabia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctsau.htm"
+    }, 
+    {
+      "country": "Senegal", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctsen.htm"
+    }, 
+    {
+      "country": "Serbia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctser.htm"
+    }, 
+    {
+      "country": "Sierra Leone", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctsle.htm"
+    }, 
+    {
+      "country": "Singapore", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctsin.htm"
+    }, 
+    {
+      "country": "Slovak Republic", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctslw.htm"
+    }, 
+    {
+      "country": "Slovenia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctslv.htm"
+    }, 
+    {
+      "country": "South Africa", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctzaf.htm"
+    }, 
+    {
+      "country": "Spain", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctspa.htm"
+    }, 
+    {
+      "country": "Sprska", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctspr.htm"
+    }, 
+    {
+      "country": "Sri Lanka", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctsri.htm"
+    }, 
+    {
+      "country": "Sudan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctsud.htm"
+    }, 
+    {
+      "country": "Sweden", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctzwe.htm"
+    }, 
+    {
+      "country": "Switzerland", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctzwi.htm"
+    }, 
+    {
+      "country": "Syria", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctsyr.htm"
+    }, 
+    {
+      "country": "Tajikistan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttaj.htm"
+    }, 
+    {
+      "country": "Tanzania", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttan.htm"
+    }, 
+    {
+      "country": "Tchad", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttch.htm"
+    }, 
+    {
+      "country": "Thailand", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttha.htm"
+    }, 
+    {
+      "country": "Trinidad & Tobago", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttat.htm"
+    }, 
+    {
+      "country": "Tunisia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttun.htm"
+    }, 
+    {
+      "country": "Turkey", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxcttur.htm"
+    }, 
+    {
+      "country": "Turkmenistan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttmi.htm"
+    }, 
+    {
+      "country": "Tuvalu", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttuv.htm"
+    }, 
+    {
+      "country": "Uganda", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctuga.htm"
+    }, 
+    {
+      "country": "Ukraine", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctukr.htm"
+    }, 
+    {
+      "country": "United Arab Emirates", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctuae.htm"
+    }, 
+    {
+      "country": "Uruguay", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcturu.htm"
+    }, 
+    {
+      "country": "Uzbekistan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctuzb.htm"
+    }, 
+    {
+      "country": "Venezuela", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctven.htm"
+    }, 
+    {
+      "country": "Vietnam", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctvie.htm"
+    }, 
+    {
+      "country": "Zambia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctzam.htm"
+    }, 
+    {
+      "country": "Zimbabwe", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctzim.htm"
+    }
+  ], 
+  "High Courts": [
+    {
+      "country": "Anguilla", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctaga.htm"
+    }, 
+    {
+      "country": "Bhutan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbhu.htm"
+    }, 
+    {
+      "country": "Botswana", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbot.htm"
+    }, 
+    {
+      "country": "Ethiopia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcteth.htm"
+    }, 
+    {
+      "country": "Fiji", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctfij.htm"
+    }, 
+    {
+      "country": "Gambia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctgam.htm"
+    }, 
+    {
+      "country": "Ghana", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctgha.htm"
+    }, 
+    {
+      "country": "Ireland", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctier.htm"
+    }, 
+    {
+      "country": "Kenya", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctken.htm"
+    }, 
+    {
+      "country": "Lesotho", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctles.htm"
+    }, 
+    {
+      "country": "New Zealand", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctnzl.htm"
+    }, 
+    {
+      "country": "Northern Ireland", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctnie.htm"
+    }, 
+    {
+      "country": "Sri Lanka", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctsri.htm"
+    }, 
+    {
+      "country": "Tuvalu", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttuv.htm"
+    }, 
+    {
+      "country": "Uganda", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctuga.htm"
+    }, 
+    {
+      "country": "Ukraine", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctukr.htm"
+    }
+  ], 
+  "International Courts": [
+    {
+      "country": "International Courts", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctint.htm"
+    }
+  ], 
+  "Labor Appeal Court": [
+    {
+      "country": "Slovenia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctslv.htm"
+    }
+  ], 
+  "Labor Appellate Courts": [
+    {
+      "country": "Belgium", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctbel.htm"
+    }, 
+    {
+      "country": "Brasil", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbra.htm"
+    }, 
+    {
+      "country": "Costa Rica", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcri.htm"
+    }, 
+    {
+      "country": "Dominican Republic", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctdom.htm"
+    }, 
+    {
+      "country": "Germany", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctdui.htm"
+    }, 
+    {
+      "country": "Guatemala", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctgua.htm"
+    }, 
+    {
+      "country": "Honduras", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcthnd.htm"
+    }, 
+    {
+      "country": "Israel", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctisr.htm"
+    }, 
+    {
+      "country": "South Africa", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctzaf.htm"
+    }, 
+    {
+      "country": "Venezuela", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctven.htm"
+    }
+  ], 
+  "Labor Courts": [
+    {
+      "country": "Bahrain", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbah.htm"
+    }, 
+    {
+      "country": "Belgium", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctbel.htm"
+    }, 
+    {
+      "country": "Brasil", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbra.htm"
+    }, 
+    {
+      "country": "Burkina Faso", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbfa.htm"
+    }, 
+    {
+      "country": "Chile", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctchl.htm"
+    }, 
+    {
+      "country": "Costa Rica", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcri.htm"
+    }, 
+    {
+      "country": "C\u00f4te-d'Ivoire", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcdi.htm"
+    }, 
+    {
+      "country": "Dominican Republic", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctdom.htm"
+    }, 
+    {
+      "country": "Ecuador", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctecu.htm"
+    }, 
+    {
+      "country": "El Salvador", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctesa.htm"
+    }, 
+    {
+      "country": "Finland", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctfin.htm"
+    }, 
+    {
+      "country": "Germany", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctdui.htm"
+    }, 
+    {
+      "country": "Guatemala", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctgua.htm"
+    }, 
+    {
+      "country": "Hungary", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxcthun.htm"
+    }, 
+    {
+      "country": "Israel", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctisr.htm"
+    }, 
+    {
+      "country": "Ireland", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctier.htm"
+    }, 
+    {
+      "country": "Lebanon", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctleb.htm"
+    }, 
+    {
+      "country": "Mali", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmai.htm"
+    }, 
+    {
+      "country": "Mauritania", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmrt.htm"
+    }, 
+    {
+      "country": "Norway", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctnoo.htm"
+    }, 
+    {
+      "country": "Portugal", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctpor.htm"
+    }, 
+    {
+      "country": "Senegal", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctsen.htm"
+    }, 
+    {
+      "country": "Slovenia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctslv.htm"
+    }, 
+    {
+      "country": "South Africa", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctzaf.htm"
+    }, 
+    {
+      "country": "Spain", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctspa.htm"
+    }, 
+    {
+      "country": "Sri Lanka", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctsri.htm"
+    }, 
+    {
+      "country": "Sweden", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctzwe.htm"
+    }, 
+    {
+      "country": "Tchad", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttch.htm"
+    }, 
+    {
+      "country": "Thailand", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttha.htm"
+    }, 
+    {
+      "country": "Uruguay", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcturu.htm"
+    }, 
+    {
+      "country": "Venezuela", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctven.htm"
+    }
+  ], 
+  "Labor Supreme Court": [
+    {
+      "country": "Nicaragua", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctnic.htm"
+    }, 
+    {
+      "country": "Panama", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctpan.htm"
+    }
+  ], 
+  "National Court": [
+    {
+      "country": "Spain", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctspa.htm"
+    }
+  ], 
+  "Other Courts": [
+    {
+      "country": "Afghanistan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctafg.htm"
+    }, 
+    {
+      "country": "Algeria", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctalg.htm"
+    }, 
+    {
+      "country": "Angola", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctang.htm"
+    }, 
+    {
+      "country": "Argentina", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctarg.htm"
+    }, 
+    {
+      "country": "Australia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctaus.htm"
+    }, 
+    {
+      "country": "Austria", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctoos.htm"
+    }, 
+    {
+      "country": "Azerbaijan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctaze.htm"
+    }, 
+    {
+      "country": "Bahrain", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbah.htm"
+    }, 
+    {
+      "country": "Bangladesh", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctban.htm"
+    }, 
+    {
+      "country": "Belarus", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbru.htm"
+    }, 
+    {
+      "country": "Bolivia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbol.htm"
+    }, 
+    {
+      "country": "Bosnia & Herzegovina", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctbhe.htm"
+    }, 
+    {
+      "country": "Brasil", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbra.htm"
+    }, 
+    {
+      "country": "British Virgin islands", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbvi.htm"
+    }, 
+    {
+      "country": "Bulgaria", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctbul.htm"
+    }, 
+    {
+      "country": "Burkina Faso", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbfa.htm"
+    }, 
+    {
+      "country": "Cambodia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcam.htm"
+    }, 
+    {
+      "country": "Cameroon", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcmr.htm"
+    }, 
+    {
+      "country": "Canada", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcan.htm"
+    }, 
+    {
+      "country": "Chile", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctchl.htm"
+    }, 
+    {
+      "country": "China", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctchi.htm"
+    }, 
+    {
+      "country": "Colombia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcol.htm"
+    }, 
+    {
+      "country": "Costa Rica", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcri.htm"
+    }, 
+    {
+      "country": "Croatia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctcro.htm"
+    }, 
+    {
+      "country": "C\u00f4te-d'Ivoire", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcdi.htm"
+    }, 
+    {
+      "country": "Cyprus", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctcyp.htm"
+    }, 
+    {
+      "country": "Czech republic", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctcze.htm"
+    }, 
+    {
+      "country": "Denmark", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctden.htm"
+    }, 
+    {
+      "country": "Dominican Republic", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctdom.htm"
+    }, 
+    {
+      "country": "Ecuador", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctecu.htm"
+    }, 
+    {
+      "country": "Egypt", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctegy.htm"
+    }, 
+    {
+      "country": "El Salvador", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctesa.htm"
+    }, 
+    {
+      "country": "Fiji", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctfij.htm"
+    }, 
+    {
+      "country": "Finland", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctfin.htm"
+    }, 
+    {
+      "country": "France", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctfra.htm"
+    }, 
+    {
+      "country": "Georgia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctgeo.htm"
+    }, 
+    {
+      "country": "Germany", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctdui.htm"
+    }, 
+    {
+      "country": "Ghana", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctgha.htm"
+    }, 
+    {
+      "country": "Guatemala", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctgua.htm"
+    }, 
+    {
+      "country": "Guinee", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctgui.htm"
+    }, 
+    {
+      "country": "Honduras", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcthnd.htm"
+    }, 
+    {
+      "country": "Hong Kong", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcthon.htm"
+    }, 
+    {
+      "country": "India", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctind.htm"
+    }, 
+    {
+      "country": "Indonesia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctine.htm"
+    }, 
+    {
+      "country": "Iran", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctira.htm"
+    }, 
+    {
+      "country": "Israel", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctisr.htm"
+    }, 
+    {
+      "country": "Italy", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctita.htm"
+    }, 
+    {
+      "country": "Ireland", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctier.htm"
+    }, 
+    {
+      "country": "Jordan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctjor.htm"
+    }, 
+    {
+      "country": "Kazakhstan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctkaz.htm"
+    }, 
+    {
+      "country": "Korea", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctkor.htm"
+    }, 
+    {
+      "country": "Kuwait", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctkuw.htm"
+    }, 
+    {
+      "country": "Kyrgyz Republic", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctkyr.htm"
+    }, 
+    {
+      "country": "Latvia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctlat.htm"
+    }, 
+    {
+      "country": "Lao DPR", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctlao.htm"
+    }, 
+    {
+      "country": "Lebanon", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctleb.htm"
+    }, 
+    {
+      "country": "Lesotho", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctles.htm"
+    }, 
+    {
+      "country": "Libya", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctlib.htm"
+    }, 
+    {
+      "country": "Lithuania", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctlit.htm"
+    }, 
+    {
+      "country": "Madagascar", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmad.htm"
+    }, 
+    {
+      "country": "Malaysia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmal.htm"
+    }, 
+    {
+      "country": "Maldives", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmdv.htm"
+    }, 
+    {
+      "country": "Mali", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmai.htm"
+    }, 
+    {
+      "country": "Marshall Islands", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmis.htm"
+    }, 
+    {
+      "country": "Mauritius", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmau.htm"
+    }, 
+    {
+      "country": "Mexico", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmex.htm"
+    }, 
+    {
+      "country": "Moldova", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmol.htm"
+    }, 
+    {
+      "country": "Montenegro", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctmnt.htm"
+    }, 
+    {
+      "country": "Morroco", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmar.htm"
+    }, 
+    {
+      "country": "Namibia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctnam.htm"
+    }, 
+    {
+      "country": "Nepal", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctnep.htm"
+    }, 
+    {
+      "country": "Netherlands", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctned.htm"
+    }, 
+    {
+      "country": "New Zealand", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctnzl.htm"
+    }, 
+    {
+      "country": "Nicaragua", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctnic.htm"
+    }, 
+    {
+      "country": "Niger", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctnge.htm"
+    }, 
+    {
+      "country": "Northern Ireland", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctnie.htm"
+    }, 
+    {
+      "country": "Norway", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctnoo.htm"
+    }, 
+    {
+      "country": "Oman", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctoma.htm"
+    }, 
+    {
+      "country": "Pakistan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctpak.htm"
+    }, 
+    {
+      "country": "Panama", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctpan.htm"
+    }, 
+    {
+      "country": "Papua New Guinea", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctpng.htm"
+    }, 
+    {
+      "country": "Paraguay", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctpar.htm"
+    }, 
+    {
+      "country": "Portugal", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctpor.htm"
+    }, 
+    {
+      "country": "Romania", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctrom.htm"
+    }, 
+    {
+      "country": "Russia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctrus.htm"
+    }, 
+    {
+      "country": "Rwanda", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctrwa.htm"
+    }, 
+    {
+      "country": "Saudi Arabia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctsau.htm"
+    }, 
+    {
+      "country": "Senegal", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctsen.htm"
+    }, 
+    {
+      "country": "Serbia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctser.htm"
+    }, 
+    {
+      "country": "Sierra Leone", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctsle.htm"
+    }, 
+    {
+      "country": "Singapore", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctsin.htm"
+    }, 
+    {
+      "country": "Slovak Republic", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctslw.htm"
+    }, 
+    {
+      "country": "South Africa", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctzaf.htm"
+    }, 
+    {
+      "country": "Spain", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctspa.htm"
+    }, 
+    {
+      "country": "Sudan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctsud.htm"
+    }, 
+    {
+      "country": "Sweden", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctzwe.htm"
+    }, 
+    {
+      "country": "Switzerland", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctzwi.htm"
+    }, 
+    {
+      "country": "Tajikistan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttaj.htm"
+    }, 
+    {
+      "country": "Tanzania", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttan.htm"
+    }, 
+    {
+      "country": "Tchad", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttch.htm"
+    }, 
+    {
+      "country": "Thailand", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttha.htm"
+    }, 
+    {
+      "country": "Trinidad & Tobago", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttat.htm"
+    }, 
+    {
+      "country": "Turkey", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxcttur.htm"
+    }, 
+    {
+      "country": "Turkmenistan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttmi.htm"
+    }, 
+    {
+      "country": "Tuvalu", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttuv.htm"
+    }, 
+    {
+      "country": "Uganda", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctuga.htm"
+    }, 
+    {
+      "country": "Ukraine", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctukr.htm"
+    }, 
+    {
+      "country": "United Arab Emirates", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctuae.htm"
+    }, 
+    {
+      "country": "Uruguay", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcturu.htm"
+    }, 
+    {
+      "country": "Uzbekistan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctuzb.htm"
+    }, 
+    {
+      "country": "Venezuela", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctven.htm"
+    }, 
+    {
+      "country": "Vietnam", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctvie.htm"
+    }, 
+    {
+      "country": "Zambia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctzam.htm"
+    }
+  ], 
+  "Provincial Appellate Courts": [
+    {
+      "country": "Argentina", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctarg.htm"
+    }
+  ], 
+  "Regional Arbitration Courts": [
+    {
+      "country": "Russia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctrus.htm"
+    }
+  ], 
+  "Regional courts": [
+    {
+      "country": "Austria", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctoos.htm"
+    }, 
+    {
+      "country": "Belarus", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbru.htm"
+    }, 
+    {
+      "country": "Bosnia & Herzegovina", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctbhe.htm"
+    }, 
+    {
+      "country": "Brunei", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbri.htm"
+    }, 
+    {
+      "country": "Bulgaria", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctbul.htm"
+    }, 
+    {
+      "country": "Burkina Faso", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbfa.htm"
+    }, 
+    {
+      "country": "Burundi", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbur.htm"
+    }, 
+    {
+      "country": "Cameroon", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcmr.htm"
+    }, 
+    {
+      "country": "China", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctchi.htm"
+    }, 
+    {
+      "country": "Colombia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcol.htm"
+    }, 
+    {
+      "country": "Croatia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctcro.htm"
+    }, 
+    {
+      "country": "Czech republic", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctcze.htm"
+    }, 
+    {
+      "country": "France", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctfra.htm"
+    }, 
+    {
+      "country": "Germany", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctdui.htm"
+    }, 
+    {
+      "country": "Hungary", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxcthun.htm"
+    }, 
+    {
+      "country": "Kazakhstan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctkaz.htm"
+    }, 
+    {
+      "country": "Kyrgyz Republic", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctkyr.htm"
+    }, 
+    {
+      "country": "Lao DPR", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctlao.htm"
+    }, 
+    {
+      "country": "Lithuania", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctlit.htm"
+    }, 
+    {
+      "country": "Luxembourg", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctlux.htm"
+    }, 
+    {
+      "country": "Malaysia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmal.htm"
+    }, 
+    {
+      "country": "Mauritania", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmrt.htm"
+    }, 
+    {
+      "country": "Montenegro", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctmnt.htm"
+    }, 
+    {
+      "country": "Myanmar (Burma)", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbum.htm"
+    }, 
+    {
+      "country": "Netherlands", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctned.htm"
+    }, 
+    {
+      "country": "Niger", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctnge.htm"
+    }, 
+    {
+      "country": "Northern Ireland", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctnie.htm"
+    }, 
+    {
+      "country": "Panama", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctpan.htm"
+    }, 
+    {
+      "country": "Philippines", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctphi.htm"
+    }, 
+    {
+      "country": "Poland", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctpol.htm"
+    }, 
+    {
+      "country": "Romania", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctrom.htm"
+    }, 
+    {
+      "country": "Rwanda", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctrwa.htm"
+    }, 
+    {
+      "country": "Senegal", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctsen.htm"
+    }, 
+    {
+      "country": "Serbia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctser.htm"
+    }, 
+    {
+      "country": "Sierra Leone", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctsle.htm"
+    }, 
+    {
+      "country": "Slovak Republic", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctslw.htm"
+    }, 
+    {
+      "country": "Slovenia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctslv.htm"
+    }, 
+    {
+      "country": "Spain", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctspa.htm"
+    }, 
+    {
+      "country": "Sprska", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctspr.htm"
+    }, 
+    {
+      "country": "Sri Lanka", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctsri.htm"
+    }, 
+    {
+      "country": "Tunisia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttun.htm"
+    }, 
+    {
+      "country": "Venezuela", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctven.htm"
+    }
+  ], 
+  "Religious Appeal Courts": [
+    {
+      "country": "Indonesia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctine.htm"
+    }, 
+    {
+      "country": "Jordan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctjor.htm"
+    }, 
+    {
+      "country": "Pakistan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctpak.htm"
+    }, 
+    {
+      "country": "Philippines", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctphi.htm"
+    }, 
+    {
+      "country": "Qatar", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctqat.htm"
+    }
+  ], 
+  "Religious Courts": [
+    {
+      "country": "Indonesia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctine.htm"
+    }, 
+    {
+      "country": "Jordan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctjor.htm"
+    }, 
+    {
+      "country": "Philippines", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctphi.htm"
+    }, 
+    {
+      "country": "Qatar", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctqat.htm"
+    }, 
+    {
+      "country": "Syria", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctsyr.htm"
+    }
+  ], 
+  "State Appellate Courts": [
+    {
+      "country": "Australia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctaus.htm"
+    }, 
+    {
+      "country": "Canada", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcan.htm"
+    }, 
+    {
+      "country": "Germany", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctdui.htm"
+    }, 
+    {
+      "country": "Switzerland", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctzwi.htm"
+    }
+  ], 
+  "State Constitutional Courts": [
+    {
+      "country": "Germany", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctdui.htm"
+    }
+  ], 
+  "State Supreme Court": [
+    {
+      "country": "Argentina", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctarg.htm"
+    }, 
+    {
+      "country": "Australia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctaus.htm"
+    }, 
+    {
+      "country": "Brasil", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbra.htm"
+    }, 
+    {
+      "country": "Canada", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcan.htm"
+    }, 
+    {
+      "country": "Germany", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctdui.htm"
+    }, 
+    {
+      "country": "Mexico", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmex.htm"
+    }
+  ], 
+  "Supreme Court (Highest Instance)": [
+    {
+      "country": "Estonia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctest.htm"
+    }
+  ], 
+  "Supreme Courts (Highest Instance)": [
+    {
+      "country": "Afghanistan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctafg.htm"
+    }, 
+    {
+      "country": "Albania", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctalb.htm"
+    }, 
+    {
+      "country": "Algeria", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctalg.htm"
+    }, 
+    {
+      "country": "Andorra", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctand.htm"
+    }, 
+    {
+      "country": "Angola", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctang.htm"
+    }, 
+    {
+      "country": "Anguilla", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctaga.htm"
+    }, 
+    {
+      "country": "Antigua and Barbuda", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctaab.htm"
+    }, 
+    {
+      "country": "Armenia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctarm.htm"
+    }, 
+    {
+      "country": "Austria", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctoos.htm"
+    }, 
+    {
+      "country": "Azerbaijan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctaze.htm"
+    }, 
+    {
+      "country": "Bahamas", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbhs.htm"
+    }, 
+    {
+      "country": "Bahrain", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbah.htm"
+    }, 
+    {
+      "country": "Bangladesh", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctban.htm"
+    }, 
+    {
+      "country": "Barbados", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbar.htm"
+    }, 
+    {
+      "country": "Belarus", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbru.htm"
+    }, 
+    {
+      "country": "Belgium", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctbel.htm"
+    }, 
+    {
+      "country": "Belize", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctblz.htm"
+    }, 
+    {
+      "country": "Benin", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctben.htm"
+    }, 
+    {
+      "country": "Bhutan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbhu.htm"
+    }, 
+    {
+      "country": "Bolivia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbol.htm"
+    }, 
+    {
+      "country": "Bosnia & Herzegovina", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctbhe.htm"
+    }, 
+    {
+      "country": "Botswana", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbot.htm"
+    }, 
+    {
+      "country": "British Virgin islands", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbvi.htm"
+    }, 
+    {
+      "country": "Brunei", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbri.htm"
+    }, 
+    {
+      "country": "Bulgaria", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctbul.htm"
+    }, 
+    {
+      "country": "Burkina Faso", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbfa.htm"
+    }, 
+    {
+      "country": "Burundi", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbur.htm"
+    }, 
+    {
+      "country": "Cambodia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcam.htm"
+    }, 
+    {
+      "country": "Cameroon", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcmr.htm"
+    }, 
+    {
+      "country": "Canada", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcan.htm"
+    }, 
+    {
+      "country": "Cayman Islands", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcis.htm"
+    }, 
+    {
+      "country": "Chile", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctchl.htm"
+    }, 
+    {
+      "country": "China", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctchi.htm"
+    }, 
+    {
+      "country": "Colombia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcol.htm"
+    }, 
+    {
+      "country": "Costa Rica", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcri.htm"
+    }, 
+    {
+      "country": "Croatia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctcro.htm"
+    }, 
+    {
+      "country": "C\u00f4te-d'Ivoire", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcdi.htm"
+    }, 
+    {
+      "country": "Cuba", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctcub.htm"
+    }, 
+    {
+      "country": "Cyprus", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctcyp.htm"
+    }, 
+    {
+      "country": "Czech republic", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctcze.htm"
+    }, 
+    {
+      "country": "Denmark", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctden.htm"
+    }, 
+    {
+      "country": "Dominican Republic", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctdom.htm"
+    }, 
+    {
+      "country": "Ecuador", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctecu.htm"
+    }, 
+    {
+      "country": "Egypt", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctegy.htm"
+    }, 
+    {
+      "country": "El Salvador", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctesa.htm"
+    }, 
+    {
+      "country": "Fiji", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctfij.htm"
+    }, 
+    {
+      "country": "Finland", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctfin.htm"
+    }, 
+    {
+      "country": "France", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctfra.htm"
+    }, 
+    {
+      "country": "Gabon", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctgab.htm"
+    }, 
+    {
+      "country": "Gambia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctgam.htm"
+    }, 
+    {
+      "country": "Georgia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctgeo.htm"
+    }, 
+    {
+      "country": "Ghana", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctgha.htm"
+    }, 
+    {
+      "country": "Greece", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctgri.htm"
+    }, 
+    {
+      "country": "Guam", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctgum.htm"
+    }, 
+    {
+      "country": "Guatemala", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctgua.htm"
+    }, 
+    {
+      "country": "Guinee", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctgui.htm"
+    }, 
+    {
+      "country": "Guyana", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctguy.htm"
+    }, 
+    {
+      "country": "Honduras", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcthnd.htm"
+    }, 
+    {
+      "country": "Hong Kong", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcthon.htm"
+    }, 
+    {
+      "country": "Hungary", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxcthun.htm"
+    }, 
+    {
+      "country": "Iceland", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctice.htm"
+    }, 
+    {
+      "country": "India", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctind.htm"
+    }, 
+    {
+      "country": "Indonesia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctine.htm"
+    }, 
+    {
+      "country": "Iran", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctira.htm"
+    }, 
+    {
+      "country": "Israel", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctisr.htm"
+    }, 
+    {
+      "country": "Italy", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctita.htm"
+    }, 
+    {
+      "country": "Ireland", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctier.htm"
+    }, 
+    {
+      "country": "Jamaica", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctjam.htm"
+    }, 
+    {
+      "country": "Jersey", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctjer.htm"
+    }, 
+    {
+      "country": "Jordan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctjor.htm"
+    }, 
+    {
+      "country": "Kazakhstan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctkaz.htm"
+    }, 
+    {
+      "country": "Korea", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctkor.htm"
+    }, 
+    {
+      "country": "Kuwait", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctkuw.htm"
+    }, 
+    {
+      "country": "Kyrgyz Republic", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctkyr.htm"
+    }, 
+    {
+      "country": "Latvia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctlat.htm"
+    }, 
+    {
+      "country": "Lao DPR", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctlao.htm"
+    }, 
+    {
+      "country": "Lebanon", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctleb.htm"
+    }, 
+    {
+      "country": "Lesotho", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctles.htm"
+    }, 
+    {
+      "country": "Libya", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctlib.htm"
+    }, 
+    {
+      "country": "Lithuania", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctlit.htm"
+    }, 
+    {
+      "country": "Luxembourg", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctlux.htm"
+    }, 
+    {
+      "country": "Macedonia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctmac.htm"
+    }, 
+    {
+      "country": "Madagascar", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmad.htm"
+    }, 
+    {
+      "country": "Maldives", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmdv.htm"
+    }, 
+    {
+      "country": "Mali", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmai.htm"
+    }, 
+    {
+      "country": "Marshall Islands", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmis.htm"
+    }, 
+    {
+      "country": "Mauritania", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmrt.htm"
+    }, 
+    {
+      "country": "Mauritius", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmau.htm"
+    }, 
+    {
+      "country": "Moldova", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmol.htm"
+    }, 
+    {
+      "country": "Mongolia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmon.htm"
+    }, 
+    {
+      "country": "Montenegro", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctmnt.htm"
+    }, 
+    {
+      "country": "Morroco", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctmar.htm"
+    }, 
+    {
+      "country": "Myanmar (Burma)", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctbum.htm"
+    }, 
+    {
+      "country": "Namibia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctnam.htm"
+    }, 
+    {
+      "country": "Nepal", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctnep.htm"
+    }, 
+    {
+      "country": "Netherlands", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctned.htm"
+    }, 
+    {
+      "country": "New Zealand", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctnzl.htm"
+    }, 
+    {
+      "country": "Nicaragua", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctnic.htm"
+    }, 
+    {
+      "country": "Niger", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctnge.htm"
+    }, 
+    {
+      "country": "Northern Ireland", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctnie.htm"
+    }, 
+    {
+      "country": "Norway", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctnoo.htm"
+    }, 
+    {
+      "country": "Oman", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctoma.htm"
+    }, 
+    {
+      "country": "Pakistan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctpak.htm"
+    }, 
+    {
+      "country": "Panama", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctpan.htm"
+    }, 
+    {
+      "country": "Papua New Guinea", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctpng.htm"
+    }, 
+    {
+      "country": "Paraguay", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctpar.htm"
+    }, 
+    {
+      "country": "Peru", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctper.htm"
+    }, 
+    {
+      "country": "Philippines", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctphi.htm"
+    }, 
+    {
+      "country": "Poland", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctpol.htm"
+    }, 
+    {
+      "country": "Portugal", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctpor.htm"
+    }, 
+    {
+      "country": "Romania", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctrom.htm"
+    }, 
+    {
+      "country": "Russia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctrus.htm"
+    }, 
+    {
+      "country": "Rwanda", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctrwa.htm"
+    }, 
+    {
+      "country": "Saudi Arabia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctsau.htm"
+    }, 
+    {
+      "country": "Senegal", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctsen.htm"
+    }, 
+    {
+      "country": "Serbia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctser.htm"
+    }, 
+    {
+      "country": "Sierra Leone", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctsle.htm"
+    }, 
+    {
+      "country": "Singapore", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctsin.htm"
+    }, 
+    {
+      "country": "Slovak Republic", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctslw.htm"
+    }, 
+    {
+      "country": "Slovenia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctslv.htm"
+    }, 
+    {
+      "country": "South Africa", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctzaf.htm"
+    }, 
+    {
+      "country": "Spain", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctspa.htm"
+    }, 
+    {
+      "country": "Sprska", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctspr.htm"
+    }, 
+    {
+      "country": "Sri Lanka", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctsri.htm"
+    }, 
+    {
+      "country": "Sudan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctsud.htm"
+    }, 
+    {
+      "country": "Sweden", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctzwe.htm"
+    }, 
+    {
+      "country": "Syria", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctsyr.htm"
+    }, 
+    {
+      "country": "Tajikistan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttaj.htm"
+    }, 
+    {
+      "country": "Tanzania", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttan.htm"
+    }, 
+    {
+      "country": "Tchad", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttch.htm"
+    }, 
+    {
+      "country": "Thailand", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttha.htm"
+    }, 
+    {
+      "country": "Trinidad & Tobago", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttat.htm"
+    }, 
+    {
+      "country": "Tunisia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttun.htm"
+    }, 
+    {
+      "country": "Turkey", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxcttur.htm"
+    }, 
+    {
+      "country": "Turkmenistan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttmi.htm"
+    }, 
+    {
+      "country": "Tuvalu", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcttuv.htm"
+    }, 
+    {
+      "country": "Uganda", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctuga.htm"
+    }, 
+    {
+      "country": "Ukraine", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctukr.htm"
+    }, 
+    {
+      "country": "United Arab Emirates", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctuae.htm"
+    }, 
+    {
+      "country": "United Kingdom", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/eur/lxctuk.htm"
+    }, 
+    {
+      "country": "Uruguay", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxcturu.htm"
+    }, 
+    {
+      "country": "Uzbekistan", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctuzb.htm"
+    }, 
+    {
+      "country": "Venezuela", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctven.htm"
+    }, 
+    {
+      "country": "Vietnam", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctvie.htm"
+    }, 
+    {
+      "country": "Zambia", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctzam.htm"
+    }, 
+    {
+      "country": "Zimbabwe", 
+      "segment": "", 
+      "url": "http://www.lexadin.nl/wlg/courts/nofr/oeur/lxctzim.htm"
+    }
+  ]
+}

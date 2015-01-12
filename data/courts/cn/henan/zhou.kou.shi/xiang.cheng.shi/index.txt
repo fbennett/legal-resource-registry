@@ -1,0 +1,3 @@
+.. category:: 项城市
+   :category-id: cn:henan:zhou.kou.shi:xiang.cheng.shi
+   :en: Xiangchengshi

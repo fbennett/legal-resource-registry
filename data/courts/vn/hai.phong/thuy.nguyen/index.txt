@@ -1,0 +1,3 @@
+.. category:: Thủy Nguyên
+   :category-id: vn:hai.phong:thuy.nguyen
+   :en: Thuy Nguyen

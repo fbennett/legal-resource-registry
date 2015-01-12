@@ -1,0 +1,3 @@
+.. category:: Nghi Xuân
+   :category-id: vn:ha.tinh:nghi.xuan
+   :en: Nghi Xuan

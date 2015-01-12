@@ -1,0 +1,3 @@
+.. category:: 丹阳市
+   :category-id: cn:jiangsu:zhen.jiang.shi:dan.yang.shi
+   :en: Danyangshi

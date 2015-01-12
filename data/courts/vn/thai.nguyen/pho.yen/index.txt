@@ -1,0 +1,3 @@
+.. category:: Phổ Yên
+   :category-id: vn:thai.nguyen:pho.yen
+   :en: Pho Yen

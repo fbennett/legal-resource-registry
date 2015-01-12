@@ -1,0 +1,3 @@
+.. category:: 番禺区
+   :category-id: cn:guangdong:guang.zhou.shi:fan.yu.qu
+   :en: Fanyuqu

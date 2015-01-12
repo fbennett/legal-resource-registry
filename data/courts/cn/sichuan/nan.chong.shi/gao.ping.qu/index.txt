@@ -1,0 +1,3 @@
+.. category:: 高坪区
+   :category-id: cn:sichuan:nan.chong.shi:gao.ping.qu
+   :en: Gaopingqu

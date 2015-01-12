@@ -1,0 +1,3 @@
+.. category:: Cái Răng
+   :category-id: vn:can.tho:cai.rang
+   :en: Cai Rang

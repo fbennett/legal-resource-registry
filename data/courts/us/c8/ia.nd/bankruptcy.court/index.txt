@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c8:ia.nd;bankruptcy.court
+   :url: http://www.ianb.uscourts.gov/
+   :flp-key: ianb
+
+   .. reporter-key:: B.R.

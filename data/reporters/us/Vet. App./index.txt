@@ -1,0 +1,7 @@
+.. reporter:: Veterans Appeals Reporter
+   :flp-series-cite-type: specialty
+   :flp-common-abbreviation: Vet. App.
+   :edition-abbreviation: Vet. App.
+   :dates: 1990/01/01-present
+
+   .. variation:: Vet.App.

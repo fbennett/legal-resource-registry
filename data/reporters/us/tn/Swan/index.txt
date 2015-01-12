@@ -1,0 +1,7 @@
+.. reporter:: Tennessee Reports, Swan
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Swan
+   :edition-abbreviation: Swan
+   :dates: 1851/01/01-1853/12/31
+
+   .. variation:: Tenn.(Swan)

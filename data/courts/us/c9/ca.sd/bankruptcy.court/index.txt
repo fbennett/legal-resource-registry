@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c9:ca.sd;bankruptcy.court
+   :url: http://www.casb.uscourts.gov/
+   :flp-key: casb
+
+   .. reporter-key:: B.R.

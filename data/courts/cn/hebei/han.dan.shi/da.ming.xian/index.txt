@@ -1,0 +1,3 @@
+.. category:: 大名县
+   :category-id: cn:hebei:han.dan.shi:da.ming.xian
+   :en: Damingxian

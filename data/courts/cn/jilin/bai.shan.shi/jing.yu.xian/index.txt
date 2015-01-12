@@ -1,0 +1,3 @@
+.. category:: 靖宇县
+   :category-id: cn:jilin:bai.shan.shi:jing.yu.xian
+   :en: Jingyuxian

@@ -1,0 +1,3 @@
+.. category:: 琼海市
+   :category-id: cn:hainan:hai.nan.yi:qiong.hai.shi
+   :en: Qionghaishi

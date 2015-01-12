@@ -1,0 +1,3 @@
+.. category:: International Monetary Fund
+   :category-id: imf.int
+

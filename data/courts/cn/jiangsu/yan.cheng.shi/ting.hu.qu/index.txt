@@ -1,0 +1,3 @@
+.. category:: 亭湖区
+   :category-id: cn:jiangsu:yan.cheng.shi:ting.hu.qu
+   :en: Tinghuqu

@@ -1,0 +1,3 @@
+.. category:: 让胡路区
+   :category-id: cn:heilongjiang:da.qing.shi:rang.hu.lu.qu
+   :en: Ranghuluqu

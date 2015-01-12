@@ -1,0 +1,3 @@
+.. category:: 天水
+   :category-id: cn:gansu:tian.shui
+   :en: Tianshui

@@ -1,0 +1,3 @@
+.. category:: 鹤山市
+   :category-id: cn:guangdong:jiang.men.shi:he.shan.shi
+   :en: Heshanshi

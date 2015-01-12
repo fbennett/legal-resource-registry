@@ -1,0 +1,3 @@
+.. category:: 惠水县
+   :category-id: cn:guizhou:qian.nan.zhou:hui.shui.xian
+   :en: Huishuixian

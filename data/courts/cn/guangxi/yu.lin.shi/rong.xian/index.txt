@@ -1,0 +1,3 @@
+.. category:: 容县
+   :category-id: cn:guangxi:yu.lin.shi:rong.xian
+   :en: Rongxian

@@ -1,0 +1,7 @@
+.. reporter:: South Carolina Reports, McCord
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: McCord
+   :edition-abbreviation: McCord
+   :dates: 1821/01/01-1828/12/31
+
+   .. variation:: S.C.L.(McCord)

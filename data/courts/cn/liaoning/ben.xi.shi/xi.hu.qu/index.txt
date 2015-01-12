@@ -1,0 +1,3 @@
+.. category:: 溪湖区
+   :category-id: cn:liaoning:ben.xi.shi:xi.hu.qu
+   :en: Xihuqu

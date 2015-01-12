@@ -1,0 +1,3 @@
+.. category:: 大化县
+   :category-id: cn:guangxi:he.chi.shi:da.hua.xian
+   :en: Dahuaxian

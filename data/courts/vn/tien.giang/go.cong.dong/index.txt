@@ -1,0 +1,3 @@
+.. category:: Gò Công Dông
+   :category-id: vn:tien.giang:go.cong.dong
+   :en: Go Cong Dong

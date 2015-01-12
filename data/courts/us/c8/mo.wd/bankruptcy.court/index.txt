@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c8:mo.wd;bankruptcy.court
+   :url: http://www.mow.uscourts.gov/bankruptcy/
+   :flp-key: mowb
+
+   .. reporter-key:: B.R.

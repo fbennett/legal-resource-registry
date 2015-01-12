@@ -1,0 +1,3 @@
+.. category:: Hoài Đức
+   :category-id: vn:ha.noi:hoai.duc
+   :en: Hoai Duc

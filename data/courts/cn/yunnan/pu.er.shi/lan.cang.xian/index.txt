@@ -1,0 +1,3 @@
+.. category:: 澜沧县
+   :category-id: cn:yunnan:pu.er.shi:lan.cang.xian
+   :en: Lancangxian

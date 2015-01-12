@@ -1,0 +1,3 @@
+.. category:: 静岡
+   :category-id: jp:tokyo:shizuoka
+   :en: Shizuoka

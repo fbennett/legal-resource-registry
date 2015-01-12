@@ -1,0 +1,3 @@
+.. category:: 博望区
+   :category-id: cn:anhui:ma.an.shan.shi:bo.wang.qu
+   :en: Bowangqu

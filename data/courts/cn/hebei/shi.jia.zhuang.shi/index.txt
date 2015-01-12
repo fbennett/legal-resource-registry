@@ -1,0 +1,3 @@
+.. category:: 石家庄市
+   :category-id: cn:hebei:shi.jia.zhuang.shi
+   :en: Shijiazhuang City

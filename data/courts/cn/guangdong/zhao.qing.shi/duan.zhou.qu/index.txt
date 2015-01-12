@@ -1,0 +1,3 @@
+.. category:: 端州区
+   :category-id: cn:guangdong:zhao.qing.shi:duan.zhou.qu
+   :en: Duanzhouqu

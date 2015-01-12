@@ -1,0 +1,3 @@
+.. court:: 中院
+   :court-id: cn:tianjin:tian.jin.yi;zhong.yuan
+   :en: Intermediate Court

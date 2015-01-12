@@ -1,0 +1,3 @@
+.. court:: 中院
+   :court-id: cn:zhongqing:zhong.qing.er;zhong.yuan
+   :en: Intermediate Court

@@ -1,0 +1,3 @@
+.. category:: 达孜县
+   :category-id: cn:xicang:la.sa.shi:da.zi.xian
+   :en: Dazixian

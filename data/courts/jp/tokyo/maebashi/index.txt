@@ -1,0 +1,3 @@
+.. category:: 前橋
+   :category-id: jp:tokyo:maebashi
+   :en: Maebashi

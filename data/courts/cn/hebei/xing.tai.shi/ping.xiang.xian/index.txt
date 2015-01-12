@@ -1,0 +1,3 @@
+.. category:: 平乡县
+   :category-id: cn:hebei:xing.tai.shi:ping.xiang.xian
+   :en: Pingxiangxian

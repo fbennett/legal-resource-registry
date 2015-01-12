@@ -1,0 +1,3 @@
+.. category:: 皋兰县
+   :category-id: cn:gansu:lan.zhou.shi:gao.lan.xian
+   :en: Gaolanxian

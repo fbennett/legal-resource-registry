@@ -1,0 +1,3 @@
+.. category:: 千山区
+   :category-id: cn:liaoning:an.shan.shi:qian.shan.qu
+   :en: Qianshanqu

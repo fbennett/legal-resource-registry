@@ -1,0 +1,3 @@
+.. category:: Dương Minh Châu
+   :category-id: vn:tay.ninh:duong.minh.chau
+   :en: Duong Minh Chau

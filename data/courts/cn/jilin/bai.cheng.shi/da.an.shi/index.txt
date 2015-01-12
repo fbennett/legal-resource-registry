@@ -1,0 +1,3 @@
+.. category:: 大安市
+   :category-id: cn:jilin:bai.cheng.shi:da.an.shi
+   :en: Daanshi

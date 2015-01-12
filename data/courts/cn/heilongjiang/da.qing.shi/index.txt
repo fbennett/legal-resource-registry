@@ -1,0 +1,3 @@
+.. category:: 大庆市
+   :category-id: cn:heilongjiang:da.qing.shi
+   :en: Daqing City

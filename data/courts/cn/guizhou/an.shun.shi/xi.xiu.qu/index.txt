@@ -1,0 +1,3 @@
+.. category:: 西秀区
+   :category-id: cn:guizhou:an.shun.shi:xi.xiu.qu
+   :en: Xixiuqu

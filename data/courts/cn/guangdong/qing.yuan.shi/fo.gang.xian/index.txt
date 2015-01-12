@@ -1,0 +1,3 @@
+.. category:: 佛冈县
+   :category-id: cn:guangdong:qing.yuan.shi:fo.gang.xian
+   :en: Fogangxian

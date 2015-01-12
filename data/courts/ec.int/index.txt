@@ -1,0 +1,3 @@
+.. category:: European Community
+   :category-id: ec.int
+

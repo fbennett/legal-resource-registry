@@ -1,0 +1,3 @@
+.. category:: 迭部林区
+   :category-id: cn:gansu:gan.nan.zhou:die.bu.lin.qu
+   :en: Diebulinqu

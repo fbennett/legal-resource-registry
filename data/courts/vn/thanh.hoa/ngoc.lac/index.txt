@@ -1,0 +1,3 @@
+.. category:: Ngọc Lặc
+   :category-id: vn:thanh.hoa:ngoc.lac
+   :en: Ngoc Lac

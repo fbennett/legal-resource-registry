@@ -1,0 +1,3 @@
+.. category:: 玉树州
+   :category-id: cn:qinghai:yu.shu.zhou
+   :en: Yushuzhou

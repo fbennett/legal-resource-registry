@@ -1,0 +1,3 @@
+.. category:: 芜湖经开区
+   :category-id: cn:anhui:wu.hu.shi:wu.hu.jing.kai.qu
+   :en: Wuhujingkaiqu

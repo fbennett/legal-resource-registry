@@ -1,0 +1,3 @@
+.. category:: 泽普县
+   :category-id: cn:xinjiang:ka.shi.di.qu:ze.pu.xian
+   :en: Zepuxian

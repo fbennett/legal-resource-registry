@@ -1,0 +1,3 @@
+.. category:: 梨树区
+   :category-id: cn:heilongjiang:ji.xi.shi:li.shu.qu
+   :en: Lishuqu

@@ -1,0 +1,3 @@
+.. category:: Thái Hòa
+   :category-id: vn:nghe.an:thai.hoa
+   :en: Thai Hoa

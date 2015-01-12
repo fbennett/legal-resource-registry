@@ -1,0 +1,3 @@
+.. category:: 丰顺县
+   :category-id: cn:guangdong:mei.zhou.shi:feng.shun.xian
+   :en: Fengshunxian

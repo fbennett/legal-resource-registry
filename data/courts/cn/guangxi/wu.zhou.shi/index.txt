@@ -1,0 +1,3 @@
+.. category:: 梧州市
+   :category-id: cn:guangxi:wu.zhou.shi
+   :en: Wuzhou City

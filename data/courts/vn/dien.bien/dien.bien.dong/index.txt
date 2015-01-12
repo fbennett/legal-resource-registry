@@ -1,0 +1,3 @@
+.. category:: Điện Biên Đông
+   :category-id: vn:dien.bien:dien.bien.dong
+   :en: Dien Bien Dong

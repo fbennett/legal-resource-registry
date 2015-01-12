@@ -1,0 +1,3 @@
+.. category:: 邵阳市
+   :category-id: cn:hunan:shao.yang.shi
+   :en: Shaoyang City

@@ -1,0 +1,3 @@
+.. category:: 阿合奇县
+   :category-id: cn:xinjiang:ke.zi.le.su.ke.er.ke.zi.zhou:a.he.qi.xian
+   :en: Aheqixian

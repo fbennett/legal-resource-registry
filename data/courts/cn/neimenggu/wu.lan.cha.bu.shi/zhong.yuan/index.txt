@@ -1,0 +1,4 @@
+.. court:: 中院
+   :court-id: cn:neimenggu:wu.lan.cha.bu.shi;zhong.yuan
+   :en: Intermediate Court
+   :url: http://wlcbzy.chinacourt.org/&usg=ALkJrhgJLs7v1EFthUy2kjmcsQ9EQn0eew

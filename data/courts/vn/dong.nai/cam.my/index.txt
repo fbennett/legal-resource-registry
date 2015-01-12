@@ -1,0 +1,3 @@
+.. category:: Cẩm Mỹ
+   :category-id: vn:dong.nai:cam.my
+   :en: Cam My

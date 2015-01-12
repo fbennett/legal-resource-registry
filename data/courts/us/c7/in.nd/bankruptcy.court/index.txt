@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c7:in.nd;bankruptcy.court
+   :url: http://www.innb.uscourts.gov/
+   :flp-key: innb
+
+   .. reporter-key:: B.R.

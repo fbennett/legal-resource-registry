@@ -1,0 +1,3 @@
+.. category:: Krông Pắk
+   :category-id: vn:dak.lak:krong.pak
+   :en: Krong Pak

@@ -1,0 +1,3 @@
+.. category:: 平川区
+   :category-id: cn:gansu:bai.yin:ping.chuan.qu
+   :en: Pingchuanqu

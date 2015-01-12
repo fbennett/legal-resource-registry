@@ -1,0 +1,3 @@
+.. category:: 弋江区
+   :category-id: cn:anhui:wu.hu.shi:yi.jiang.qu
+   :en: Yijiangqu

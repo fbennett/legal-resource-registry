@@ -1,0 +1,3 @@
+.. category:: 北塘区
+   :category-id: cn:jiangsu:wu.xi.shi:bei.tang.qu
+   :en: Beitangqu

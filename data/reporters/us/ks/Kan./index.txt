@@ -1,0 +1,7 @@
+.. reporter:: Kansas Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Kan.
+   :edition-abbreviation: Kan.
+   :dates: 1862/01/01-present
+
+   .. variation:: Kans.

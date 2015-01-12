@@ -1,0 +1,3 @@
+.. court:: 中院
+   :court-id: cn:guizhou:qian.dong.nan.zhou;zhong.yuan
+   :en: Intermediate Court

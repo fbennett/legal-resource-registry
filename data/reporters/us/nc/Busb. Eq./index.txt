@@ -1,0 +1,9 @@
+.. reporter:: North Carolina Reports, Busbee's Equity
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Busb. Eq.
+   :edition-abbreviation: Busb. Eq.
+   :dates: 1852/01/01-1853/12/31
+
+   .. variation:: N.C.(Busb.Eq.)
+
+   .. variation:: Busbee Eq.(N.C.)

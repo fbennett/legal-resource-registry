@@ -1,0 +1,3 @@
+.. category:: 名古屋
+   :category-id: jp:nagoya:nagoya
+   :en: Nagoya

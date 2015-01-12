@@ -1,0 +1,3 @@
+.. category:: 红石林区
+   :category-id: cn:jilin:ji.lin.shi:hong.shi.lin.qu
+   :en: Hongshilinqu

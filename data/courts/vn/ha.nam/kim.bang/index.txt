@@ -1,0 +1,3 @@
+.. category:: Kim Bảng
+   :category-id: vn:ha.nam:kim.bang
+   :en: Kim Bang

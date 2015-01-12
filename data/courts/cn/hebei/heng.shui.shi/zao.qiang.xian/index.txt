@@ -1,0 +1,3 @@
+.. category:: 枣强县
+   :category-id: cn:hebei:heng.shui.shi:zao.qiang.xian
+   :en: Zaoqiangxian

@@ -1,0 +1,3 @@
+.. category:: 香州区
+   :category-id: cn:guangdong:zhu.hai.shi:xiang.zhou.qu
+   :en: Xiangzhouqu

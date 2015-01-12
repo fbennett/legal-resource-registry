@@ -1,0 +1,3 @@
+.. category:: District 12
+   :category-id: vn:ho.chi.minh:district.12
+   :en: District 12

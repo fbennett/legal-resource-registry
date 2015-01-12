@@ -1,0 +1,3 @@
+.. category:: 芦淞区
+   :category-id: cn:hunan:zhu.zhou.shi:lu.song.qu
+   :en: Lusongqu

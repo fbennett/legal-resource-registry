@@ -1,0 +1,5 @@
+.. reporter:: Vermont Reports, Aikens
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Aik.
+   :edition-abbreviation: Aik.
+   :dates: 1825/01/01-1828/12/31

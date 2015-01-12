@@ -1,0 +1,3 @@
+.. category:: 龙安区
+   :category-id: cn:henan:an.yang.shi:long.an.qu
+   :en: Longanqu

@@ -1,0 +1,3 @@
+.. category:: 舞钢市
+   :category-id: cn:henan:ping.ding.shan.shi:wu.gang.shi
+   :en: Wugangshi

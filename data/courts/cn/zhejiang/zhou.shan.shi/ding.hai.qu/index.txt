@@ -1,0 +1,3 @@
+.. category:: 定海区
+   :category-id: cn:zhejiang:zhou.shan.shi:ding.hai.qu
+   :en: Dinghaiqu

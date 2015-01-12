@@ -1,0 +1,3 @@
+.. category:: Tứ Kỳ
+   :category-id: vn:hai.duong:tu.ky
+   :en: Tu Ky

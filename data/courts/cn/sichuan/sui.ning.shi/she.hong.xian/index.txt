@@ -1,0 +1,3 @@
+.. category:: 射洪县
+   :category-id: cn:sichuan:sui.ning.shi:she.hong.xian
+   :en: Shehongxian

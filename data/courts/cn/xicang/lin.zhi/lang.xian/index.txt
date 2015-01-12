@@ -1,0 +1,3 @@
+.. category:: 朗县
+   :category-id: cn:xicang:lin.zhi:lang.xian
+   :en: Langxian

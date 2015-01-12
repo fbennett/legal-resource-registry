@@ -1,0 +1,3 @@
+.. court:: 法院
+   :court-id: cn:gansu:lin.xia.zhou:lin.xia.xian;fa.yuan
+   :en: District Court

@@ -1,0 +1,3 @@
+.. category:: Ba Đình
+   :category-id: vn:ha.noi:ba.dinh
+   :en: Ba Dinh

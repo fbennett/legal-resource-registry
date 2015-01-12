@@ -1,0 +1,3 @@
+.. category:: 金口河区
+   :category-id: cn:sichuan:le.shan.shi:jin.kou.he.qu
+   :en: Jinkouhequ

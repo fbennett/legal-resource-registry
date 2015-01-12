@@ -1,0 +1,2 @@
+.. category:: South Dakota
+   :category-id: us:sd

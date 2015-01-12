@@ -1,0 +1,3 @@
+.. category:: Đồng Phú
+   :category-id: vn:binh.phuoc:dong.phu
+   :en: Dong Phu

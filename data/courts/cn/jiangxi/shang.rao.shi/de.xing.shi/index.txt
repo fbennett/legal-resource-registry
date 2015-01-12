@@ -1,0 +1,3 @@
+.. category:: 德兴市
+   :category-id: cn:jiangxi:shang.rao.shi:de.xing.shi
+   :en: Dexingshi

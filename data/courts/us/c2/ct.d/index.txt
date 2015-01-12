@@ -1,0 +1,2 @@
+.. category:: D. Connecticut
+   :category-id: us:c2:ct.d

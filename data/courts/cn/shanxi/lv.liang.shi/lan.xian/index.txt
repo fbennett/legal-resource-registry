@@ -1,0 +1,3 @@
+.. category:: 岚县
+   :category-id: cn:shanxi:lv.liang.shi:lan.xian
+   :en: Lanxian

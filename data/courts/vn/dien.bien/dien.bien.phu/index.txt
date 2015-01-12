@@ -1,0 +1,3 @@
+.. category:: Điện Biên Phủ
+   :category-id: vn:dien.bien:dien.bien.phu
+   :en: Dien Bien Phu

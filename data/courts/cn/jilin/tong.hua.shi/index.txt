@@ -1,0 +1,3 @@
+.. category:: 通化市
+   :category-id: cn:jilin:tong.hua.shi
+   :en: Tonghua City

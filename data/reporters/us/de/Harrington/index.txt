@@ -1,0 +1,5 @@
+.. reporter:: Delaware Reports, Harrington
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Harrington
+   :edition-abbreviation: Harrington
+   :dates: 1832/01/01-1855/12/31

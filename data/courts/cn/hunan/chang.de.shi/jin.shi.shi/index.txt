@@ -1,0 +1,3 @@
+.. category:: 津市市
+   :category-id: cn:hunan:chang.de.shi:jin.shi.shi
+   :en: Jinshishi

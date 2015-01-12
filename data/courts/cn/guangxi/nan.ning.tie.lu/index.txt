@@ -1,0 +1,3 @@
+.. category:: 南宁铁路
+   :category-id: cn:guangxi:nan.ning.tie.lu
+   :en: Nanningtielu

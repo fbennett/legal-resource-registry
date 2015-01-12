@@ -1,0 +1,3 @@
+.. category:: 乌海市
+   :category-id: cn:neimenggu:wu.hai.shi
+   :en: Wuhai City

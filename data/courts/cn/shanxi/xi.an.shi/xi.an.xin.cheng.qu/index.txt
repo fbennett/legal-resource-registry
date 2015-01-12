@@ -1,0 +1,3 @@
+.. category:: 西安新城区
+   :category-id: cn:shanxi:xi.an.shi:xi.an.xin.cheng.qu
+   :en: Xianxinchengqu

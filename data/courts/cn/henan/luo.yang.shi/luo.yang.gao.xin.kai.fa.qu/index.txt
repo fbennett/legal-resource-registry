@@ -1,0 +1,3 @@
+.. category:: 洛阳高新开发区
+   :category-id: cn:henan:luo.yang.shi:luo.yang.gao.xin.kai.fa.qu
+   :en: Luoyanggaoxinkaifaqu

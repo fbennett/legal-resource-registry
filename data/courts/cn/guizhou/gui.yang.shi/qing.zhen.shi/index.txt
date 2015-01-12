@@ -1,0 +1,3 @@
+.. category:: 清镇市
+   :category-id: cn:guizhou:gui.yang.shi:qing.zhen.shi
+   :en: Qingzhenshi

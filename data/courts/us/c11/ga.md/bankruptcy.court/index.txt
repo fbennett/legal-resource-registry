@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c11:ga.md;bankruptcy.court
+   :url: http://www.gamb.uscourts.gov/
+   :flp-key: gamb
+
+   .. reporter-key:: B.R.

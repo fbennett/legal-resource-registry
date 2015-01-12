@@ -1,0 +1,3 @@
+.. category:: 潘集区
+   :category-id: cn:anhui:huai.nan.shi:pan.ji.qu
+   :en: Panjiqu

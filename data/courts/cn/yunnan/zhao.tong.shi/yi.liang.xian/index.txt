@@ -1,0 +1,3 @@
+.. category:: 彝良县
+   :category-id: cn:yunnan:zhao.tong.shi:yi.liang.xian
+   :en: Yiliangxian

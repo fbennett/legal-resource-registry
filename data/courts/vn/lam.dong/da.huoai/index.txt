@@ -1,0 +1,3 @@
+.. category:: Đạ Huoai
+   :category-id: vn:lam.dong:da.huoai
+   :en: Da Huoai

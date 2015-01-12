@@ -1,0 +1,3 @@
+.. category:: 从化市
+   :category-id: cn:guangdong:guang.zhou.shi:cong.hua.shi
+   :en: Conghuashi

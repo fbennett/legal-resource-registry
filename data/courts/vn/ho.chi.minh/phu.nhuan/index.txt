@@ -1,0 +1,3 @@
+.. category:: Phú Nhuận
+   :category-id: vn:ho.chi.minh:phu.nhuan
+   :en: Phu Nhuan

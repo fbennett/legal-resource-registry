@@ -1,0 +1,3 @@
+.. category:: 利川市
+   :category-id: cn:hubei:en.shi.zhou:li.chuan.shi
+   :en: Lichuanshi

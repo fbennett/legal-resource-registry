@@ -1,0 +1,3 @@
+.. category:: 宣化区
+   :category-id: cn:hebei:zhang.jia.kou.shi:xuan.hua.qu
+   :en: Xuanhuaqu

@@ -1,0 +1,4 @@
+.. category:: 東京
+   :category-id: jp:tokyo
+   :en: Tokyo
+

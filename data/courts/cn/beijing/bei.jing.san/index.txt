@@ -1,0 +1,3 @@
+.. category:: 北京三
+   :category-id: cn:beijing:bei.jing.san
+   :en: Beijingsan

@@ -1,0 +1,3 @@
+.. category:: 吴桥县
+   :category-id: cn:hebei:cang.zhou.shi:wu.qiao.xian
+   :en: Wuqiaoxian

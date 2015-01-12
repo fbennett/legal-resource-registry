@@ -1,0 +1,3 @@
+.. category:: Mongolia
+   :category-id: mn
+   :set-form:

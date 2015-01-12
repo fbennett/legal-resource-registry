@@ -1,0 +1,5 @@
+.. reporter:: American Samoa Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Am. Samoa
+   :edition-abbreviation: Am. Samoa
+   :dates: 1900/01/01-present

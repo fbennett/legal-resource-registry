@@ -1,0 +1,4 @@
+.. court:: Special Court of Review
+   :court-id: us:tx;special.court.review
+   :url: http://www.scjc.state.tx.us/
+   :flp-key: texreview

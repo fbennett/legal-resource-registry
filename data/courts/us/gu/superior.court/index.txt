@@ -1,0 +1,3 @@
+.. court:: Superior Court
+   :court-id: us:gu;superior.court
+   :url: http://www.guamsupremecourt.com/superior.html

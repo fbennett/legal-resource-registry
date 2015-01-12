@@ -1,0 +1,3 @@
+.. category:: Hạ Long
+   :category-id: vn:quang.ninh:ha.long
+   :en: Ha Long

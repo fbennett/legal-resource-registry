@@ -1,0 +1,3 @@
+.. category:: 阿鲁科尔沁旗
+   :category-id: cn:neimenggu:chi.feng.shi:a.lu.ke.er.qin.qi
+   :en: Alukeerqinqi

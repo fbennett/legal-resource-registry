@@ -1,0 +1,3 @@
+.. category:: 科学城
+   :category-id: cn:sichuan:mian.yang.shi:ke.xue.cheng
+   :en: Kexuecheng

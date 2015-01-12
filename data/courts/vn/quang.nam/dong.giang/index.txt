@@ -1,0 +1,3 @@
+.. category:: Đông Giang
+   :category-id: vn:quang.nam:dong.giang
+   :en: Dong Giang

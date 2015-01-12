@@ -1,0 +1,3 @@
+.. category:: 南华县
+   :category-id: cn:yunnan:chu.xiong.zhou:nan.hua.xian
+   :en: Nanhuaxian

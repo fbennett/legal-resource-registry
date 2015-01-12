@@ -1,0 +1,3 @@
+.. category:: Tiền Hải
+   :category-id: vn:thai.binh:tien.hai
+   :en: Tien Hai

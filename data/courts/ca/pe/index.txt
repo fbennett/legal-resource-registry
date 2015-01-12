@@ -1,0 +1,2 @@
+.. category:: Prince Edward Island
+   :category-id: ca:pe

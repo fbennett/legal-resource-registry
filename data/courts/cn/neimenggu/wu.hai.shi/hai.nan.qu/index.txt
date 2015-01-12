@@ -1,0 +1,3 @@
+.. category:: 海南区
+   :category-id: cn:neimenggu:wu.hai.shi:hai.nan.qu
+   :en: Hainanqu

@@ -1,0 +1,3 @@
+.. category:: 乾县
+   :category-id: cn:shanxi:xian.yang.shi:gan.xian
+   :en: Ganxian

@@ -1,0 +1,3 @@
+.. category:: 罗城县
+   :category-id: cn:guangxi:he.chi.shi:luo.cheng.xian
+   :en: Luochengxian

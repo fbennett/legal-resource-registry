@@ -1,0 +1,3 @@
+.. category:: 光泽县
+   :category-id: cn:fujian:nan.ping.shi:guang.ze.xian
+   :en: Guangzexian

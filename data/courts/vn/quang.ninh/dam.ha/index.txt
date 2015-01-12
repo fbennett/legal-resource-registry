@@ -1,0 +1,3 @@
+.. category:: Đầm Hà
+   :category-id: vn:quang.ninh:dam.ha
+   :en: Dam Ha

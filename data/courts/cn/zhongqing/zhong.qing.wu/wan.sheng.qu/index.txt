@@ -1,0 +1,3 @@
+.. category:: 万盛区
+   :category-id: cn:zhongqing:zhong.qing.wu:wan.sheng.qu
+   :en: Wanshengqu

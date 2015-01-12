@@ -1,0 +1,3 @@
+.. category:: 孝感市
+   :category-id: cn:hubei:xiao.gan.shi
+   :en: Xiaogan City

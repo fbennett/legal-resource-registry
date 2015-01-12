@@ -1,0 +1,3 @@
+.. category:: 齐齐哈尔铁路运输
+   :category-id: cn:heilongjiang:ha.er.bin.tie.lu:qi.qi.ha.er.tie.lu.yun.shu
+   :en: Qiqihaertieluyunshu

@@ -1,0 +1,3 @@
+.. category:: 仙台
+   :category-id: jp:sendai:sendai
+   :en: Sendai

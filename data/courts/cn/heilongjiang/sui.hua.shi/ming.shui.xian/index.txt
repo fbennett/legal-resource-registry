@@ -1,0 +1,3 @@
+.. category:: 明水县
+   :category-id: cn:heilongjiang:sui.hua.shi:ming.shui.xian
+   :en: Mingshuixian

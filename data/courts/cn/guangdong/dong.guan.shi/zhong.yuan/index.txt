@@ -1,0 +1,3 @@
+.. court:: 中院
+   :court-id: cn:guangdong:dong.guan.shi;zhong.yuan
+   :en: Intermediate Court

@@ -1,0 +1,3 @@
+.. category:: 丹寨县
+   :category-id: cn:guizhou:qian.dong.nan.zhou:dan.zhai.xian
+   :en: Danzhaixian

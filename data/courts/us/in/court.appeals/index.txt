@@ -1,0 +1,4 @@
+.. court:: Court of Appeals
+   :court-id: us:in;court.appeals
+   :url: http://www.in.gov/judiciary/appeals/
+   :flp-key: indctapp

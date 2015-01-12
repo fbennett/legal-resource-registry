@@ -1,0 +1,4 @@
+.. court:: Surrogate's Court
+   :court-id: us:ny;surrogates.court
+   :url: https://en.wikipedia.org/wiki/New_York_Surrogate%27s_Court
+   :flp-key: nysurct

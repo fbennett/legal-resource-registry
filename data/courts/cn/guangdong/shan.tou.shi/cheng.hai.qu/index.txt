@@ -1,0 +1,3 @@
+.. category:: 澄海区
+   :category-id: cn:guangdong:shan.tou.shi:cheng.hai.qu
+   :en: Chenghaiqu

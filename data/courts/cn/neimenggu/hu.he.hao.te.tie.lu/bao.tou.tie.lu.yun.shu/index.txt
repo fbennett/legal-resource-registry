@@ -1,0 +1,3 @@
+.. category:: 包头铁路运输
+   :category-id: cn:neimenggu:hu.he.hao.te.tie.lu:bao.tou.tie.lu.yun.shu
+   :en: Baotoutieluyunshu

@@ -1,0 +1,3 @@
+.. category:: Tuyên Hóa
+   :category-id: vn:quang.binh:tuyen.hoa
+   :en: Tuyen Hoa

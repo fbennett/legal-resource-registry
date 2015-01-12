@@ -1,0 +1,3 @@
+.. category:: 潍坊市
+   :category-id: cn:shandong:wei.fang.shi
+   :en: Weifang City

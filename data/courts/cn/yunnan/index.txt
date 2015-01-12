@@ -1,0 +1,3 @@
+.. category:: 云南
+   :category-id: cn:yunnan
+   :en: Yunnan

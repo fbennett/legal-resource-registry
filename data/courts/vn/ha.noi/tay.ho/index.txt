@@ -1,0 +1,3 @@
+.. category:: Tây Hồ
+   :category-id: vn:ha.noi:tay.ho
+   :en: Tay Ho

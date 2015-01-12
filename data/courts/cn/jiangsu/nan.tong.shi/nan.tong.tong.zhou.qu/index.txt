@@ -1,0 +1,3 @@
+.. category:: 南通通州区
+   :category-id: cn:jiangsu:nan.tong.shi:nan.tong.tong.zhou.qu
+   :en: Nantongtongzhouqu

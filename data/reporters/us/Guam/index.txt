@@ -1,0 +1,5 @@
+.. reporter:: Guam Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Guam
+   :edition-abbreviation: Guam
+   :dates: 1955/01/01-present

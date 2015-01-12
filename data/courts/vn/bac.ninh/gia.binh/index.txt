@@ -1,0 +1,3 @@
+.. category:: Gia Bình
+   :category-id: vn:bac.ninh:gia.binh
+   :en: Gia Binh

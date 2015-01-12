@@ -1,0 +1,3 @@
+.. category:: Баян-Өлгий
+   :category-id: mn:bayan.olgii
+   :en: Bayan-Ölgii

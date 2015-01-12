@@ -1,0 +1,3 @@
+.. category:: 高县
+   :category-id: cn:sichuan:yi.bin.shi:gao.xian
+   :en: Gaoxian

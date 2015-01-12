@@ -1,0 +1,3 @@
+.. category:: 甘泉县
+   :category-id: cn:shanxi:yan.an.shi:gan.quan.xian
+   :en: Ganquanxian

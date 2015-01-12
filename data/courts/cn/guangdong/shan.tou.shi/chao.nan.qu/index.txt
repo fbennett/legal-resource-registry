@@ -1,0 +1,3 @@
+.. category:: 潮南区
+   :category-id: cn:guangdong:shan.tou.shi:chao.nan.qu
+   :en: Chaonanqu

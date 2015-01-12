@@ -1,0 +1,3 @@
+.. category:: 呼和浩特市
+   :category-id: cn:neimenggu:hu.he.hao.te.shi
+   :en: Huhehaote City

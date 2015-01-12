@@ -1,0 +1,3 @@
+.. category:: Arbitrations
+   :category-id: arb.cls
+

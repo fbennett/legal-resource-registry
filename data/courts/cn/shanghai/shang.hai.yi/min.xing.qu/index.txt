@@ -1,0 +1,3 @@
+.. category:: 闵行区
+   :category-id: cn:shanghai:shang.hai.yi:min.xing.qu
+   :en: Minxingqu

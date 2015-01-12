@@ -1,0 +1,3 @@
+.. category:: 靖江市
+   :category-id: cn:jiangsu:tai.zhou.shi:jing.jiang.shi
+   :en: Jingjiangshi

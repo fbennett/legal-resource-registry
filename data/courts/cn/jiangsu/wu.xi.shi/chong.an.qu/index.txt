@@ -1,0 +1,3 @@
+.. category:: 崇安区
+   :category-id: cn:jiangsu:wu.xi.shi:chong.an.qu
+   :en: Chonganqu

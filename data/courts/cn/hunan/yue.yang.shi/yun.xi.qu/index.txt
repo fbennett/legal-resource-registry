@@ -1,0 +1,3 @@
+.. category:: 云溪区
+   :category-id: cn:hunan:yue.yang.shi:yun.xi.qu
+   :en: Yunxiqu

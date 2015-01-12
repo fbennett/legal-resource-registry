@@ -1,0 +1,3 @@
+.. category:: Thạch Hà
+   :category-id: vn:ha.tinh:thach.ha
+   :en: Thach Ha

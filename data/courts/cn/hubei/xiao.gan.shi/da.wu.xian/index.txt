@@ -1,0 +1,3 @@
+.. category:: 大悟县
+   :category-id: cn:hubei:xiao.gan.shi:da.wu.xian
+   :en: Dawuxian

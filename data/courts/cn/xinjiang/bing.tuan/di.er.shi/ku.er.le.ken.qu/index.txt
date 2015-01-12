@@ -1,0 +1,3 @@
+.. category:: 库尔勒垦区
+   :category-id: cn:xinjiang:bing.tuan:di.er.shi:ku.er.le.ken.qu
+   :en: Kuerlekenqu

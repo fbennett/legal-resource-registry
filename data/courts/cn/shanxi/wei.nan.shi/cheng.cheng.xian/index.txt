@@ -1,0 +1,3 @@
+.. category:: 澄城县
+   :category-id: cn:shanxi:wei.nan.shi:cheng.cheng.xian
+   :en: Chengchengxian

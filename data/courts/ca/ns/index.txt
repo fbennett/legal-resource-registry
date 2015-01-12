@@ -1,0 +1,2 @@
+.. category:: Nova Scotia
+   :category-id: ca:ns

@@ -1,0 +1,3 @@
+.. category:: 安定区
+   :category-id: cn:gansu:ding.xi.shi:an.ding.qu
+   :en: Andingqu

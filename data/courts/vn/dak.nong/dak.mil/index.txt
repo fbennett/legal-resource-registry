@@ -1,0 +1,3 @@
+.. category:: Đắk Mil
+   :category-id: vn:dak.nong:dak.mil
+   :en: Dak Mil

@@ -1,0 +1,3 @@
+.. category:: Cầu Giấy
+   :category-id: vn:ha.noi:cau.giay
+   :en: Cau Giay

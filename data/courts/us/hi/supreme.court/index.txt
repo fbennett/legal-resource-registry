@@ -1,0 +1,16 @@
+.. court:: Supreme Court
+   :court-id: us:hi;supreme.court
+   :url: http://www.courts.state.hi.us/
+   :flp-key: haw
+
+   .. reporter-key:: Haw.
+
+   .. reporter-key:: Haw. App.
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: P.2d
+
+   .. reporter-key:: P.3d
+
+   .. reporter-key:: WL

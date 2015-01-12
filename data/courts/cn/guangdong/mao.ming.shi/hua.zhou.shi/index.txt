@@ -1,0 +1,3 @@
+.. category:: 化州市
+   :category-id: cn:guangdong:mao.ming.shi:hua.zhou.shi
+   :en: Huazhoushi

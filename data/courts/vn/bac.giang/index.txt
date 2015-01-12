@@ -1,0 +1,3 @@
+.. category:: Bắc Giang
+   :category-id: vn:bac.giang
+   :en: Bac Giang

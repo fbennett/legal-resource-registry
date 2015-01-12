@@ -1,0 +1,3 @@
+.. category:: 兴仁县
+   :category-id: cn:guizhou:qian.xi.nan.zhou:xing.ren.xian
+   :en: Xingrenxian

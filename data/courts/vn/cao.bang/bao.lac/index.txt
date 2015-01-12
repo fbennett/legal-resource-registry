@@ -1,0 +1,3 @@
+.. category:: Bảo Lạc
+   :category-id: vn:cao.bang:bao.lac
+   :en: Bao Lac

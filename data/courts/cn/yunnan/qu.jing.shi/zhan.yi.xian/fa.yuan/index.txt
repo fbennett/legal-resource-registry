@@ -1,0 +1,3 @@
+.. court:: 法院
+   :court-id: cn:yunnan:qu.jing.shi:zhan.yi.xian;fa.yuan
+   :en: District Court

@@ -1,0 +1,3 @@
+.. category:: Hòa Bình
+   :category-id: vn:hoa.binh
+   :en: Hoa Binh

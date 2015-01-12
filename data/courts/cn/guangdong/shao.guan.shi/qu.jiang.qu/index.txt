@@ -1,0 +1,3 @@
+.. category:: 曲江区
+   :category-id: cn:guangdong:shao.guan.shi:qu.jiang.qu
+   :en: Qujiangqu

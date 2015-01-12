@@ -1,0 +1,2 @@
+.. category:: D. Minnesota
+   :category-id: us:c8:mn.d

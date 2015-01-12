@@ -1,0 +1,3 @@
+.. category:: 黔西南州
+   :category-id: cn:guizhou:qian.xi.nan.zhou
+   :en: Qianxinanzhou

@@ -1,0 +1,4 @@
+.. court:: Court of Appeals
+   :court-id: us:or;court.appeals
+   :url: http://courts.oregon.gov/COA/
+   :flp-key: orctapp

@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c8:ne.d;bankruptcy.court
+   :url: https://www.neb.uscourts.gov/
+   :flp-key: nebraskab
+
+   .. reporter-key:: B.R.

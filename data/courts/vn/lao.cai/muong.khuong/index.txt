@@ -1,0 +1,3 @@
+.. category:: Mường Khương
+   :category-id: vn:lao.cai:muong.khuong
+   :en: Muong Khuong

@@ -1,0 +1,3 @@
+.. category:: 保亭县
+   :category-id: cn:hainan:hai.nan.yi:bao.ting.xian
+   :en: Baotingxian

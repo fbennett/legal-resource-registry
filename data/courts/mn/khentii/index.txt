@@ -1,0 +1,3 @@
+.. category:: Хэнтий
+   :category-id: mn:khentii
+   :en: Khentii

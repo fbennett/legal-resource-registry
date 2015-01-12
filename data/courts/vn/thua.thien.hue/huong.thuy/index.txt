@@ -1,0 +1,3 @@
+.. category:: Hương Thủy
+   :category-id: vn:thua.thien.hue:huong.thuy
+   :en: Huong Thuy

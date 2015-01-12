@@ -1,0 +1,3 @@
+.. category:: 上海海事
+   :category-id: cn:shanghai:shang.hai.er:shang.hai.hai.shi
+   :en: Shanghaihaishi

@@ -1,0 +1,3 @@
+.. category:: 清水县
+   :category-id: cn:gansu:tian.shui:qing.shui.xian
+   :en: Qingshuixian

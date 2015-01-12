@@ -1,0 +1,3 @@
+.. category:: 和龙市
+   :category-id: cn:jilin:yan.bian:he.long.shi
+   :en: Helongshi

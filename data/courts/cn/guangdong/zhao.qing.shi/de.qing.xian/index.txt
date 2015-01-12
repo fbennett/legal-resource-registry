@@ -1,0 +1,3 @@
+.. category:: 德庆县
+   :category-id: cn:guangdong:zhao.qing.shi:de.qing.xian
+   :en: Deqingxian

@@ -1,0 +1,3 @@
+.. category:: 祥符区
+   :category-id: cn:henan:kai.feng.shi:xiang.fu.qu
+   :en: Xiangfuqu

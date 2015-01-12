@@ -1,0 +1,7 @@
+.. court:: Court of Criminal Appeals
+   :court-id: us:ok;court.criminal.appeals
+   :url: http://www.okcca.net/
+   :flp-key: oklacrimapp
+
+   .. reporter-key:: OK CR
+

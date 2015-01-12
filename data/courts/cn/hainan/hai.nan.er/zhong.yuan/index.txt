@@ -1,0 +1,3 @@
+.. court:: 中院
+   :court-id: cn:hainan:hai.nan.er;zhong.yuan
+   :en: Intermediate Court

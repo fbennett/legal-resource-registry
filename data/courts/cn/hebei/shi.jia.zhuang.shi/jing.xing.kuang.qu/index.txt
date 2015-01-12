@@ -1,0 +1,3 @@
+.. category:: 井陉矿区
+   :category-id: cn:hebei:shi.jia.zhuang.shi:jing.xing.kuang.qu
+   :en: Jingxingkuangqu

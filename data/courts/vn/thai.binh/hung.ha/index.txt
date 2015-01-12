@@ -1,0 +1,3 @@
+.. category:: Hưng Hà
+   :category-id: vn:thai.binh:hung.ha
+   :en: Hung Ha

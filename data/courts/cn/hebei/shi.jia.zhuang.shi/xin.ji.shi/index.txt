@@ -1,0 +1,3 @@
+.. category:: 辛集市
+   :category-id: cn:hebei:shi.jia.zhuang.shi:xin.ji.shi
+   :en: Xinjishi

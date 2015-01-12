@@ -1,0 +1,3 @@
+.. category:: 怀柔区
+   :category-id: cn:beijing:bei.jing.san:huai.rou.qu
+   :en: Huairouqu

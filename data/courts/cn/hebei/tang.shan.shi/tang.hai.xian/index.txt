@@ -1,0 +1,3 @@
+.. category:: 唐海县
+   :category-id: cn:hebei:tang.shan.shi:tang.hai.xian
+   :en: Tanghaixian

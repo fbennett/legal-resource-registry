@@ -1,0 +1,3 @@
+.. category:: 天台县
+   :category-id: cn:zhejiang:tai.zhou.shi:tian.tai.xian
+   :en: Tiantaixian

@@ -1,0 +1,2 @@
+.. category:: British Columbia
+   :category-id: ca:bc

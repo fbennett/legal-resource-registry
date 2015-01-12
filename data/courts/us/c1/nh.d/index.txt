@@ -1,0 +1,2 @@
+.. category:: D. New Hampshire
+   :category-id: us:c1:nh.d

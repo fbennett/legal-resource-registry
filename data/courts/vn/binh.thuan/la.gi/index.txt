@@ -1,0 +1,3 @@
+.. category:: La Gi
+   :category-id: vn:binh.thuan:la.gi
+   :en: La Gi

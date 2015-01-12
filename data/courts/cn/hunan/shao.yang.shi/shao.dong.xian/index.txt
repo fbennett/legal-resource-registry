@@ -1,0 +1,3 @@
+.. category:: 邵东县
+   :category-id: cn:hunan:shao.yang.shi:shao.dong.xian
+   :en: Shaodongxian

@@ -1,0 +1,3 @@
+.. category:: 雁塔区
+   :category-id: cn:shanxi:xi.an.shi:yan.ta.qu
+   :en: Yantaqu

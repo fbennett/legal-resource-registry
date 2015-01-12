@@ -1,0 +1,3 @@
+.. category:: 延吉市
+   :category-id: cn:jilin:yan.bian:yan.ji.shi
+   :en: Yanjishi

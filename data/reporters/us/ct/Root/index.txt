@@ -1,0 +1,5 @@
+.. reporter:: Root's Connecticut Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Root
+   :edition-abbreviation: Root
+   :dates: 1789/01/01-1798/12/31

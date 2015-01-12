@@ -1,0 +1,3 @@
+.. category:: 靖边县
+   :category-id: cn:shanxi:yu.lin.shi:jing.bian.xian
+   :en: Jingbianxian

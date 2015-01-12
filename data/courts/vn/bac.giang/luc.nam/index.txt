@@ -1,0 +1,3 @@
+.. category:: Lục Nam
+   :category-id: vn:bac.giang:luc.nam
+   :en: Luc Nam

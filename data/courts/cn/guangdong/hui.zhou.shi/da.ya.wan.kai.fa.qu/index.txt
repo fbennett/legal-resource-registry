@@ -1,0 +1,3 @@
+.. category:: 大亚湾开发区
+   :category-id: cn:guangdong:hui.zhou.shi:da.ya.wan.kai.fa.qu
+   :en: Dayawankaifaqu

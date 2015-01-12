@@ -1,0 +1,3 @@
+.. category:: 保康县
+   :category-id: cn:hubei:xiang.yang.shi:bao.kang.xian
+   :en: Baokangxian

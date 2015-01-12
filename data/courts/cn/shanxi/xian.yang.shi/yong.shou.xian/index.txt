@@ -1,0 +1,3 @@
+.. category:: 永寿县
+   :category-id: cn:shanxi:xian.yang.shi:yong.shou.xian
+   :en: Yongshouxian

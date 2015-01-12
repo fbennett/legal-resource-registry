@@ -1,0 +1,5 @@
+.. reporter:: Indiana Court of Appeals Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Ind. App.
+   :edition-abbreviation: Ind. App.
+   :dates: 1890/01/01-1979/12/31

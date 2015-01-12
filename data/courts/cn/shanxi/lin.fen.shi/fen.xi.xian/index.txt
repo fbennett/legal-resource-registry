@@ -1,0 +1,3 @@
+.. category:: 汾西县
+   :category-id: cn:shanxi:lin.fen.shi:fen.xi.xian
+   :en: Fenxixian

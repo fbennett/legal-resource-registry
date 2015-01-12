@@ -1,0 +1,3 @@
+.. category:: 扎囊县
+   :category-id: cn:xicang:shan.nan:zha.nang.xian
+   :en: Zhanangxian

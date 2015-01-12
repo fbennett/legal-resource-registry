@@ -1,0 +1,3 @@
+.. category:: 陆川县
+   :category-id: cn:guangxi:yu.lin.shi:lu.chuan.xian
+   :en: Luchuanxian

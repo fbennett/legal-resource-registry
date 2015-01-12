@@ -1,0 +1,3 @@
+.. category:: 海港区
+   :category-id: cn:hebei:qin.huang.dao.shi:hai.gang.qu
+   :en: Haigangqu

@@ -1,0 +1,3 @@
+.. category:: 克什克腾旗
+   :category-id: cn:neimenggu:chi.feng.shi:ke.shi.ke.teng.qi
+   :en: Keshiketengqi

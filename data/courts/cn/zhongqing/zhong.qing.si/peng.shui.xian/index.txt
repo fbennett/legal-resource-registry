@@ -1,0 +1,3 @@
+.. category:: 彭水县
+   :category-id: cn:zhongqing:zhong.qing.si:peng.shui.xian
+   :en: Pengshuixian

@@ -1,0 +1,4 @@
+.. category:: 福岡
+   :category-id: jp:fukuoka
+   :en: Fukuoka
+

@@ -1,0 +1,3 @@
+.. category:: 姜堰区
+   :category-id: cn:jiangsu:tai.zhou.shi:jiang.yan.qu
+   :en: Jiangyanqu

@@ -1,0 +1,3 @@
+.. category:: Thường Tín
+   :category-id: vn:ha.noi:thuong.tin
+   :en: Thuong Tin

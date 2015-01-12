@@ -1,0 +1,3 @@
+.. category:: 石首市
+   :category-id: cn:hubei:jing.zhou.shi:shi.shou.shi
+   :en: Shishoushi

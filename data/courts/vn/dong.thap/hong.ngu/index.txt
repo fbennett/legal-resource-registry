@@ -1,0 +1,3 @@
+.. category:: Hồng Ngự
+   :category-id: vn:dong.thap:hong.ngu
+   :en: Hong Ngu

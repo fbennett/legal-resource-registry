@@ -1,0 +1,2658 @@
+{
+  "BD": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Bangladesh", 
+        "en": "Supreme Court", 
+        "local": "\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6 \u09b8\u09c1\u09aa\u09cd\u09b0\u09c0\u09ae \u0995\u09cb\u09b0\u09cd\u099f"
+      }
+    }, 
+    "country-name": "Bangladesh", 
+    "official-languages": ["Bengali"]
+  }, 
+  "BE": {
+    "courts": {
+      "court.cassation": {
+        "url": "http://en.wikipedia.org/wiki/Court_of_Cassation_(Belgium)", 
+        "en": "Court of Cassation", 
+        "local": "Hof van Cassatie"
+      }
+    }, 
+    "country-name": "Belgium", 
+    "official-languages": [
+      "Dutch", 
+      "French", 
+      "German"
+    ]
+  }, 
+  "BG": {
+    "courts": {
+      "supreme.administrative.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Administrative_Court_of_Bulgaria", 
+        "en": "Supreme Administrative Court of Bulgaria", 
+        "local": "Supreme Administrative Court"
+      }, 
+      "vurhoven.kasatsionen.sud": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Cassation_of_Bulgaria", 
+        "en": "Supreme Court of Cassation", 
+        "local": "Върховен касационен съд"
+      }
+    }, 
+    "country-name": "Bulgaria", 
+    "official-languages": []
+  }, 
+  "BB": {
+    "courts": {
+      "supreme.court.judicature": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Judicature_(Barbados)", 
+        "en": "Supreme Court of Judicature", 
+        "local": "Supreme Court of Judicature"
+      }
+    }, 
+    "country-name": "Barbados", 
+    "official-languages": [
+      "English"
+    ]
+  }, 
+  "BT": {
+    "courts": {
+      "dpal.ldan.brug.pai.drang.khrims.lhan-sde": {
+        "url": "http://en.wikipedia.org/wiki/Royal_Court_of_Justice", 
+        "en": "Supreme Court of Appeal", 
+          "local:dz": "དཔལ་ལྡན་འབྲུག་པའི་དྲང་ཁྲིམས་ལྷན་སྡེ་"
+      }
+    }, 
+    "country-name": "Bhutan", 
+    "official-languages": ["Bhutanese"]
+  }, 
+  "JM": {
+    "courts": {
+      "court.appeal": {
+        "url": "http://en.wikipedia.org/wiki/Judiciary_of_Jamaica", 
+        "en": "Court of Appeal"
+      },
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Judiciary_of_Jamaica", 
+        "en": "Supreme Court"
+      }
+    }, 
+    "country-name": "Jamaica", 
+    "official-languages": [
+      "English", 
+      "Jamaican Patois", 
+      "de facto"
+    ]
+  }, 
+  "GE-AB": {
+    "courts": {
+      "supreme.court": {
+        "en": "Supreme Court of Abkhazia"
+      }
+    }, 
+    "country-name": "Abkhazia", 
+    "official-languages": [
+      "Abkhaz", 
+      "Russian"
+    ]
+  }, 
+  "BN": {
+    "courts": {
+      "high.court.supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Brunei#Judicial_branch", 
+        "en": "High Court of the Supreme Court"
+      },
+      "court.appeal.supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Brunei#Judicial_branch", 
+        "en": "Court of Appeal of the Supreme Court"
+      }
+    }, 
+    "country-name": "Brunei", 
+      "official-languages": ["Malay","English"]
+  }, 
+  "BO": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Bolivia", 
+        "en": "Supreme Court of Bolivia", 
+        "local": "Supreme Court of Bolivia"
+      }
+    }, 
+    "country-name": "Bolivia", 
+    "official-languages": [
+      "Spanish", 
+      "Quechua", 
+      "Aymara", 
+      "Guaran\u00ed"
+    ]
+  }, 
+  "BH": {
+    "courts": {
+      "high.civil.appeals.court": {
+        "en": "High Civil Appeals Court of Bahrain"
+      }
+    }, 
+    "country-name": "Bahrain", 
+    "official-languages": []
+  }, 
+  "BI": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Burundi", 
+        "en": "Supreme Court of Burundi", 
+        "local": "Supreme Court of Burundi"
+      }
+    }, 
+    "country-name": "Burundi", 
+    "official-languages": [
+      "Kirundi", 
+      "French"
+    ]
+  }, 
+  "BJ": {
+    "courts": {
+      "constitutional.court": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Benin#Judicial_branch", 
+        "en": "Constitutional Court of Benin", 
+        "local": "Constitutional Court"
+      }, 
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Benin#Judicial_branch", 
+        "en": "Supreme Court of Benin", 
+        "local": "Constitutional Court"
+      }
+    }, 
+    "country-name": "Benin", 
+    "official-languages": []
+  }, 
+  "BW": {
+    "courts": {
+      "high.court": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Botswana#Judicial_branch", 
+        "en": "High Court of Botswana"
+      }
+    }, 
+    "country-name": "Botswana", 
+    "official-languages": [
+      "English", 
+      "Setswana"
+    ]
+  }, 
+  "WS": {
+    "courts": {
+      "court.appeal": {
+        "en": "Court of Appeal of Samoa"
+      }
+    }, 
+    "country-name": "Samoa", 
+    "official-languages": [
+      "Samoan"
+    ]
+  }, 
+  "BR": {
+    "courts": {
+      "supreme.federal.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Federal_Court_(Brazil)", 
+        "en": "Supreme Federal Court", 
+        "local": "Supremo Tribunal Federal"
+      }
+    }, 
+    "country-name": "Brazil", 
+    "official-languages": []
+  }, 
+  "BS": {
+    "courts": {}, 
+    "country-name": "The Bahamas", 
+    "official-languages": [
+      "English"
+    ]
+  }, 
+  "BF": {
+    "courts": {
+      "supreme.court": {
+          "en": "Supreme Court of Burkina Faso"
+      }
+    }, 
+    "country-name": "Burkina Faso", 
+    "official-languages": []
+  }, 
+  "BZ": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Belize#Judicial_branch", 
+        "en": "Supreme Court of Belize", 
+        "local": "Supreme Court"
+      }
+    }, 
+    "country-name": "Belize", 
+    "official-languages": []
+  }, 
+  "BA": {
+    "courts": {
+      "constitutional.court": {
+        "url": "http://en.wikipedia.org/wiki/Constitutional_Court_of_Bosnia_and_Herzegovina", 
+        "en": "Constitutional Court of Bosnia and Herzegovina", 
+        "local": "Ustavni sud Bosne i Hercegovine"
+      }
+    }, 
+    "country-name": "Sprska", 
+    "official-languages": [
+      "Bosnian", 
+      "Croatian", 
+      "Serbian"
+    ]
+  }, 
+  "LV": {
+    "courts": {
+      "constitutional.court": {
+        "url": "http://en.wikipedia.org/wiki/Constitutional_Court_of_Latvia", 
+        "en": "Constitutional Court of Latvia", 
+        "local": "Latvijas Republikas Satversmes tiesa"
+      }
+    }, 
+    "country-name": "Latvia", 
+    "official-languages": []
+  }, 
+  "RW": {
+    "courts": {
+      "constitutional.court": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Rwanda#Judicial_branch", 
+        "en": "Constitutional Court of Rwanda"
+      }
+    }, 
+    "country-name": "Rwanda", 
+    "official-languages": [
+      "Kinyarwanda", 
+      "French", 
+      "English"
+    ]
+  }, 
+  "RS": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Serbia", 
+        "en": "Supreme Court", 
+        "local": "\u0412\u0440\u0445\u043e\u0432\u043d\u0438 \u043a\u0430\u0441\u0430\u0446\u0438\u043e\u043d\u0438 \u0441\u0443\u0434/Vrhovni kasacioni sud"
+      }
+    }, 
+    "country-name": "Serbia", 
+    "official-languages": []
+  }, 
+  "LT": {
+    "courts": {
+      "constitutional.court": {
+        "url": "http://en.wikipedia.org/wiki/Constitutional_Court_of_Lithuania", 
+        "en": "Constitutional Court of Lithuania", 
+        "local": "Lietuvos Respublikos Konstitucinis Teismas"
+      }
+    }, 
+    "country-name": "Lithuania", 
+    "official-languages": []
+  }, 
+  "LU": {
+    "courts": {
+      "superior.court.justice": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Luxembourg#Judicial_branch", 
+        "en": "Superior Court of Justice"
+      }
+    }, 
+    "country-name": "Luxembourg", 
+    "official-languages": [
+      "French", 
+      "German", 
+      "Luxembourgish"
+    ]
+  }, 
+  "TJ": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Tajikistan#Judicial_branch", 
+        "en": "Supreme Court", 
+        "local": "\u041d\u043e\u04b3\u0438\u044f\u04b3\u043e\u0438 \u0442\u043e\u0431\u0435\u0438 \u04b7\u0443\u043c\u04b3\u0443\u0440\u04e3"
+      }
+    }, 
+    "country-name": "Tajikistan", 
+    "official-languages": []
+  }, 
+  "RO": {
+    "courts": {
+      "high.court.cassation.and.justice": {
+        "url": "http://en.wikipedia.org/wiki/High_Court_of_Cassation_and_Justice", 
+        "en": "High Court of Cassation and Justice", 
+        "local": "\u00cenalta Curte de Casa\u021bie \u0219i Justi\u021bie"
+      }
+    }, 
+    "country-name": "Romania", 
+    "official-languages": []
+  }, 
+  "PG": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Papua_New_Guinea", 
+        "en": "Supreme Court of Papua New Guinea", 
+        "local": "Supreme Court of Papua New Guinea"
+      }
+    }, 
+    "country-name": "Papua New Guinea", 
+    "official-languages": [
+      "Hiri Motu", 
+      "Tok Pisin", 
+      "English"
+    ]
+  }, 
+  "GW": {
+    "courts": {
+      "supreme.court": {
+        "en": "Supreme Court of Guinea-Bissau"
+      }
+    }, 
+    "country-name": "Guinea-Bissau", 
+    "official-languages": []
+  }, 
+  "GT": {
+    "courts": {
+      "supreme.court.justice": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Guatemala#Judicial_branch", 
+        "en": "Supreme Court of Justice", 
+        "local": "Constitutional Court"
+      }
+    }, 
+    "country-name": "Guatemala", 
+    "official-languages": []
+  }, 
+  "GR": {
+    "courts": {
+      "court.audit": {
+        "url": "http://en.wikipedia.org/wiki/Court_of_Audit_(Greece)", 
+        "en": "Court of Audit", 
+        "local": "Greece"
+      }, 
+      "court.cassation": {
+        "url": "http://en.wikipedia.org/wiki/Court_of_Cassation_(Greece)", 
+        "en": "Court of Cassation", 
+        "local": "\u0386\u03c1\u03b5\u03b9\u03bf\u03c2 \u03a0\u03ac\u03b3\u03bf\u03c2"
+      }, 
+      "council.state": {
+        "url": "http://en.wikipedia.org/wiki/Council_of_State_(Greece)", 
+        "en": "Council of State", 
+        "local": "\u03a3\u03c5\u03bc\u03b2\u03bf\u03cd\u03bb\u03b9\u03bf \u03c4\u03b7\u03c2 \u0395\u03c0\u03b9\u03ba\u03c1\u03b1\u03c4\u03b5\u03af\u03b1\u03c2"
+      }
+    }, 
+    "country-name": "Greece", 
+    "official-languages": []
+  }, 
+  "GQ": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Equatorial_Guinea#Judicial_branch", 
+        "en": "Supreme Court of Equatorial Guinea"
+      }
+    }, 
+    "country-name": "Equatorial Guinea", 
+    "official-languages": [
+      "\n", 
+      "\n"
+    ]
+  }, 
+  "JP": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Japan", 
+        "en": "Supreme Court of Japan", 
+        "local": "Supreme Court of Japan"
+      }
+    }, 
+    "country-name": "Japan", 
+    "official-languages": [
+      "None"
+    ]
+  }, 
+  "GY": {
+    "courts": {
+      "supreme.court.judicature": {
+        "en": "Supreme Court of Judicature"
+      }
+    }, 
+    "country-name": "Guyana", 
+    "official-languages": [
+      "English"
+    ]
+  }, 
+  "GE": {
+    "courts": {
+      "constitutional.court": {
+        "url": "http://en.wikipedia.org/wiki/Constitutional_Court_of_Georgia", 
+        "en": "Constitutional Court of Georgia", 
+        "local": "The Constitutional Court of Georgia"
+      }, 
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Georgia_(country)", 
+        "en": "Supreme Court of Georgia", 
+        "local": "Supreme Court of Georgia"
+      }
+    }, 
+    "country-name": "Georgia", 
+    "official-languages": []
+  }, 
+  "GD": {
+    "courts": {}, 
+    "country-name": "Grenada", 
+    "official-languages": [
+      "English"
+    ]
+  }, 
+  "GB": {
+    "courts": {}, 
+    "country-name": "United Kingdom", 
+    "official-languages": []
+  }, 
+  "GA": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Gabon#Judicial_branch", 
+        "en": "Supreme Court of Gabon", 
+        "local": "Supreme Court"
+      }
+    }, 
+    "country-name": "Gabon", 
+    "official-languages": []
+  }, 
+  "PK": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Pakistan", 
+        "en": "Supreme Court of Pakistan", 
+        "local": "Supreme Court of Pakistan (SCOP)"
+      }
+    }, 
+    "country-name": "Pakistan", 
+    "official-languages": [
+      "English", 
+      "Urdu"
+    ]
+  }, 
+  "GN": {
+    "courts": {
+      "supreme.court": {
+        "en": "Supreme Court of Guinea"
+      }
+    }, 
+    "country-name": "Guinea", 
+    "official-languages": [
+      "French"
+    ]
+  }, 
+  "GM": {
+    "courts": {
+      "supreme.court": {
+        "en": "Supreme Court of The Gambia"
+      }
+    }, 
+    "country-name": "The Gambia", 
+    "official-languages": [
+      "English", 
+      "Mandinka", 
+      "Fula", 
+      "Wolof", 
+      "Serer", 
+      "Jola"
+    ]
+  }, 
+  "GH": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Ghana", 
+        "en": "Supreme Court of Ghana", 
+        "local": "Supreme Court of Ghana"
+      }
+    }, 
+    "country-name": "Ghana", 
+    "official-languages": [
+      "English (", 
+      ") 67.1%"
+    ]
+  }, 
+  "OM": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Oman#Judicial_system", 
+        "en": "Supreme Court of Oman", 
+        "local": "Politics of Oman"
+      }
+    }, 
+    "country-name": "Oman", 
+    "official-languages": []
+  }, 
+  "JO": {
+    "courts": {
+      "court.cassation": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Jordan#Judicial_branch", 
+        "en": "Court of Cassation", 
+        "local": "civil"
+      }
+    }, 
+    "country-name": "Jordan", 
+    "official-languages": []
+  }, 
+  "HR": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Croatia", 
+        "en": "Supreme Court of Croatia", 
+        "local": "Vrhovni sud Republike Hrvatske"
+      }
+    }, 
+    "country-name": "Croatia", 
+    "official-languages": []
+  }, 
+  "HT": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Haiti#Judicial_branch", 
+        "en": "Supreme Court of Haiti", 
+        "local": "Politics of Haiti"
+      }
+    }, 
+    "country-name": "Haiti", 
+    "official-languages": [
+      "French", 
+      "Haitian Creole"
+    ]
+  }, 
+  "SV": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_El_Salvador", 
+        "en": "Supreme Court of El Salvador", 
+        "local": "Corte Suprema de Justicia de El Salvador"
+      }
+    }, 
+    "country-name": "El Salvador", 
+    "official-languages": []
+  }, 
+  "HK": {
+    "courts": {
+      "court.final.appeal": {
+        "url": "http://en.wikipedia.org/wiki/Court_of_Final_Appeal_(Hong_Kong)", 
+        "en": "Court of Final Appeal", 
+        "local": "\u9999\u6e2f\u7d42\u5be9\u6cd5\u9662"
+      }
+    }, 
+    "country-name": "Hong Kong", 
+    "official-languages": [
+      "Chinese"
+    ]
+  }, 
+  "HN": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Honduras", 
+        "en": "Supreme Court of Honduras", 
+        "local": "Corte Suprema de Justicia de Honduras"
+      }
+    }, 
+    "country-name": "Honduras", 
+    "official-languages": []
+  }, 
+  "AD": {
+    "courts": {
+      "superior.court.justice": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Andorra#Judicial_branch", 
+        "en": "Superior Court of Justice", 
+        "local": "politics of Andorra"
+      }
+    }, 
+    "country-name": "Andorra", 
+    "official-languages": []
+  }, 
+  "PW": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Palau", 
+        "en": "Supreme Court of Palau", 
+        "local": "Supreme Court of Palau"
+      }
+    }, 
+    "country-name": "Palau", 
+    "official-languages": [
+      "English", 
+      "Palauan"
+    ]
+  }, 
+  "PT": {
+    "courts": {
+      "supreme.court.justice": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Justice_(Portugal)", 
+        "en": "Supreme Court of Justice", 
+        "local": "Supremo Tribunal de Justi\u00e7a"
+      }, 
+      "constitutional.court": {
+        "url": "http://en.wikipedia.org/wiki/Constitutional_Court_of_Portugal", 
+        "en": "Constitutional Court of Portugal", 
+        "local": "Tribunal Constitucional"
+      }
+    }, 
+    "country-name": "Portugal", 
+    "official-languages": []
+  }, 
+  "PY": {
+    "courts": {
+      "supreme.court.justice": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Paraguay#Judicial_branch", 
+        "en": "Supreme Court of Justice", 
+        "local": "Supreme Court of Paraguay"
+      }
+    }, 
+    "country-name": "Paraguay", 
+    "official-languages": [
+      "Spanish", 
+      "Guaran\u00ed"
+    ]
+  }, 
+  "BY": {
+    "courts": {
+      "constitutional.court": {
+        "url": "http://en.wikipedia.org/wiki/Constitutional_Court_of_Belarus", 
+        "en": "Constitutional Court of Belarus", 
+        "local": "Constitutional Court"
+      }, 
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Belarus", 
+        "en": "Supreme Court of Belarus", 
+        "local": "Supreme Court"
+      }
+    }, 
+    "country-name": "Belarus", 
+    "official-languages": [
+      "Belarusian", 
+      "Russian", 
+      "Belarusian"
+    ]
+  }, 
+  "PA": {
+    "courts": {
+      "supreme.court.justice": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Panama#Judicial_branch", 
+        "en": "Supreme Court of Justice"
+      }
+    }, 
+    "country-name": "Panama", 
+    "official-languages": []
+  }, 
+  "UY": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Uruguay#Judicial_branch", 
+        "en": "Supreme Court of Uruguay", 
+        "local": "Supreme Court"
+      }
+    }, 
+    "country-name": "Uruguay", 
+    "official-languages": []
+  }, 
+  "PE": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Peru", 
+        "en": "Supreme Court of Peru", 
+        "local": "Supreme Court of Justice"
+      }
+    }, 
+    "country-name": "Peru", 
+    "official-languages": [
+      " (official) 84.1% ", 
+      " (official) 13% ", 
+      " (official) 1.7% (2007 Census)"
+    ]
+  }, 
+  "KW": {
+    "courts": {
+      "high.court.appeal": {
+        "en": "High Court of Appeal of Kuwait"
+      }
+    }, 
+    "country-name": "Kuwait", 
+    "official-languages": []
+  }, 
+  "PH": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_the_Philippines", 
+        "en": "Supreme Court of the Philippines", 
+        "local": "Kataas-taasang Hukuman ng Pilipinas"
+      }
+    }, 
+    "country-name": "Philippines", 
+    "official-languages": [
+      ", "
+    ]
+  }, 
+  "PL": {
+    "courts": {
+      "constitutional.tribunal": {
+        "url": "http://en.wikipedia.org/wiki/Constitutional_Tribunal_(Poland)", 
+        "en": "Constitutional Tribunal", 
+        "local": "Trybuna\u0142 Konstytucyjny"
+      }, 
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Poland", 
+        "en": "Supreme Court of Poland", 
+        "local": "S\u0105d Najwy\u017cszy"
+      }
+    }, 
+    "country-name": "Poland", 
+    "official-languages": []
+  }, 
+  "ZM": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Zambia#Judicial_branch", 
+        "en": "Supreme Court of Zambia", 
+        "local": "Supreme Court"
+      }
+    }, 
+    "country-name": "Zambia", 
+    "official-languages": [
+      "English"
+    ]
+  }, 
+  "RU": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Russia", 
+        "en": "Supreme Court", 
+        "local": "\u0412\u0435\u0440\u0445\u043e\u0432\u043d\u044b\u0439 \u0421\u0443\u0434 \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439 \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438"
+      }
+    }, 
+    "country-name": "Russia", 
+    "official-languages": []
+  }, 
+  "EE": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Estonia", 
+        "en": "Supreme Court of Estonia", 
+        "local": "Riigikohus"
+      }
+    }, 
+    "country-name": "Estonia", 
+    "official-languages": []
+  }, 
+  "EG": {
+    "courts": {
+      "supreme.constitutional.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Constitutional_Court_of_Egypt", 
+        "en": "Supreme Constitutional Court", 
+        "local": "\u0627\u0644\u0645\u062d\u0643\u0645\u0629 \u0627\u0644\u062f\u0633\u062a\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0644\u064a\u0627"
+      }
+    }, 
+    "country-name": "Egypt", 
+    "official-languages": []
+  }, 
+  "ZA": {
+    "courts": {
+      "supreme.court.appeal": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Appeal_of_South_Africa", 
+        "en": "Supreme Court of Appeal of South Africa", 
+        "local": "Supreme Court of Appeal"
+      }, 
+      "constitutional.court": {
+        "url": "http://en.wikipedia.org/wiki/Constitutional_Court_of_South_Africa", 
+        "en": "Constitutional Court of South Africa", 
+        "local": "Constitutional Court of South Africa"
+      }
+    }, 
+    "country-name": "South Africa", 
+    "official-languages": [
+      "11 languages", 
+      "Afrikaans", 
+      "Northern Sotho", 
+      "English", 
+      "Southern Ndebele", 
+      "Southern Sotho", 
+      "Swazi", 
+      "Tsonga", 
+      "Tswana", 
+      "Venda", 
+      "Xhosa", 
+      "Zulu"
+    ]
+  }, 
+  "EC": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Ecuador#Judicial_branch", 
+        "en": "Supreme Court of Ecuador", 
+        "local": "Lucio Guti\u00e9rrez"
+      }
+    }, 
+    "country-name": "Ecuador", 
+    "official-languages": []
+  }, 
+  "IT": {
+    "courts": {
+      "constitutional.court": {
+        "url": "http://en.wikipedia.org/wiki/Constitutional_Court_of_Italy", 
+        "en": "Constitutional Court of Italy", 
+        "local": "Corte costituzionale della Repubblica Italiana"
+      }, 
+      "court.cassation": {
+        "url": "http://en.wikipedia.org/wiki/Court_of_Cassation_(Italy)", 
+        "en": "Court of Cassation", 
+        "local": "Palazzo di Giustizia"
+      }
+    }, 
+    "country-name": "Italy", 
+    "official-languages": []
+  }, 
+  "VN": {
+    "courts": {
+      "supreme.peoples.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_People%27s_Court_of_Vietnam", 
+        "en": "Supreme People's Court of Vietnam", 
+        "local": "Supreme People's Court of Vietnam"
+      }
+    }, 
+    "country-name": "Vietnam", 
+    "official-languages": []
+  }, 
+  "SB": {
+    "courts": {
+      "court.appeal": {
+        "en": "Court of Appeal of Solomon Islands"
+      }
+    }, 
+    "country-name": "Solomon Islands", 
+    "official-languages": [
+      "English"
+    ]
+  }, 
+  "ET": {
+    "courts": {
+      "federal.supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Ethiopia#Judicial_branch", 
+        "en": "Federal Supreme Court", 
+        "local": "politics of Ethiopia"
+      }
+    }, 
+    "country-name": "Ethiopia", 
+    "official-languages": []
+  }, 
+  "ZW": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Zimbabwe", 
+        "en": "Supreme Court of Zimbabwe", 
+        "local": "Supreme Court of Zimbabwe"
+      }
+    }, 
+    "country-name": "Zimbabwe", 
+    "official-languages": [
+      "16 languages", 
+      "Chewa", 
+      "Chibarwe", 
+      "English", 
+      "Kalanga", 
+      "Tsoa", 
+      "Nambya", 
+      "Ndau", 
+      "Ndebele", 
+      "Shangani", 
+      "Shona", 
+      "sign language", 
+      "Sotho", 
+      "Tonga", 
+      "Tswana", 
+      "Venda", 
+      "Xhosa"
+    ]
+  }, 
+  "ES": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Spain", 
+        "en": "Supreme Court of Spain", 
+        "local": "Tribunal Supremo"
+      }
+    }, 
+    "country-name": "Spain", 
+    "official-languages": []
+  }, 
+  "ER": {
+    "courts": {
+      "high.court": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Eritrea#Judicial_branch", 
+        "en": "High Court of Eritrea", 
+        "local": "community courts"
+      }
+    }, 
+    "country-name": "Eritrea", 
+    "official-languages": [
+      "Tigrinya", 
+      "Arabic", 
+      "English"
+    ]
+  }, 
+  "ME": {
+    "courts": {
+      "constitutional.court": {
+        "en": "Constitutional Court of Montenegro"
+      }
+    }, 
+    "country-name": "Montenegro", 
+    "official-languages": []
+  }, 
+  "MD": {
+    "courts": {
+      "supreme.court.justice": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Justice_of_Moldova", 
+        "en": "Supreme Court of Justice of Moldova", 
+        "local": "Supreme Court of Justice of Moldova"
+      }
+    }, 
+    "country-name": "Moldova", 
+    "official-languages": []
+  }, 
+  "MG": {
+    "courts": {
+      "supreme.court": {
+        "en": "Supreme Court of Madagascar"
+      }
+    }, 
+    "country-name": "Madagascar", 
+    "official-languages": [
+      "Malagasy", 
+      "French"
+    ]
+  }, 
+  "MA": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Morocco#Judicial_branch", 
+        "en": "Supreme Court of Morocco"
+      }
+    }, 
+    "country-name": "Morocco", 
+    "official-languages": [
+      "Arabic", 
+      "Berber"
+    ]
+  }, 
+  "UZ": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Uzbekistan", 
+        "en": "Supreme Court of Uzbekistan", 
+        "local": "Supreme Court of Uzbekistan"
+      }
+    }, 
+    "country-name": "Uzbekistan", 
+    "official-languages": []
+  }, 
+  "MM": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Burma", 
+        "en": "Supreme Court of Burma", 
+        "local": "Supreme Court of Burma"
+      }
+    }, 
+    "country-name": "Myanmar", 
+    "official-languages": []
+  }, 
+  "ML": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Mali#Judicial_branch", 
+        "en": "Supreme Court of Mali"
+      }
+    }, 
+    "country-name": "Mali", 
+    "official-languages": [
+      "French"
+    ]
+  }, 
+  "MO": {
+    "courts": {
+      "court.final.appeal": {
+        "url": "http://en.wikipedia.org/wiki/Court_of_Final_Appeal_(Macau)", 
+        "en": "Court of Final Appeal", 
+        "local": "Tribunal de \u00daltima Inst\u00e2ncia de Macau"
+      }
+    }, 
+    "country-name": "Macau", 
+    "official-languages": [
+      "Chinese", 
+      "Portuguese"
+    ]
+  }, 
+  "MN": {
+    "courts": {
+      "constitutional.court": {
+        "url": "http://en.wikipedia.org/wiki/Constitutional_Court_of_Mongolia", 
+        "en": "Constitutional Court of Mongolia", 
+        "local": "Constitutional Court of Mongolia"
+      }, 
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Mongolia", 
+        "en": "Supreme Court of Mongolia", 
+        "local": "Supreme Court of Mongolia"
+      }
+    }, 
+    "country-name": "Mongolia", 
+    "official-languages": []
+  }, 
+  "MH": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_the_Marshall_Islands#Judicial_branch", 
+        "en": "Supreme Court of the Marshall Islands", 
+        "local": "Politics of the Marshall Islands"
+      }
+    }, 
+    "country-name": "Marshall Islands", 
+    "official-languages": [
+      "Marshallese", 
+      "English"
+    ]
+  }, 
+  "US": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States", 
+        "en": "Supreme Court of the United States", 
+        "local": "Supreme Court of the United States"
+      }
+    }, 
+    "country-name": "United States", 
+    "official-languages": [
+      "federal level"
+    ]
+  }, 
+  "MU": {
+    "courts": {
+      "judicial.committee.privy.council": {
+        "url": "http://en.wikipedia.org/wiki/List_of_supreme_courts_by_country#International_supreme_courts", 
+        "en": "Judicial Committee of the Privy Council", 
+        "local": "supreme courts"
+      }, 
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Mauritius", 
+        "en": "Supreme Court of Mauritius", 
+        "local": "Supreme Court of Mauritius"
+      }
+    }, 
+    "country-name": "Mauritius", 
+    "official-languages": [
+      "None"
+    ]
+  }, 
+  "MT": {
+    "courts": {
+      "constitutional.court": {
+        "url": "http://en.wikipedia.org/wiki/Judiciary_of_Malta", 
+        "en": "Constitutional Court of Malta", 
+        "local": "judiciary of Malta"
+      }
+    }, 
+    "country-name": "Malta", 
+    "official-languages": [
+      "Maltese", 
+      "English"
+    ]
+  }, 
+  "MW": {
+    "courts": {
+      "supreme.court.appeal": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Malawi#Judicial_branch", 
+        "en": "Supreme Court of Appeal", 
+        "local": "judiciary"
+      }
+    }, 
+    "country-name": "Malawi", 
+    "official-languages": [
+      "Chichewa"
+    ]
+  }, 
+  "MV": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_the_Maldives#Judicial_branch", 
+        "en": "Supreme Court of the Maldives", 
+        "local": "Islamic law"
+      }
+    }, 
+    "country-name": "Maldives", 
+    "official-languages": []
+  }, 
+  "MR": {
+    "courts": {
+      "supreme.court": {
+        "en": "Supreme Court of Mauritania"
+      }
+    }, 
+    "country-name": "Mauritania", 
+    "official-languages": []
+  }, 
+  "UG": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Uganda", 
+        "en": "Supreme Court of Uganda", 
+        "local": "Supreme Court of Uganda"
+      }
+    }, 
+    "country-name": "Uganda", 
+    "official-languages": [
+      ", "
+    ]
+  }, 
+  "MY": {
+    "courts": {
+      "federal.court": {
+        "url": "http://en.wikipedia.org/wiki/Federal_Court_of_Malaysia", 
+        "en": "Federal Court of Malaysia", 
+        "local": "Mahkamah Persekutuan Malaysia"
+      }
+    }, 
+    "country-name": "Malaysia", 
+    "official-languages": []
+  }, 
+  "MX": {
+    "courts": {
+      "supreme.court.justice.nation": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Justice_of_the_Nation", 
+        "en": "Supreme Court of Justice of the Nation", 
+        "local": "Suprema Corte de Justicia de la Naci\u00f3n"
+      }
+    }, 
+    "country-name": "Mexico", 
+    "official-languages": [
+      " (98.8%),", 
+      " 68 ", 
+      " are also legally recognized."
+    ]
+  }, 
+  "MZ": {
+    "courts": {
+      "supreme.court": {
+        "en": "Supreme Court of Mozambique"
+      }
+    }, 
+    "country-name": "Mozambique", 
+    "official-languages": []
+  }, 
+  "FR": {
+    "courts": {
+      "conseil.d'etat": {
+        "url": "http://en.wikipedia.org/wiki/Conseil_d%27Etat_(France)", 
+        "en": "Conseil d'Etat", 
+        "local": "France"
+      }, 
+      "court.cassation": {
+        "url": "http://en.wikipedia.org/wiki/Court_of_Cassation_(France)", 
+        "en": "Court of Cassation", 
+        "local": "Cour de cassation"
+      }, 
+      "constitutional.council": {
+        "url": "http://en.wikipedia.org/wiki/Constitutional_Council_of_France", 
+        "en": "Constitutional Council of France", 
+        "local": "Conseil Constitutionnel"
+      }
+    }, 
+    "country-name": "France", 
+    "official-languages": []
+  }, 
+  "GB-SCT": {
+    "courts": {
+      "high.court.justiciary": {
+        "url": "http://en.wikipedia.org/wiki/High_Court_of_Justiciary", 
+        "en": "High Court of Justiciary", 
+        "local": "High Court of Justiciary"
+      }
+    }, 
+    "country-name": "Scotland", 
+    "official-languages": []
+  }, 
+  "GU": {
+    "courts": {
+    }, 
+      "country-name": "Guam", 
+    "official-languages": []
+  }, 
+  "KY": {
+    "courts": {
+    }, 
+      "country-name": "Cayman Islands", 
+    "official-languages": []
+  }, 
+  "FI": {
+    "courts": {
+      "supreme.administrative.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Administrative_Court_of_Finland", 
+        "en": "Supreme Administrative Court of Finland", 
+        "local": "korkein hallinto-oikeus"
+      }, 
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Finland", 
+        "en": "Supreme Court of Finland", 
+        "local": "korkein oikeus"
+      }
+    }, 
+    "country-name": "Finland", 
+    "official-languages": [
+      "Finnish", 
+      "Swedish"
+    ]
+  }, 
+  "FJ": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Fiji", 
+        "en": "Supreme Court of Fiji", 
+        "local": "Supreme Court"
+      }
+    }, 
+    "country-name": "Fiji", 
+    "official-languages": [
+      "English", 
+      "Fijian", 
+      "Fiji Hindi"
+    ]
+  }, 
+  "FM": {
+    "courts": {
+      "supreme.court.federated.states": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_the_Federated_States_of_Micronesia#Judicial_branch", 
+        "en": "Supreme Court of the Federated States of Micronesia", 
+        "local": "Andon Amaraich"
+      }
+    }, 
+    "country-name": "Micronesia", 
+    "official-languages": []
+  }, 
+  "NI": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Nicaragua#Judicial_branch", 
+        "en": "Supreme Court of Nicaragua"
+      }
+    }, 
+    "country-name": "Nicaragua", 
+    "official-languages": []
+  }, 
+  "NL": {
+    "courts": {
+      "council.state": {
+        "url": "http://en.wikipedia.org/wiki/Council_of_State_of_the_Netherlands", 
+        "en": "Council of State of the Netherlands"
+      }, 
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_the_Netherlands", 
+        "en": "Supreme Court of the Netherlands", 
+        "local": "Hoge Raad der Nederlanden Dutch pronunciation: [\u02c8ho\u02d0\u0263\u0259 ra\u02d0d d\u025br \u02c8ne\u02d0d\u0259rl\u0251nd\u0259(n)], literally 'High Council of the Netherlands'"
+      }
+    }, 
+    "country-name": "Netherlands", 
+    "official-languages": []
+  }, 
+  "NO": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Norway", 
+        "en": "Supreme Court of Norway", 
+        "local": "tingrett"
+      }
+    }, 
+    "country-name": "Norway", 
+    "official-languages": [
+      "Norwegian", 
+      "Bokm\u00e5l", 
+      "Nynorsk", 
+      "Sami", 
+      "Northern", 
+      "Lule", 
+      "Southern"
+    ]
+  }, 
+  "NA": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Namibia", 
+        "en": "Supreme Court of Namibia", 
+        "local": "Supreme Court of Namibia"
+      }
+    }, 
+    "country-name": "Namibia", 
+    "official-languages": []
+  }, 
+  "VU": {
+    "courts": {
+      "court.appeal": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Vanuatu#Judicial_branch", 
+        "en": "Court of Appeal of Vanuatu", 
+        "local": "Supreme Court of Vanuatu"
+      }
+    }, 
+    "country-name": "Vanuatu", 
+    "official-languages": [
+      "Bislama"
+    ]
+  }, 
+  "NE": {
+    "courts": {
+      "constitutional.court": {
+        "url": "http://en.wikipedia.org/wiki/Constitutional_Court_of_Niger", 
+        "en": "Constitutional Court of Niger", 
+        "local": "Judiciary of Niger"
+      }, 
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Niger", 
+        "en": "Supreme Court of Niger", 
+        "local": "Judiciary of Niger"
+      }
+    }, 
+    "country-name": "Niger", 
+    "official-languages": [
+      "Hausa", 
+      "Fulfulde", 
+      "Gourmanch\u00e9ma", 
+      "Kanuri", 
+      "Zarma", 
+      "Tamasheq"
+    ]
+  }, 
+  "NG": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Nigeria", 
+        "en": "Supreme Court of Nigeria", 
+        "local": "Supreme Court of Nigeria"
+      }
+    }, 
+    "country-name": "Nigeria", 
+    "official-languages": [
+      "English"
+    ]
+  }, 
+  "NZ": {
+    "courts": {
+      "high.court": {
+        "url": "http://en.wikipedia.org/wiki/High_Court_of_New_Zealand", 
+        "en": "High Court of New Zealand", 
+        "local": "High Court of New Zealand"
+      }, 
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_New_Zealand", 
+        "en": "Supreme Court of New Zealand", 
+        "local": "Supreme Court of New Zealand"
+      }
+    }, 
+    "country-name": "New Zealand", 
+    "official-languages": [
+      "English", 
+      "M\u0101ori", 
+      "NZ Sign Language"
+    ]
+  }, 
+  "NP": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Nepal", 
+        "en": "Supreme Court", 
+        "local": "\u0938\u0930\u094d\u0935\u094b\u091a\u094d\u091a \u0905\u0926\u093e\u0932\u0924"
+      }
+    }, 
+    "country-name": "Nepal", 
+    "official-languages": []
+  }, 
+  "NR": {
+    "courts": {
+      "high.court.australia": {
+        "url": "http://en.wikipedia.org/wiki/High_Court_of_Australia", 
+        "en": "High Court of Australia", 
+        "local": "High Court of Australia"
+      }, 
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Nauru", 
+        "en": "Supreme Court of Nauru", 
+        "local": "Supreme Court of Nauru"
+      }
+    }, 
+    "country-name": "Nauru", 
+    "official-languages": [
+      "Nauruan"
+    ]
+  }, 
+  "NU": {
+    "courts": {
+      "judicial.committee.privy.council": {
+        "url": "http://en.wikipedia.org/wiki/List_of_supreme_courts_by_country#International_supreme_courts", 
+        "en": "Judicial Committee of the Privy Council", 
+        "local": "supreme courts"
+      }
+    }, 
+    "country-name": "Niue", 
+    "official-languages": [
+      "Niuean"
+    ]
+  }, 
+  "CK": {
+    "courts": {
+      "judicial.committee.privy.council": {
+        "url": "http://en.wikipedia.org/wiki/List_of_supreme_courts_by_country#International_supreme_courts", 
+        "en": "Judicial Committee of the Privy Council", 
+        "local": "supreme courts"
+      }
+    }, 
+    "country-name": "Cook Islands", 
+    "official-languages": [
+      "Cook Islands M\u0101ori"
+    ]
+  }, 
+  "XK": {
+    "courts": {
+      "supreme.court": {
+        "en": "Supreme Court of Kosovo"
+      }
+    }, 
+    "country-name": "Kosovo", 
+    "official-languages": [
+      "Albanian", 
+      "Serbian"
+    ]
+  }, 
+  "CI": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_C%C3%B4te_d%27Ivoire#Judicial_branch", 
+        "en": "Supreme Court of C\u00f4te d'Ivoire", 
+        "local": "Supreme Court of Ivory Coast"
+      }
+    }, 
+    "country-name": "C\u00f4te d'Ivoire", 
+    "official-languages": []
+  }, 
+  "CH": {
+    "courts": {
+      "federal.supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Federal_Supreme_Court_of_Switzerland", 
+        "en": "Federal Supreme Court of Switzerland", 
+        "local": "Bundesgericht"
+      }
+    }, 
+    "country-name": "Switzerland", 
+    "official-languages": []
+  }, 
+  "CO": {
+    "courts": {
+      "constitutional.court": {
+        "url": "http://en.wikipedia.org/wiki/Constitutional_Court_of_Colombia", 
+        "en": "Constitutional Court of Colombia", 
+        "local": "Corte Constitucional de Colombia"
+      }, 
+      "superior.council.judiciary": {
+        "url": "http://en.wikipedia.org/wiki/Superior_Council_of_the_Judiciary", 
+        "en": "Superior Council of the Judiciary", 
+        "local": "Superior Council of The Judiciary of Colombia"
+      }, 
+      "council.state": {
+        "url": "http://en.wikipedia.org/wiki/Council_of_State_of_Colombia", 
+        "en": "Council of State of Colombia", 
+        "local": "Council of State of Colombia"
+      }, 
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Colombia", 
+        "en": "Supreme Court of Colombia", 
+        "local": "Corte Suprema de Justicia de Colombia"
+      }
+    }, 
+    "country-name": "Colombia", 
+    "official-languages": []
+  }, 
+  "CN": {
+    "courts": {
+      "supreme.peoples.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_People%27s_Court_of_the_People%27s_Republic_of_China", 
+        "en": "Supreme People's Court of the People's Republic of China", 
+        "local": "Supreme People's Court"
+      }
+    }, 
+    "country-name": "People's Republic of China", 
+    "official-languages": [
+      "Standard Chinese"
+    ]
+  }, 
+  "CM": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Cameroon", 
+        "en": "Supreme Court of Cameroon", 
+        "local": "Supreme Court"
+      }
+    }, 
+    "country-name": "Cameroon", 
+    "official-languages": [
+      "\n"
+    ]
+  }, 
+  "CL": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Chile", 
+        "en": "Supreme Court of Chile"
+      }
+    }, 
+    "country-name": "Chile", 
+    "official-languages": [
+      "Spanish"
+    ]
+  }, 
+  "CA": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Canada", 
+        "en": "Supreme Court of Canada", 
+        "local": "Cour supr\u00eame du Canada"
+      }
+    }, 
+    "country-name": "Canada", 
+    "official-languages": [
+      "English", 
+      "French"
+    ]
+  }, 
+  "CG": {
+    "courts": {
+      "supreme.court.republic.congo": {
+        "en": "Supreme Court of Republic of the Congo"
+      }
+    }, 
+    "country-name": "Rep. of the Congo", 
+    "official-languages": []
+  }, 
+  "CF": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_the_Central_African_Republic#Judicial_branch", 
+        "en": "Supreme Court of the Central African Republic", 
+        "local": "Cour Supreme"
+      }
+    }, 
+    "country-name": "Central African Republic", 
+    "official-languages": [
+      " and "
+    ]
+  }, 
+  "CD": {
+    "courts": {
+      "constitutional.court": {
+        "url": "http://en.wikipedia.org/wiki/Constitutional_Court_of_the_Democratic_Republic_of_the_Congo", 
+        "en": "Constitutional Court", 
+        "local": "Cour Constitutionnelle"
+      }, 
+      "court.cassation": {
+        "url": "http://en.wikipedia.org/wiki/Court_of_Cassation_(Democratic_Republic_of_the_Congo)", 
+        "en": "Court of Cassation", 
+        "local": "Cour de cassation"
+      }
+    }, 
+    "country-name": "Dem. Rep. of the Congo", 
+    "official-languages": []
+  }, 
+  "CZ": {
+    "courts": {
+      "supreme.administrative.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Administrative_Court_of_the_Czech_Republic", 
+        "en": "Supreme Administrative Court of the Czech Republic", 
+        "local": "Supreme Administrative Court of the Czech Republic"
+      }, 
+      "constitutional.court": {
+        "url": "http://en.wikipedia.org/wiki/Constitutional_Court_of_the_Czech_Republic", 
+        "en": "Constitutional Court", 
+        "local": "\u00dastavn\u00ed soud \u010cesk\u00e9 republiky"
+      }, 
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_the_Czech_Republic", 
+        "en": "Supreme Court of the Czech Republic", 
+        "local": "Supreme Court of the Czech Republic"
+      }
+    }, 
+    "country-name": "Czech Republic", 
+    "official-languages": []
+  }, 
+  "CY": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Cyprus", 
+        "en": "Supreme Court of Cyprus", 
+        "local": "Supreme Court of Cyprus"
+      }
+    }, 
+    "country-name": "Cyprus", 
+    "official-languages": [
+      "Greek", 
+      "Turkish"
+    ]
+  }, 
+  "CR": {
+    "courts": {
+      "supreme.court.justice": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Justice_of_Costa_Rica", 
+        "en": "Supreme Court of Justice of Costa Rica", 
+        "local": "Supreme Court of Justice of Costa Rica"
+      }
+    }, 
+    "country-name": "Costa Rica", 
+    "official-languages": []
+  }, 
+  "HU": {
+    "courts": {
+      "constitutional.court": {
+        "url": "http://en.wikipedia.org/wiki/Constitutional_Court_of_Hungary", 
+        "en": "Constitutional Court of Hungary", 
+        "local": "Magyarorsz\u00e1g Alkotm\u00e1nyb\u00edr\u00f3s\u00e1ga"
+      }
+    }, 
+    "country-name": "Hungary", 
+    "official-languages": []
+  }, 
+  "CV": {
+    "courts": {
+      "supreme.tribunal.justice": {
+        "en": "Supreme Tribunal of Justice"
+      }
+    }, 
+    "country-name": "Cape Verde", 
+    "official-languages": []
+  }, 
+  "CU": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Cuba", 
+        "en": "Supreme Court of Cuba", 
+        "local": "People's Supreme Court"
+      }
+    }, 
+    "country-name": "Cuba", 
+    "official-languages": []
+  }, 
+  "SZ": {
+    "courts": {
+      "high.court": {
+        "en": "High Court of Swaziland"
+      }
+    }, 
+    "country-name": "Swaziland", 
+    "official-languages": [
+      "siSwati", 
+      "English"
+    ]
+  }, 
+  "SY": {
+    "courts": {
+      "supreme.constitutional.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Constitutional_Court_of_Syria", 
+        "en": "Supreme Constitutional Court", 
+        "local": "\u0627\u0644\u0645\u062d\u0643\u0645\u0629 \u0627\u0644\u062f\u0633\u062a\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0644\u064a\u0627"
+      }
+    }, 
+    "country-name": "Syria", 
+    "official-languages": []
+  }, 
+  "KG": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Kyrgyzstan#Judicial_branch", 
+        "en": "Supreme Court of Kyrgyzstan", 
+        "local": "regional courts"
+      }
+    }, 
+    "country-name": "Kyrgyzstan", 
+    "official-languages": [
+      "Kyrgyz", 
+      "Russian"
+    ]
+  }, 
+  "MC": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Monaco", 
+        "en": "Supreme Court of Monaco", 
+        "local": "Supreme Court"
+      }
+    }, 
+    "country-name": "Monaco", 
+    "official-languages": []
+  }, 
+  "KE": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Kenya", 
+        "en": "Supreme Court of Kenya", 
+        "local": "Supreme Court of Kenya"
+      }
+    }, 
+    "country-name": "Kenya", 
+    "official-languages": [
+      "English", 
+      "Swahili"
+    ]
+  }, 
+  "SR": {
+    "courts": {
+      "court.justice": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Suriname#Judicial_branch", 
+        "en": "Court of Justice of Suriname", 
+        "local": "judiciary"
+      }
+    }, 
+    "country-name": "Suriname", 
+    "official-languages": []
+  }, 
+  "KI": {
+    "courts": {
+      "court.appeal": {
+        "en": "Court of Appeal of Kiribati"
+      }, 
+      "judicial.committee.privy.council": {
+        "url": "http://en.wikipedia.org/wiki/List_of_supreme_courts_by_country#International_supreme_courts", 
+        "en": "Judicial Committee of the Privy Council", 
+        "local": "supreme courts"
+      }
+    }, 
+    "country-name": "Kiribati", 
+    "official-languages": [
+      "English", 
+      "Gilbertese"
+    ]
+  }, 
+  "KH": {
+    "courts": {
+      "supreme.council.magistracy": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Cambodia#Judicial_branch", 
+        "en": "Supreme Council of the Magistracy", 
+        "local": "Roi-P\u00e8re"
+      }
+    }, 
+    "country-name": "Cambodia", 
+    "official-languages": []
+  }, 
+  "KN": {
+    "courts": {}, 
+    "country-name": "Saint Kitts and Nevis", 
+    "official-languages": []
+  }, 
+  "VG": {
+    "courts": {}, 
+    "country-name": "British Virgin Islands", 
+    "official-languages": []
+  }, 
+  "KM": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Comoros#Judicial_branch", 
+        "en": "Supreme Court of Comoros", 
+        "local": "Cour Supreme"
+      }
+    }, 
+    "country-name": "Comoros", 
+    "official-languages": [
+      "Comorian", 
+      "Arabic", 
+      "French"
+    ]
+  }, 
+  "ST": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe#Judicial_branch", 
+        "en": "Supreme Court of S\u00e3o Tom\u00e9 and Pr\u00edncipe"
+      }
+    }, 
+    "country-name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe", 
+    "official-languages": []
+  }, 
+  "SK": {
+    "courts": {
+      "supreme.court": {
+        "en": "Supreme Court of Slovakia"
+      }
+    }, 
+    "country-name": "Slovakia", 
+    "official-languages": []
+  }, 
+  "KR": {
+    "courts": {
+      "constitutional.court": {
+        "url": "http://en.wikipedia.org/wiki/Constitutional_Court_of_Korea", 
+        "en": "Constitutional Court of South Korea", 
+        "local": "Constitutional Court of Korea"
+      }, 
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_South_Korea", 
+        "en": "Supreme Court of South Korea", 
+        "local": "Supreme Court of Korea"
+      }
+    }, 
+    "country-name": "South Korea", 
+    "official-languages": []
+  }, 
+  "SI": {
+    "courts": {
+      "supreme.court": {
+        "en": "Supreme Court of Slovenia"
+      }
+    }, 
+    "country-name": "Slovenia", 
+    "official-languages": []
+  }, 
+  "KP": {
+    "courts": {
+      "central.court": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_North_Korea#Legal_system", 
+        "en": "Central Court", 
+        "local": "politics of the Democratic People's Republic of Korea"
+      }
+    }, 
+    "country-name": "North Korea", 
+    "official-languages": []
+  }, 
+  "SO": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Judiciary_of_Somalia", 
+        "en": "Supreme Court of Somalia", 
+        "local": "judiciary of Somalia"
+      }
+    }, 
+    "country-name": "Somalia", 
+    "official-languages": [
+      "Somali", 
+      "Arabic"
+    ]
+  }, 
+  "SN": {
+    "courts": {
+      "court.cassation": {
+        "url": "http://en.wikipedia.org/wiki/Court_of_Cassation_(Senegal)", 
+        "en": "Court of Cassation", 
+        "local": "Cour de cassation"
+      }
+    }, 
+    "country-name": "Senegal", 
+    "official-languages": [
+      "French"
+    ]
+  }, 
+  "SM": {
+    "courts": {
+      "council.twelve": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_San_Marino#Judiciary", 
+        "en": "Council of Twelve", 
+        "local": "Politics of San Marino"
+      }
+    }, 
+    "country-name": "San Marino", 
+    "official-languages": []
+  }, 
+  "SL": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Sierra_Leone", 
+        "en": "Supreme Court of Sierra Leone", 
+        "local": "Supreme Court of Sierra Leone"
+      }
+    }, 
+    "country-name": "Sierra Leone", 
+    "official-languages": [
+      "English"
+    ]
+  }, 
+  "SC": {
+    "courts": {
+      "seychelles.court.appeal": {
+        "en": "Seychelles Court of Appeal"
+      }
+    }, 
+    "country-name": "Seychelles", 
+    "official-languages": [
+      "Seychellois Creole"
+    ]
+  }, 
+  "KZ": {
+    "courts": {
+      "constitutional.council": {
+        "url": "http://en.wikipedia.org/wiki/Government_of_Kazakhstan#Judicial_branch", 
+        "en": "Constitutional Council", 
+        "local": "\u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b\u043d\u044b\u04a3 \u04ae\u043a\u0456\u043c\u0435\u0442\u0456"
+      }, 
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Government_of_Kazakhstan#Judicial_branch", 
+        "en": "Supreme Court", 
+        "local": "\u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b\u043d\u044b\u04a3 \u04ae\u043a\u0456\u043c\u0435\u0442\u0456"
+      }
+    }, 
+    "country-name": "Kazakhstan", 
+    "official-languages": [
+      "Kazakh", 
+      "Russian"
+    ]
+  }, 
+  "SA": {
+    "courts": {
+      "supreme.council.justice": {
+        "en": "Supreme Council of Justice"
+      }
+    }, 
+    "country-name": "Saudi Arabia", 
+    "official-languages": []
+  }, 
+  "SG": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Singapore", 
+        "en": "Supreme Court of Singapore", 
+        "local": "Supreme Court of the Republic of Singapore"
+      }
+    }, 
+    "country-name": "Singapore", 
+    "official-languages": [
+      "English", 
+      "Malay", 
+      "Mandarin", 
+      "Tamil"
+    ]
+  }, 
+  "SE": {
+    "courts": {
+      "supreme.administrative.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Administrative_Court_of_Sweden", 
+        "en": "Supreme Administrative Court of Sweden", 
+        "local": "H\u00f6gsta f\u00f6rvaltningsdomstolen"
+      }, 
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Sweden", 
+        "en": "Supreme Court of Sweden", 
+        "local": "H\u00f6gsta domstolen"
+      }
+    }, 
+    "country-name": "Sweden", 
+    "official-languages": []
+  }, 
+  "SD": {
+    "courts": {
+      "supreme.court": {
+        "en": "Supreme Court of Sudan"
+      }
+    }, 
+    "country-name": "Sudan", 
+    "official-languages": [
+      "Arabic"
+    ]
+  }, 
+  "DO": {
+    "courts": {
+      "supreme.court.justice": {
+        "url": "http://en.wikipedia.org/wiki/Government_of_the_Dominican_Republic#Judicial_branch", 
+        "en": "Supreme Court of Justice"
+      }
+    }, 
+    "country-name": "Dominican Republic", 
+    "official-languages": []
+  }, 
+  "DM": {
+    "courts": {}, 
+    "country-name": "Commonwealth of Dominica", 
+    "official-languages": []
+  }, 
+  "DJ": {
+    "courts": {
+      "supreme.court": {
+        "en": "Supreme Court of Djibouti"
+      }
+    }, 
+    "country-name": "Djibouti", 
+    "official-languages": [
+      "French", 
+      "Arabic"
+    ]
+  }, 
+  "DK": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Denmark", 
+        "en": "Supreme Court of Denmark", 
+        "local": "H\u00f8jesteret"
+      }
+    }, 
+    "country-name": "Denmark", 
+    "official-languages": []
+  }, 
+  "DE": {
+    "courts": {
+      "federal.administrative.court": {
+        "url": "http://en.wikipedia.org/wiki/Federal_Administrative_Court_of_Germany", 
+        "en": "Federal Administrative Court", 
+        "local": "Federal Administrative Court"
+      }, 
+      "federal.labour.court": {
+        "url": "http://en.wikipedia.org/wiki/Federal_Labour_Court_of_Germany", 
+        "en": "Federal Labour Court", 
+        "local": "Federal Labor Court"
+      }, 
+      "federal.finance.court": {
+        "url": "http://en.wikipedia.org/wiki/Federal_Finance_Court_of_Germany", 
+        "en": "Federal Finance Court", 
+        "local": "Federal Fiscal Court"
+      }, 
+      "constitutional.court": {
+        "url": "http://en.wikipedia.org/wiki/Federal_Constitutional_Court_of_Germany", 
+        "en": "Constitutional Court", 
+        "local": "Federal Constitutional Court"
+      }, 
+      "federal.court.justice": {
+        "url": "http://en.wikipedia.org/wiki/Federal_Court_of_Justice_of_Germany", 
+        "en": "Federal Court of Justice", 
+        "local": "Bundesgerichtshof"
+      }, 
+      "federal.social.court": {
+        "url": "http://en.wikipedia.org/wiki/Federal_Social_Court_of_Germany", 
+        "en": "Federal Social Court", 
+        "local": "Federal Social Court"
+      }
+    }, 
+    "country-name": "Germany", 
+    "official-languages": []
+  }, 
+  "YE": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Legal_system_of_Yemen", 
+        "en": "Supreme Court of Yemen", 
+        "local": "Yemen"
+      }
+    }, 
+    "country-name": "Yemen", 
+    "official-languages": []
+  }, 
+  "AT": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_court#Austria", 
+        "en": "Supreme Court of Austria"
+      }, 
+      "constitutional.court": {
+        "url": "http://en.wikipedia.org/wiki/Constitutional_Court_of_Austria", 
+        "en": "Constitutional Court of Austria"
+      }, 
+      "administrative.court": {
+        "url": "http://en.wikipedia.org/wiki/Administrative_Court_of_Austria", 
+        "en": "Administrative Court of Austria"
+      }
+    }, 
+    "country-name": "Austria", 
+    "official-languages": [
+      " "
+    ]
+  }, 
+  "DZ": {
+    "courts": {
+      "supreme.court": {
+        "en": "Supreme Court of Algeria"
+      }
+    }, 
+    "country-name": "Algeria", 
+    "official-languages": []
+  }, 
+  "TZ": {
+    "courts": {
+      "court.appeal": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Tanzania#Judicial_branch", 
+        "en": "Court of Appeal of Tanzania", 
+        "local": "common law"
+      }
+    }, 
+    "country-name": "Tanzania", 
+    "official-languages": [
+      "Swahili"
+    ]
+  }, 
+  "LC": {
+    "courts": {}, 
+    "country-name": "Saint Lucia", 
+    "official-languages": [
+      "English"
+    ]
+  }, 
+  "LA": {
+    "courts": {
+      "people's.supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Laos#Judicial_branch", 
+        "en": "People's Supreme Court of Laos"
+      }
+    }, 
+    "country-name": "Lao Democratic People's Republic", 
+    "official-languages": []
+  }, 
+  "MK": {
+    "courts": {
+      "constitutional.court": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_the_Republic_of_Macedonia#Judicial_branch", 
+        "en": "Constitutional Court of Macedonia"
+      }, 
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_the_Republic_of_Macedonia#Judicial_branch", 
+        "en": "Supreme Court of Macedonia"
+      }
+    }, 
+    "country-name": "Macedonia", 
+    "official-languages": []
+  }, 
+  "TW": {
+    "courts": {
+      "constitutional.court.judicial.yuan": {
+        "url": "http://en.wikipedia.org/wiki/Judicial_Yuan", 
+        "en": "Constitutional Court of the Judicial Yuan", 
+        "local": "\u53f8\u6cd5\u9662"
+      }, 
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_the_Republic_of_China", 
+        "en": "Supreme Court of the Republic of China", 
+        "local": "\u5927\u7406\u9662"
+      }
+    }, 
+    "country-name": "Republic of China", 
+    "official-languages": []
+  }, 
+  "TT": {
+    "courts": {
+      "supreme.court.judicature": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Trinidad_and_Tobago#Judicial_branch", 
+        "en": "Supreme Court of Judicature", 
+        "local": "Leader of the Opposition"
+      }, 
+      "international.supreme.courts": {
+        "url": "http://en.wikipedia.org/wiki/List_of_supreme_courts_by_country#International_supreme_courts", 
+        "en": "International supreme courts", 
+        "local": "supreme courts"
+      }
+    }, 
+    "country-name": "Trinidad and Tobago", 
+    "official-languages": [
+      "English"
+    ]
+  }, 
+  "TR": {
+    "courts": {
+      "constitutional.court": {
+        "url": "http://en.wikipedia.org/wiki/Constitutional_Court_of_Turkey", 
+        "en": "Constitutional Court of Turkey", 
+        "local": "Anayasa Mahkemesi"
+      }
+    }, 
+    "country-name": "Turkey", 
+    "official-languages": []
+  }, 
+  "LK": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Sri_Lanka", 
+        "en": "Supreme Court of Sri Lanka", 
+        "local": "Supreme Court of Sri Lanka"
+      }
+    }, 
+    "country-name": "Sri Lanka", 
+    "official-languages": [
+      "Sinhala", 
+      "Tamil"
+    ]
+  }, 
+  "LI": {
+    "courts": {
+      "supreme.court": {
+        "en": "Supreme Court of Liechtenstein"
+      }
+    }, 
+    "country-name": "Liechtenstein", 
+    "official-languages": []
+  }, 
+  "TN": {
+    "courts": {
+      "court.cassation": {
+        "url": "http://en.wikipedia.org/wiki/Court_of_Cassation_(Tunisia)", 
+        "en": "Court of Cassation", 
+        "local": "Cour de cassation"
+      }
+    }, 
+    "country-name": "Tunisia", 
+    "official-languages": []
+  }, 
+  "TO": {
+    "courts": {
+      "court.appeal": {
+        "url": "http://en.wikipedia.org/wiki/Court_of_Appeal_of_Tonga", 
+        "en": "Court of Appeal of Tonga", 
+        "local": "Court of Appeal of Tonga"
+      }, 
+      "privy.council": {
+        "url": "http://en.wikipedia.org/wiki/Privy_Council_of_Tonga", 
+        "en": "Privy Council of Tonga", 
+        "local": "Privy Council of Tonga"
+      }
+    }, 
+    "country-name": "Tonga", 
+    "official-languages": [
+      "Tongan"
+    ]
+  }, 
+  "TL": {
+    "courts": {
+      "court.appeals": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_East_Timor#Judicial_branch", 
+        "en": "Court of Appeals of Timor-Leste", 
+        "local": "judge"
+      }
+    }, 
+    "country-name": "Timor-Leste", 
+    "official-languages": [
+      "Portuguese", 
+      "Tetum"
+    ]
+  }, 
+  "JE": {
+      "courts": {},
+    "country-name": "Jersey", 
+    "official-languages": [
+      "English" 
+    ]
+  }, 
+  "TM": {
+    "courts": {
+      "supreme.court": {
+        "en": "Supreme Court of Turkmenistan"
+      }
+    }, 
+    "country-name": "Turkmenistan", 
+    "official-languages": []
+  }, 
+  "LR": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Liberia", 
+        "en": "Supreme Court of Liberia", 
+        "local": "Supreme Court of Liberia"
+      }
+    }, 
+    "country-name": "Liberia", 
+    "official-languages": []
+  }, 
+  "LS": {
+    "courts": {
+      "high.court": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Lesotho#Judicial_branch", 
+        "en": "High Court of Lesotho", 
+        "local": "High Court of Lesotho"
+      }
+    }, 
+    "country-name": "Lesotho", 
+    "official-languages": [
+      "Sesotho", 
+      "English"
+    ]
+  }, 
+  "TH": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Thailand", 
+        "en": "Supreme Court of Thailand", 
+        "local": "Supreme Court of Thailand"
+      }
+    }, 
+    "country-name": "Thailand", 
+    "official-languages": []
+  }, 
+  "TG": {
+    "courts": {
+      "court.appeal": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Togo#Judicial_branch", 
+        "en": "Court of Appeal of Togo", 
+        "local": "Cour d'Appel; Supreme Court or Cour Supreme"
+      }
+    }, 
+    "country-name": "Togo", 
+    "official-languages": [
+      "French"
+    ]
+  }, 
+  "TD": {
+    "courts": {
+      "constitutional.council": {
+        "url": "http://en.wikipedia.org/wiki/Constitutional_Council_of_Chad", 
+        "en": "Constitutional Council of Chad", 
+        "local": "Constitutional Council of Chad"
+      }, 
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Chad", 
+        "en": "Supreme Court of Chad", 
+        "local": "Supreme Court"
+      }
+    }, 
+    "country-name": "Chad", 
+    "official-languages": [
+      "French", 
+      "Arabic"
+    ]
+  }, 
+  "LY": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Libya#Judicial_system", 
+        "en": "Supreme Court of Libya", 
+        "local": "Libya"
+      }
+    }, 
+    "country-name": "Libya", 
+    "official-languages": []
+  }, 
+  "VA": {
+    "courts": {
+      "cassation.court": {
+        "en": "Cassation Court of Vatican City"
+      }
+    }, 
+    "country-name": "Vatican City", 
+    "official-languages": [
+      "Italian"
+    ]
+  }, 
+  "VC": {
+    "courts": {}, 
+    "country-name": "Saint Vincent and the Grenadines", 
+    "official-languages": []
+  }, 
+  "AE": {
+    "courts": {
+      "federal.supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_the_United_Arab_Emirates#Federal_Judiciary", 
+        "en": "Court of Cassation", 
+        "local": "\u0645\u062c\u0644\u0633 \u0627\u0644\u0648\u0632\u0631\u0627\u0621"
+      }
+    }, 
+    "country-name": "United Arab Emirates", 
+    "official-languages": []
+  }, 
+  "VE": {
+    "courts": {
+      "supreme.tribunal.justice": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Tribunal_of_Justice_(Venezuela)", 
+        "en": "Supreme Tribunal of Justice", 
+        "local": "Tribunal Supremo de Justicia"
+      }
+    }, 
+    "country-name": "Venezuela", 
+    "official-languages": []
+  }, 
+  "AG": {
+    "courts": {}, 
+    "country-name": "Antigua and Barbuda", 
+    "official-languages": []
+  }, 
+  "AF": {
+    "courts": {
+      "afghan.supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Afghan_Supreme_Court", 
+        "en": "Supreme Court", 
+        "local": "\u0633\u062a\u0631\u0647 \u0645\u062d\u0643\u0645\u0647\u200e"
+      }
+    }, 
+    "country-name": "Afghanistan", 
+    "official-languages": [
+      "Pashto", 
+      "Dari"
+    ]
+  }, 
+  "IQ": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Iraq", 
+        "en": "Supreme Court of Iraq", 
+        "local": "\u0627\u0644\u0645\u062d\u0643\u0645\u0629 \u0627\u0644\u0639\u0644\u064a\u0627"
+      }
+    }, 
+    "country-name": "Iraq", 
+    "official-languages": [
+      "Arabic", 
+      "Kurdish"
+    ]
+  }, 
+  "IS": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Iceland", 
+        "en": "Supreme Court of Iceland", 
+        "local": "H\u00e6stir\u00e9ttur \u00cdslands"
+      }
+    }, 
+    "country-name": "Iceland", 
+    "official-languages": []
+  }, 
+  "IR": {
+    "courts": {
+      "high.council.judiciary": {
+        "url": "http://en.wikipedia.org/wiki/Judicial_system_of_Iran", 
+        "en": "High Council of the Judiciary", 
+        "local": "judicial system in Iran"
+      }, 
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Judicial_system_of_Iran", 
+        "en": "Supreme Court of Iran", 
+        "local": "judicial system in Iran"
+      }
+    }, 
+    "country-name": "Iran", 
+    "official-languages": []
+  }, 
+  "AM": {
+    "courts": {
+      "constitutional.court": {
+        "url": "http://en.wikipedia.org/wiki/Constitutional_Court_of_Armenia", 
+        "en": "Constitutional Court", 
+        "local": "\u0540\u0540 \u057d\u0561\u0570\u0574\u0561\u0576\u0561\u0564\u0580\u0561\u056f\u0561\u0576 \u0564\u0561\u057f\u0561\u0580\u0561\u0576"
+      }
+    }, 
+    "country-name": "Armenia", 
+    "official-languages": []
+  }, 
+  "AL": {
+    "courts": {
+      "constitutional.court": {
+        "url": "http://en.wikipedia.org/wiki/Constitutional_Court_of_Albania", 
+        "en": "Constitutional Court of Albania", 
+        "local": "Gjykata Kushtetuese e Shqip\u00ebris\u00eb"
+      }, 
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Albania", 
+        "en": "Supreme Court of Albania", 
+        "local": "Gjykata e Lart\u00eb"
+      }
+    }, 
+    "country-name": "Albania", 
+    "official-languages": []
+  }, 
+  "AO": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Angola#Judicial_branch", 
+        "en": "Supreme Court of Angola", 
+        "local": "Tribunal da Relacao"
+      }
+    }, 
+    "country-name": "Angola", 
+    "official-languages": []
+  }, 
+  "AR": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Argentina", 
+        "en": "Supreme Court of Argentina"
+      }
+    }, 
+    "country-name": "Argentina", 
+    "official-languages": []
+  }, 
+  "AI": {
+    "courts": {
+    }, 
+    "country-name": "Anguilla", 
+    "official-languages": []
+  }, 
+  "AU": {
+    "courts": {
+      "high.court": {
+        "url": "http://en.wikipedia.org/wiki/High_Court_of_Australia", 
+        "en": "High Court of Australia", 
+        "local": "High Court of Australia"
+      }
+    }, 
+    "country-name": "Australia", 
+    "official-languages": [
+      "None"
+    ]
+  }, 
+  "IL": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Israel", 
+        "en": "Supreme Court of Israel", 
+        "local": "\u05d1\u05d9\u05ea \u05d4\u05de\u05e9\u05e4\u05d8 \u05d4\u05e2\u05dc\u05d9\u05d5\u05df"
+      }
+    }, 
+    "country-name": "Israel", 
+    "official-languages": [
+      "Hebrew", 
+      "Arabic"
+    ]
+  }, 
+  "IN": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_India", 
+        "en": "Supreme Court of India", 
+        "local": "Supreme Court of India"
+      }
+    }, 
+    "country-name": "India", 
+    "official-languages": [
+      "Hindi", 
+      "English", 
+      "Hindi", 
+      "Devanagari", 
+      "official language", 
+      "English", 
+      "None"
+    ]
+  }, 
+  "LB": {
+    "courts": {
+      "courts.cassation": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Lebanon#Judicial_branch", 
+        "en": "Courts of Cassation"
+      }, 
+      "constitutional.council": {
+        "en": "Constitutional Council"
+      }
+    }, 
+    "country-name": "Lebanon", 
+    "official-languages": []
+  }, 
+  "AZ": {
+    "courts": {
+      "constitutional.court": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Azerbaijan#Judicial_branch", 
+        "en": "Constitutional Court of Azerbaijan", 
+        "local": "Milli M\u0259clis"
+      }, 
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Politics_of_Azerbaijan#Judicial_branch", 
+        "en": "Supreme Court of Azerbaijan", 
+        "local": "Milli M\u0259clis"
+      }
+    }, 
+    "country-name": "Azerbaijan", 
+    "official-languages": []
+  }, 
+  "IE": {
+    "courts": {
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Ireland", 
+        "en": "Supreme Court of Ireland", 
+        "local": "C\u00fairt Uachtarach na h\u00c9ireann"
+      }
+    }, 
+    "country-name": "Ireland", 
+    "official-languages": []
+  }, 
+  "NIR": {
+    "courts": {
+    }, 
+    "country-name": "Northern Ireland", 
+    "official-languages": []
+  }, 
+  "ID": {
+    "courts": {
+      "constitutional.court": {
+        "url": "http://en.wikipedia.org/wiki/Constitutional_Court_of_Indonesia", 
+        "en": "Constitutional Court of Indonesia", 
+        "local": "Mahkamah Konstitusi Republik Indonesia"
+      }, 
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Indonesia", 
+        "en": "Supreme Court of Indonesia", 
+        "local": "Mahkamah Agung Republik Indonesia"
+      }
+    }, 
+    "country-name": "Indonesia", 
+    "official-languages": []
+  }, 
+  "UA": {
+    "courts": {
+      "constitutional.court": {
+        "url": "http://en.wikipedia.org/wiki/Constitutional_Court_of_Ukraine", 
+        "en": "Constitutional Court", 
+        "local": "\u041a\u043e\u043d\u0441\u0442\u0438\u0442\u0443\u0446\u0456\u0439\u043d\u0438\u0439 \u0421\u0443\u0434 \u0423\u043a\u0440\u0430\u0457\u043d\u0438"
+      }, 
+      "supreme.court": {
+        "url": "http://en.wikipedia.org/wiki/Supreme_Court_of_Ukraine", 
+        "en": "Supreme Court of Ukraine", 
+        "local": "\u0412\u0435\u0440\u0445\u043e\u0432\u043d\u0438\u0439 \u0421\u0443\u0434 \u0423\u043a\u0440\u0430\u0457\u043d\u0438, Verkhovny Sud Ukrayiny"
+      }
+    }, 
+    "country-name": "Ukraine", 
+    "official-languages": []
+  }, 
+  "QA": {
+    "courts": {
+      "court.cassation": {
+        "en": "Court of Cassation of Qatar"
+      }
+    }, 
+    "country-name": "Qatar", 
+    "official-languages": []
+  }, 
+  "TV": {
+    "courts": {
+      "tuvalu.court.appeal": {
+        "en": "Tuvalu Court of Appeal"
+      }, 
+      "judicial.committee.privy.council": {
+        "url": "http://en.wikipedia.org/wiki/List_of_supreme_courts_by_country#International_supreme_courts", 
+        "en": "Judicial Committee of the Privy Council", 
+        "local": "supreme courts"
+      }
+    }, 
+    "country-name": "Tuvalu", 
+    "official-languages": [
+      "Tuvaluan"
+    ]
+  }
+}

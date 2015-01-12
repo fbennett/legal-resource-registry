@@ -1,0 +1,3 @@
+.. category:: 巴林右旗
+   :category-id: cn:neimenggu:chi.feng.shi:ba.lin.you.qi
+   :en: Balinyouqi

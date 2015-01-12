@@ -1,0 +1,3 @@
+.. category:: 龙门县
+   :category-id: cn:guangdong:hui.zhou.shi:long.men.xian
+   :en: Longmenxian

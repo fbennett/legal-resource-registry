@@ -1,0 +1,3 @@
+.. category:: Nguyên Bình
+   :category-id: vn:cao.bang:nguyen.binh
+   :en: Nguyen Binh

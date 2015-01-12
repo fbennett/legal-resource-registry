@@ -1,0 +1,3 @@
+.. category:: 道里区
+   :category-id: cn:heilongjiang:ha.er.bin.shi:dao.li.qu
+   :en: Daoliqu

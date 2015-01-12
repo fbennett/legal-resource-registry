@@ -1,0 +1,2 @@
+.. category:: S.D. California
+   :category-id: us:c9:ca.sd

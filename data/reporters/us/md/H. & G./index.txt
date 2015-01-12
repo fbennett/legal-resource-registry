@@ -1,0 +1,5 @@
+.. reporter:: Maryland Reports, Harris and Gill
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: H. & G.
+   :edition-abbreviation: H. & G.
+   :dates: 1826/01/01-1829/12/31

@@ -1,0 +1,2 @@
+.. category:: Saskatchewan
+   :category-id: ca:sk

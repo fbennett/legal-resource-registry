@@ -1,0 +1,3 @@
+.. category:: 开平市
+   :category-id: cn:guangdong:jiang.men.shi:kai.ping.shi
+   :en: Kaipingshi

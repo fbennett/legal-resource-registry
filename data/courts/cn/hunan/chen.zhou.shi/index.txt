@@ -1,0 +1,3 @@
+.. category:: 郴州市
+   :category-id: cn:hunan:chen.zhou.shi
+   :en: Chenzhou City

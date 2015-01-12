@@ -1,0 +1,3 @@
+.. category:: Long Mỹ
+   :category-id: vn:hau.giang:long.my
+   :en: Long My

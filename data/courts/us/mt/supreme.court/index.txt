@@ -1,0 +1,20 @@
+.. court:: Supreme Court
+   :court-id: us:mt;supreme.court
+   :url: http://courts.mt.gov/supreme/default.mcpx
+   :flp-key: mont
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: MT
+
+   .. reporter-key:: Mont.
+
+   .. reporter-key:: P.
+
+   .. reporter-key:: P.2d
+
+   .. reporter-key:: P.3d
+
+   .. reporter-key:: State Rptr.
+
+   .. reporter-key:: WL

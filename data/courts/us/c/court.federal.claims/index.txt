@@ -1,0 +1,6 @@
+.. court:: Court of Federal Claims
+   :court-id: us:c;court.federal.claims
+   :url: http://www.uscfc.uscourts.gov/
+   :flp-key: uscfc
+
+   .. reporter-key:: Fed. Cl.

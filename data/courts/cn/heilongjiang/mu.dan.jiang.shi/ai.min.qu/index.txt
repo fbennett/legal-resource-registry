@@ -1,0 +1,3 @@
+.. category:: 爱民区
+   :category-id: cn:heilongjiang:mu.dan.jiang.shi:ai.min.qu
+   :en: Aiminqu

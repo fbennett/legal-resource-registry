@@ -1,0 +1,3 @@
+.. category:: 河西区
+   :category-id: cn:tianjin:tian.jin.er:he.xi.qu
+   :en: Hexiqu

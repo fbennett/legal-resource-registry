@@ -1,0 +1,3 @@
+.. category:: 湘桥区
+   :category-id: cn:guangdong:chao.zhou.shi:xiang.qiao.qu
+   :en: Xiangqiaoqu

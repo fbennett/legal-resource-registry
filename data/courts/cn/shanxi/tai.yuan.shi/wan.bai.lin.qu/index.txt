@@ -1,0 +1,3 @@
+.. category:: 万柏林区
+   :category-id: cn:shanxi:tai.yuan.shi:wan.bai.lin.qu
+   :en: Wanbailinqu

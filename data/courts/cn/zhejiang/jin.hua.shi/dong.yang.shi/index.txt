@@ -1,0 +1,3 @@
+.. category:: 东阳市
+   :category-id: cn:zhejiang:jin.hua.shi:dong.yang.shi
+   :en: Dongyangshi

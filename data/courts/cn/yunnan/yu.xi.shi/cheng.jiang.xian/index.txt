@@ -1,0 +1,3 @@
+.. category:: 澄江县
+   :category-id: cn:yunnan:yu.xi.shi:cheng.jiang.xian
+   :en: Chengjiangxian

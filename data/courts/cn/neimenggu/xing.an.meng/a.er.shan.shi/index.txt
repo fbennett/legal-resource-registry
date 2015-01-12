@@ -1,0 +1,3 @@
+.. category:: 阿尔山市
+   :category-id: cn:neimenggu:xing.an.meng:a.er.shan.shi
+   :en: Aershanshi

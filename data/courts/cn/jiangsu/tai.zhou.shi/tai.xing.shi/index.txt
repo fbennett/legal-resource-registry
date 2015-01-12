@@ -1,0 +1,3 @@
+.. category:: 泰兴市
+   :category-id: cn:jiangsu:tai.zhou.shi:tai.xing.shi
+   :en: Taixingshi

@@ -1,0 +1,3 @@
+.. category:: Mỹ Tho
+   :category-id: vn:tien.giang:my.tho
+   :en: My Tho

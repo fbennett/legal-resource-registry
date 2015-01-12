@@ -1,0 +1,3 @@
+.. category:: Đức Thọ
+   :category-id: vn:ha.tinh:duc.tho
+   :en: Duc Tho

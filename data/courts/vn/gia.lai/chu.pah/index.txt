@@ -1,0 +1,3 @@
+.. category:: Chư Păh
+   :category-id: vn:gia.lai:chu.pah
+   :en: Chu Pah

@@ -1,0 +1,3 @@
+.. category:: 陇县
+   :category-id: cn:shanxi:bao.ji.shi:long.xian
+   :en: Longxian

@@ -1,0 +1,2 @@
+.. category:: Wisconsin
+   :category-id: us:wi

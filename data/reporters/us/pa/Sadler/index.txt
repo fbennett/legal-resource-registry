@@ -1,0 +1,15 @@
+.. reporter:: Pennsylvania State Reports, Sadler
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Sadler
+   :edition-abbreviation: Sadler
+   :dates: 1885/01/01-1888/12/31
+
+   .. variation:: Sadl.
+
+   .. variation:: Sad.Pa.Cas.
+
+   .. variation:: Pa.Cas.
+
+   .. variation:: Sadler(Pa.)
+
+   .. variation:: Sad.Pa.Cs.

@@ -1,0 +1,3 @@
+.. category:: 宣城市
+   :category-id: cn:anhui:xuan.cheng.shi
+   :en: Xuancheng City

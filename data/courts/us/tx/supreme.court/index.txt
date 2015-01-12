@@ -1,0 +1,34 @@
+.. court:: Supreme Court
+   :court-id: us:tx;supreme.court
+   :url: http://www.supreme.courts.state.tx.us/
+   :flp-key: tex
+
+   .. reporter-key:: Dallam
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: Robards
+
+   .. reporter-key:: S.W.
+
+   .. reporter-key:: S.W.2d
+
+   .. reporter-key:: S.W.3d
+
+   .. reporter-key:: Tex.
+
+   .. reporter-key:: Tex. Civ. App.
+
+   .. reporter-key:: Tex. Crim.
+
+   .. reporter-key:: Tex. Ct. App.
+
+   .. reporter-key:: Tex. L. Rev.
+
+   .. reporter-key:: Tex. Sup. Ct. J.
+
+   .. reporter-key:: WL
+
+   .. reporter-key:: White & W.
+
+   .. reporter-key:: Wilson

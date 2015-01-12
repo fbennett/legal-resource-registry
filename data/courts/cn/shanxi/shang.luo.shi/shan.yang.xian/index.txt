@@ -1,0 +1,3 @@
+.. category:: 山阳县
+   :category-id: cn:shanxi:shang.luo.shi:shan.yang.xian
+   :en: Shanyangxian

@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c3:nj.d;bankruptcy.court
+   :url: http://www.njb.uscourts.gov/
+   :flp-key: njb
+
+   .. reporter-key:: B.R.

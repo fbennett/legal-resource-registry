@@ -1,0 +1,8 @@
+.. court:: Court of Appeals
+   :court-id: us:nd;court.appeals
+   :url: http://www.ndcourts.gov/default.htm
+   :flp-key: ndctapp
+
+   .. reporter-key:: ND App
+
+

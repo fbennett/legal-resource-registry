@@ -1,0 +1,2 @@
+.. category:: Michigan
+   :category-id: us:mi

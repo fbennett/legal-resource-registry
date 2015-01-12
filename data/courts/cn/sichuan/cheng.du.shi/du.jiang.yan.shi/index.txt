@@ -1,0 +1,3 @@
+.. category:: 都江堰市
+   :category-id: cn:sichuan:cheng.du.shi:du.jiang.yan.shi
+   :en: Dujiangyanshi

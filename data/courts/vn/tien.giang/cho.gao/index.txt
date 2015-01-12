@@ -1,0 +1,3 @@
+.. category:: Chợ Gạo
+   :category-id: vn:tien.giang:cho.gao
+   :en: Cho Gao

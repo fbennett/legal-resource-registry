@@ -1,0 +1,3 @@
+.. category:: 丽水市
+   :category-id: cn:zhejiang:li.shui.shi
+   :en: Lishui City

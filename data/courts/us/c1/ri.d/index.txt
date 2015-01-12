@@ -1,0 +1,2 @@
+.. category:: D. Rhode Island
+   :category-id: us:c1:ri.d

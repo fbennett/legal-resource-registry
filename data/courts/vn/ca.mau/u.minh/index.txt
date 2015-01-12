@@ -1,0 +1,3 @@
+.. category:: U Minh
+   :category-id: vn:ca.mau:u.minh
+   :en: U Minh

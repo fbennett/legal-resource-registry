@@ -1,0 +1,3 @@
+.. category:: Điện Biên
+   :category-id: vn:dien.bien
+   :en: Dien Bien

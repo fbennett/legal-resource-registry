@@ -1,0 +1,3 @@
+.. category:: 恩施州
+   :category-id: cn:hubei:en.shi.zhou
+   :en: Enshizhou

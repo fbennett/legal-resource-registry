@@ -1,0 +1,3 @@
+.. category:: 乌兰浩特市
+   :category-id: cn:neimenggu:xing.an.meng:wu.lan.hao.te.shi
+   :en: Wulanhaoteshi

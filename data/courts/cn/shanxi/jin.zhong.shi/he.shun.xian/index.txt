@@ -1,0 +1,3 @@
+.. category:: 和顺县
+   :category-id: cn:shanxi:jin.zhong.shi:he.shun.xian
+   :en: Heshunxian

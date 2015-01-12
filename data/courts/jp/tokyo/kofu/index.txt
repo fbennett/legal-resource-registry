@@ -1,0 +1,3 @@
+.. category:: 甲府
+   :category-id: jp:tokyo:kofu
+   :en: Kofu

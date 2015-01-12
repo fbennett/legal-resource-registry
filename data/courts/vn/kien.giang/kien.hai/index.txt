@@ -1,0 +1,3 @@
+.. category:: Kiên Hải
+   :category-id: vn:kien.giang:kien.hai
+   :en: Kien Hai

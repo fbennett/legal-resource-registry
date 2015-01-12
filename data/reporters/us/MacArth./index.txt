@@ -1,0 +1,11 @@
+.. reporter:: District of Columbia Reports, MacArthur
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: MacArth.
+   :edition-abbreviation: MacArth.
+   :dates: 1873/01/01-1879/12/31
+
+   .. variation:: D.C.(MacArth.)
+
+   .. variation:: MacArthur
+
+   .. variation:: MacAr.

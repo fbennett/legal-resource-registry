@@ -1,0 +1,11 @@
+.. reporter:: Vermont Reports, Chipman, N.
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: N. Chip.
+   :edition-abbreviation: N. Chip.
+   :dates: 1789/01/01-1791/12/31
+
+   .. variation:: N.Chip.(Vt.)
+
+   .. variation:: N.Chipm.
+
+   .. variation:: Chip.N.

@@ -1,0 +1,3 @@
+.. category:: 杜尔伯特
+   :category-id: cn:heilongjiang:da.qing.shi:du.er.bo.te
+   :en: Duerbote

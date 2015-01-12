@@ -1,0 +1,4 @@
+.. court:: Court of Appeal
+   :court-id: ca:bc;court.appeal
+   :en: Court of Appeal
+   :url: http://www.manitobacourts.mb.ca/ca/court_appeal.html

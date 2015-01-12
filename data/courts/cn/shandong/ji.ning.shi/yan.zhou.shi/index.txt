@@ -1,0 +1,3 @@
+.. category:: 兖州市
+   :category-id: cn:shandong:ji.ning.shi:yan.zhou.shi
+   :en: Yanzhoushi

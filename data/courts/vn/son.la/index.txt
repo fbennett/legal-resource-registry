@@ -1,0 +1,3 @@
+.. category:: Sơn La
+   :category-id: vn:son.la
+   :en: Son La

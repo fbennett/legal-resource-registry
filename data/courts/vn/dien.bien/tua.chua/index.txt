@@ -1,0 +1,3 @@
+.. category:: Tủa Chùa
+   :category-id: vn:dien.bien:tua.chua
+   :en: Tua Chua

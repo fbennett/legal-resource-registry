@@ -1,0 +1,3 @@
+.. category:: Bình Minh
+   :category-id: vn:vinh.long:binh.minh
+   :en: Binh Minh

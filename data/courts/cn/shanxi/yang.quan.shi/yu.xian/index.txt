@@ -1,0 +1,3 @@
+.. category:: 盂县
+   :category-id: cn:shanxi:yang.quan.shi:yu.xian
+   :en: Yuxian

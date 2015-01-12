@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c11:al.md;bankruptcy.court
+   :url: http://www.almb.uscourts.gov/
+   :flp-key: almb
+
+   .. reporter-key:: B.R.

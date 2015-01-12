@@ -1,0 +1,3 @@
+.. category:: 大通区
+   :category-id: cn:anhui:huai.nan.shi:da.tong.qu
+   :en: Datongqu

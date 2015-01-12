@@ -1,0 +1,3 @@
+.. category:: 灵丘县
+   :category-id: cn:shanxi:da.tong.shi:ling.qiu.xian
+   :en: Lingqiuxian

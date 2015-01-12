@@ -1,0 +1,3 @@
+.. category:: 九江市
+   :category-id: cn:jiangxi:jiu.jiang.shi
+   :en: Jiujiang City

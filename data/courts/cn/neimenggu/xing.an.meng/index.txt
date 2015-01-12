@@ -1,0 +1,3 @@
+.. category:: 兴安盟
+   :category-id: cn:neimenggu:xing.an.meng
+   :en: Xinganmeng

@@ -1,0 +1,3 @@
+.. category:: 绵竹市
+   :category-id: cn:sichuan:de.yang.shi:mian.zhu.shi
+   :en: Mianzhushi

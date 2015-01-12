@@ -1,0 +1,3 @@
+.. category:: 方山县
+   :category-id: cn:shanxi:lv.liang.shi:fang.shan.xian
+   :en: Fangshanxian

@@ -1,0 +1,9 @@
+.. reporter:: Atlantic Reporter
+   :flp-series-cite-type: state_regional
+   :flp-common-abbreviation: A.
+   :edition-abbreviation: A.2d
+   :dates: 1938/01/01-2010/12/31
+
+   .. variation:: Atl.2d
+
+   .. variation:: A. 2d

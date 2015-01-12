@@ -1,0 +1,3 @@
+.. category:: Dầu Tiếng
+   :category-id: vn:binh.duong:dau.tieng
+   :en: Dau Tieng

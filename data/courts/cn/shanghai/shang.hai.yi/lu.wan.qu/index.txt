@@ -1,0 +1,3 @@
+.. category:: 卢湾区
+   :category-id: cn:shanghai:shang.hai.yi:lu.wan.qu
+   :en: Luwanqu

@@ -1,0 +1,3 @@
+.. category:: 信州区
+   :category-id: cn:jiangxi:shang.rao.shi:xin.zhou.qu
+   :en: Xinzhouqu

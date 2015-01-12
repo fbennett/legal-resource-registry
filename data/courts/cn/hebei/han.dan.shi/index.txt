@@ -1,0 +1,3 @@
+.. category:: 邯郸市
+   :category-id: cn:hebei:han.dan.shi
+   :en: Handan City

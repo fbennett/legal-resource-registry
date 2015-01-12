@@ -1,0 +1,3 @@
+.. category:: 宜城市
+   :category-id: cn:hubei:xiang.yang.shi:yi.cheng.shi
+   :en: Yichengshi

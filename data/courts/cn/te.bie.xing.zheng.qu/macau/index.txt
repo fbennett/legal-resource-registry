@@ -1,0 +1,4 @@
+.. category:: 澳门
+   :category-id: cn:te.bie.xing.zheng.qu:macau
+   :en: Macau
+

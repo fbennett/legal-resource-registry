@@ -1,0 +1,3 @@
+.. category:: Ninh Phước
+   :category-id: vn:ninh.thuan:ninh.phuoc
+   :en: Ninh Phuoc

@@ -1,0 +1,3 @@
+.. category:: Hương Trà
+   :category-id: vn:thua.thien.hue:huong.tra
+   :en: Huong Tra

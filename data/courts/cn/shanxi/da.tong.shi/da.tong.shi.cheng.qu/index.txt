@@ -1,0 +1,3 @@
+.. category:: 大同市城区
+   :category-id: cn:shanxi:da.tong.shi:da.tong.shi.cheng.qu
+   :en: Datongshichengqu

@@ -1,0 +1,3 @@
+.. category:: 七台河市
+   :category-id: cn:heilongjiang:qi.tai.he.shi
+   :en: Qitaihe City

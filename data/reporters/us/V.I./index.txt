@@ -1,0 +1,5 @@
+.. reporter:: Virgin Islands Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: V.I.
+   :edition-abbreviation: V.I.
+   :dates: 1917/01/01-present

@@ -1,0 +1,3 @@
+.. category:: 狮子山区
+   :category-id: cn:anhui:tong.ling.shi:shi.zi.shan.qu
+   :en: Shizishanqu

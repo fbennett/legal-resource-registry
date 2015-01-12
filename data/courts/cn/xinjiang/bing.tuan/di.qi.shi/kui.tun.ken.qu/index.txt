@@ -1,0 +1,3 @@
+.. category:: 奎屯垦区
+   :category-id: cn:xinjiang:bing.tuan:di.qi.shi:kui.tun.ken.qu
+   :en: Kuitunkenqu

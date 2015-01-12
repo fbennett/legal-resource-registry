@@ -1,0 +1,3 @@
+.. category:: Giang Thành
+   :category-id: vn:kien.giang:giang.thanh
+   :en: Giang Thanh

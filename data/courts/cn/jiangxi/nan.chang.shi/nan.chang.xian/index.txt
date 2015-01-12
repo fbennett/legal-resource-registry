@@ -1,0 +1,3 @@
+.. category:: 南昌县
+   :category-id: cn:jiangxi:nan.chang.shi:nan.chang.xian
+   :en: Nanchangxian

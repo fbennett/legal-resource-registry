@@ -1,0 +1,3 @@
+.. category:: 汉阴县
+   :category-id: cn:shanxi:an.kang.shi:han.yin.xian
+   :en: Hanyinxian

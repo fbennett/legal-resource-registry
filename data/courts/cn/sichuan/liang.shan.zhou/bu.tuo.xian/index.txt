@@ -1,0 +1,3 @@
+.. category:: 布拖县
+   :category-id: cn:sichuan:liang.shan.zhou:bu.tuo.xian
+   :en: Butuoxian

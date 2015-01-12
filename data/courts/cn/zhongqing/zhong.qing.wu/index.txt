@@ -1,0 +1,3 @@
+.. category:: 重庆五
+   :category-id: cn:zhongqing:zhong.qing.wu
+   :en: Zhongqingwu

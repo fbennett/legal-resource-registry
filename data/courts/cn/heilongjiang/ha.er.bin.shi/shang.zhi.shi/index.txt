@@ -1,0 +1,3 @@
+.. category:: 尚志市
+   :category-id: cn:heilongjiang:ha.er.bin.shi:shang.zhi.shi
+   :en: Shangzhishi

@@ -1,0 +1,3 @@
+.. category:: Krông Buk
+   :category-id: vn:dak.lak:krong.buk
+   :en: Krong Buk

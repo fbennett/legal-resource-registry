@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c5:la.wd;bankruptcy.court
+   :url: http://www.lawb.uscourts.gov/
+   :flp-key: lawb
+
+   .. reporter-key:: B.R.

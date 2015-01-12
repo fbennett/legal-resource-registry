@@ -1,0 +1,3 @@
+.. category:: 湖南
+   :category-id: cn:hunan
+   :en: Hunan

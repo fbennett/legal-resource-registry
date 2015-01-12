@@ -1,0 +1,22 @@
+.. court:: Supreme Court
+   :court-id: us:ok;supreme.court
+   :url: http://www.oscn.net/oscn/schome/start.htm
+   :flp-key: okla
+
+   .. reporter-key:: Indian Terr.
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: OK
+
+   .. reporter-key:: Okla.
+
+   .. reporter-key:: Okla. Crim.
+
+   .. reporter-key:: P.
+
+   .. reporter-key:: P.2d
+
+   .. reporter-key:: P.3d
+
+   .. reporter-key:: WL

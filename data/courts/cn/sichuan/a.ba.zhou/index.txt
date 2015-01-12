@@ -1,0 +1,3 @@
+.. category:: 阿坝州
+   :category-id: cn:sichuan:a.ba.zhou
+   :en: Abazhou

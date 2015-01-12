@@ -1,0 +1,3 @@
+.. category:: 上高县
+   :category-id: cn:jiangxi:yi.chun.shi:shang.gao.xian
+   :en: Shanggaoxian

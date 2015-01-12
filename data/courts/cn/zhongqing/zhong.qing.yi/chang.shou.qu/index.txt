@@ -1,0 +1,3 @@
+.. category:: 长寿区
+   :category-id: cn:zhongqing:zhong.qing.yi:chang.shou.qu
+   :en: Changshouqu

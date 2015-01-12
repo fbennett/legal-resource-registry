@@ -1,0 +1,3 @@
+.. category:: 禹城市
+   :category-id: cn:shandong:de.zhou.di.qu:yu.cheng.shi
+   :en: Yuchengshi

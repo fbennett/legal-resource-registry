@@ -1,0 +1,3 @@
+.. category:: 安庆市
+   :category-id: cn:anhui:an.qing.shi
+   :en: Anqing City

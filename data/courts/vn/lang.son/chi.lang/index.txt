@@ -1,0 +1,3 @@
+.. category:: Chi Lăng
+   :category-id: vn:lang.son:chi.lang
+   :en: Chi Lang

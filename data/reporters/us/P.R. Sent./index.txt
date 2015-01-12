@@ -1,0 +1,5 @@
+.. reporter:: Sentencias del Tribunal Supremo de Puerto Rico
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: P.R. Sent.
+   :edition-abbreviation: P.R. Sent.
+   :dates: 1899/01/01-1902/12/31

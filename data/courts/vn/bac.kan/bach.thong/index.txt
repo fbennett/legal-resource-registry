@@ -1,0 +1,3 @@
+.. category:: Bạch Thông
+   :category-id: vn:bac.kan:bach.thong
+   :en: Bach Thong

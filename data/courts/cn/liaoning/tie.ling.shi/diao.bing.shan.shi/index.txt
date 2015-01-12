@@ -1,0 +1,3 @@
+.. category:: 调兵山市
+   :category-id: cn:liaoning:tie.ling.shi:diao.bing.shan.shi
+   :en: Diaobingshanshi

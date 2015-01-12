@@ -1,0 +1,3 @@
+.. category:: 安新县
+   :category-id: cn:hebei:bao.ding.shi:an.xin.xian
+   :en: Anxinxian

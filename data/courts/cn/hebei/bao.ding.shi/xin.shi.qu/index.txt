@@ -1,0 +1,3 @@
+.. category:: 新市区
+   :category-id: cn:hebei:bao.ding.shi:xin.shi.qu
+   :en: Xinshiqu

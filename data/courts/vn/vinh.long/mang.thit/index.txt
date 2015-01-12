@@ -1,0 +1,3 @@
+.. category:: Mang Thít
+   :category-id: vn:vinh.long:mang.thit
+   :en: Mang Thit

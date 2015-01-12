@@ -1,0 +1,3 @@
+.. category:: 伊川县
+   :category-id: cn:henan:luo.yang.shi:yi.chuan.xian
+   :en: Yichuanxian

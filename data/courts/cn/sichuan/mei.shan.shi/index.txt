@@ -1,0 +1,3 @@
+.. category:: 眉山市
+   :category-id: cn:sichuan:mei.shan.shi
+   :en: Meishan City

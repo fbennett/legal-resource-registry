@@ -1,0 +1,3 @@
+.. category:: 梅河口市
+   :category-id: cn:jilin:tong.hua.shi:mei.he.kou.shi
+   :en: Meihekoushi

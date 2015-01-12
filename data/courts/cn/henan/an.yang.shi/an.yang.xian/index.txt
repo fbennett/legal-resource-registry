@@ -1,0 +1,3 @@
+.. category:: 安阳县
+   :category-id: cn:henan:an.yang.shi:an.yang.xian
+   :en: Anyangxian

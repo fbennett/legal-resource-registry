@@ -1,0 +1,3 @@
+.. category:: 五指山市
+   :category-id: cn:hainan:hai.nan.yi:wu.zhi.shan.shi
+   :en: Wuzhishanshi

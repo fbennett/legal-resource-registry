@@ -1,0 +1,3 @@
+.. category:: Thừa Thiên–Huế
+   :category-id: vn:thua.thien.hue
+   :en: Thua Thien-Hue

@@ -1,0 +1,3 @@
+.. category:: 江达县
+   :category-id: cn:xicang:chang.du:jiang.da.xian
+   :en: Jiangdaxian

@@ -1,0 +1,3 @@
+.. category:: 浦东新区
+   :category-id: cn:shanghai:shang.hai.yi:pu.dong.xin.qu
+   :en: Pudongxinqu

@@ -1,0 +1,3 @@
+.. category:: 雨城区
+   :category-id: cn:sichuan:ya.an.shi:yu.cheng.qu
+   :en: Yuchengqu

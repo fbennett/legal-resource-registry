@@ -1,0 +1,3 @@
+.. category:: 旅顺口区
+   :category-id: cn:liaoning:da.lian.shi:lv.shun.kou.qu
+   :en: Lvshunkouqu

@@ -1,0 +1,3 @@
+.. category:: Hồng Lĩnh
+   :category-id: vn:ha.tinh:hong.linh
+   :en: Hong Linh

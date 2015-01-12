@@ -1,0 +1,3 @@
+.. category:: Đắk R'Lấp
+   :category-id: vn:dak.nong:dak.r'lap
+   :en: Dak R'Lap

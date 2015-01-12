@@ -1,0 +1,3 @@
+.. category:: 泉港区
+   :category-id: cn:fujian:quan.zhou.shi:quan.gang.qu
+   :en: Quangangqu

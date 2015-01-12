@@ -1,0 +1,3 @@
+.. category:: 宽甸县
+   :category-id: cn:liaoning:dan.dong.shi:kuan.dian.xian
+   :en: Kuandianxian

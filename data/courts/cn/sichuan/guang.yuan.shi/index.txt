@@ -1,0 +1,3 @@
+.. category:: 广元市
+   :category-id: cn:sichuan:guang.yuan.shi
+   :en: Guangyuan City

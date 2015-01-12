@@ -1,0 +1,3 @@
+.. category:: 陇南市
+   :category-id: cn:gansu:long.nan.shi
+   :en: Longnan City

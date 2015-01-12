@@ -1,0 +1,3 @@
+.. category:: 龙湖区
+   :category-id: cn:guangdong:shan.tou.shi:long.hu.qu
+   :en: Longhuqu

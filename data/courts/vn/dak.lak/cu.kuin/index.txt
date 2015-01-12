@@ -1,0 +1,3 @@
+.. category:: Cư Kuin
+   :category-id: vn:dak.lak:cu.kuin
+   :en: Cu Kuin

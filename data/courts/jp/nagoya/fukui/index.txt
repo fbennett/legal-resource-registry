@@ -1,0 +1,3 @@
+.. category:: 福井
+   :category-id: jp:nagoya:fukui
+   :en: Fukui

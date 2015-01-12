@@ -1,0 +1,3 @@
+.. category:: 南郊区
+   :category-id: cn:shanxi:da.tong.shi:nan.jiao.qu
+   :en: Nanjiaoqu

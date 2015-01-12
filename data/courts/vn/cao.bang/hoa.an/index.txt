@@ -1,0 +1,3 @@
+.. category:: Hòa An
+   :category-id: vn:cao.bang:hoa.an
+   :en: Hoa An

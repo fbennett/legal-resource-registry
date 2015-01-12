@@ -1,0 +1,7 @@
+.. reporter:: New York Chancery Reports Annotated
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: N.Y. Ch. Ann.
+   :edition-abbreviation: N.Y. Ch. Ann.
+   :dates: 1814/01/01-1847/12/31
+
+   .. variation:: N.Y.Ch.R.Ann.

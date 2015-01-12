@@ -1,0 +1,3 @@
+.. category:: 河间市
+   :category-id: cn:hebei:cang.zhou.shi:he.jian.shi
+   :en: Hejianshi

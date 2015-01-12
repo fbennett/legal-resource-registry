@@ -1,0 +1,3 @@
+.. category:: Cư M'gar
+   :category-id: vn:dak.lak:cu.m'gar
+   :en: Cu M'gar

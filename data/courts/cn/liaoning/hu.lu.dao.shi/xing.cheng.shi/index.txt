@@ -1,0 +1,3 @@
+.. category:: 兴城市
+   :category-id: cn:liaoning:hu.lu.dao.shi:xing.cheng.shi
+   :en: Xingchengshi

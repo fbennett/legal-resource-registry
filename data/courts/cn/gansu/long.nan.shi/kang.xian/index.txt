@@ -1,0 +1,3 @@
+.. category:: 康县
+   :category-id: cn:gansu:long.nan.shi:kang.xian
+   :en: Kangxian

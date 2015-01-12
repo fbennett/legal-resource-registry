@@ -1,0 +1,3 @@
+.. category:: 榆林市
+   :category-id: cn:shanxi:yu.lin.shi
+   :en: Yulin City

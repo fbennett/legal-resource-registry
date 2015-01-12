@@ -1,0 +1,3 @@
+.. category:: 涵江区
+   :category-id: cn:fujian:fu.tian.shi:han.jiang.qu
+   :en: Hanjiangqu

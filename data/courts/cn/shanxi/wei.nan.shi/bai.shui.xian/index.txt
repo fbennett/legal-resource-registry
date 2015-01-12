@@ -1,0 +1,3 @@
+.. category:: 白水县
+   :category-id: cn:shanxi:wei.nan.shi:bai.shui.xian
+   :en: Baishuixian

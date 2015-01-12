@@ -1,0 +1,3 @@
+.. category:: 安居区
+   :category-id: cn:sichuan:sui.ning.shi:an.ju.qu
+   :en: Anjuqu

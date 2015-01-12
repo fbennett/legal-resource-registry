@@ -1,0 +1,3 @@
+.. category:: 余庆县
+   :category-id: cn:guizhou:zun.yi.shi:yu.qing.xian
+   :en: Yuqingxian

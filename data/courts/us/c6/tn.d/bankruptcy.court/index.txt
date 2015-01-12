@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c6:tn.d;bankruptcy.court
+   :url: http://www.uscourts.gov/
+   :flp-key: tennesseeb
+
+   .. reporter-key:: B.R.

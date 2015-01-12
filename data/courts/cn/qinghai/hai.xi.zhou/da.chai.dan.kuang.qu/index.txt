@@ -1,0 +1,3 @@
+.. category:: 大柴旦矿区
+   :category-id: cn:qinghai:hai.xi.zhou:da.chai.dan.kuang.qu
+   :en: Dachaidankuangqu

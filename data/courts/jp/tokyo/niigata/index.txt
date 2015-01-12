@@ -1,0 +1,3 @@
+.. category:: 新潟
+   :category-id: jp:tokyo:niigata
+   :en: Niigata

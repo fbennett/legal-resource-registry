@@ -1,0 +1,3 @@
+.. category:: 南岗区
+   :category-id: cn:heilongjiang:ha.er.bin.shi:nan.gang.qu
+   :en: Nangangqu

@@ -1,0 +1,3 @@
+.. category:: Phú Quý
+   :category-id: vn:binh.thuan:phu.quy
+   :en: Phu Quy

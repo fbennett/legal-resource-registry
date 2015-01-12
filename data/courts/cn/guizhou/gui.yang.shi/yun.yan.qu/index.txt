@@ -1,0 +1,3 @@
+.. category:: 云岩区
+   :category-id: cn:guizhou:gui.yang.shi:yun.yan.qu
+   :en: Yunyanqu

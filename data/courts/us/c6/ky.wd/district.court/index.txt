@@ -1,0 +1,16 @@
+.. court:: District Court
+   :court-id: us:c6:ky.wd;district.court
+   :url: http://www.kywd.uscourts.gov/
+   :flp-key: kywd
+
+   .. reporter-key:: F. Supp.
+
+   .. reporter-key:: F. Supp. 2d
+
+   .. reporter-key:: F.R.D.
+
+   .. reporter-key:: Fed. R. Serv.
+
+   .. reporter-key:: Fed. R. Serv. 2d
+
+   .. reporter-key:: Fed. R. Serv. 3d

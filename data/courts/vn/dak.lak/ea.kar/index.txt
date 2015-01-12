@@ -1,0 +1,3 @@
+.. category:: Ea Kar
+   :category-id: vn:dak.lak:ea.kar
+   :en: Ea Kar

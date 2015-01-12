@@ -1,0 +1,3 @@
+.. category:: 西盟县
+   :category-id: cn:yunnan:pu.er.shi:xi.meng.xian
+   :en: Ximengxian

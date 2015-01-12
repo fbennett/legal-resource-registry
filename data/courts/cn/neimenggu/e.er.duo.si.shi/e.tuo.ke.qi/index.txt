@@ -1,0 +1,3 @@
+.. category:: 鄂托克旗
+   :category-id: cn:neimenggu:e.er.duo.si.shi:e.tuo.ke.qi
+   :en: Etuokeqi

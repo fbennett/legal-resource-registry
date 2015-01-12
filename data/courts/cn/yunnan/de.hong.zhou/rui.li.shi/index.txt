@@ -1,0 +1,3 @@
+.. category:: 瑞丽市
+   :category-id: cn:yunnan:de.hong.zhou:rui.li.shi
+   :en: Ruilishi

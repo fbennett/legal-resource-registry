@@ -1,0 +1,28 @@
+.. court:: Supreme Court
+   :court-id: us:vt;supreme.court
+   :url: http://www.vermontjudiciary.org/gtc/supreme/default.aspx
+   :flp-key: vt
+
+   .. reporter-key:: A.
+
+   .. reporter-key:: A.2d
+
+   .. reporter-key:: A.3d
+
+   .. reporter-key:: Aik.
+
+   .. reporter-key:: Brayt.
+
+   .. reporter-key:: D. Chip.
+
+   .. reporter-key:: LEXIS
+
+   .. reporter-key:: N. Chip.
+
+   .. reporter-key:: Tyl.
+
+   .. reporter-key:: VT
+
+   .. reporter-key:: Vt.
+
+   .. reporter-key:: WL

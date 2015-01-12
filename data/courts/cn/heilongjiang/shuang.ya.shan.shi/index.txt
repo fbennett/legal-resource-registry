@@ -1,0 +1,3 @@
+.. category:: 双鸭山市
+   :category-id: cn:heilongjiang:shuang.ya.shan.shi
+   :en: Shuangyashan City

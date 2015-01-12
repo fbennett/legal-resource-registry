@@ -1,0 +1,3 @@
+.. category:: 北海海事
+   :category-id: cn:guangxi:nan.ning.tie.lu:bei.hai.hai.shi
+   :en: Beihaihaishi

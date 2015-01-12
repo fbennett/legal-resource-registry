@@ -1,0 +1,3 @@
+.. category:: 武汉青山
+   :category-id: cn:hubei:wu.han.shi:wu.han.qing.shan
+   :en: Wuhanqingshan

@@ -1,0 +1,5 @@
+.. reporter:: Decisions of the United States Court of Military Appeals
+   :flp-series-cite-type: specialty
+   :flp-common-abbreviation: C.M.A.
+   :edition-abbreviation: C.M.A.
+   :dates: 1951/01/01-1975/12/31

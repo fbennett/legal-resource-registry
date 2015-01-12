@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c8:ia.sd;bankruptcy.court
+   :url: http://www.iasb.uscourts.gov/
+   :flp-key: iasb
+
+   .. reporter-key:: B.R.

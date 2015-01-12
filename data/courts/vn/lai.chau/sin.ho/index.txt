@@ -1,0 +1,3 @@
+.. category:: Sìn Hồ
+   :category-id: vn:lai.chau:sin.ho
+   :en: Sin Ho

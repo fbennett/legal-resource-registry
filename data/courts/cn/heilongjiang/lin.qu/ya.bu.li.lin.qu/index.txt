@@ -1,0 +1,3 @@
+.. category:: 亚布力林区
+   :category-id: cn:heilongjiang:lin.qu:ya.bu.li.lin.qu
+   :en: Yabulilinqu

@@ -1,0 +1,5 @@
+.. reporter:: Kentucky Law Summary
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Ky. L. Summ.
+   :edition-abbreviation: Ky. L. Summ.
+   :dates: 1966/01/01-present

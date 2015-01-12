@@ -1,0 +1,2 @@
+.. category:: Vermont
+   :category-id: us:vt

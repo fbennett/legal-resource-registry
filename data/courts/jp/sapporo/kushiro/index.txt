@@ -1,0 +1,3 @@
+.. category:: 釧路
+   :category-id: jp:sapporo:kushiro
+   :en: Kushiro

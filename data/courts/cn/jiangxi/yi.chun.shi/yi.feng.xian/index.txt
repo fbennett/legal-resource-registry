@@ -1,0 +1,3 @@
+.. category:: 宜丰县
+   :category-id: cn:jiangxi:yi.chun.shi:yi.feng.xian
+   :en: Yifengxian

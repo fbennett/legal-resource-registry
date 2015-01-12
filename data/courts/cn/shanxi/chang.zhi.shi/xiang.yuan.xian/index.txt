@@ -1,0 +1,3 @@
+.. category:: 襄垣县
+   :category-id: cn:shanxi:chang.zhi.shi:xiang.yuan.xian
+   :en: Xiangyuanxian

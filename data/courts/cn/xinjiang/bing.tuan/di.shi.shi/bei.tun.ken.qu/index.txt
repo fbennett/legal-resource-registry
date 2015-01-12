@@ -1,0 +1,3 @@
+.. category:: 北屯垦区
+   :category-id: cn:xinjiang:bing.tuan:di.shi.shi:bei.tun.ken.qu
+   :en: Beitunkenqu

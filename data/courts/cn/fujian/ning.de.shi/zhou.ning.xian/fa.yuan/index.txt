@@ -1,0 +1,3 @@
+.. court:: 法院
+   :court-id: cn:fujian:ning.de.shi:zhou.ning.xian;fa.yuan
+   :en: District Court

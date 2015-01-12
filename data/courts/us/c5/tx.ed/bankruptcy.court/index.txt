@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c5:tx.ed;bankruptcy.court
+   :url: http://www.txeb.uscourts.gov/
+   :flp-key: txeb
+
+   .. reporter-key:: B.R.

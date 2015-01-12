@@ -1,0 +1,3 @@
+.. category:: 杭锦后旗
+   :category-id: cn:neimenggu:ba.yan.nao.er.shi:hang.jin.hou.qi
+   :en: Hangjinhouqi

@@ -1,0 +1,3 @@
+.. category:: 凉州区
+   :category-id: cn:gansu:wu.wei:liang.zhou.qu
+   :en: Liangzhouqu

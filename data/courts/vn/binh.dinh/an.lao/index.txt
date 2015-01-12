@@ -1,0 +1,3 @@
+.. category:: An Lão
+   :category-id: vn:binh.dinh:an.lao
+   :en: An Lao

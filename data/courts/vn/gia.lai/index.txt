@@ -1,0 +1,3 @@
+.. category:: Gia Lai
+   :category-id: vn:gia.lai
+   :en: Gia Lai

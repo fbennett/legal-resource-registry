@@ -1,0 +1,9 @@
+.. reporter:: New York Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: N.Y.
+   :edition-abbreviation: N.Y.3d
+   :dates: 2004/01/01-present
+
+   .. variation:: NY 3d
+
+   .. variation:: N.Y. 3d

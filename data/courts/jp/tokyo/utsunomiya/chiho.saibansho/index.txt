@@ -1,0 +1,8 @@
+.. court:: 地方裁判所
+   :court-id: jp:tokyo:utsunomiya;chiho.saibansho
+   :en: District Court
+   :url: http://www.courts.go.jp/utsunomiya
+
+   .. reporter-key:: 下刑集
+
+   .. reporter-key:: 下民集

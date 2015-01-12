@@ -1,0 +1,3 @@
+.. category:: Bình Thuận
+   :category-id: vn:binh.thuan
+   :en: Binh Thuan

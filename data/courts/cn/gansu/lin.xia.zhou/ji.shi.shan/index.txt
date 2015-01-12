@@ -1,0 +1,3 @@
+.. category:: 积石山
+   :category-id: cn:gansu:lin.xia.zhou:ji.shi.shan
+   :en: Jishishan

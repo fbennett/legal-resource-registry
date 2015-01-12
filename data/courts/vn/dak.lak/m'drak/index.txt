@@ -1,0 +1,3 @@
+.. category:: M'Đrăk
+   :category-id: vn:dak.lak:m'drak
+   :en: M'Drak

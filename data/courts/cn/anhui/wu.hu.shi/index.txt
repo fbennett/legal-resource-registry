@@ -1,0 +1,3 @@
+.. category:: 芜湖市
+   :category-id: cn:anhui:wu.hu.shi
+   :en: Wuhu City

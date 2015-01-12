@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c2:ny.ed;bankruptcy.court
+   :url: http://www.nyeb.uscourts.gov/
+   :flp-key: nyeb
+
+   .. reporter-key:: B.R.

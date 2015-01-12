@@ -1,0 +1,3 @@
+.. category:: Bá Thước
+   :category-id: vn:thanh.hoa:ba.thuoc
+   :en: Ba Thuoc

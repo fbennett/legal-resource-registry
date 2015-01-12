@@ -1,0 +1,3 @@
+.. category:: 随县
+   :category-id: cn:hubei:sui.zhou.shi:sui.xian
+   :en: Suixian

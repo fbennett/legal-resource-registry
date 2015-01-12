@@ -1,0 +1,3 @@
+.. category:: 蕉城区
+   :category-id: cn:fujian:ning.de.shi:jiao.cheng.qu
+   :en: Jiaochengqu

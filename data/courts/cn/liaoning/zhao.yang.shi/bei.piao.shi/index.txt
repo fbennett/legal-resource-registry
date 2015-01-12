@@ -1,0 +1,3 @@
+.. category:: 北票市
+   :category-id: cn:liaoning:zhao.yang.shi:bei.piao.shi
+   :en: Beipiaoshi

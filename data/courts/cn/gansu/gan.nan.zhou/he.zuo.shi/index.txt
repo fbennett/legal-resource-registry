@@ -1,0 +1,3 @@
+.. category:: 合作市
+   :category-id: cn:gansu:gan.nan.zhou:he.zuo.shi
+   :en: Hezuoshi

@@ -1,0 +1,9 @@
+.. reporter:: West's Illinois Decisions
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Ill. Dec.
+   :edition-abbreviation: Ill. Dec.
+   :dates: 1976/01/01-present
+
+   .. variation:: Ill.Dec.
+
+   .. variation:: Ill.Decs.

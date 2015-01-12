@@ -1,0 +1,3 @@
+.. category:: 资源县
+   :category-id: cn:guangxi:gui.lin.shi:zi.yuan.xian
+   :en: Ziyuanxian

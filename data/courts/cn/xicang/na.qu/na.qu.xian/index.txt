@@ -1,0 +1,3 @@
+.. category:: 那曲县
+   :category-id: cn:xicang:na.qu:na.qu.xian
+   :en: Naquxian

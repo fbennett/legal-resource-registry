@@ -1,0 +1,3 @@
+.. category:: Cao Phong
+   :category-id: vn:hoa.binh:cao.phong
+   :en: Cao Phong

@@ -1,0 +1,3 @@
+.. category:: 西宁市
+   :category-id: cn:qinghai:xi.ning.shi
+   :en: Xining City

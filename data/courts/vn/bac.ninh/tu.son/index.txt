@@ -1,0 +1,3 @@
+.. category:: Từ Sơn
+   :category-id: vn:bac.ninh:tu.son
+   :en: Tu Son

@@ -1,0 +1,3 @@
+.. category:: 临猗县
+   :category-id: cn:shanxi:yun.cheng.shi:lin.yi.xian
+   :en: Linyixian

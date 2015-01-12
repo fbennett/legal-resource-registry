@@ -1,0 +1,3 @@
+.. category:: Nho Quan
+   :category-id: vn:ninh.binh:nho.quan
+   :en: Nho Quan

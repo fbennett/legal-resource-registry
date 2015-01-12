@@ -1,0 +1,3 @@
+.. court:: 法院
+   :court-id: cn:neimenggu:xing.an.meng:ke.er.qin.you.yi.qian.qi;fa.yuan
+   :en: District Court

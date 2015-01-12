@@ -1,0 +1,3 @@
+.. category:: 兴庆区
+   :category-id: cn:ningxia:yin.chuan.shi:xing.qing.qu
+   :en: Xingqingqu

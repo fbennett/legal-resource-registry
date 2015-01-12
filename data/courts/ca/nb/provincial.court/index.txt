@@ -1,0 +1,3 @@
+.. court:: Provincial Court
+   :court-id: ca:nb;provincial.court
+   :en: Provincial Court

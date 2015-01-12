@@ -1,0 +1,3 @@
+.. category:: 偏关县
+   :category-id: cn:shanxi:xin.zhou.shi:pian.guan.xian
+   :en: Pianguanxian

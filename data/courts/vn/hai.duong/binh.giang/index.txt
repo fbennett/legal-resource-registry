@@ -1,0 +1,3 @@
+.. category:: Bình Giang
+   :category-id: vn:hai.duong:binh.giang
+   :en: Binh Giang

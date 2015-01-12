@@ -1,0 +1,3 @@
+.. category:: 浠水县
+   :category-id: cn:hubei:huang.gang.shi:xi.shui.xian
+   :en: Xishuixian

@@ -1,0 +1,3 @@
+.. category:: 乐都区
+   :category-id: cn:qinghai:hai.dong.shi:le.du.qu
+   :en: Leduqu

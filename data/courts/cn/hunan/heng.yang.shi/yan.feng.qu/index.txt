@@ -1,0 +1,3 @@
+.. category:: 雁峰区
+   :category-id: cn:hunan:heng.yang.shi:yan.feng.qu
+   :en: Yanfengqu

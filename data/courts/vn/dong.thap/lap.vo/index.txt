@@ -1,0 +1,3 @@
+.. category:: Lấp Vò
+   :category-id: vn:dong.thap:lap.vo
+   :en: Lap Vo

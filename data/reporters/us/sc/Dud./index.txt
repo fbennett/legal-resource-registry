@@ -1,0 +1,15 @@
+.. reporter:: South Carolina Reports, Dudley
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Dud.
+   :edition-abbreviation: Dud.
+   :dates: 1837/01/01-1838/12/31
+
+   .. variation:: Dud.L.(S.C.)
+
+   .. variation:: Dudl.
+
+   .. variation:: Dud.(S.C.)
+
+   .. variation:: S.C.L.(Dud.)
+
+   .. variation:: Dud.L.

@@ -1,0 +1,3 @@
+.. category:: 水富县
+   :category-id: cn:yunnan:zhao.tong.shi:shui.fu.xian
+   :en: Shuifuxian

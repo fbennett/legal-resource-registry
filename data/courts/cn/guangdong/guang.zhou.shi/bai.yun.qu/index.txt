@@ -1,0 +1,3 @@
+.. category:: 白云区
+   :category-id: cn:guangdong:guang.zhou.shi:bai.yun.qu
+   :en: Baiyunqu

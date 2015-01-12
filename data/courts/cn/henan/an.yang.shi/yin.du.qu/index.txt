@@ -1,0 +1,3 @@
+.. category:: 殷都区
+   :category-id: cn:henan:an.yang.shi:yin.du.qu
+   :en: Yinduqu

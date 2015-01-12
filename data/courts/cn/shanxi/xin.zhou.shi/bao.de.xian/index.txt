@@ -1,0 +1,3 @@
+.. category:: 保德县
+   :category-id: cn:shanxi:xin.zhou.shi:bao.de.xian
+   :en: Baodexian

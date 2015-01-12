@@ -1,0 +1,3 @@
+.. category:: Ba Tơ
+   :category-id: vn:quang.ngai:ba.to
+   :en: Ba To

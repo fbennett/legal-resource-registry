@@ -1,0 +1,4 @@
+.. court:: Court of Appeal Division of Supreme Court
+   :court-id: ca:pe;court.appeal.division.supreme.court
+   :en: Court of Appeal Division of Supreme Court
+   :url: http://www.albertacourts.ab.ca/

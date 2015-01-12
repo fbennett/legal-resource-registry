@@ -1,0 +1,3 @@
+.. category:: Tây Hòa
+   :category-id: vn:phu.yen:tay.hoa
+   :en: Tay Hoa

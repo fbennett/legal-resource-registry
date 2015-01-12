@@ -1,0 +1,3 @@
+.. category:: 尉氏县
+   :category-id: cn:henan:kai.feng.shi:wei.shi.xian
+   :en: Weishixian

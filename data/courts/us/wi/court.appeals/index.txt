@@ -1,0 +1,7 @@
+.. court:: Court of Appeals
+   :court-id: us:wi;court.appeals
+   :url: http://www.wicourts.gov/courts/appeals/
+   :flp-key: wisctapp
+
+   .. reporter-key:: WI App
+

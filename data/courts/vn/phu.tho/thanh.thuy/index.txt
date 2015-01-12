@@ -1,0 +1,3 @@
+.. category:: Thanh Thủy
+   :category-id: vn:phu.tho:thanh.thuy
+   :en: Thanh Thuy

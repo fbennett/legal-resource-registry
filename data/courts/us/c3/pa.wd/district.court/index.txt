@@ -1,0 +1,16 @@
+.. court:: District Court
+   :court-id: us:c3:pa.wd;district.court
+   :url: http://www.pawd.uscourts.gov/
+   :flp-key: pawd
+
+   .. reporter-key:: F. Supp.
+
+   .. reporter-key:: F. Supp. 2d
+
+   .. reporter-key:: F.R.D.
+
+   .. reporter-key:: Fed. R. Serv.
+
+   .. reporter-key:: Fed. R. Serv. 2d
+
+   .. reporter-key:: Fed. R. Serv. 3d

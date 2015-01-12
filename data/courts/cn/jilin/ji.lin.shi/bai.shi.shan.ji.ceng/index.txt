@@ -1,0 +1,3 @@
+.. category:: 白石山基层
+   :category-id: cn:jilin:ji.lin.shi:bai.shi.shan.ji.ceng
+   :en: Baishishanjiceng

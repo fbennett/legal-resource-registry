@@ -1,0 +1,5 @@
+.. reporter:: LexisNexis Citation
+   :flp-series-cite-type: specialty
+   :flp-common-abbreviation: LEXIS
+   :edition-abbreviation: LEXIS
+   :dates: 1750/01/01-present

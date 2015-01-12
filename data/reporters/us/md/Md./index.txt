@@ -1,0 +1,7 @@
+.. reporter:: Maryland Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Md.
+   :edition-abbreviation: Md.
+   :dates: 1851/01/01-present
+
+   .. variation:: Maryland

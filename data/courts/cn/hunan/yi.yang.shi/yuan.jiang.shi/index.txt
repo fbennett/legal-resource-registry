@@ -1,0 +1,3 @@
+.. category:: 沅江市
+   :category-id: cn:hunan:yi.yang.shi:yuan.jiang.shi
+   :en: Yuanjiangshi

@@ -1,0 +1,3 @@
+.. category:: 松桃县
+   :category-id: cn:guizhou:tong.ren.shi:song.tao.xian
+   :en: Songtaoxian

@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c10:co.d;bankruptcy.court
+   :url: http://www.cob.uscourts.gov/
+   :flp-key: cob
+
+   .. reporter-key:: B.R.

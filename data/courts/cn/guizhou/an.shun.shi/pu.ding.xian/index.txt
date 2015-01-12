@@ -1,0 +1,3 @@
+.. category:: 普定县
+   :category-id: cn:guizhou:an.shun.shi:pu.ding.xian
+   :en: Pudingxian

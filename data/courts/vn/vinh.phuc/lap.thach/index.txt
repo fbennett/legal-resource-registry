@@ -1,0 +1,3 @@
+.. category:: Lập Thạch
+   :category-id: vn:vinh.phuc:lap.thach
+   :en: Lap Thach

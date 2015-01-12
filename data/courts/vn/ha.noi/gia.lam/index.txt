@@ -1,0 +1,3 @@
+.. category:: Gia Lâm
+   :category-id: vn:ha.noi:gia.lam
+   :en: Gia Lam

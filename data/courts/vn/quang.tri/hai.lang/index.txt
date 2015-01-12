@@ -1,0 +1,3 @@
+.. category:: Hải Lăng
+   :category-id: vn:quang.tri:hai.lang
+   :en: Hai Lang

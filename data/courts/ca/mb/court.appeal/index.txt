@@ -1,0 +1,4 @@
+.. court:: Court of Appeal
+   :court-id: ca:mb;court.appeal
+   :en: Court of Appeal
+   :url: http://www.gnb.ca/cour/03COA1/index-e.asp

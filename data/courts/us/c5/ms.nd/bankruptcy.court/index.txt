@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c5:ms.nd;bankruptcy.court
+   :url: http://www.msnb.uscourts.gov/
+   :flp-key: msnb
+
+   .. reporter-key:: B.R.

@@ -1,0 +1,3 @@
+.. category:: 龙泉市
+   :category-id: cn:zhejiang:li.shui.shi:long.quan.shi
+   :en: Longquanshi

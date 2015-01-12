@@ -1,0 +1,3 @@
+.. category:: 囊谦县
+   :category-id: cn:qinghai:yu.shu.zhou:nang.qian.xian
+   :en: Nangqianxian

@@ -1,0 +1,3 @@
+.. category:: 三水区
+   :category-id: cn:guangdong:fo.shan.shi:san.shui.qu
+   :en: Sanshuiqu

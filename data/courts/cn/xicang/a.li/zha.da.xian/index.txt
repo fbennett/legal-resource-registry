@@ -1,0 +1,3 @@
+.. category:: 札达县
+   :category-id: cn:xicang:a.li:zha.da.xian
+   :en: Zhadaxian

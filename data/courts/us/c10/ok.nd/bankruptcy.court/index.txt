@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c10:ok.nd;bankruptcy.court
+   :url: http://www.oknb.uscourts.gov/
+   :flp-key: oknb
+
+   .. reporter-key:: B.R.

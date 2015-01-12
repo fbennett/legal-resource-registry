@@ -1,0 +1,3 @@
+.. category:: 顺德区
+   :category-id: cn:guangdong:fo.shan.shi:shun.de.qu
+   :en: Shundequ

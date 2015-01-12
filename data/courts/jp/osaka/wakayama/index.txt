@@ -1,0 +1,3 @@
+.. category:: 和歌山
+   :category-id: jp:osaka:wakayama
+   :en: Wakayama

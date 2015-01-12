@@ -1,0 +1,3 @@
+.. category:: 银川铁路运输
+   :category-id: cn:ningxia:zhong.wei.shi:yin.chuan.tie.lu.yun.shu
+   :en: Yinchuantieluyunshu

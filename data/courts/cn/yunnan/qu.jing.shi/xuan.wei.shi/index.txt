@@ -1,0 +1,3 @@
+.. category:: 宣威市
+   :category-id: cn:yunnan:qu.jing.shi:xuan.wei.shi
+   :en: Xuanweishi

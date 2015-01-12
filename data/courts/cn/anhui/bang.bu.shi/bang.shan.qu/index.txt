@@ -1,0 +1,3 @@
+.. category:: 蚌山区
+   :category-id: cn:anhui:bang.bu.shi:bang.shan.qu
+   :en: Bangshanqu

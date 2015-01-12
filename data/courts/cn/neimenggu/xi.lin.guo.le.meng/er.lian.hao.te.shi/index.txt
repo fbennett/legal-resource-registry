@@ -1,0 +1,3 @@
+.. category:: 二连浩特市
+   :category-id: cn:neimenggu:xi.lin.guo.le.meng:er.lian.hao.te.shi
+   :en: Erlianhaoteshi

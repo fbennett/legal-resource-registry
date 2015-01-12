@@ -1,0 +1,3 @@
+.. category:: 北京
+   :category-id: cn:beijing
+   :en: Beijing

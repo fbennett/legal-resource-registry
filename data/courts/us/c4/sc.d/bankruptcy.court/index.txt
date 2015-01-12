@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Court
+   :court-id: us:c4:sc.d;bankruptcy.court
+   :url: http://www.scb.uscourts.gov/
+   :flp-key: scb
+
+   .. reporter-key:: B.R.

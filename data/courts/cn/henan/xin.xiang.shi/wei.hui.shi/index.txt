@@ -1,0 +1,3 @@
+.. category:: 卫辉市
+   :category-id: cn:henan:xin.xiang.shi:wei.hui.shi
+   :en: Weihuishi

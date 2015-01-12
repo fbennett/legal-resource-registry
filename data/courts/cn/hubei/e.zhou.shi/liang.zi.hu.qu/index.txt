@@ -1,0 +1,3 @@
+.. category:: 梁子湖区
+   :category-id: cn:hubei:e.zhou.shi:liang.zi.hu.qu
+   :en: Liangzihuqu

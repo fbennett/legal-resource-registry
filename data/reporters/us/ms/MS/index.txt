@@ -1,0 +1,12 @@
+.. reporter:: Mississippi Neutral Citation
+   :flp-series-cite-type: neutral
+   :flp-common-abbreviation: MS
+   :edition-abbreviation: MS
+   :dates: 1750/01/01-present
+   :neutral:
+   
+   .. fields::
+      :decision-number: required
+      :date-decided: required
+      :docket-number: optional
+      :court-place: optional

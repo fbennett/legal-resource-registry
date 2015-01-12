@@ -1,0 +1,11 @@
+.. reporter:: Pennsylvania Superior Court Reports
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Pa. Super.
+   :edition-abbreviation: Pa. Super.
+   :dates: 1895/01/01-present
+
+   .. variation:: Pa.Super.Ct.
+
+   .. variation:: Pa. Superior Ct.
+
+   .. variation:: Pa.S.

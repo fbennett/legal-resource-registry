@@ -1,0 +1,3 @@
+.. category:: Bến Cầu
+   :category-id: vn:tay.ninh:ben.cau
+   :en: Ben Cau

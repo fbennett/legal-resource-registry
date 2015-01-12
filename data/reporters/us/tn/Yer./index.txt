@@ -1,0 +1,11 @@
+.. reporter:: Tennessee Reports, Yerger
+   :flp-series-cite-type: state
+   :flp-common-abbreviation: Yer.
+   :edition-abbreviation: Yer.
+   :dates: 1828/01/01-1837/12/31
+
+   .. variation:: Yerg.(Tenn.)
+
+   .. variation:: Tenn.(Yer.)
+
+   .. variation:: Yerg.

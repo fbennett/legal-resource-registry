@@ -1,0 +1,3 @@
+.. category:: Hoàng Mai
+   :category-id: vn:ha.noi:hoang.mai
+   :en: Hoang Mai

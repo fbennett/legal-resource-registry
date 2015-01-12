@@ -1,0 +1,3 @@
+.. category:: 阳城县
+   :category-id: cn:shanxi:jin.cheng.shi:yang.cheng.xian
+   :en: Yangchengxian

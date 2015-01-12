@@ -1,0 +1,3 @@
+.. category:: Kim Sơn
+   :category-id: vn:ninh.binh:kim.son
+   :en: Kim Son

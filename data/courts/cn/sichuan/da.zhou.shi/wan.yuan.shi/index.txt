@@ -1,0 +1,3 @@
+.. category:: 万源市
+   :category-id: cn:sichuan:da.zhou.shi:wan.yuan.shi
+   :en: Wanyuanshi

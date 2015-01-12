@@ -1,0 +1,3 @@
+.. category:: Krông Năng
+   :category-id: vn:dak.lak:krong.nang
+   :en: Krong Nang

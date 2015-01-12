@@ -1,0 +1,3 @@
+.. category:: Huế
+   :category-id: vn:thua.thien.hue:hue
+   :en: Hue

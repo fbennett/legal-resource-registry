@@ -1,0 +1,3 @@
+.. category:: 建邺区
+   :category-id: cn:jiangsu:nan.jing.shi:jian.ye.qu
+   :en: Jianyequ

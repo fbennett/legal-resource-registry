@@ -1,0 +1,3 @@
+.. category:: 五华区
+   :category-id: cn:yunnan:kun.ming.shi:wu.hua.qu
+   :en: Wuhuaqu

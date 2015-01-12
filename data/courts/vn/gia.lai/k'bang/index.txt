@@ -1,0 +1,3 @@
+.. category:: K'Bang
+   :category-id: vn:gia.lai:k'bang
+   :en: K'Bang

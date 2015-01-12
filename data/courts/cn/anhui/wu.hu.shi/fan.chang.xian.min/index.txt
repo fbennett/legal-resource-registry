@@ -1,0 +1,3 @@
+.. category:: 繁昌县民
+   :category-id: cn:anhui:wu.hu.shi:fan.chang.xian.min
+   :en: Fanchangxianmin

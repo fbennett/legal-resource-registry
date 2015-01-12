@@ -1,0 +1,3 @@
+.. category:: 翠屏区
+   :category-id: cn:sichuan:yi.bin.shi:cui.ping.qu
+   :en: Cuipingqu

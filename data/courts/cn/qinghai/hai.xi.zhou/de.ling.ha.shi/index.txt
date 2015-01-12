@@ -1,0 +1,3 @@
+.. category:: 德令哈市
+   :category-id: cn:qinghai:hai.xi.zhou:de.ling.ha.shi
+   :en: Delinghashi

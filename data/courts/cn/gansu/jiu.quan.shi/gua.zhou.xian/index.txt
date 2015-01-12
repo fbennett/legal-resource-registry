@@ -1,0 +1,3 @@
+.. category:: 瓜州县
+   :category-id: cn:gansu:jiu.quan.shi:gua.zhou.xian
+   :en: Guazhouxian

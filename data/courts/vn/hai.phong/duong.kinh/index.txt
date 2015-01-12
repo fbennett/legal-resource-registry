@@ -1,0 +1,3 @@
+.. category:: Dương Kinh
+   :category-id: vn:hai.phong:duong.kinh
+   :en: Duong Kinh

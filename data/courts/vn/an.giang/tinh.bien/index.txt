@@ -1,0 +1,3 @@
+.. category:: Tịnh Biên
+   :category-id: vn:an.giang:tinh.bien
+   :en: Tinh Bien
