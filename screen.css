@@ -1,3 +1,8 @@
+div.bubbles a.unconfirmed, div.bubbles a.unconfirmed:hover  {
+    background-color: gray;
+    background-image: repeating-linear-gradient(45deg, rgba(255,255,255,.8), rgba(255,255,255,.4) 3px, rgba(255,255,255,1) 3px, rgba(255,255,255,1) 6px);
+}
+
 a.court {
     background: #bfd4fe;
 }
