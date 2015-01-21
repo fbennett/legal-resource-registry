@@ -85,8 +85,8 @@ class HTMLTranslatorForLegalResourceRegistry(HTMLTranslator):
             title_en = ""
         if node['url'].endswith('.xlsx'):
             cls = ' class="excel"'
-        elif node.has_key('class') and node['class'] == 'court':
-            cls = ' class="court"'
+        elif node.has_key('class'):
+            cls = ' class="%s"' % node["class"]
         else:
             cls = ''
         self.body.append('<a%s href="%s"%s>%s' % (cls,node['url'],title_en,node['title']))

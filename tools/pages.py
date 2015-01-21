@@ -243,7 +243,8 @@ class SourceWalker(Utils):
             bubbleData = {
                 "title": None,
                 "en": None,
-                "url": None
+                "url": None,
+                "unconfirmed": False
                 }
             courtPage = False
             setForm = False
@@ -268,6 +269,8 @@ class SourceWalker(Utils):
                     bubbleData["en"] = re.sub("   :en:\s+", "", line)
                 elif line.startswith('   :url: '):
                     bubbleData["url"] = re.sub("   :url:\s+", "", line)
+                elif line.startswith('   :unconfirmed:'):
+                    bubbleData["unconfirmed"] = True
                 elif line.find(':set-form:') > -1:
                     setForm = True
                     fileName = thisKey.split('/')[0:-1]
@@ -336,7 +339,10 @@ class SourceWalker(Utils):
             if courtPage:
                 cls = 'court'
             else:
-                cls = None
+                cls = ''
+
+            if bubbleData["unconfirmed"]:
+                cls += " unconfirmed"
 
             self.pages[parentKey].addBubble(bubbleData['title'], pageName, title_en=bubbleData['en'], cls=cls)
 
