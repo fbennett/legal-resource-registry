@@ -34,7 +34,7 @@ class Utils:
         if isCourt:
             ret = ":".join(lst[0:-1]) + ";" + lst[-1]
         else:
-            ret = ":".join(lst[0:-1])
+            ret = ":".join(lst)
         return ret
 
     def courtPathFromJurisdiction(self,rootPath,arg):

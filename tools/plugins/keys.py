@@ -1,4 +1,5 @@
 from LRR import Hook as HookBase
+from LRR.utils import Utils
 import json, os, re
 
 class MyAmazingDataClass:
@@ -6,7 +7,7 @@ class MyAmazingDataClass:
         self.place_keys = {}
         self.court_keys = {}
 
-class Hook(HookBase):
+class Hook(HookBase, Utils):
     def __init__(self):
         HookBase.__init__(self, Data=MyAmazingDataClass)
         #self.opt.jurisdiction = "gb" 
@@ -16,7 +17,7 @@ class Hook(HookBase):
         This is run by pages.py during the primitive parse there.
         '''
         categoryID = options["category-id"]
-        categoryPath = categoryID.replace(";", "/")
+        categoryPath = categoryID.replace(";", "/").replace(":", "/")
         dirPath = os.path.join("data/courts", categoryPath)
         count = 0
         for fileName in os.listdir(dirPath):
@@ -28,16 +29,16 @@ class Hook(HookBase):
     def court(self, options, arg):
         courtID = options["court-id"]
         self.data.court_keys[courtID] = arg
-        placeID = ";".join(courtID.split(";")[0:-1])
+        placeID = self.joinUrn(self.splitUrn(courtID)[0:-1])
         #if placeID == "us;federal": return
-        countryID = courtID.split(";")[0]
+        countryID = self.splitUrn(courtID)[0]
         if not self.data.place_keys.has_key(countryID):
             txt = open(os.path.join("data/courts", countryID, "index.txt")).read().strip()
             m = re.match("(?m)^\.\. category::\s*(.*)$", txt)
             countryName = m.group(1)
             self.data.place_keys[countryID] = countryName
         if not self.data.place_keys.has_key(placeID):
-            txt = open(os.path.join("data/courts", "/".join(placeID.split(";")), "index.txt")).read().strip()
+            txt = open(os.path.join("data/courts", "/".join(self.splitUrn(placeID)), "index.txt")).read().strip()
             m = re.match("(?m)^\.\. category::\s*(.*)$", txt)
             placeName = m.group(1)
             self.data.place_keys[placeID] = placeName

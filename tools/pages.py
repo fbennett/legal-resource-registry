@@ -258,7 +258,7 @@ class SourceWalker(Utils):
                     
                     # Klutzy. Spoofing a directive. Ugh.
                     if hasattr(traveler.hook, "category"):
-                        categoryID = re.sub("^.*/data/courts/", "", dirpath).replace("/", ";")
+                        categoryID = re.sub("^.*/data/courts/", "", dirpath).replace("/", ":")
                         options = { "category-id": categoryID }
                         traveler.hook.category(options, bubbleData["title"])
 

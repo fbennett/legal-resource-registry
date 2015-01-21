@@ -4,12 +4,13 @@
 
 import json
 from LRR.traveler import Opt
+from LRR.utils import Utils
 
 class Data:
     def __init__(self):
         self.categories = {}
 
-class Hook:
+class Hook(Utils):
     
     def __init__(self):
         self.data = Data()
@@ -21,9 +22,9 @@ class Hook:
 
     def court(self, options, arg):
         courtID = options["court-id"]
-        courtLst = courtID.split(";")
+        courtLst = self.splitUrn(courtID)
         courtKey = courtLst.pop()
-        categoryID = ";".join(courtLst)
+        categoryID = self.joinUrn(courtLst)
         if not self.data.categories.has_key(categoryID):
             self.data.categories[categoryID] = {}
         self.data.categories[categoryID][courtID] = {}
