@@ -1,5 +1,5 @@
 .. court:: 福岡家庭裁判所
-   :court-id: jp:fukuoka;fukuoka.katei.saibansho
+   :court-id: jp:fukuoka:fukuoka;katei.saibansho
    :en: Fukuoka Family Court
    :url: http://www.courts.go.jp/fukuoka/
 
