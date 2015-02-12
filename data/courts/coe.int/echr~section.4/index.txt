@@ -1,0 +1,6 @@
+.. court:: Cour européenne des droits de l'homme|Section IV
+   :court-id: coe.int;echr~section.4
+   :en: European Court of Human Rights|Section IV
+   :url: http://www.echr.coe.int/Pages/home.aspx?p=court/judges&c=fra
+
+
