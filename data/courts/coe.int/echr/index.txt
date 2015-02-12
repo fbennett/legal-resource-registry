@@ -1,4 +1,3 @@
-.. court:: Cour européenne des droits de l'homme
+.. court:: European Court of Human Rights
    :court-id: coe.int;echr
-   :en: European Court of Human Rights
    :url: http://www.echr.coe.int/Pages/home.aspx?p=court/judges&c=fra
