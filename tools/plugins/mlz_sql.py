@@ -6,7 +6,8 @@ countries = json.loads(open("tools/country-names.json").read())
 
 class Data:
     def __init__(self):
-        self.names = {}
+        self.jurisdictions = {}
+        self.courts = {}
 
 def sortTheList(a, b):
     if a[0] > b[0]:
@@ -26,12 +27,20 @@ class Hook(HookBase, Utils):
         ''' Note: There is no category directive in the rST.
         This is run by pages.py during the primitive parse there.
         '''
-        categoryID = options["category-id"]
+        jurisdictionID = options["category-id"]
         # We'll cumulate these, joining with pipes 
-        self.data.names[categoryID] = arg
+        self.data.jurisdictions[jurisdictionID] = arg
+
+    # OK
+    # courts
+    # jurisdictions
+    # courtNames
+    # courtCountryLinks
+    # courtJurisdictionLinks
 
     def court(self, options, arg):
-        pass
+        courtID = options['court-id']
+        self.data.courts[courtID] = arg;
 
     def reporter_start(self, options, dates, arg):
         pass
@@ -48,30 +57,83 @@ class Hook(HookBase, Utils):
         # XXX that can be processed into jurisdiction and court
         # XXX lists in the MLZ client.
 
-        theList = []
+        srcList = []
         for countryKey in countries.keys():
-            if not self.data.names.has_key(countryKey.lower()):
-                self.data.names[countryKey.lower()] = countries[countryKey]
-        for key in self.data.names:
-            # Split
-            keyLst = self.splitUrn(key)
-            nameLst = self.splitUrn(key)
-            countryID = keyLst[0]
-            # Iterate from start to end, making country ISO, others descrips
-            for i in range(0, len(nameLst), 1):
-                if i == 0:
-                    nameLst[i] = nameLst[i].upper()
+            if not self.data.jurisdictions.has_key(countryKey.lower()):
+                self.data.jurisdictions[countryKey.lower()] = countries[countryKey]
+        for key in self.data.jurisdictions.keys():
+            # If a country, set as "Japan|JP"
+            # Otherwise, leave name untouched
+            if key.find(":") == -1 and key.find(";") == -1:
+                self.data.jurisdictions[key] = "%s|%s" % (self.data.jurisdictions[key],key.upper())
+            name = self.data.jurisdictions[key]
+            srcList.append([key, name])
+        for key in self.data.courts.keys():
+            name = self.data.courts[key]
+            srcList.append([key, name])
+        srcList.sort(sortTheList)
+        fh = open("rebuild-ids/mlz-jurisdictions.json", "w+")
+        output = {
+            "jurisdictions":[],
+            "courtNames": [],
+            "countryCourtLinks": [],
+            "courts": [],
+            "courtJurisdictionLinks": []
+        }
+        jurisdictions_nummap = {}
+        courtNames_nummap = {}
+        countryCourtLinks_nummap = {}
+        courts_nummap = {}
+        for item in srcList:
+            title = item[1]
+            # Split into jurisdiction elements and courtID
+            keyLst = item[0].split(";");
+
+            jurisdiction = keyLst[0]
+            jurisdictionLst = jurisdiction.split(":")
+            if len(jurisdictionLst) == 1:
+                jurisdictionParent = False
+            else:
+                jurisdictionParent = ":".join(jurisdictionLst[0:-1])
+            jurisdictionStub = jurisdictionLst[-1]
+
+            if len(keyLst) > 1:
+                court = keyLst[1]
+            else:
+                court = False
+            # Jurisdiction
+            if not jurisdictions_nummap.has_key(jurisdiction):
+                if jurisdictionParent:
+                    jurisdictionParentIdx = jurisdictions_nummap[jurisdictionParent]
+                    output["jurisdictions"].append([jurisdictionStub, title, jurisdictionParentIdx])
                 else:
-                    subkey = self.joinUrn(keyLst[0:i+1])
-                    nameLst[i] = self.data.names[subkey]
-            # Join with pipes
-            nameLst = [self.data.names[countryID]] + nameLst
-            name = '|'.join(nameLst)
-            # Cast to template
-            theList.append([key, name])
-        theList.sort(sortTheList)
-        fh = open("rebuild-ids/mlz-zls.sql", "w+")
-        for item in theList:
-            line = 'INSERT INTO jurisdictions VALUES("%s","%s");\n' % (item[0], item[1])
-            fh.write(line)
+                    output["jurisdictions"].append([jurisdiction, title])
+                jurisdictions_nummap[jurisdiction] = (len(output["jurisdictions"])-1)
+
+            if court:
+                # Court name
+                if not courtNames_nummap.has_key(title):
+                    output["courtNames"].append(title)
+                    courtNames_nummap[title] = (len(output["courtNames"])-1)
+                # index of court name and index of first jurisdiction element (country)
+                courtNameIdx = courtNames_nummap[title]
+                countryID = jurisdiction.split(":")[0]
+                countryIdx = jurisdictions_nummap[countryID]
+                mykey = "%d::%d" % (courtNameIdx,countryIdx)
+                if not countryCourtLinks_nummap.has_key(mykey):
+                    output["countryCourtLinks"].append([courtNameIdx, countryIdx])
+                    countryCourtLinks_nummap[mykey] = (len(output["countryCourtLinks"])-1)
+                # index of court name / country index. Very meta.
+                countryCourtLinkIdx = countryCourtLinks_nummap[mykey]
+                mykey2 = "%s::%d" % (court, countryCourtLinkIdx)
+                if not courts_nummap.has_key(mykey2):
+                    output["courts"].append([court, (len(output["countryCourtLinks"])-1)])
+                    courts_nummap[mykey2] = (len(output["courts"])-1)
+                # court jurisdiction links, which was what all of the above was aiming for
+                jurisdictionIdx = jurisdictions_nummap[jurisdiction]
+                courtIdx = courts_nummap[mykey2]
+                output["courtJurisdictionLinks"].append([jurisdictionIdx, courtIdx])
+
+        fh.write(json.dumps(output, ensure_ascii=False))
+        #fh.write(json.dumps(output, sort_keys=True, indent=2, ensure_ascii=False))
         fh.close()

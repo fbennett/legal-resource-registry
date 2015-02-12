@@ -199,6 +199,10 @@ class SourceWalker(Utils):
 
             urnLex = self.joinUrn(dirpath.split(os.path.sep)[self.stubLen-1:])
 
+            if self.jurisdiction and len(urnLex.split(":")) == 1 and urnLex.split(":")[0] != self.jurisdiction:
+                for dirname in range(len(dirnames)-1,-1,-1):
+                    dirnames.pop()
+
             if not self.isJurisdictionOrParent(urnLex.replace(":", "/").replace(';', "/")):
                 continue
 
