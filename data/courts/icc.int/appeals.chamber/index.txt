@@ -1,0 +1,3 @@
+.. court:: Appeals Chamber
+   :court-id: icc.int;appeals.chamber
+   :url: http://www.icc-cpi.int/en_menus/icc/structure%20of%20the%20court/chambers/Pages/chambers.aspx
