@@ -1,0 +1,4 @@
+.. court:: Court Of Justice
+   :court-id: comesa.int;court.justice
+   :url: http://about.comesa.int/index.php?option=com_content&view=article&id=83:comesa-court-of-justice&catid=43:institutions&Itemid=133
+

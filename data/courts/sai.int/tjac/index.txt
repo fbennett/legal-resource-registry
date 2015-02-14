@@ -1,0 +1,4 @@
+.. court:: Court of Justice of the Andean Community
+   :court-id: sai.int;tjac
+   :url: http://www.comunidadandina.org/ingles/sai/estructura_4.html
+

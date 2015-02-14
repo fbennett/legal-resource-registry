@@ -1,0 +1,4 @@
+.. court:: African Court on Human and Peoples' Rights
+   :court-id: au.int;achpr
+   :url: http://www.african-court.org/en/
+

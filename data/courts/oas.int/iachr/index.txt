@@ -1,0 +1,5 @@
+.. court:: Corte Interamericana de Derechos Humanos
+   :court-id: oas.int;iachr
+   :en: Inter-American Court Of Human Rights
+   :url: http://www.corteidh.or.cr/index.php/en
+

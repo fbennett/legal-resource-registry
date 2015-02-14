@@ -1,0 +1,4 @@
+.. court:: Permanent Court of International Justice
+   :court-id: ln.int;pcij
+   :url: http://www.icj-cij.org/pcij/?p1=9
+

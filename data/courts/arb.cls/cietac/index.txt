@@ -1,0 +1,4 @@
+.. court:: China International Economic and Trade Arbitration Commission
+   :court-id: arb.cls;cietac
+   :url: http://www.cietac.org/index.cms
+

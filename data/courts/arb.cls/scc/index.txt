@@ -1,0 +1,4 @@
+.. court:: Stockholm Chamber of Commerce
+   :court-id: arb.cls;scc
+   :url: http://www.sccinstitute.com/
+

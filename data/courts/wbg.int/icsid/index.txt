@@ -1,0 +1,4 @@
+.. court:: International Centre for Settlement of Investment Disputes
+   :court-id: wbg.int;icsid
+   :url: https://icsid.worldbank.org/apps/ICSIDWEB/Pages/default.aspx
+

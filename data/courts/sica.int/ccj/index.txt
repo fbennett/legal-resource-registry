@@ -1,0 +1,5 @@
+.. court:: Corte Centroamericana de Justicia
+   :court-id: sica.int;ccj
+   :en: Central American Court Of Justice
+   :url: http://www.sica.int/consulta/entidad.aspx?IdEnt=795&Idm=2&IdmStyle=2
+

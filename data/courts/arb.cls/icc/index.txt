@@ -1,0 +1,4 @@
+.. court:: International Chamber of Commerce
+   :court-id: arb.cls;icc
+   :url: http://www.iccwbo.org/
+

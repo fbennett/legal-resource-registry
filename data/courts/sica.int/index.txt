@@ -1,0 +1,3 @@
+.. category:: Sistema de la Integración Centroamericana
+   :category-id: sica.int
+   :en: Central American Integration System

@@ -1,0 +1,4 @@
+.. court:: International Tribunal for the Law of the Sea
+   :court-id: un.int;itlos
+   :url: https://www.itlos.org/
+

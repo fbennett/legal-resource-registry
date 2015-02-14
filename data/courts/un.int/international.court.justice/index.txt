@@ -1,3 +1,0 @@
-.. court:: International Court of Justice
-   :court-id: un.int;international.court.justice
-

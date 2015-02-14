@@ -1,0 +1,4 @@
+.. court:: International Criminal Tribunal for Rwanda
+   :court-id: un.int;ictr
+   :url: http://www.unictr.org/
+

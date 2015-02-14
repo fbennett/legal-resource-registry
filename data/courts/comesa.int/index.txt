@@ -1,0 +1,2 @@
+.. category:: Common Market for Eastern and Southern Africa
+   :category-id: comesa.int

@@ -1,0 +1,4 @@
+.. court:: Court Of Justice of the European Free Trade Agreement
+   :court-id: eea.int;efta
+   :url: http://www.efta.int/eea/eea-institutions/efta-court
+

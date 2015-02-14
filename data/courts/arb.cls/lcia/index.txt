@@ -1,0 +1,4 @@
+.. court:: London Court of International Arbitration
+   :court-id: arb.cls;lcia
+   :url: http://www.lcia.org/
+

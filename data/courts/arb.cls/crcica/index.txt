@@ -1,0 +1,4 @@
+.. court:: Cairo Regional Centre for International Commercial Arbitration
+   :court-id: arb.cls;crcica
+   :url: http://crcica.org.eg/
+

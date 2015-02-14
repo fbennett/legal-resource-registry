@@ -1,0 +1,4 @@
+.. court:: International Criminal Tribunal for the Former Yugoslavia
+   :court-id: un.int;icty
+   :url: http://www.icty.org/
+

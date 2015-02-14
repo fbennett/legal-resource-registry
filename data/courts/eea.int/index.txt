@@ -1,0 +1,2 @@
+.. category:: European Economic Area
+   :category-id: eea.int
