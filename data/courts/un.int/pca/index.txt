@@ -1,4 +1,4 @@
 .. court:: Permanent Court of Arbitration
-   :court-id: arb.cls;pca
+   :court-id: un.int;pca
    :url: http://www.pca-cpa.org/showpage.asp?pag_id=363
 
