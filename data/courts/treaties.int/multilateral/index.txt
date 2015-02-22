@@ -1,0 +1,2 @@
+.. category:: Multilateral
+   :category-id: treaties.int:multilateral

@@ -1,0 +1,5 @@
+.. court:: ក្រុមប្រឹក្សាធម្មនុញ្ញ
+   :court-id: kh;krompreksa.tommnunh
+   :url: http://www.ccc.gov.kh/u_index_kh.php
+   :en: Constitutional Council
+

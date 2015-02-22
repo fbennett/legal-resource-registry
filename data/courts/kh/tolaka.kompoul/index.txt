@@ -1,0 +1,5 @@
+.. court:: តុលាការកំពូល
+   :court-id: kh;tolaka.kompoul
+   :url: http://www.supremecourt.gov.kh/index.php/km/
+   :en: Supreme Court
+

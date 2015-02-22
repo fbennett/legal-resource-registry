@@ -1,0 +1,2 @@
+.. category:: Treaties
+   :category-id: treaties.int
