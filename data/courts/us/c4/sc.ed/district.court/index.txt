@@ -1,7 +1,7 @@
 .. court:: District Court
    :court-id: us:c4:sc.ed;district.court
    :url: http://www.scd.uscourts.gov/
-   :flp-key: scd
+   :flp-key: southcarolinaed
 
    .. reporter-key:: F. Supp.
 
