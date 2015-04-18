@@ -64,8 +64,8 @@ class JurisdictionDirective(Directive,Utils):
             if not line: break
             if nodes.whitespace_normalize_name(line).startswith(".. reporter-key::"):
                 reporter_key = re.sub("\.\.\s+reporter-key::\s*","",line).strip()
-                pth = self.reporterPathFromJurisdiction(traveler.rootPath,self.arguments[0],reporter_key)
-                newlines = open(pth).read()
+                rpth = self.reporterPathFromJurisdiction(traveler.rootPath,self.arguments[0],reporter_key)
+                newlines = open(rpth).read()
                 if traveler.hook.opt.conditional and not self.checkCondition(traveler, newlines):
                     continue
                 newlines = newlines.split("\n")
