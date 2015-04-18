@@ -5,6 +5,8 @@
 import json
 from LRR import Hook as HookBase
 
+info = {'courtID': None}
+
 class Data:
     def __init__(self):
         self.variations = {}
@@ -93,5 +95,5 @@ class Hook(HookBase):
             for series in bundle:
                 series["mlz_jurisdiction"].sort()
 
-        open("reporters.json","w+").write(json.dumps(self.data.reporters_json,indent=2,sort_keys=True))
-        open("court-map.json","w+").write(json.dumps(self.data.courts_map,indent=2,sort_keys=True))
+        open("reporters.json","w+").write(json.dumps(self.data.reporters_json,indent=4,sort_keys=True))
+        open("court-map.json","w+").write(json.dumps(self.data.courts_map,indent=4,sort_keys=True))
