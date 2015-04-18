@@ -82,7 +82,7 @@ class Utils:
         idlst = self.splitUrn(courtID)
         if segment == "reporters":
             reporterID = idlst[-1]
-            for i in range(1,len(idlst)-1,1):
+            for i in range(len(idlst)-2,0,-1):
                 trypth = os.path.join(*[traveler.rootPath,"data",segment] + idlst[0:i] + [reporterID,"index.txt"])
                 if os.path.exists(trypth):
                     idlst = idlst[0:i] + [reporterID]
