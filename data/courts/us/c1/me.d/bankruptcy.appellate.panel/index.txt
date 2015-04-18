@@ -1,0 +1,6 @@
+.. court:: Bankruptcy Appellate Panel
+   :court-id: us:c1:me.d;bankruptcy.appellate.panel
+   :url: http://www.meb.uscourts.gov/
+   :flp-key: bapme
+
+   .. reporter-key:: B.R.
