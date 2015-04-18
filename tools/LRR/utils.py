@@ -48,8 +48,8 @@ class Utils:
         try:
             pthlst = ["data","reporters"]
             pthlst.extend(self.splitUrn(jurisdiction))
-        # Drill down
-            for i in range(2,len(pthlst),1):
+            # Drill up (not down)
+            for i in range(len(pthlst)-1,1,-1):
                 pth = os.path.join(*pthlst[0:i+1])
                 filepth = os.path.join(rootPath,pth,reporterKey,"index.txt")
                 if os.path.exists(filepth):
