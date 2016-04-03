@@ -1,5 +1,5 @@
-.. court:: Court of Justice
+.. court:: Cour de Justice
    :court-id: eu.int:cjeu;ecj
-   :fr: Cour de Justice
+   :en: Court of Justice
    :url: http://curia.europa.eu/jcms/jcms/Jo2_7026/
 
