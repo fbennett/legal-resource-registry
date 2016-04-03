@@ -1,0 +1,4 @@
+.. court:: European Commission
+   :court-id: eu.int;ec
+   :url: http://europa.eu/about-eu/institutions-bodies/european-commission/index_en.htm
+
