@@ -48,4 +48,6 @@ for dirpath,dirnames,filenames in os.walk("data/courts/%s" % jurisdiction):
     lines = lines[0:1] + [template % id] + lines[1:]
     txt = "\n".join(lines) + "\n"
 
+    sys.stdout.write(".");\
+    sys.stdout.flush()
     open(indexPath, "w+").write(txt)
