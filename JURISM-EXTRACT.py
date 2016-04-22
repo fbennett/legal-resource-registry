@@ -22,6 +22,13 @@ def checkFile(dirname):
     ifh.close()
     raise
 
+def sortInfo(a, b):
+    if a[0] > b[0]:
+        return -1
+    elif a[0] < b[0]:
+        return 1
+    else:
+        return 0
 
 for dirname,dirs,files in os.walk('./data/courts'):
     #if dirname == './data/courts': continue
@@ -60,6 +67,9 @@ for dirname,dirs,files in os.walk('./data/courts'):
         os.makedirs(path)
     except:
         pass
+    # Sort in reverse order (for stable output - reverse-order sort
+    # has not special significance)
+    childJurisdictions.sort(sortInfo)
     open(os.path.join(path,'info.json'),'w+').write(json.dumps(childJurisdictions))
     sys.stdout.write('.')
     sys.stdout.flush()
