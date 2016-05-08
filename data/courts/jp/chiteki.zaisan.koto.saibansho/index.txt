@@ -1,5 +1,5 @@
 .. court:: 知的財産高等裁判所
-   :court-id: jp;chiteki.zaisan.koutou.saibansho
+   :court-id: jp;chiteki.zaisan.koto.saibansho
    :url: http://www.courts.go.jp/saikosai/index.html
    :en: Supreme Court
 
