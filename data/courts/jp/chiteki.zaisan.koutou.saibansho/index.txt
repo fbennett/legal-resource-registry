@@ -1,0 +1,8 @@
+.. court:: 知的財産高等裁判所
+   :court-id: jp;chiteki.zaisan.koutou.saibansho
+   :url: http://www.courts.go.jp/saikosai/index.html
+   :en: Supreme Court
+
+   .. reporter-key:: 刑集
+
+   .. reporter-key:: 民集
