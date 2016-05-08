@@ -1,7 +1,7 @@
 .. court:: 最高裁判所第二小法廷
    :court-id: jp;saiko.saibansho.ni
    :url: http://www.courts.go.jp/saikosai/index.html
-   :en: Supreme Court
+   :en: Supreme Court Second Petty Bench
 
    .. reporter-key:: 刑集
 

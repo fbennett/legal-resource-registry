@@ -1,7 +1,7 @@
 .. court:: 最高裁判所大法廷
    :court-id: jp;saiko.saibansho.dai
    :url: http://www.courts.go.jp/saikosai/index.html
-   :en: Supreme Court
+   :en: Supreme Court Grand Bench
 
    .. reporter-key:: 刑集
 
