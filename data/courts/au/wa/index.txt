@@ -1,0 +1,3 @@
+.. category:: Western Australia
+   :category-id: au:wa
+
