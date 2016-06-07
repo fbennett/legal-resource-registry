@@ -1,0 +1,4 @@
+.. court:: Supreme Court
+   :court-id: gb;supreme.court
+   :url: https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_Kingdom
+

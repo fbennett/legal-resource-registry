@@ -1,0 +1,3 @@
+.. category:: Limoges
+   :category-id: fr:limoges
+

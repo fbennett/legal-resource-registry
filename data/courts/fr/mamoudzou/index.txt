@@ -1,0 +1,3 @@
+.. category:: Mamoudzou
+   :category-id: fr:mamoudzou
+

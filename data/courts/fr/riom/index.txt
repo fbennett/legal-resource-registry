@@ -1,0 +1,3 @@
+.. category:: Riom
+   :category-id: fr:riom
+

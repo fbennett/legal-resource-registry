@@ -1,0 +1,3 @@
+.. category:: Grenoble
+   :category-id: fr:grenoble
+

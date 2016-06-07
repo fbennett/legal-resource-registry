@@ -1,0 +1,3 @@
+.. category:: Colmar
+   :category-id: fr:colmar
+

@@ -1,0 +1,3 @@
+.. category:: Toulouse
+   :category-id: fr:toulouse
+

@@ -1,0 +1,3 @@
+.. category:: Besançon
+   :category-id: fr:besancon
+

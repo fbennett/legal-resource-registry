@@ -1,0 +1,3 @@
+.. category:: Poitiers
+   :category-id: fr:poitiers
+

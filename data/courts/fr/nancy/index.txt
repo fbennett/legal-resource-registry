@@ -1,0 +1,3 @@
+.. category:: Nancy
+   :category-id: fr:nancy
+

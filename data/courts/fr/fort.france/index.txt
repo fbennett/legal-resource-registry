@@ -1,0 +1,3 @@
+.. category:: Fort-de-France
+   :category-id: fr:fort.france
+

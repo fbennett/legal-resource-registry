@@ -1,0 +1,3 @@
+.. category:: Basse-Terre
+   :category-id: fr:basse.terre
+

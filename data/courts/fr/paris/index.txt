@@ -1,0 +1,3 @@
+.. category:: Paris
+   :category-id: fr:paris
+

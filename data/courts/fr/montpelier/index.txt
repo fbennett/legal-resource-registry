@@ -1,0 +1,3 @@
+.. category:: Montpellier
+   :category-id: fr:montpelier
+

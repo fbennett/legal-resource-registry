@@ -20,6 +20,7 @@ icc.int
 imf.int
 jp
 ln.int
+mm
 mn
 nl
 nz

@@ -1,0 +1,4 @@
+.. court:: House of Lords
+   :court-id: gb;house.of.lords
+   :url: https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_Kingdom
+

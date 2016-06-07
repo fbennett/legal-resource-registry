@@ -1,0 +1,3 @@
+.. court:: Supreme Court
+   :court-id: mm;supreme.court
+   :url: http://www.unionsupremecourt.gov.mm/

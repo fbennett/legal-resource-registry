@@ -1,0 +1,5 @@
+.. court:: Cour d'Appel
+   :court-id: fr:mamoudzou;cour.appel
+   :url: https://en.wikipedia.org/wiki/Court_of_Cassation_%28France%29#Judges_and_divisions
+   :en: Court of Appeal
+

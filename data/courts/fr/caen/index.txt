@@ -1,0 +1,3 @@
+.. category:: Caen
+   :category-id: fr:caen
+

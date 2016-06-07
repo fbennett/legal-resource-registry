@@ -1,0 +1,3 @@
+.. category:: Bordeaux
+   :category-id: fr:bordeaux
+

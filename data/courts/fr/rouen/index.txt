@@ -1,0 +1,3 @@
+.. category:: Rouen
+   :category-id: fr:rouen
+

@@ -1,0 +1,3 @@
+.. category:: Chambéry
+   :category-id: fr:chambery
+

@@ -1,0 +1,3 @@
+.. category:: Bourges
+   :category-id: fr:bourges
+

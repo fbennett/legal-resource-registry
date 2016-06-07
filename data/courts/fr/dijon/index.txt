@@ -1,0 +1,3 @@
+.. category:: Dijon
+   :category-id: fr:dijon
+

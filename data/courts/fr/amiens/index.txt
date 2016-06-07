@@ -1,0 +1,3 @@
+.. category:: Amiens
+   :category-id: fr:amiens
+

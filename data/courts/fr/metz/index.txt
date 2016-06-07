@@ -1,0 +1,3 @@
+.. category:: Metz
+   :category-id: fr:metz
+
