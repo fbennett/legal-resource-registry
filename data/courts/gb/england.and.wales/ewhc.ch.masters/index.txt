@@ -1,4 +1,4 @@
 .. court:: High Court|Chancery Division|Masters
-   :court-id: gb:england.and.wales;ewca.civ
+   :court-id: gb:england.and.wales;ewhc.ch.masters
    :url: https://www.justice.gov.uk/courts/rcj-rolls-building/chancery-division
 

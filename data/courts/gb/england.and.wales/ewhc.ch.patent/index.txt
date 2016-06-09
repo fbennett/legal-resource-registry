@@ -1,4 +1,4 @@
 .. court:: High Court|Chancery Division|Patents Court
-   :court-id: gb:england.and.wales;ewca.civ
+   :court-id: gb:england.and.wales;ewhc.ch.patent
    :url: https://www.justice.gov.uk/courts/rcj-rolls-building/chancery-division
 

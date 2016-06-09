@@ -1,4 +1,4 @@
 .. court:: High Court|Queen's Bench Division|Admiralty Court
-   :court-id: gb:england.and.wales;ewca.civ
+   :court-id: gb:england.and.wales;ewhc.qb.admiralty
    :url: https://www.gov.uk/courts-tribunals/queens-bench-division-of-the-high-court
 
