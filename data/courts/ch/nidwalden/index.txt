@@ -1,0 +1,3 @@
+.. category:: Nidwalden
+   :category-id: ch:nidwalden
+

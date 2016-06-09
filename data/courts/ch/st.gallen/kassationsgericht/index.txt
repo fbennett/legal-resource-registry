@@ -1,0 +1,3 @@
+.. court:: Kassationsgericht
+   :court-id: ch:st.gallen;kassationsgericht
+   :url: http://www.lexadin.nl/wlg/courts/nofr/eur/lxctzwi.htm

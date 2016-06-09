@@ -1,0 +1,3 @@
+.. court:: Obergericht
+   :court-id: ch:luzern;obergericht
+   :url: http://www.lexadin.nl/wlg/courts/nofr/eur/lxctzwi.htm

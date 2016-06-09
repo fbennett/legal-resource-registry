@@ -1,0 +1,3 @@
+.. category:: Basel-Landschaft
+   :category-id: ch:basel.landschaft
+

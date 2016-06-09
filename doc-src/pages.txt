@@ -3,6 +3,7 @@ au.int
 au
 kh
 ca
+ch
 cs
 cn
 coe.int
@@ -27,6 +28,7 @@ nz
 oas.int
 ps
 sai.int
+sg
 sica.int
 gb
 ussr

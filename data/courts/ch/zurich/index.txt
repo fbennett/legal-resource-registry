@@ -1,0 +1,3 @@
+.. category:: Zurich
+   :category-id: ch:zurich
+

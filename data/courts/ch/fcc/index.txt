@@ -1,0 +1,3 @@
+.. court:: Bundesstrafgericht
+   :court-id: ch;fcc
+   :url: http://www.lexadin.nl/wlg/courts/nofr/eur/lxctzwi.htm

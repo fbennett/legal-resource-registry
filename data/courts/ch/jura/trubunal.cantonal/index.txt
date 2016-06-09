@@ -1,0 +1,3 @@
+.. court:: Trubunal cantonal
+   :court-id: ch:jura;trubunal.cantonal
+   :url: http://www.lexadin.nl/wlg/courts/nofr/eur/lxctzwi.htm

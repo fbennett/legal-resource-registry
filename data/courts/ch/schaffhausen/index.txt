@@ -1,0 +1,3 @@
+.. category:: Schaffhausen
+   :category-id: ch:schaffhausen
+

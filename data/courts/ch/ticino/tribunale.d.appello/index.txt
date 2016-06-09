@@ -1,0 +1,3 @@
+.. court:: Tribunale d'appello
+   :court-id: ch:ticino;tribunale.d.appello
+   :url: http://www.lexadin.nl/wlg/courts/nofr/eur/lxctzwi.htm

@@ -1,0 +1,3 @@
+.. category:: Glarus
+   :category-id: ch:glarus
+

@@ -1,0 +1,3 @@
+.. court:: Tribunal cantonal
+   :court-id: ch:fribourg;tribunal.cantonal
+   :url: http://www.lexadin.nl/wlg/courts/nofr/eur/lxctzwi.htm

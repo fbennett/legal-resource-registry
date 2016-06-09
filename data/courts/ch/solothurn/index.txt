@@ -1,0 +1,3 @@
+.. category:: Solothurn
+   :category-id: ch:solothurn
+

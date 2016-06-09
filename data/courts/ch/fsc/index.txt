@@ -1,0 +1,3 @@
+.. court:: Sweizerisches Bundesgericht
+   :court-id: ch;fsc
+   :url: http://www.lexadin.nl/wlg/courts/nofr/eur/lxctzwi.htm

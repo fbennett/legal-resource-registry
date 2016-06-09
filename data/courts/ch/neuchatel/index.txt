@@ -1,0 +1,3 @@
+.. category:: Neuchatel
+   :category-id: ch:neuchatel
+

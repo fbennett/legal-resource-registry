@@ -1,0 +1,3 @@
+.. category:: Valais
+   :category-id: ch:valais
+

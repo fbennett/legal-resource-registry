@@ -1,0 +1,3 @@
+.. category:: Schwyz
+   :category-id: ch:schwyz
+

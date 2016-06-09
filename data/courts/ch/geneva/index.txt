@@ -1,0 +1,3 @@
+.. category:: Geneva
+   :category-id: ch:geneva
+

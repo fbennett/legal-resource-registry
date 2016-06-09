@@ -1,0 +1,3 @@
+.. category:: Thurgau
+   :category-id: ch:thurgau
+

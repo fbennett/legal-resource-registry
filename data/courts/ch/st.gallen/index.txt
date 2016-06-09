@@ -1,0 +1,3 @@
+.. category:: St-Gallen
+   :category-id: ch:st.gallen
+

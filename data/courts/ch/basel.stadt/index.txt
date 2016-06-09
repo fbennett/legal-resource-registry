@@ -1,0 +1,3 @@
+.. category:: Basel-Stadt
+   :category-id: ch:basel.stadt
+

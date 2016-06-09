@@ -1,0 +1,3 @@
+.. category:: Aargau
+   :category-id: ch:aargau
+

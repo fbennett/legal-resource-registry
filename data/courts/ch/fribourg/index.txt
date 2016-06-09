@@ -1,0 +1,3 @@
+.. category:: Fribourg
+   :category-id: ch:fribourg
+
