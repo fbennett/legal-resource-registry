@@ -103,7 +103,10 @@ class SourceWalker(Utils):
     def __init__(self, writePages=False, writeSpreadsheets=False, jurisdiction=None):
         self.writePages = writePages
         self.writeSpreadsheets = writeSpreadsheets
-        self.jurisdiction = jurisdiction
+        if jurisdiction:
+            self.jurisdiction = jurisdiction.split(',')
+        else:
+            self.jurisdiction = None
 
         self.pages = {}
         self.addTopPages()
@@ -144,11 +147,12 @@ class SourceWalker(Utils):
         if not self.jurisdiction:
             return True
         keyLst = key.split('/')[0:-1]
-        jurisdictionLst = self.jurisdiction.replace(';', '/').replace(':', '/').split('/')
-        keyLst = keyLst[0:len(jurisdictionLst)]
-        jurisdictionLst = jurisdictionLst[0:len(keyLst)]
-        if '/'.join(keyLst) == '/'.join(jurisdictionLst):
-            return True
+        for jurisdiction in self.jurisdiction:
+            jurisdictionLst = jurisdiction.replace(';', '/').replace(':', '/').split('/')
+            keyLst = keyLst[0:len(jurisdictionLst)]
+            jurisdictionLst = jurisdictionLst[0:len(keyLst)]
+            if '/'.join(keyLst) == '/'.join(jurisdictionLst):
+                return True
         return False
     
     def checkReporters(self, pth, page_name):
@@ -199,7 +203,7 @@ class SourceWalker(Utils):
 
             urnLex = self.joinUrn(dirpath.split(os.path.sep)[self.stubLen-1:])
 
-            if self.jurisdiction and len(urnLex.split(":")) == 1 and urnLex.split(":")[0] != self.jurisdiction:
+            if self.jurisdiction and len(urnLex.split(":")) == 1 and urnLex.split(":")[0] not in self.jurisdiction:
                 for dirname in range(len(dirnames)-1,-1,-1):
                     dirnames.pop()
 
@@ -461,7 +465,7 @@ if __name__ == "__main__":
                       help='Write spreadsheet ouput (default is False).')
     parser.add_option("-j", "--jurisdiction", dest="jurisdiction",
                       default=None,
-                      help='Limit processing to specified jurisdiction.')
+                      help='Limit processing to specified jurisdictions (comma-delimiter).')
 
     (opt, args) = parser.parse_args()
 

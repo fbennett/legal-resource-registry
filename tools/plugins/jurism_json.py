@@ -2,6 +2,8 @@ from LRR import Hook as HookBase
 from LRR.utils import Utils
 import json
 
+## Builds jurisdictions.json for jurism/resources/schema/jurisdictions.json
+
 countries = json.loads(open("tools/country-names.json").read())
 
 class Data:
@@ -72,7 +74,7 @@ class Hook(HookBase, Utils):
             name = self.data.courts[key]
             srcList.append([key, name])
         srcList.sort(sortTheList)
-        fh = open("rebuild-ids/mlz-jurisdictions.json", "w+")
+        fh = open("rebuild-ids/jurisdictions.json", "w+")
         output = {
             "jurisdictions":[],
             "courtNames": [],
