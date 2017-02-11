@@ -1,3 +1,0 @@
-.. court:: 法院
-   :court-id: cn:xinjiang:bing.tuan:di.shi.shi:bei.tun.ken.qu;fa.yuan
-   :en: District Court

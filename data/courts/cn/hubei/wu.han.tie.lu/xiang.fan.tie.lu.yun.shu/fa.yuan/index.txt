@@ -1,3 +1,0 @@
-.. court:: 法院
-   :court-id: cn:hubei:wu.han.tie.lu:xiang.fan.tie.lu.yun.shu;fa.yuan
-   :en: District Court

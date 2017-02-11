@@ -1,3 +1,0 @@
-.. court:: 法院
-   :court-id: cn:anhui:su.zhou.shi:yong.qiao.qu;fa.yuan
-   :en: District Court

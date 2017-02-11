@@ -1,3 +1,0 @@
-.. court:: 法院
-   :court-id: cn:guizhou:qian.dong.nan.zhou:jian.he.xian.ren.min;fa.yuan
-   :en: District Court

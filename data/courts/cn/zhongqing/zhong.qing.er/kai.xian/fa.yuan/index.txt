@@ -1,3 +1,0 @@
-.. court:: 法院
-   :court-id: cn:zhongqing:zhong.qing.er:kai.xian;fa.yuan
-   :en: District Court

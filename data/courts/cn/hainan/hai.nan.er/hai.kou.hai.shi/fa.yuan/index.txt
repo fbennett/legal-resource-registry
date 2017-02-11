@@ -1,3 +1,0 @@
-.. court:: 法院
-   :court-id: cn:hainan:hai.nan.er:hai.kou.hai.shi;fa.yuan
-   :en: District Court

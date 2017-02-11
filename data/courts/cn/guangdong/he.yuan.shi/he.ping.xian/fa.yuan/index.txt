@@ -1,3 +1,0 @@
-.. court:: 法院
-   :court-id: cn:guangdong:he.yuan.shi:he.ping.xian;fa.yuan
-   :en: District Court

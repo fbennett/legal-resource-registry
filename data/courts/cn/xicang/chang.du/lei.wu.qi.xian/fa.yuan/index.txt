@@ -1,3 +1,0 @@
-.. court:: 法院
-   :court-id: cn:xicang:chang.du:lei.wu.qi.xian;fa.yuan
-   :en: District Court

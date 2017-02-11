@@ -1,3 +1,0 @@
-.. court:: 法院
-   :court-id: cn:liaoning:chen.yang.tie.lu:dan.dong.tie.lu.yun.shu;fa.yuan
-   :en: District Court

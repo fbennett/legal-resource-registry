@@ -1,3 +1,0 @@
-.. court:: 法院
-   :court-id: cn:jilin:chang.chun.shi:chang.chun.zhao.yang;fa.yuan
-   :en: District Court

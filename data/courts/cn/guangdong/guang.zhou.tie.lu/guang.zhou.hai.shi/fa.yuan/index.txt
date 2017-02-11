@@ -1,3 +1,0 @@
-.. court:: 法院
-   :court-id: cn:guangdong:guang.zhou.tie.lu:guang.zhou.hai.shi;fa.yuan
-   :en: District Court

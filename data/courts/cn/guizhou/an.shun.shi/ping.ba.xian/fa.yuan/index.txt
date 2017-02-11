@@ -1,3 +1,0 @@
-.. court:: 法院
-   :court-id: cn:guizhou:an.shun.shi:ping.ba.xian;fa.yuan
-   :en: District Court

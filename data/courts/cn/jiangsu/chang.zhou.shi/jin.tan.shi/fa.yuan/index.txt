@@ -1,3 +1,0 @@
-.. court:: 法院
-   :court-id: cn:jiangsu:chang.zhou.shi:jin.tan.shi;fa.yuan
-   :en: District Court

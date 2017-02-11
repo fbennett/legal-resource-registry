@@ -1,3 +1,0 @@
-.. court:: 法院
-   :court-id: cn:tianjin:tian.jin.er:han.gu;fa.yuan
-   :en: District Court

@@ -1,3 +1,0 @@
-.. court:: 法院
-   :court-id: cn:shanghai:shang.hai.tie.lu:bang.bu.tie.lu.yun.shu;fa.yuan
-   :en: District Court

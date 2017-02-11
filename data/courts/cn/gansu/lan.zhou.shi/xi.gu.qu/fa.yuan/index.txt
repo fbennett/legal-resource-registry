@@ -1,3 +1,0 @@
-.. court:: 法院
-   :court-id: cn:gansu:lan.zhou.shi:xi.gu.qu;fa.yuan
-   :en: District Court

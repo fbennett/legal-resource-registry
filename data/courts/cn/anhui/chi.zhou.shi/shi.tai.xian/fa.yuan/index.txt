@@ -1,3 +1,0 @@
-.. court:: 法院
-   :court-id: cn:anhui:chi.zhou.shi:shi.tai.xian;fa.yuan
-   :en: District Court

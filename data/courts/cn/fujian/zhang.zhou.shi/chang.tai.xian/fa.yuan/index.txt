@@ -1,3 +1,0 @@
-.. court:: 法院
-   :court-id: cn:fujian:zhang.zhou.shi:chang.tai.xian;fa.yuan
-   :en: District Court

@@ -1,3 +1,0 @@
-.. court:: 法院
-   :court-id: cn:heilongjiang:qi.qi.ha.er.shi:tie.feng.qu;fa.yuan
-   :en: District Court

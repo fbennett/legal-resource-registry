@@ -1,3 +1,0 @@
-.. court:: 法院
-   :court-id: cn:zhejiang:wen.zhou.shi:dong.tou.xian;fa.yuan
-   :en: District Court
