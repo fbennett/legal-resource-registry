@@ -1,0 +1,4 @@
+.. court:: Army Court of Criminal Appeals
+   :court-id: us:c;army.court.criminal.appeals
+   :url: https://www.jagcnet.army.mil/ACCA
+   :flp-key: acca
