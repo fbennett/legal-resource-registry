@@ -1,4 +1,4 @@
-.. court:: Appellate Division of the Supreme Court of the State
+.. court:: Appellate Division of the Supreme Court
    :court-id: us:ny;appellate.division.supreme.court.state
    :url: http://www.courts.state.ny.us/courts/appellatedivisions.shtml‎
    :flp-key: nyappdiv
