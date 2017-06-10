@@ -1,0 +1,4 @@
+.. court:: Tax Court
+   :court-id: us:or;tax.court
+   :url: http://courts.oregon.gov/Tax/Pages/index.aspx
+   :flp-key: ortc

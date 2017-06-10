@@ -1,0 +1,4 @@
+.. court:: Attorney General
+   :court-id: us:ny;attorney.general
+   :url: http://www.ag.ny.gov/
+   :flp-key: nyag

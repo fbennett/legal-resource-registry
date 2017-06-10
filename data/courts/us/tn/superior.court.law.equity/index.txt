@@ -1,0 +1,4 @@
+.. court:: Superior Court for Law and Equity
+   :court-id: us:tn;superior.court.law.equity
+   :url: https://familysearch.org/wiki/en/Tennessee_Court_Records
+   :flp-key: tennsuperct

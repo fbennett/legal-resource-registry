@@ -1,4 +1,0 @@
-.. court:: Armed Services Board of Contract Appeals
-   :court-id: us:c;armed.services.board.contract.appeals
-   :url: http://www.asbca.mil/
-   :flp-key: asbca

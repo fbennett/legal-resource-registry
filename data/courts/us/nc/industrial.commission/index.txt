@@ -1,0 +1,5 @@
+.. court:: Industrial Commission
+   :court-id: us:nc;industrial.commission
+   :url: http://www.ic.nc.gov/
+   :flp-key: ncworkcompcom
+

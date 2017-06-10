@@ -1,0 +1,5 @@
+.. court:: Attorney General
+   :court-id: us:md;attorney.general
+   :url: https://www.oag.state.md.us/
+   :flp-key: mdag
+

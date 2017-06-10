@@ -1,0 +1,12 @@
+.. court:: Tax Court
+   :court-id: us:fed;tax.court
+   :url: http://www.ustaxcourt.gov/
+   :flp-key: tax
+
+   .. reporter-key:: B.T.A.
+
+   .. reporter-key:: B.T.A.M. (P-H)
+
+   .. reporter-key:: T.C.
+
+   .. reporter-key:: T.C.M.

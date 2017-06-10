@@ -1,0 +1,4 @@
+.. court:: District Court
+   :court-id: us:ma;district.court
+   :url: http://www.mass.gov/courts/court-info/trial-court/dc/
+   :flp-key: massdistct

@@ -1,0 +1,4 @@
+.. court:: Appellate Terms of the Supreme Court
+   :court-id: us:ny;appellate.term.supreme.court
+   :url: https://www.nycourts.gov/courts/1jd/supctmanh/appellate_term.shtml
+   :flp-key: nyappterm

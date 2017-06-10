@@ -1,0 +1,4 @@
+.. court:: Court of Chancery
+   :court-id: us:nj;court.chancery
+   :url: http://www.nj.gov/state/archives/catsjchance.html
+   :flp-key: njch

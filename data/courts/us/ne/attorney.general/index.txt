@@ -1,0 +1,4 @@
+.. court:: Attorney General
+   :court-id: us:ne;attorney.general
+   :url: https://ago.nebraska.gov/
+   :flp-key: nebag

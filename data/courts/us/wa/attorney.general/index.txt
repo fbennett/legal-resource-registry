@@ -1,0 +1,5 @@
+.. court:: Attorney General
+   :court-id: us:wa;attorney.general
+   :url: http://www.atg.wa.gov/
+   :flp-key: washag
+

@@ -1,0 +1,8 @@
+.. court:: Court of Appeals for the Armed Forces
+   :court-id: us:fed;court.appeals.armed.forces
+   :url: http://www.armfor.uscourts.gov/
+   :flp-key: armfor
+
+   .. reporter-key:: C.M.A.
+
+   .. reporter-key:: M.J.

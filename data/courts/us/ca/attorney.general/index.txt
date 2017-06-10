@@ -1,0 +1,4 @@
+.. court:: Attorney General
+   :court-id: us:ca;attorney.general
+   :url: https://oag.ca.gov/
+   :flp-key: calag

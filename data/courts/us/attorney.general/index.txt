@@ -1,5 +1,0 @@
-.. court:: United States Attorneys General
-   :court-id: us;attorney.general
-   :url: https://www.justice.gov/olc/opinions-main
-   :flp-key: ag
-

@@ -1,0 +1,4 @@
+.. court:: Appellate Division of the Superior Court
+   :court-id: us:ca;appellate.division.superior.court
+   :url: http://www.courts.ca.gov/12430.htm
+   :flp-key: calappdeptsuper

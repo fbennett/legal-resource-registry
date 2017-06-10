@@ -1,0 +1,4 @@
+.. court:: Attorney General
+   :court-id: us:tx;attorney.general
+   :url: https://texasattorneygeneral.gov/
+   :flp-key: texag

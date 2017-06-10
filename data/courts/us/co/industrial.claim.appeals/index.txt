@@ -1,0 +1,4 @@
+.. court:: Industrial Claim Appeals Office
+   :court-id: us:co;industrial.claim.appeals
+   :url: https://www.colorado.gov/pacific/cdle/icao-wc
+   :flp-key: coloworkcompcom

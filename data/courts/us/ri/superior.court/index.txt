@@ -1,0 +1,5 @@
+.. court:: Superior Court
+   :court-id: us:ri;superior.court
+   :url: http://www.courts.ri.gov/courts/supremecourt/default.aspx
+   :flp-key: risuperct
+

@@ -1,2 +1,2 @@
 .. court:: D. Alabama
-   :court-id: us:c11:al.d
+   :court-id: us:c11;al.d

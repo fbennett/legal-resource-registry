@@ -1,0 +1,2 @@
+.. category:: New York City
+   :category-id: us:ny:nyc

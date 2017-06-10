@@ -1,0 +1,5 @@
+.. court:: Attorney General
+   :court-id: us:ar;attorney.general
+   :url: http://www.arkansasag.gov/
+   :flp-key: arkag
+

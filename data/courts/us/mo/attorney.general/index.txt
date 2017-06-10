@@ -1,0 +1,4 @@
+.. court:: Attorney General
+   :court-id: us:mo;attorney.general
+   :url: https://www.ago.mo.gov/
+   :flp-key: moag

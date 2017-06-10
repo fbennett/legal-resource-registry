@@ -1,0 +1,4 @@
+.. court:: Tax Appeal Board
+   :court-id: us:mt;tax.appeal.board
+   :url: http://mtab.mt.gov/
+   :flp-key: monttc

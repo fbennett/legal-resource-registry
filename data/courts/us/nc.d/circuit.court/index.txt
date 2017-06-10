@@ -1,0 +1,5 @@
+.. court:: Circuit Court
+   :court-id: us:nc.d;circuit.court
+   :url: http://www.fjc.gov/history/home.nsf/page/courts_circuit_nc.html
+   :flp-key: circtnc
+

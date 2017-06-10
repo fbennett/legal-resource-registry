@@ -1,0 +1,4 @@
+.. court:: Civil Court
+   :court-id: us:ny:nyc;civil.court
+   :url: https://www.nycourts.gov/COURTS/nyc/civil/index.shtml
+   :flp-key: nycivct

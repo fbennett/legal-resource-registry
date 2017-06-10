@@ -1,4 +1,0 @@
-.. court:: Foreign Intelligence Surveillance Court of Review
-   :court-id: us:c;foreign.intelligence.surveillance.court.review
-   :url: http://www.fisc.uscourts.gov/
-   :flp-key: fiscr

@@ -1,4 +1,0 @@
-.. court:: 
-   :court-id: 
-   :url: 
-   :flp-key:

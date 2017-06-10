@@ -1,4 +1,0 @@
-.. court:: Judicial Panel on Multidistrict Litigation
-   :court-id: us:c;judicial.panel.multidistrict.litigation
-   :url: http://www.jpml.uscourts.gov/
-   :flp-key: jpml

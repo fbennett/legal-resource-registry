@@ -1,0 +1,4 @@
+.. court:: Compensation Review Board
+   :court-id: us:ct;compensation.review.board
+   :url: http://wcc.state.ct.us/crb/menus/crb-opin.htm
+   :flp-key: connworkcompcom

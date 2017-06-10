@@ -1,4 +1,0 @@
-.. court:: Temporary Emergency Court of Appeals
-   :court-id: us:c;temporary.emergency.court.appeals
-   :url: http://www.fjc.gov/history/home.nsf/page/courts_special_tecoa.html
-   :flp-key: tecoa

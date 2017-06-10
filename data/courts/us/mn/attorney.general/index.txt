@@ -1,0 +1,4 @@
+.. court:: Attorney General
+   :court-id: us:mn;attorney.general
+   :url: http://www.ag.state.mn.us/office/opinions/DATE.asp
+   :flp-key: minnag

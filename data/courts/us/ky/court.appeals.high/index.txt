@@ -1,0 +1,4 @@
+.. court:: Court of Appeals of Kentucky
+   :court-id: us:ky;court.appeals.high
+   :url: http://courts.ky.gov/courts/coa/Pages/coa.aspx
+   :flp-key: kyctapphigh

@@ -1,0 +1,4 @@
+.. court:: Criminal Court
+   :court-id: us:ny:nyc;criminal.court
+   :url: https://www.nycourts.gov/courts/nyc/criminal/
+   :flp-key: nycrimct

@@ -1,0 +1,5 @@
+.. court:: Attorney General
+   :court-id: us:la;attorney.general
+   :url: https://www.ag.state.la.us/
+   :flp-key: laag
+

@@ -1,0 +1,5 @@
+.. court:: Workers Compensation Commission
+   :court-id: us:ar;workers.compensation.commission
+   :url: http://www.awcc.state.ar.us/
+   :flp-key: arkworkcompcom
+

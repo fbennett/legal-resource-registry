@@ -1,4 +1,0 @@
-.. court:: Judicial Conference Committee
-   :court-id: us:c;judicial.conference.committee
-   :url: http://www.uscourts.gov/FederalCourts/JudicialConference/Committees.aspx
-   :flp-key: usjc

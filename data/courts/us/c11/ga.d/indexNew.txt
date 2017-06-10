@@ -1,2 +1,0 @@
-.. category:: Georgia
-   :category-id:

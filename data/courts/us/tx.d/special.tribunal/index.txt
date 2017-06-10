@@ -1,0 +1,4 @@
+.. court:: Special Tribunal
+   :court-id: us:tx.d;special.tribunal
+   :flp-key: sttex
+

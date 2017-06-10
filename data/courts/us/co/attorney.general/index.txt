@@ -1,0 +1,4 @@
+.. court:: Attorney General
+   :court-id: us:co;attorney.general
+   :url: http://coag.gov/
+   :flp-key: coloag

@@ -1,0 +1,4 @@
+.. court:: Attorney General
+   :court-id: us:wi;attorney.general
+   :url: https://docs.legis.wisconsin.gov/misc/oag
+   :flp-key: wisag

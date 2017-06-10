@@ -1,0 +1,5 @@
+.. court:: Attorney General
+   :court-id: us:ks;attorney.general
+   :url: http://ag.ks.gov/about-the-office/contact-us
+   :flp-key: kanag
+

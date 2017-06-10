@@ -1,2 +1,0 @@
-.. category:: New York
-   :category-id:

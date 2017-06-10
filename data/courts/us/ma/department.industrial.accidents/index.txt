@@ -1,0 +1,4 @@
+.. court:: Department of Industrial Accidents
+   :court-id: us:ma;department.industrial.accidents
+   :url: http://www.mass.gov/lwd/workers-compensation/
+   :flp-key: maworkcompcom
