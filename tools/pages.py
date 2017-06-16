@@ -1,4 +1,5 @@
 #!/usr/bin/python
+#-*- encoding: utf-8 -*-
 
 import re,sys,os,os.path,json
 
@@ -9,6 +10,7 @@ from docutils.core import publish_string
 from docutils.writers.html4css1 import Writer
 from rst4legalResourceRegistry import traveler
 from LRR import traveler, Utils, LRRWorkbook, HTMLTranslatorForLegalResourceRegistry
+import codecs
 
 scriptpath = os.path.dirname(sys.argv[0])
 rootpath = os.path.join(scriptpath, os.path.pardir)
@@ -18,7 +20,7 @@ rootpath = os.path.abspath(rootpath)
 #sys.path = [os.path.join(scriptpath, 'plugins')] + sys.path
 #sys.path = [os.path.join(scriptpath, 'LRR')] + sys.path
 
-countryNames = json.loads(open("tools/country-names.json").read())
+countryNames = json.loads(codecs.open("tools/country-names.json", "r", "utf-8").read())
 
 
 def countrySort(a, b):
@@ -69,7 +71,7 @@ class PageInfo:
                 self.setBreadcrumb(levelTitle, levelLst[i], title_en=levelTitle_en)
         if title_en:
             title = title + " :trans:`" + title_en + "`"
-        line = char * len(title)
+        line = char * len(title) * 2
         self.rst += "\n%s\n%s\n%s\n" % (line,title,line)
 
     def setBubbles(self):
@@ -141,7 +143,7 @@ class SourceWalker(Utils):
     def addTopPages(self):
         for fileName in ["home", "index", "contributors", "developers"]:
             filePath = os.path.join(rootpath,"doc-src","%s.rst" % fileName)
-            fileSrc = open(filePath).read()
+            fileSrc = codecs.open(filePath, "r", "utf-8").read()
             fileSrc = '\n.. raw:: html\n\n   <div class="larger">\n\n' + fileSrc
             fileSrc = self.addTabs(fileSrc, fileName)
             self.newPage("%s.html" % fileName, rstSrc=fileSrc)
@@ -159,14 +161,14 @@ class SourceWalker(Utils):
         return False
     
     def checkReporters(self, pth, page_name):
-        ifh = open(pth)
+        ifh = codes.open(pth, "r", "utf-8")
         while True:
             lline = ifh.readline()
             if not lline: break
             m = re.match("\s*\.\. reporter-key::\s+(.*)", lline)
             if m:
                 pth = self.reporterPathFromJurisdiction(traveler.rootPath, page_name, m.group(1))
-                txt = open(pth).read()
+                txt = codecs.open(pth, "r", "utf-8").read()
                 if self.checkCondition(traveler, txt):
                     ifh.close()
                     return True
@@ -218,8 +220,8 @@ class SourceWalker(Utils):
                 self.workbook = None
 
             def sortCourtsFirst(a, b):
-                aIsCourt = re.match("(?m)^\.\. court::", open(os.path.join(dirpath, a, "index.txt")).read())
-                bIsCourt = re.match("(?m)^\.\. court::", open(os.path.join(dirpath, b, "index.txt")).read())
+                aIsCourt = re.match("(?m)^\.\. court::", codecs.open(os.path.join(dirpath, a, "index.txt"), "r", "utf-8").read())
+                bIsCourt = re.match("(?m)^\.\. court::", codecs.open(os.path.join(dirpath, b, "index.txt"), "r", "utf-8").read())
                 am = re.match(".*?([0-9]+)$", a)
                 if (aIsCourt and not bIsCourt) or a == "zhong.yuan" or a == "supreme.court":
                     a = "0" + a
@@ -250,7 +252,7 @@ class SourceWalker(Utils):
             thisKey = os.path.sep.join((dirpath.split(os.path.sep) + ['index.html'])[self.stubLen-1:])
             parentKey = os.path.sep.join((os.path.split(dirpath)[0].split(os.path.sep) + ['index.html'])[self.stubLen-1:])
 
-            fh = open(os.path.join(dirpath, "index.txt"))
+            fh = codecs.open(os.path.join(dirpath, "index.txt"), "r", "utf-8")
             bubbleData = {
                 "title": None,
                 "en": None,
@@ -370,7 +372,7 @@ class SourceWalker(Utils):
         # sequence, passing the resulting top page to each in
         # turn.
         # Top page gets rendered last.
-        fh = open(os.path.join(rootpath,"doc-src/pages.txt"))
+        fh = codecs.open(os.path.join(rootpath,"doc-src/pages.txt"), "r", "utf-8")
         rst = None
         while 1:
             line = fh.readline()
@@ -411,12 +413,14 @@ class SourceWalker(Utils):
             "stylesheet": octicons + "," + css,
             "stylesheet_path": None,
             "embed_stylesheet": False,
-            "footnote_backlinks": True
+            "footnote_backlinks": True,
+            "input_encoding": "utf-8"
             }
         src = src + '\n.. raw:: html\n\n   </div>\n'
+
         html = publish_string(src, reader=None, reader_name='standalone', writer=writer, settings_overrides=options)
         if self.writePages:
-            open(pubpath,"w+").write(html)
+            codecs.open(pubpath, "w+", "utf-8").write(html)
         
     def dump(self):
         if traveler.hook.opt.conditional:
