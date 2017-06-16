@@ -2,6 +2,9 @@
 
 import re,sys,os,os.path,json
 
+reload(sys)
+sys.setdefaultencoding('utf8')
+
 from docutils.core import publish_string
 from docutils.writers.html4css1 import Writer
 from rst4legalResourceRegistry import traveler
