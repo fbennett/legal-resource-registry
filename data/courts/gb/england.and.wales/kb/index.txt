@@ -1,0 +1,3 @@
+.. court:: King's Bench
+   :court-id: gb:england.and.wales;kb
+   :flp-key: kingsbench
