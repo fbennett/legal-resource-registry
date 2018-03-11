@@ -1,0 +1,2 @@
+.. court:: Employment Relations Authority
+   :court-id: nz;employment.relations.authority

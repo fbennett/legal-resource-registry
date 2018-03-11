@@ -1,0 +1,2 @@
+.. court:: Immigration Advisers Complaints Disciplinary Tribunal
+   :court-id: nz;immigration.advisers.complaints.disciplinary.tribunal

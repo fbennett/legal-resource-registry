@@ -1,0 +1,2 @@
+.. category:: New Plymouth
+   :category-id: nz:new.plymouth

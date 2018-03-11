@@ -1,0 +1,2 @@
+.. category:: Auckland
+   :category-id: nz:auckland

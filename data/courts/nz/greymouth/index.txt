@@ -1,0 +1,2 @@
+.. category:: Greymouth
+   :category-id: nz:greymouth

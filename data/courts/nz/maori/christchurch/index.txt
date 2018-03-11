@@ -1,0 +1,2 @@
+.. category:: Christchurch
+   :category-id: nz:maori:christchurch

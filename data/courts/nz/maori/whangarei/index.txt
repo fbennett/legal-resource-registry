@@ -1,0 +1,2 @@
+.. category:: Whangarei
+   :category-id: nz:maori:whangarei

@@ -1,0 +1,2 @@
+.. category:: Tauranga
+   :category-id: nz:tauranga

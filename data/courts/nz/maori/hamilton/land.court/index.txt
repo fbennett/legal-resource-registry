@@ -1,0 +1,2 @@
+.. court:: Land Court
+   :court-id: nz:maori:hamilton;land.court

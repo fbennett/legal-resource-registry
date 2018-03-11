@@ -1,0 +1,2 @@
+.. category:: Rotorua
+   :category-id: nz:maori:rotorua

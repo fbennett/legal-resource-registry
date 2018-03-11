@@ -1,0 +1,2 @@
+.. court:: Broadcasting Standards Authority
+   :court-id: nz;broadcasting.standards.authority

@@ -1,3 +1,2 @@
-.. category:: Maori Jurisdiction
+.. category:: Maori Land Court Jurisdiction
    :category-id: nz:maori
-

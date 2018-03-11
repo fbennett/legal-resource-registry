@@ -1,0 +1,2 @@
+.. court:: Human Rights Review Tribunal
+   :court-id: nz;human.rights.review.tribunal

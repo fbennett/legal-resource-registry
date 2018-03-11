@@ -1,0 +1,2 @@
+.. category:: Masterton
+   :category-id: nz:masterton

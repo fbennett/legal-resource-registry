@@ -1,0 +1,2 @@
+.. category:: Gisborne
+   :category-id: nz:gisborne

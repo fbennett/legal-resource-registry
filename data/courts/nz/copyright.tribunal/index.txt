@@ -1,0 +1,2 @@
+.. court:: Copyright Tribunal
+   :court-id: nz;copyright.tribunal

@@ -1,0 +1,2 @@
+.. category:: Hastings
+   :category-id: nz:maori:hastings

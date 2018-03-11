@@ -1,0 +1,2 @@
+.. category:: Wellington
+   :category-id: nz:wellington

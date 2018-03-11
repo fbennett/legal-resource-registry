@@ -1,0 +1,2 @@
+.. category:: Whanganui
+   :category-id: nz:whanganui

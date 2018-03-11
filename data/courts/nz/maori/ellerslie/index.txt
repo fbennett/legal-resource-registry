@@ -1,0 +1,2 @@
+.. category:: Ellerslie
+   :category-id: nz:maori:ellerslie

@@ -1,0 +1,2 @@
+.. category:: Palmerston North
+   :category-id: nz:palmerston.north

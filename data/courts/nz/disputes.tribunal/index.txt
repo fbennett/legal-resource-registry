@@ -1,0 +1,2 @@
+.. court:: Disputes Tribunal
+   :court-id: nz;disputes.tribunal
