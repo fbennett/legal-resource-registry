@@ -1,2 +1,0 @@
-.. court:: Tenancy Tribunal
-   :court-id: nz;tenancy.tribunal

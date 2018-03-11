@@ -1,2 +1,0 @@
-.. court:: Liquor Licensing Authority
-   :court-id: nz;liquor.licensing.authority

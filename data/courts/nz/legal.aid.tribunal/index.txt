@@ -1,2 +1,0 @@
-.. court:: Legal Aid Tribunal
-   :court-id: nz;legal.aid.tribunal

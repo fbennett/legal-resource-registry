@@ -1,2 +1,0 @@
-.. court:: Court Appeal
-   :court-id: nz;court.appeal

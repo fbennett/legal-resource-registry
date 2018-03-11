@@ -1,2 +1,0 @@
-.. court:: Weathertight Homes Tribunal
-   :court-id: nz;weathertight.homes.tribunal

@@ -1,2 +1,0 @@
-.. court:: Private Security Personnel Licensing Authority
-   :court-id: nz;private.security.personnel.licensing.authority

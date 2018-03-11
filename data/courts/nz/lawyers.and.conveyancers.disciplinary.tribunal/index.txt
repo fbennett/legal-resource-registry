@@ -1,2 +1,0 @@
-.. court:: Lawyers And Conveyancers Disciplinary Tribunal
-   :court-id: nz;lawyers.and.conveyancers.disciplinary.tribunal

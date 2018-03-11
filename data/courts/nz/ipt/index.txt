@@ -1,0 +1,2 @@
+.. court:: Immigration And Protection Tribunal
+   :court-id: nz;ipt

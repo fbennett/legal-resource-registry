@@ -1,2 +1,0 @@
-.. court:: Social Security Appeal Authority
-   :court-id: nz;social.security.appeal.authority

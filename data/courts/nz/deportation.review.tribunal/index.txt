@@ -1,2 +1,0 @@
-.. court:: Deportation Review Tribunal
-   :court-id: nz;deportation.review.tribunal

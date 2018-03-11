@@ -1,2 +1,0 @@
-.. court:: Taxation Review Authority
-   :court-id: nz;taxation.review.authority

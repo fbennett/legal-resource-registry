@@ -1,2 +1,0 @@
-.. court:: Motor Vehicle Disputes Tribunal
-   :court-id: nz;motor.vehicle.disputes.tribunal

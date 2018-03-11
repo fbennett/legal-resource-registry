@@ -1,2 +1,0 @@
-.. court:: Mental Health Review Tribunal
-   :court-id: nz;mental.health.review.tribunal

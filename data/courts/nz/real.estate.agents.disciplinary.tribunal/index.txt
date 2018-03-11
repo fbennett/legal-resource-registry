@@ -1,2 +1,0 @@
-.. court:: Real Estate Agents Disciplinary Tribunal
-   :court-id: nz;real.estate.agents.disciplinary.tribunal

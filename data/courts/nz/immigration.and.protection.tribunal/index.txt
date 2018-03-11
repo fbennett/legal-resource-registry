@@ -1,2 +1,0 @@
-.. court:: Immigration And Protection Tribunal
-   :court-id: nz;immigration.and.protection.tribunal

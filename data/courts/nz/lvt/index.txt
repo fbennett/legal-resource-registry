@@ -1,0 +1,2 @@
+.. court:: Land Valuation Tribunal
+   :court-id: nz;lvt

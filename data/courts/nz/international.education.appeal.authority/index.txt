@@ -1,2 +1,0 @@
-.. court:: International Education Appeal Authority
-   :court-id: nz;international.education.appeal.authority

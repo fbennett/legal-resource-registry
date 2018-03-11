@@ -1,2 +1,0 @@
-.. court:: Accident Compensation Appeal Authority
-   :court-id: nz;accident.compensation.appeal.authority

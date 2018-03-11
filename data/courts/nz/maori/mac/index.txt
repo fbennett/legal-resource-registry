@@ -1,0 +1,2 @@
+.. court:: Maori Appellate Court
+   :court-id: nz:maori;mac

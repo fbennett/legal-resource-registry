@@ -1,2 +1,0 @@
-.. court:: Licensing Authority Of Secondhand Dealers And Pawnbrokers
-   :court-id: nz;licensing.authority.of.secondhand.dealers.and.pawnbrokers
