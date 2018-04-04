@@ -1,4 +1,4 @@
-.. court:: Court of Appeals for the D.C. Circuit
+.. court:: Court of Appeals
    :court-id: us:c0;court.appeals
    :url: http://www.cadc.uscourts.gov/
    :flp-key: cadc
