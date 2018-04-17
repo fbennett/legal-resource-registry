@@ -1,0 +1,5 @@
+.. court:: Cour de Justice|Seventh Chamber
+   :court-id: eu.int:cjeu;ecj~chamber.7
+   :en: Court of Justice
+   :url: http://curia.europa.eu/jcms/jcms/Jo2_7026/
+

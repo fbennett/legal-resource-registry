@@ -1,0 +1,5 @@
+.. court:: Cour de Justice|Fifth Chamber
+   :court-id: eu.int:cjeu;ecj~chamber.5
+   :en: Court of Justice
+   :url: http://curia.europa.eu/jcms/jcms/Jo2_7026/
+
