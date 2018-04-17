@@ -1,5 +1,5 @@
 .. court:: Cour de Justice|Fourth Chamber
    :court-id: eu.int:cjeu;ecj~chamber.4
-   :en: Court of Justice
+   :en: Court of Justice|Fourth Chamber
    :url: http://curia.europa.eu/jcms/jcms/Jo2_7026/
 

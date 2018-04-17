@@ -1,5 +1,5 @@
 .. court:: Cour de Justice|Ninth Chamber
    :court-id: eu.int:cjeu;ecj~chamber.9
-   :en: Court of Justice
+   :en: Court of Justice|Ninth Chamber
    :url: http://curia.europa.eu/jcms/jcms/Jo2_7026/
 

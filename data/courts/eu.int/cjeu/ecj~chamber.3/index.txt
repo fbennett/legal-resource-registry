@@ -1,5 +1,5 @@
 .. court:: Cour de Justice|Third Chamber
    :court-id: eu.int:cjeu;ecj~chamber.3
-   :en: Court of Justice
+   :en: Court of Justice|Third Chamber
    :url: http://curia.europa.eu/jcms/jcms/Jo2_7026/
 

@@ -1,5 +1,5 @@
 .. court:: Cour de Justice|Sixth Chamber
    :court-id: eu.int:cjeu;ecj~chamber.6
-   :en: Court of Justice
+   :en: Court of Justice|Sixth Chamber
    :url: http://curia.europa.eu/jcms/jcms/Jo2_7026/
 
