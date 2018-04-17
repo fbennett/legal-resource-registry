@@ -1,5 +1,5 @@
 .. court:: Attorney General
-   :court-id: eu.int:cjeu;ecj
+   :court-id: eu.int:cjeu;ag
    :en: Attorney General
    :url: http://curia.europa.eu/jcms/jcms/Jo2_7026/
 
