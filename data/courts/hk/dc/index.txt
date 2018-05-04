@@ -1,0 +1,4 @@
+.. court:: District Court
+   :court-id: hk;dc
+   :en: District Court
+   :zh-tw: 區域法院
