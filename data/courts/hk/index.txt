@@ -1,0 +1,2 @@
+.. category:: Hong Kong
+   :category-id: hk
