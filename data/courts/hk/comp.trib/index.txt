@@ -1,0 +1,5 @@
+.. court:: Competition Tribunal
+   :court-id: hk;comp.trib
+   :url: http://www.comptribunal.hk
+   :en: Competition Tribunal
+   :zh-tw: 競爭事務審裁處
