@@ -1,4 +1,4 @@
 .. court:: Lands Tribunal
-   :court-id: hk;land.trib
+   :court-id: hk;lands.trib
    :en: Lands Tribunal
    :zh-tw: 土地審裁處
