@@ -1,0 +1,5 @@
+.. court:: Court of Final Appeal
+   :court-id: hk;cfa
+   :url: http://www.hkcfa.hk
+   :en: Court of Final Appeal
+   :zh-tw: 終審法院
