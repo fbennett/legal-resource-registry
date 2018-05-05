@@ -1,0 +1,5 @@
+
+.. court:: Tribunal Judicial de Base|Juízo de Família e de Menores
+   :court-id: mo;tjb.jfm
+   :en: Family and Minors Division
+   :zh-tw: 家庭及未成年人法庭
