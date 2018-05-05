@@ -1,4 +1,4 @@
-.. court:: 高院
+.. court:: 高级人民法院
    :court-id: cn:qinghai;gao.yuan
    :en: High Court
    :url: http://qhfy.chinacourt.org/&usg=ALkJrhiRQnYJEkoKz26OClkEfBjbYpdFNQ

@@ -1,4 +1,4 @@
-.. court:: 中院
+.. court:: 中级人民法院
    :court-id: cn:jiangxi:xin.yu.shi;zhong.yuan
    :en: Intermediate Court
    :url: http://xyzy.chinacourt.org/&usg=ALkJrhi-sfVzMbtWWJ-N4TQP-9Hmae2t6g

@@ -1,3 +1,3 @@
-.. court:: 中院
+.. court:: 中级人民法院
    :court-id: cn:heilongjiang:da.qing.shi;zhong.yuan
    :en: Intermediate Court

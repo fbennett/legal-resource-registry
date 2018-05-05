@@ -1,4 +1,4 @@
-.. court:: 中院
+.. court:: 中级人民法院
    :court-id: cn:xicang:a.li;zhong.yuan
    :en: Intermediate Court
    :url: http://alzy.chinacourt.org/&usg=ALkJrhjdzncZnx3g1ipr76FqNypqkOiwmQ

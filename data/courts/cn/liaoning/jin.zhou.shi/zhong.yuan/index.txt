@@ -1,4 +1,4 @@
-.. court:: 中院
+.. court:: 中级人民法院
    :court-id: cn:liaoning:jin.zhou.shi;zhong.yuan
    :en: Intermediate Court
    :url: http://lnjzzy.chinacourt.org/&usg=ALkJrhji1zIkWMoLNn_KdB5810eA-NFJ9w

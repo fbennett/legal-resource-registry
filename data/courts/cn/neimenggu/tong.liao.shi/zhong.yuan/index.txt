@@ -1,4 +1,4 @@
-.. court:: 中院
+.. court:: 中级人民法院
    :court-id: cn:neimenggu:tong.liao.shi;zhong.yuan
    :en: Intermediate Court
    :url: http://tlzy.chinacourt.org/&usg=ALkJrhi65c59WP1xIHQB4uI0IpF26LAOWQ

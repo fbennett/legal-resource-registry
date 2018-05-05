@@ -1,4 +1,4 @@
-.. court:: 中院
+.. court:: 中级人民法院
    :court-id: cn:fujian:fu.tian.shi;zhong.yuan
    :en: Intermediate Court
    :url: http://ptzy.chinacourt.org/&usg=ALkJrhgJFiSzK2eya8V5AMdNwsDZRQp8yw

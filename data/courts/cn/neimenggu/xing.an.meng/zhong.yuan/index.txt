@@ -1,4 +1,4 @@
-.. court:: 中院
+.. court:: 中级人民法院
    :court-id: cn:neimenggu:xing.an.meng;zhong.yuan
    :en: Intermediate Court
    :url: http://xamzy.chinacourt.org/&usg=ALkJrhjGt2MEuPZGhhSbJSKNoE8IjwQ6iA
