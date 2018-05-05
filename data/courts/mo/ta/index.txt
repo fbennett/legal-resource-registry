@@ -1,0 +1,4 @@
+.. court:: Tribunal Administrativo
+   :court-id: mo;ta
+   :en: Adminsitrative Court
+   :zh-tw: 行政法院
