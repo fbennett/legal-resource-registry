@@ -1,4 +1,0 @@
-.. court:: Juízos Cíveis
-   :court-id: mo;tjb.jc
-   :en: Civil Court
-   :zh-tw: 民事法庭
