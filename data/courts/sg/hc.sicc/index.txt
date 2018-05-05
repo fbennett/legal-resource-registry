@@ -1,0 +1,7 @@
+.. court:: High Court|Singapore International Commercial Court
+   :court-id: sg;hc.sicc
+   :url: https://www.sicc.gov.sg
+   :en: Singapore International Commercial Court
+   :zh-cn: 新加坡国际商事法庭
+   :ms:
+   :ta: 
