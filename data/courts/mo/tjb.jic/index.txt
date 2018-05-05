@@ -1,4 +1,4 @@
-.. court:: Juízo de Instrução Criminal
+.. court:: Tribunal Judicial de Base|Juízo de Instrução Criminal
    :court-id: mo;tjb.jic
    :en: Criminal Preliminary Hearing Court
    :zh-tw: 刑事起訴法庭
