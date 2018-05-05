@@ -23,6 +23,7 @@ jp
 ln.int
 mm
 mn
+mo
 nl
 nz
 oas.int
