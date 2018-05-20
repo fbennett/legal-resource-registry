@@ -1,0 +1,2 @@
+.. court:: Judges and Magistrates Vetting Board
+   :court-id: ke;jmvb

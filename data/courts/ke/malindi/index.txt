@@ -1,0 +1,2 @@
+.. category:: Malindi
+   :category-id: ke:malindi

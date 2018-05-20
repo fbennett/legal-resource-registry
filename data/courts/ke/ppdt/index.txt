@@ -1,0 +1,2 @@
+.. court:: Political Parties Disputes Tribunal
+   :court-id: ke;ppdt

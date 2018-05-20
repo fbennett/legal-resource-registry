@@ -1,0 +1,2 @@
+.. category:: Mombasa
+   :category-id: ke:mombasa

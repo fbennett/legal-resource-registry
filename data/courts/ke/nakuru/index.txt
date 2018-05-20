@@ -1,0 +1,2 @@
+.. category:: Nakuru
+   :category-id: ke:nakuru

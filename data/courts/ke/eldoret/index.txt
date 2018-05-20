@@ -1,0 +1,2 @@
+.. category:: Eldoret
+   :category-id: ke:eldoret
