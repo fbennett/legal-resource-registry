@@ -1,0 +1,4 @@
+.. court:: Labour Tribunal
+   :court-id: hk;labour.trib
+   :en: Labour Tribunal
+   :zh-tw: 勞資審裁處

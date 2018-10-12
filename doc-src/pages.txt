@@ -17,6 +17,7 @@ eu.int
 fi
 fr
 dd
+hk
 icc.int
 imf.int
 jp

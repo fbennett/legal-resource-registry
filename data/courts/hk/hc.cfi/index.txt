@@ -1,0 +1,4 @@
+.. court:: High Court|Court of First Instance
+   :court-id: hk;hc.cfi
+   :en: Court of First Instance
+   :zh-tw: 原訟法庭
