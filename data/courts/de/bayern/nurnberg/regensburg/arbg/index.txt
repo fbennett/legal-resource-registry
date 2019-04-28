@@ -1,2 +1,0 @@
-.. court:: Arbeitsgericht
-   :court-id: de:bayern:nurnberg:regensburg;arbg
