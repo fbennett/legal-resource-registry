@@ -1,0 +1,2 @@
+.. court:: Landesverfassungsgericht
+   :court-id: de:sachsen.anhalt;lverfg
