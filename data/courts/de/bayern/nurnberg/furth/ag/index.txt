@@ -1,2 +1,0 @@
-.. court:: Amtsgericht
-   :court-id: de:bayern:nurnberg:furth;ag

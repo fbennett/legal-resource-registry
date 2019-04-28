@@ -1,0 +1,2 @@
+.. category:: Hersbruck
+   :category-id: de:bayern:nurnberg:nurnberg:hersbruck

@@ -1,0 +1,2 @@
+.. category:: Erlangen
+   :category-id: de:bayern:nurnberg:nurnberg:erlangen

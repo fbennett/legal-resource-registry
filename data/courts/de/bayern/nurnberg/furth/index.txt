@@ -1,2 +1,0 @@
-.. category:: Fürth
-   :category-id: de:bayern:nurnberg:furth

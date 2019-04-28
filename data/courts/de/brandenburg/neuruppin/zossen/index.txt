@@ -1,2 +1,0 @@
-.. category:: Zossen
-   :category-id: de:brandenburg:neuruppin:zossen
