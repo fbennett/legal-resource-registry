@@ -1,0 +1,2 @@
+.. category:: Bückeburg
+   :category-id: de:niedersachsen:celle:buckeburg:buckeburg

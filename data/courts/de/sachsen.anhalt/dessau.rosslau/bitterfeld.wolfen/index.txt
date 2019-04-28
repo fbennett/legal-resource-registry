@@ -1,0 +1,2 @@
+.. category:: Bitterfeld-Wolfen
+   :category-id: de:sachsen.anhalt:dessau.rosslau:bitterfeld.wolfen

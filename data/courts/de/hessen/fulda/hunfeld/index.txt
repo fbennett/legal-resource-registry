@@ -1,0 +1,2 @@
+.. category:: Hünfeld
+   :category-id: de:hessen:fulda:hunfeld

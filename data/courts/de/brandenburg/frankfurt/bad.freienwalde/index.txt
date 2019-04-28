@@ -1,0 +1,2 @@
+.. category:: Bad Freienwalde
+   :category-id: de:brandenburg:frankfurt:bad.freienwalde

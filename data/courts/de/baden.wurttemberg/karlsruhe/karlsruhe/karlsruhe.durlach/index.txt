@@ -1,0 +1,2 @@
+.. category:: Karlsruhe-Durlach
+   :category-id: de:baden.wurttemberg:karlsruhe:karlsruhe:karlsruhe.durlach

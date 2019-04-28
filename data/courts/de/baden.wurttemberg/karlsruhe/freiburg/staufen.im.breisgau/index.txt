@@ -1,0 +1,2 @@
+.. category:: Staufen im Breisgau
+   :category-id: de:baden.wurttemberg:karlsruhe:freiburg:staufen.im.breisgau

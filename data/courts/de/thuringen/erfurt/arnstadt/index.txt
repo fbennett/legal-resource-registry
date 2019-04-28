@@ -1,0 +1,2 @@
+.. category:: Arnstadt mit Zweigstelle Ilmenau
+   :category-id: de:thuringen:erfurt:arnstadt

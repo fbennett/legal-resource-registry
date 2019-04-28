@@ -1,0 +1,2 @@
+.. court:: Amtsgericht
+   :court-id: de:rheinland.pfalz:zweibrucken:frankenthal:neustadt.an.der.weinstrasse;ag

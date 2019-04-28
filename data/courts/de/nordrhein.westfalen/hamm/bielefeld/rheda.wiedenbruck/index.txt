@@ -1,0 +1,2 @@
+.. category:: Rheda-Wiedenbrück
+   :category-id: de:nordrhein.westfalen:hamm:bielefeld:rheda.wiedenbruck

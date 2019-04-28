@@ -1,0 +1,2 @@
+.. category:: Syke
+   :category-id: de:niedersachsen:celle:verden:syke

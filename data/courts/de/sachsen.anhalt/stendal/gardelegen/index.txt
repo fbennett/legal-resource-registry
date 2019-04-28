@@ -1,0 +1,2 @@
+.. category:: Gardelegen
+   :category-id: de:sachsen.anhalt:stendal:gardelegen

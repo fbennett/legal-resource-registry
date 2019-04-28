@@ -1,0 +1,2 @@
+.. category:: Mitte
+   :category-id: de:berlin:mitte

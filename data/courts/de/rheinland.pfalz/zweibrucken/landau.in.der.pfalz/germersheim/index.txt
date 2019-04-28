@@ -1,0 +1,2 @@
+.. category:: Germersheim
+   :category-id: de:rheinland.pfalz:zweibrucken:landau.in.der.pfalz:germersheim

@@ -1,0 +1,2 @@
+.. category:: Maulbronn
+   :category-id: de:baden.wurttemberg:karlsruhe:karlsruhe:maulbronn

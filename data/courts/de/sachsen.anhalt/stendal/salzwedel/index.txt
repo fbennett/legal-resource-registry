@@ -1,0 +1,2 @@
+.. category:: Salzwedel
+   :category-id: de:sachsen.anhalt:stendal:salzwedel

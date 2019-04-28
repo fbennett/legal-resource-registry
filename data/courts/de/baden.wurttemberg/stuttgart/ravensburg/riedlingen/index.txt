@@ -1,0 +1,2 @@
+.. category:: Riedlingen
+   :category-id: de:baden.wurttemberg:stuttgart:ravensburg:riedlingen

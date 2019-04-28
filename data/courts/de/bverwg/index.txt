@@ -1,0 +1,2 @@
+.. court:: Bundesverwaltungsgericht
+   :court-id: de;bverwg

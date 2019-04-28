@@ -1,0 +1,2 @@
+.. category:: Wittmund
+   :category-id: de:niedersachsen:oldenburg:aurich:wittmund

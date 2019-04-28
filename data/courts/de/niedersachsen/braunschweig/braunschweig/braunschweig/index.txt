@@ -1,0 +1,2 @@
+.. category:: Braunschweig
+   :category-id: de:niedersachsen:braunschweig:braunschweig:braunschweig

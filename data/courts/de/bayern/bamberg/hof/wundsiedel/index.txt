@@ -1,0 +1,2 @@
+.. category:: Wunsiedel
+   :category-id: de:bayern:bamberg:hof:wundsiedel

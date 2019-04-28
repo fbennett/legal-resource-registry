@@ -1,0 +1,2 @@
+.. category:: Kempten
+   :category-id: de:bayern:munchen:kempten

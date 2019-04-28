@@ -1,0 +1,2 @@
+.. category:: Schwandorf
+   :category-id: de:bayern:nurnberg:amberg:schwandorf

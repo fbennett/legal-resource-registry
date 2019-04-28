@@ -1,0 +1,2 @@
+.. category:: Gronau
+   :category-id: de:nordrhein.westfalen:hamm:munster:gronau

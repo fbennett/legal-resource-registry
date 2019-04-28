@@ -1,0 +1,2 @@
+.. category:: Schwedt
+   :category-id: de:brandenburg:neuruppin:schwedt

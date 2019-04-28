@@ -1,0 +1,2 @@
+.. category:: Siegburg
+   :category-id: de:nordrhein.westfalen:koln:siegburg

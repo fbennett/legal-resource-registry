@@ -1,0 +1,2 @@
+.. court:: Amtsgericht
+   :court-id: de:rheinland.pfalz:zweibrucken:landau.in.der.pfalz:landau.in.der.pfalz;ag

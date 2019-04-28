@@ -1,0 +1,2 @@
+.. court:: Amtsgericht
+   :court-id: de:berlin:kopenick;ag

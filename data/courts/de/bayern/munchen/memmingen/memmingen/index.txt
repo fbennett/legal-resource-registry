@@ -1,0 +1,2 @@
+.. category:: Memmingen
+   :category-id: de:bayern:munchen:memmingen:memmingen

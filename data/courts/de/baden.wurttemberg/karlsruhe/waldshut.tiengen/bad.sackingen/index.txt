@@ -1,0 +1,2 @@
+.. category:: Säckingen
+   :category-id: de:baden.wurttemberg:karlsruhe:waldshut.tiengen:bad.sackingen

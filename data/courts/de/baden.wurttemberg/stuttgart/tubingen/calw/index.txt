@@ -1,0 +1,2 @@
+.. category:: Calw
+   :category-id: de:baden.wurttemberg:stuttgart:tubingen:calw

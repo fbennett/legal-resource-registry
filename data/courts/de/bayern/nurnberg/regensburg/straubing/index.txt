@@ -1,0 +1,2 @@
+.. category:: Straubing
+   :category-id: de:bayern:nurnberg:regensburg:straubing

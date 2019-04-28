@@ -1,0 +1,2 @@
+.. category:: Ludwigslust
+   :category-id: de:mecklenburg.vorpommern:schwerin:ludwigslust

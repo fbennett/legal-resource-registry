@@ -1,0 +1,2 @@
+.. court:: Bundesverfassungsgericht
+   :court-id: de;bverfg

@@ -1,0 +1,2 @@
+.. category:: Rathenow
+   :category-id: de:brandenburg:neuruppin:rathenow

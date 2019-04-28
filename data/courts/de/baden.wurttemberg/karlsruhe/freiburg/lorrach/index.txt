@@ -1,0 +1,2 @@
+.. category:: Lörrach
+   :category-id: de:baden.wurttemberg:karlsruhe:freiburg:lorrach

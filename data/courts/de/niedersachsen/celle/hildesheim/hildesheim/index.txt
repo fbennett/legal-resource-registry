@@ -1,0 +1,2 @@
+.. category:: Hildesheim
+   :category-id: de:niedersachsen:celle:hildesheim:hildesheim

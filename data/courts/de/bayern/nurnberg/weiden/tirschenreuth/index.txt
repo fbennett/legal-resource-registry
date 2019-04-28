@@ -1,0 +1,2 @@
+.. category:: Tirschenreuth
+   :category-id: de:bayern:nurnberg:weiden:tirschenreuth

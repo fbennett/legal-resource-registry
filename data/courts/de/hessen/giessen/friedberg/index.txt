@@ -1,0 +1,2 @@
+.. category:: Friedberg
+   :category-id: de:hessen:giessen:friedberg

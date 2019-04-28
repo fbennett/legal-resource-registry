@@ -1,0 +1,2 @@
+.. category:: Ettenheim
+   :category-id: de:baden.wurttemberg:karlsruhe:freiburg:ettenheim

@@ -1,0 +1,2 @@
+.. category:: Spaichingen
+   :category-id: de:baden.wurttemberg:stuttgart:rottweil:spaichingen

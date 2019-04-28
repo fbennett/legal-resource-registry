@@ -1,0 +1,2 @@
+.. category:: Würzburg
+   :category-id: de:bayern:bamberg:wurzburg:wurzburg

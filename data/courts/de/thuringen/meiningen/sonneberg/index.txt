@@ -1,0 +1,2 @@
+.. category:: Sonneberg
+   :category-id: de:thuringen:meiningen:sonneberg

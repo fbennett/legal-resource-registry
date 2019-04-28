@@ -1,0 +1,2 @@
+.. category:: Rinteln
+   :category-id: de:niedersachsen:celle:buckeburg:rinteln

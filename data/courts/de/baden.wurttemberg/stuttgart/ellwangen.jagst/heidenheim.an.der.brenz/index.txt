@@ -1,0 +1,2 @@
+.. category:: Heidenheim an der Brenz
+   :category-id: de:baden.wurttemberg:stuttgart:ellwangen.jagst:heidenheim.an.der.brenz

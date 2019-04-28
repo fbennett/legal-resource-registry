@@ -1,0 +1,2 @@
+.. category:: Bretten
+   :category-id: de:baden.wurttemberg:karlsruhe:karlsruhe:bretten

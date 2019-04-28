@@ -1,0 +1,2 @@
+.. category:: Vechta
+   :category-id: de:niedersachsen:oldenburg:oldenburg:vechta

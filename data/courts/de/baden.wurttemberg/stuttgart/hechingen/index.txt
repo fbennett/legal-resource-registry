@@ -1,0 +1,2 @@
+.. category:: Hechingen
+   :category-id: de:baden.wurttemberg:stuttgart:hechingen

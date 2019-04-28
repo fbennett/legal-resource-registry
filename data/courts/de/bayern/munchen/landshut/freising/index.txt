@@ -1,0 +1,2 @@
+.. category:: Freising
+   :category-id: de:bayern:munchen:landshut:freising

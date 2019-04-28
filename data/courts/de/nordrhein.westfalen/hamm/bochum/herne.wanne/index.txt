@@ -1,0 +1,2 @@
+.. category:: Herne-Wanne
+   :category-id: de:nordrhein.westfalen:hamm:bochum:herne.wanne

@@ -1,4 +1,0 @@
-.. court:: Bundesverfassungsgericht
-   :court-id: de;bundesverfassungsgericht
-   :url: http://www.bundesverfassungsgericht.de/DE/Homepage/homepage_node.html
-   :en: Federal Constitutional Court

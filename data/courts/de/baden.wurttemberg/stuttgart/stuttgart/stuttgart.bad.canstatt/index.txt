@@ -1,0 +1,2 @@
+.. category:: Stuttgart-Bad Canstatt
+   :category-id: de:baden.wurttemberg:stuttgart:stuttgart:stuttgart.bad.canstatt

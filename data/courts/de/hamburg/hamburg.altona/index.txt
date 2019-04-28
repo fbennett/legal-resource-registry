@@ -1,0 +1,2 @@
+.. category:: Hamburg-Altona
+   :category-id: de:hamburg:hamburg.altona

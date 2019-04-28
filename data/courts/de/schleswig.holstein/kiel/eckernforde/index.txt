@@ -1,0 +1,2 @@
+.. category:: Eckernförde
+   :category-id: de:schleswig.holstein:kiel:eckernforde

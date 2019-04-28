@@ -1,0 +1,2 @@
+.. category:: Göttingen
+   :category-id: de:niedersachsen:gottingen

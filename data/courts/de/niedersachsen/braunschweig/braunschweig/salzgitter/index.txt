@@ -1,0 +1,2 @@
+.. category:: Salzgitter
+   :category-id: de:niedersachsen:braunschweig:braunschweig:salzgitter

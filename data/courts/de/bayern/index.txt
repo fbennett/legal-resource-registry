@@ -1,0 +1,2 @@
+.. category:: Bayern
+   :category-id: de:bayern

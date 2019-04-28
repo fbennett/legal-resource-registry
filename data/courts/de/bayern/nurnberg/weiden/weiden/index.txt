@@ -1,0 +1,2 @@
+.. category:: Weiden
+   :category-id: de:bayern:nurnberg:weiden:weiden

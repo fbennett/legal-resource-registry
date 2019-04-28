@@ -1,0 +1,2 @@
+.. category:: Oberkirch
+   :category-id: de:baden.wurttemberg:karlsruhe:offenburg:oberkirch

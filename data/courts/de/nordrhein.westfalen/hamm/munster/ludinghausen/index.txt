@@ -1,0 +1,2 @@
+.. category:: Lüdinghausen
+   :category-id: de:nordrhein.westfalen:hamm:munster:ludinghausen

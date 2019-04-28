@@ -1,0 +1,2 @@
+.. category:: Cuxhaven
+   :category-id: de:niedersachsen:celle:stade:cuxhaven

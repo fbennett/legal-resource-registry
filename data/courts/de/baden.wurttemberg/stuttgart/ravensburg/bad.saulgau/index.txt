@@ -1,0 +1,2 @@
+.. category:: Bad Saulgau
+   :category-id: de:baden.wurttemberg:stuttgart:ravensburg:bad.saulgau

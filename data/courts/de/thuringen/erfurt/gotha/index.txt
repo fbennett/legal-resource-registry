@@ -1,0 +1,2 @@
+.. category:: Gotha
+   :category-id: de:thuringen:erfurt:gotha

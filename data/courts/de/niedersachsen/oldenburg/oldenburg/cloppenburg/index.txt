@@ -1,0 +1,2 @@
+.. category:: Cloppenburg
+   :category-id: de:niedersachsen:oldenburg:oldenburg:cloppenburg

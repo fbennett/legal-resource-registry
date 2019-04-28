@@ -1,0 +1,2 @@
+.. category:: Dippoldiswalde
+   :category-id: de:sachsen:dresden:dippoldiswalde

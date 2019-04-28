@@ -1,0 +1,2 @@
+.. category:: Offenburg
+   :category-id: de:baden.wurttemberg:karlsruhe:offenburg

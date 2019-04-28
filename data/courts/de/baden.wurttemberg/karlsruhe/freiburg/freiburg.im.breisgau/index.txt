@@ -1,0 +1,2 @@
+.. category:: Freiburg im Breisgau
+   :category-id: de:baden.wurttemberg:karlsruhe:freiburg:freiburg.im.breisgau

@@ -1,0 +1,2 @@
+.. category:: Waldkirch
+   :category-id: de:baden.wurttemberg:karlsruhe:freiburg:waldkirch

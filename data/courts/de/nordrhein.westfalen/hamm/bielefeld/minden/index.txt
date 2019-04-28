@@ -1,0 +1,2 @@
+.. category:: Minden
+   :category-id: de:nordrhein.westfalen:hamm:bielefeld:minden

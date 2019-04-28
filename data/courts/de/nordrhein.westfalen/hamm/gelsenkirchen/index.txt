@@ -1,0 +1,2 @@
+.. category:: Gelsenkirchen
+   :category-id: de:nordrhein.westfalen:hamm:gelsenkirchen

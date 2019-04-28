@@ -1,0 +1,2 @@
+.. category:: Bad Neuenahr-Ahrweiler
+   :category-id: de:rheinland.pfalz:koblenz:koblenz:bad.neuenahr.ahrweiler

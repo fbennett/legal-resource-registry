@@ -1,0 +1,2 @@
+.. category:: Freiberg
+   :category-id: de:sachsen:chemnitz:freiberg

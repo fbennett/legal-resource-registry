@@ -1,0 +1,2 @@
+.. category:: Köthen
+   :category-id: de:sachsen.anhalt:dessau.rosslau:kothen

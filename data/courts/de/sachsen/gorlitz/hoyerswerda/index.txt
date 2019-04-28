@@ -1,0 +1,2 @@
+.. category:: Hoyerswerda
+   :category-id: de:sachsen:gorlitz:hoyerswerda

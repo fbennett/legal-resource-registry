@@ -1,0 +1,2 @@
+.. category:: Ellwangen
+   :category-id: de:baden.wurttemberg:stuttgart:ellwangen.jagst:ellwangen

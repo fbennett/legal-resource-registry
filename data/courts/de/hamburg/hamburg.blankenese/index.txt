@@ -1,0 +1,2 @@
+.. category:: Hamburg-Blankenese
+   :category-id: de:hamburg:hamburg.blankenese

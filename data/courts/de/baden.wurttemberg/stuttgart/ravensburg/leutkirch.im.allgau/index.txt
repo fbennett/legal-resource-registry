@@ -1,0 +1,2 @@
+.. category:: Leutkirch im Allgäu
+   :category-id: de:baden.wurttemberg:stuttgart:ravensburg:leutkirch.im.allgau

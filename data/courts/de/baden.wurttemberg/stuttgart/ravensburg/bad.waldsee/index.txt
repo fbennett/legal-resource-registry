@@ -1,0 +1,2 @@
+.. category:: Bad Waldsee
+   :category-id: de:baden.wurttemberg:stuttgart:ravensburg:bad.waldsee

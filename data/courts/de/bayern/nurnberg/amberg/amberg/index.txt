@@ -1,0 +1,2 @@
+.. category:: Amberg
+   :category-id: de:bayern:nurnberg:amberg:amberg

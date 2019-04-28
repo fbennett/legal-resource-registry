@@ -1,0 +1,2 @@
+.. court:: Verwaltungsgericht
+   :court-id: de:rheinland.pfalz:neustadt.an.der.weinstrasse;vg

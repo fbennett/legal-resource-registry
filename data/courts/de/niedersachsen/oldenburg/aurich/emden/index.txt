@@ -1,0 +1,2 @@
+.. category:: Emden
+   :category-id: de:niedersachsen:oldenburg:aurich:emden

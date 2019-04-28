@@ -1,0 +1,2 @@
+.. category:: Pirmasens
+   :category-id: de:rheinland.pfalz:zweibrucken:zweibrucken:pirmasens

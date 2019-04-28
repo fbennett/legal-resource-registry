@@ -1,0 +1,2 @@
+.. category:: Bühl
+   :category-id: de:baden.wurttemberg:karlsruhe:baden.baden:buhl

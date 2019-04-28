@@ -1,0 +1,2 @@
+.. category:: Karlsruhe
+   :category-id: de:baden.wurttemberg:karlsruhe:karlsruhe:karlsruhe

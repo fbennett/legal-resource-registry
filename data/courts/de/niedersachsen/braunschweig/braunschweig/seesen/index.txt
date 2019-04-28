@@ -1,0 +1,2 @@
+.. category:: Seesen
+   :category-id: de:niedersachsen:braunschweig:braunschweig:seesen

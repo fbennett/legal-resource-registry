@@ -1,0 +1,2 @@
+.. category:: Stadtroda
+   :category-id: de:thuringen:gera:stadtroda

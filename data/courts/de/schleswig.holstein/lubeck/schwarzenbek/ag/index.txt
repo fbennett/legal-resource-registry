@@ -1,0 +1,2 @@
+.. court:: Amtsgericht
+   :court-id: de:schleswig.holstein:lubeck:schwarzenbek;ag

@@ -1,0 +1,2 @@
+.. category:: Haldensleben
+   :category-id: de:sachsen.anhalt:magdeburg:haldensleben

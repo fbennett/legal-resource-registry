@@ -1,0 +1,2 @@
+.. category:: Wedding
+   :category-id: de:berlin:wedding

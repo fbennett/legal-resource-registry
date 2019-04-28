@@ -1,0 +1,2 @@
+.. category:: Rudolstadt mit Zweigstelle Saalfeld/Saale
+   :category-id: de:thuringen:gera:rudolstadt

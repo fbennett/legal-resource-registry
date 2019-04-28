@@ -1,0 +1,2 @@
+.. category:: Mainz
+   :category-id: de:rheinland.pfalz:koblenz:mainz:mainz

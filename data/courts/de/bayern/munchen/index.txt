@@ -1,0 +1,2 @@
+.. category:: München
+   :category-id: de:bayern:munchen

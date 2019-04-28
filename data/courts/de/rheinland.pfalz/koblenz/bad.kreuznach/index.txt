@@ -1,0 +1,2 @@
+.. category:: Bad Kreuznach
+   :category-id: de:rheinland.pfalz:koblenz:bad.kreuznach

@@ -1,0 +1,2 @@
+.. category:: Hamm
+   :category-id: de:nordrhein.westfalen:hamm:dortmund:hamm

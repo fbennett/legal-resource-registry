@@ -1,0 +1,2 @@
+.. category:: Eggenfelden
+   :category-id: de:bayern:munchen:landshut:eggenfelden

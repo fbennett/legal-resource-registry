@@ -1,0 +1,2 @@
+.. category:: Husum
+   :category-id: de:schleswig.holstein:flensburg:husum

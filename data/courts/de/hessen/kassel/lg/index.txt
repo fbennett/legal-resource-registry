@@ -1,0 +1,2 @@
+.. court:: Landgericht
+   :court-id: de:hessen:kassel;lg

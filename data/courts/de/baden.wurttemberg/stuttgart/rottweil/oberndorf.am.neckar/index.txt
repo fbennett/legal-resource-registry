@@ -1,0 +1,2 @@
+.. category:: Oberndorf am Neckar
+   :category-id: de:baden.wurttemberg:stuttgart:rottweil:oberndorf.am.neckar

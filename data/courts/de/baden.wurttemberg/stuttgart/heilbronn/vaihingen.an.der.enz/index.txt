@@ -1,0 +1,2 @@
+.. category:: Vaihingen an der Enz
+   :category-id: de:baden.wurttemberg:stuttgart:heilbronn:vaihingen.an.der.enz

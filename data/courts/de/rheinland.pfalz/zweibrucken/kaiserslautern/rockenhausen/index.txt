@@ -1,0 +1,2 @@
+.. category:: Rockenhausen
+   :category-id: de:rheinland.pfalz:zweibrucken:kaiserslautern:rockenhausen

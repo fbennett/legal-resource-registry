@@ -1,0 +1,2 @@
+.. court:: Landgericht
+   :court-id: de:mecklenburg.vorpommern:rostock;lg

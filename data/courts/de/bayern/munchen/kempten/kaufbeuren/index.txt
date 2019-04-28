@@ -1,0 +1,2 @@
+.. category:: Kaufbeuren
+   :category-id: de:bayern:munchen:kempten:kaufbeuren

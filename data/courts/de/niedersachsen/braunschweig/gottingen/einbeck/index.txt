@@ -1,0 +1,2 @@
+.. category:: Einbeck
+   :category-id: de:niedersachsen:braunschweig:gottingen:einbeck

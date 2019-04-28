@@ -1,0 +1,2 @@
+.. category:: Solingen
+   :category-id: de:nordrhein.westfalen:dusseldorf:wuppertal:solingen

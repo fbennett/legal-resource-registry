@@ -1,0 +1,2 @@
+.. category:: Altötting
+   :category-id: de:bayern:munchen:traunstein:altotting

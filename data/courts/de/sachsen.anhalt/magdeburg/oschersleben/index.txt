@@ -1,0 +1,2 @@
+.. category:: Oschersleben
+   :category-id: de:sachsen.anhalt:magdeburg:oschersleben

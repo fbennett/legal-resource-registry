@@ -1,0 +1,2 @@
+.. category:: Lippstadt
+   :category-id: de:nordrhein.westfalen:hamm:paderborn:lippstadt

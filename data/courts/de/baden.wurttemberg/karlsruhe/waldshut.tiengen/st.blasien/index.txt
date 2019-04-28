@@ -1,0 +1,2 @@
+.. category:: St Blasien
+   :category-id: de:baden.wurttemberg:karlsruhe:waldshut.tiengen:st.blasien

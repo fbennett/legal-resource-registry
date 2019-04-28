@@ -1,0 +1,2 @@
+.. category:: Bernkastel-Kues
+   :category-id: de:rheinland.pfalz:koblenz:trier:bernkastel.kues

@@ -1,0 +1,2 @@
+.. category:: Stolzenau
+   :category-id: de:niedersachsen:celle:verden:stolzenau

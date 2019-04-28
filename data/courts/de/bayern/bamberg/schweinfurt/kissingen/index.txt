@@ -1,0 +1,2 @@
+.. category:: Kissingen
+   :category-id: de:bayern:bamberg:schweinfurt:kissingen

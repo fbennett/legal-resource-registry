@@ -1,0 +1,2 @@
+.. category:: Weißenfels
+   :category-id: de:sachsen.anhalt:halle:weissenfels

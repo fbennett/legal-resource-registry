@@ -1,0 +1,2 @@
+.. category:: Hildburghausen
+   :category-id: de:thuringen:meiningen:hildburghausen

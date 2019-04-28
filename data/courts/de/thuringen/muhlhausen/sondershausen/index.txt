@@ -1,0 +1,2 @@
+.. category:: Sondershausen
+   :category-id: de:thuringen:muhlhausen:sondershausen

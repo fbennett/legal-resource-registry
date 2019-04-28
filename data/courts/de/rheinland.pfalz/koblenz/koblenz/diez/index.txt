@@ -1,0 +1,2 @@
+.. category:: Diez
+   :category-id: de:rheinland.pfalz:koblenz:koblenz:diez

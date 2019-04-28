@@ -1,0 +1,2 @@
+.. court:: Verwaltungsgericht
+   :court-id: de:rheinland.pfalz:trier;vg

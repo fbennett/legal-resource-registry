@@ -1,0 +1,2 @@
+.. category:: Greiz
+   :category-id: de:thuringen:gera:greiz

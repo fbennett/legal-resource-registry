@@ -1,0 +1,2 @@
+.. category:: Paderborn
+   :category-id: de:nordrhein.westfalen:hamm:paderborn:paderborn

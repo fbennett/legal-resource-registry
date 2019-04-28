@@ -1,0 +1,2 @@
+.. category:: Hameln
+   :category-id: de:niedersachsen:celle:hannover:hameln

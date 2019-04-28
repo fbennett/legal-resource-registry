@@ -1,0 +1,2 @@
+.. category:: Alzey
+   :category-id: de:rheinland.pfalz:koblenz:mainz:alzey

@@ -1,0 +1,2 @@
+.. court:: Bundessozialgericht
+   :court-id: de;bsg

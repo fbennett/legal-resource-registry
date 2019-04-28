@@ -1,0 +1,2 @@
+.. category:: Beberach an der Riß
+   :category-id: de:baden.wurttemberg:stuttgart:ravensburg:biberach.an.def.riss

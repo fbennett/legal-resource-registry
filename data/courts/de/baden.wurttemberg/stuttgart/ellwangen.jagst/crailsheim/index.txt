@@ -1,0 +1,2 @@
+.. category:: Crailsheim
+   :category-id: de:baden.wurttemberg:stuttgart:ellwangen.jagst:crailsheim

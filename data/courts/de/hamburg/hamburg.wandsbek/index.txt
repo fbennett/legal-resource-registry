@@ -1,0 +1,2 @@
+.. category:: Hamburg-Wandsbek
+   :category-id: de:hamburg:hamburg.wandsbek

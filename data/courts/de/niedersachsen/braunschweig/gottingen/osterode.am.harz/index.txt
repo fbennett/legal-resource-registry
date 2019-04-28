@@ -1,0 +1,2 @@
+.. category:: Osterode am Harz
+   :category-id: de:niedersachsen:braunschweig:gottingen:osterode.am.harz

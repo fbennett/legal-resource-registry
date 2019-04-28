@@ -1,0 +1,2 @@
+.. category:: Spandau
+   :category-id: de:berlin:spandau

@@ -1,0 +1,2 @@
+.. category:: Delbrück
+   :category-id: de:nordrhein.westfalen:hamm:paderborn:delbruck

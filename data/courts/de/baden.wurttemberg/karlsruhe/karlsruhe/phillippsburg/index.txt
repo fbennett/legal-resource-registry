@@ -1,0 +1,2 @@
+.. category:: Phillippsburg
+   :category-id: de:baden.wurttemberg:karlsruhe:karlsruhe:phillippsburg

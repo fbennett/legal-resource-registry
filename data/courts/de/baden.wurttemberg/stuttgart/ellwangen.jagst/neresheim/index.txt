@@ -1,0 +1,2 @@
+.. category:: Neresheim
+   :category-id: de:baden.wurttemberg:stuttgart:ellwangen.jagst:neresheim

@@ -1,0 +1,2 @@
+.. category:: Gummersbach
+   :category-id: de:nordrhein.westfalen:koln:koln:gummersbach

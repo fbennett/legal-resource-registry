@@ -1,0 +1,2 @@
+.. category:: Heilbad Heiligenstadt
+   :category-id: de:thuringen:muhlhausen:heilbad.heiligenstadt

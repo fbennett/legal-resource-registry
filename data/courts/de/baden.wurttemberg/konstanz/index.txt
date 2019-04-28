@@ -1,0 +1,2 @@
+.. category:: Konstanz
+   :category-id: de:baden.wurttemberg:konstanz

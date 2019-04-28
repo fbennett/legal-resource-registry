@@ -1,0 +1,2 @@
+.. category:: Duisburg-Ruhrort
+   :category-id: de:nordrhein.westfalen:dusseldorf:duisburg:duisburg.ruhrort

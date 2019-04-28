@@ -1,0 +1,2 @@
+.. category:: Northeim
+   :category-id: de:niedersachsen:braunschweig:gottingen:northeim

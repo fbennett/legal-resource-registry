@@ -1,0 +1,2 @@
+.. category:: Neu-Ulm
+   :category-id: de:bayern:munchen:memmingen:neu.ulm

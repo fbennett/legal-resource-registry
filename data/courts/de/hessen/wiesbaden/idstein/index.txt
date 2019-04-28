@@ -1,0 +1,2 @@
+.. category:: Idstein
+   :category-id: de:hessen:wiesbaden:idstein

@@ -1,0 +1,2 @@
+.. category:: Brandenburg an der Havel
+   :category-id: de:brandenburg:neuruppin:brandenburg.an.der.havel

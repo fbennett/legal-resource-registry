@@ -1,0 +1,2 @@
+.. category:: Pirna
+   :category-id: de:sachsen:dresden:pirna

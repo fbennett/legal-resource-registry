@@ -1,0 +1,2 @@
+.. court:: Verwaltungsgericht
+   :court-id: de:baden.wurttemberg:freiburg;vg

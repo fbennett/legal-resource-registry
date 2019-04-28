@@ -1,0 +1,2 @@
+.. category:: Günzburg
+   :category-id: de:bayern:munchen:memmingen:gunzburg

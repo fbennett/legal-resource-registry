@@ -1,0 +1,2 @@
+.. category:: Kronach
+   :category-id: de:bayern:bamberg:coburg:kronach

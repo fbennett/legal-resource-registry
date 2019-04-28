@@ -1,0 +1,2 @@
+.. category:: Balingen
+   :category-id: de:baden.wurttemberg:stuttgart:hechingen:balingen

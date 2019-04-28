@@ -1,0 +1,2 @@
+.. category:: Weilheim
+   :category-id: de:bayern:munchen:munchen.ii:weilheim

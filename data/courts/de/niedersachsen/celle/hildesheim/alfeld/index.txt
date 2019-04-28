@@ -1,0 +1,2 @@
+.. category:: Alfeld
+   :category-id: de:niedersachsen:celle:hildesheim:alfeld

@@ -1,0 +1,2 @@
+.. category:: Wolfenbüttel
+   :category-id: de:niedersachsen:braunschweig:braunschweig:wolfenbuttel

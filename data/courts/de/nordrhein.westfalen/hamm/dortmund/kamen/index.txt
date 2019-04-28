@@ -1,0 +1,2 @@
+.. category:: Kamen
+   :category-id: de:nordrhein.westfalen:hamm:dortmund:kamen

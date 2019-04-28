@@ -1,0 +1,2 @@
+.. category:: Müllheim
+   :category-id: de:baden.wurttemberg:karlsruhe:freiburg:mullheim

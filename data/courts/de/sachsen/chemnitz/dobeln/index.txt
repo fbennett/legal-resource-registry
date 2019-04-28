@@ -1,0 +1,2 @@
+.. category:: Döbeln
+   :category-id: de:sachsen:chemnitz:dobeln

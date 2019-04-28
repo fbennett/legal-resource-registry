@@ -1,0 +1,2 @@
+.. category:: Bad Gandersheim
+   :category-id: de:niedersachsen:braunschweig:braunschweig:bad.gandersheim

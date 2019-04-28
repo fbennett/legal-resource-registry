@@ -1,0 +1,2 @@
+.. category:: Schwerin
+   :category-id: de:mecklenburg.vorpommern:schwerin

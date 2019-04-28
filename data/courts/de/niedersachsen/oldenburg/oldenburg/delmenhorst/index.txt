@@ -1,0 +1,2 @@
+.. category:: Delmenhorst
+   :category-id: de:niedersachsen:oldenburg:oldenburg:delmenhorst

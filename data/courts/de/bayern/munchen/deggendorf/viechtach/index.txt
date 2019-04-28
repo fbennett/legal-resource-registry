@@ -1,0 +1,2 @@
+.. category:: Viechtach
+   :category-id: de:bayern:munchen:deggendorf:viechtach

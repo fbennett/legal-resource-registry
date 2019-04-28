@@ -1,0 +1,2 @@
+.. category:: Baden-Württemberg
+   :category-id: de:baden.wurttemberg

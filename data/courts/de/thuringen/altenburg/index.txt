@@ -1,0 +1,2 @@
+.. category:: Altenburg
+   :category-id: de:thuringen:altenburg

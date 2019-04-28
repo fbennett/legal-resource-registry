@@ -1,0 +1,2 @@
+.. category:: Hamburg-St Georg
+   :category-id: de:hamburg:hamburg.st.georg

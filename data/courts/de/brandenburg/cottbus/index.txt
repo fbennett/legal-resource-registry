@@ -1,0 +1,2 @@
+.. category:: Cottbus
+   :category-id: de:brandenburg:cottbus

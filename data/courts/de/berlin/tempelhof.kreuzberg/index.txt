@@ -1,0 +1,2 @@
+.. category:: Tempelhof-Kreuzberg
+   :category-id: de:berlin:tempelhof.kreuzberg

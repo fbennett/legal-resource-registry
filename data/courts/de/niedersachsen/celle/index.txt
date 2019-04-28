@@ -1,0 +1,2 @@
+.. category:: Celle
+   :category-id: de:niedersachsen:celle

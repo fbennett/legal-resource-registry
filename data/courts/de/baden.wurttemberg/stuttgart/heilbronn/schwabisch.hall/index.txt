@@ -1,0 +1,2 @@
+.. category:: Schwäbisch Hall
+   :category-id: de:baden.wurttemberg:stuttgart:heilbronn:schwabisch.hall

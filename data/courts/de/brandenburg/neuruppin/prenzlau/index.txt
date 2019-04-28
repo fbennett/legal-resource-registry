@@ -1,0 +1,2 @@
+.. category:: Prenzlau
+   :category-id: de:brandenburg:neuruppin:prenzlau

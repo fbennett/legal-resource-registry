@@ -1,0 +1,2 @@
+.. category:: Nienburg
+   :category-id: de:niedersachsen:celle:verden:nienburg

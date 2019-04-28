@@ -1,0 +1,2 @@
+.. court:: Sozialgericht
+   :court-id: de:bayern:regensburg;sg

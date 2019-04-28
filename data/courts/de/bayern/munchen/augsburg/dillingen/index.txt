@@ -1,0 +1,2 @@
+.. category:: Dillingen
+   :category-id: de:bayern:munchen:augsburg:dillingen

@@ -1,0 +1,2 @@
+.. category:: Pasewalk
+   :category-id: de:mecklenburg.vorpommern:neubrandenburg:pasewalk

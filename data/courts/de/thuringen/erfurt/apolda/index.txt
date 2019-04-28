@@ -1,0 +1,2 @@
+.. category:: Apolda
+   :category-id: de:thuringen:erfurt:apolda

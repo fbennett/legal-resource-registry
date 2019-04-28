@@ -1,0 +1,2 @@
+.. category:: Aichach
+   :category-id: de:bayern:munchen:augsburg:aichach

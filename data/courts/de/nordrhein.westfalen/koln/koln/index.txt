@@ -1,0 +1,2 @@
+.. category:: Köln
+   :category-id: de:nordrhein.westfalen:koln:koln

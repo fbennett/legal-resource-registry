@@ -1,3 +1,2 @@
-.. category:: Federal Republic of Germany
+.. category:: Germany
    :category-id: de
-

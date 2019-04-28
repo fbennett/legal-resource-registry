@@ -1,0 +1,2 @@
+.. category:: Forchheim
+   :category-id: de:bayern:bamberg:bamberg:forchheim

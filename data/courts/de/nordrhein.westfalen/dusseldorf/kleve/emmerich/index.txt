@@ -1,0 +1,2 @@
+.. category:: Emmerich
+   :category-id: de:nordrhein.westfalen:dusseldorf:kleve:emmerich

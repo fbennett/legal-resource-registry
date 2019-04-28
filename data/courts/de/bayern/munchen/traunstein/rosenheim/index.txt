@@ -1,0 +1,2 @@
+.. category:: Rosenheim
+   :category-id: de:bayern:munchen:traunstein:rosenheim

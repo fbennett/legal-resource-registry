@@ -1,0 +1,2 @@
+.. category:: Köpenick
+   :category-id: de:berlin:kopenick

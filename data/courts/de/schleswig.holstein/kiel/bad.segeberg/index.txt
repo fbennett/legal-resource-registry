@@ -1,0 +1,2 @@
+.. category:: Bad Segeberg
+   :category-id: de:schleswig.holstein:kiel:bad.segeberg

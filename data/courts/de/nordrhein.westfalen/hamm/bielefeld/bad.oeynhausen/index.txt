@@ -1,0 +1,2 @@
+.. category:: Bad Oeynhausen
+   :category-id: de:nordrhein.westfalen:hamm:bielefeld:bad.oeynhausen

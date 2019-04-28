@@ -1,0 +1,2 @@
+.. category:: Stralsund
+   :category-id: de:mecklenburg.vorpommern:stralsund

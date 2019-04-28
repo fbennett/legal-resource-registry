@@ -1,0 +1,2 @@
+.. category:: Fritzlar
+   :category-id: de:hessen:kassel:fritzlar

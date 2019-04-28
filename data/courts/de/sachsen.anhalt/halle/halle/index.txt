@@ -1,0 +1,2 @@
+.. category:: Halle
+   :category-id: de:sachsen.anhalt:halle:halle

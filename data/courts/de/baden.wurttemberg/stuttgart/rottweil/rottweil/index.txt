@@ -1,0 +1,2 @@
+.. category:: Rottweil
+   :category-id: de:baden.wurttemberg:stuttgart:rottweil:rottweil

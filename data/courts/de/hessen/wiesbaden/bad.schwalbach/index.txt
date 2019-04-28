@@ -1,0 +1,2 @@
+.. category:: Bad Schwalbach
+   :category-id: de:hessen:wiesbaden:bad.schwalbach

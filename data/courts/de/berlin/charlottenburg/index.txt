@@ -1,0 +1,2 @@
+.. category:: Charlottenburg
+   :category-id: de:berlin:charlottenburg

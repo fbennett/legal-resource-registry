@@ -1,0 +1,2 @@
+.. category:: Seligenstadt
+   :category-id: de:hessen:darmstadt:seligenstadt

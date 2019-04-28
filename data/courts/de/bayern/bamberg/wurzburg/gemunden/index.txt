@@ -1,0 +1,2 @@
+.. category:: Gemünden
+   :category-id: de:bayern:bamberg:wurzburg:gemunden

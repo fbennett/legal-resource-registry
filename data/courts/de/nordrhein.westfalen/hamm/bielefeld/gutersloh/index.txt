@@ -1,0 +1,2 @@
+.. category:: Gütersloh
+   :category-id: de:nordrhein.westfalen:hamm:bielefeld:gutersloh

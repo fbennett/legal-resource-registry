@@ -1,0 +1,2 @@
+.. court:: Arbeitsgericht
+   :court-id: de:bayern:munchen:munchen;arbg

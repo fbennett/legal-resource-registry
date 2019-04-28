@@ -1,0 +1,2 @@
+.. category:: Kassel
+   :category-id: de:hessen:kassel

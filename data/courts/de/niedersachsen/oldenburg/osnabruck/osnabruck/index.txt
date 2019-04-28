@@ -1,0 +1,2 @@
+.. category:: Osnabrück
+   :category-id: de:niedersachsen:oldenburg:osnabruck:osnabruck

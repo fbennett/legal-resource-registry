@@ -1,0 +1,2 @@
+.. category:: Bergisch Gladbach
+   :category-id: de:nordrhein.westfalen:koln:koln:bergisch.gladbach

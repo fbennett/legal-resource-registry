@@ -1,0 +1,2 @@
+.. category:: Gera
+   :category-id: de:thuringen:gera:gera

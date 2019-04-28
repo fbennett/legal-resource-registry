@@ -1,0 +1,2 @@
+.. category:: Westerstede
+   :category-id: de:niedersachsen:oldenburg:oldenburg:westerstede

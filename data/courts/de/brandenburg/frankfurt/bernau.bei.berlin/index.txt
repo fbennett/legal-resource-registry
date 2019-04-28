@@ -1,0 +1,2 @@
+.. category:: Bernau bei Berlin
+   :category-id: de:brandenburg:frankfurt:bernau.bei.berlin

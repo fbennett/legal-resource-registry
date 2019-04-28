@@ -1,0 +1,2 @@
+.. category:: Otterndorf
+   :category-id: de:niedersachsen:celle:stade:otterndorf

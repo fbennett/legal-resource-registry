@@ -1,0 +1,2 @@
+.. category:: Tiergarten
+   :category-id: de:berlin:tiergarten

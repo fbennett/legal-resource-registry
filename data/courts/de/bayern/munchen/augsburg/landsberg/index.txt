@@ -1,0 +1,2 @@
+.. category:: Landsberg
+   :category-id: de:bayern:munchen:augsburg:landsberg

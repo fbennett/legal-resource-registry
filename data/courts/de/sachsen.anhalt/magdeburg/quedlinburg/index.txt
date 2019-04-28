@@ -1,0 +1,2 @@
+.. category:: Quedlinburg
+   :category-id: de:sachsen.anhalt:magdeburg:quedlinburg

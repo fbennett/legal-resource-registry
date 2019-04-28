@@ -1,0 +1,2 @@
+.. category:: Baden-Baden
+   :category-id: de:baden.wurttemberg:karlsruhe:baden.baden

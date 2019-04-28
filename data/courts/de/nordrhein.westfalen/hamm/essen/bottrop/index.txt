@@ -1,0 +1,2 @@
+.. category:: Bottrop
+   :category-id: de:nordrhein.westfalen:hamm:essen:bottrop

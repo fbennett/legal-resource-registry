@@ -1,0 +1,2 @@
+.. category:: Geislingen an der Steige
+   :category-id: de:baden.wurttemberg:stuttgart:ulm:geislingen.an.der.steige

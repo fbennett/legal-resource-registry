@@ -1,0 +1,2 @@
+.. category:: Erfurt
+   :category-id: de:thuringen:erfurt

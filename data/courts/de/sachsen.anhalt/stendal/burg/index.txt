@@ -1,0 +1,2 @@
+.. category:: Burg
+   :category-id: de:sachsen.anhalt:stendal:burg

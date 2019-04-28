@@ -1,0 +1,2 @@
+.. category:: Kehl
+   :category-id: de:baden.wurttemberg:karlsruhe:offenburg:kehl

@@ -1,0 +1,2 @@
+.. category:: Waren
+   :category-id: de:mecklenburg.vorpommern:neubrandenburg:waren

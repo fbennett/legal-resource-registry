@@ -1,0 +1,2 @@
+.. category:: Wolfsburg
+   :category-id: de:niedersachsen:braunschweig:braunschweig:wolfsburg

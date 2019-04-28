@@ -1,0 +1,2 @@
+.. category:: Freudenstadt
+   :category-id: de:baden.wurttemberg:stuttgart:rottweil:freudenstadt

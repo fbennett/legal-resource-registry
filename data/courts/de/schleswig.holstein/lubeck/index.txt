@@ -1,0 +1,2 @@
+.. category:: Lübeck
+   :category-id: de:schleswig.holstein:lubeck

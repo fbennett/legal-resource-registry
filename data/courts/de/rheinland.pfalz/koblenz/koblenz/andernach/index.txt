@@ -1,0 +1,2 @@
+.. category:: Andernach
+   :category-id: de:rheinland.pfalz:koblenz:koblenz:andernach

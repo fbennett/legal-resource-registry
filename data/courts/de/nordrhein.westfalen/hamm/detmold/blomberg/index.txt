@@ -1,0 +1,2 @@
+.. category:: Blomberg
+   :category-id: de:nordrhein.westfalen:hamm:detmold:blomberg

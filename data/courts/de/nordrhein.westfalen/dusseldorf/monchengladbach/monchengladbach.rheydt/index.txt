@@ -1,0 +1,2 @@
+.. category:: Mönchengladbach-Rheydt
+   :category-id: de:nordrhein.westfalen:dusseldorf:monchengladbach:monchengladbach.rheydt

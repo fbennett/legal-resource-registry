@@ -1,0 +1,2 @@
+.. category:: Buxtehude
+   :category-id: de:niedersachsen:celle:stade:buxtehude

@@ -1,0 +1,2 @@
+.. category:: Eisleben
+   :category-id: de:sachsen.anhalt:halle:eisleben

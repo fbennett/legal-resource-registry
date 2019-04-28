@@ -1,0 +1,2 @@
+.. category:: Magdeburg
+   :category-id: de:sachsen.anhalt:magdeburg

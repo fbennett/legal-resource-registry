@@ -1,0 +1,2 @@
+.. category:: Frankenthal
+   :category-id: de:rheinland.pfalz:zweibrucken:frankenthal:frankenthal

@@ -1,0 +1,2 @@
+.. category:: Michelstadt
+   :category-id: de:hessen:darmstadt:michelstadt

@@ -1,0 +1,2 @@
+.. category:: Wangen im Allgäu
+   :category-id: de:baden.wurttemberg:stuttgart:ravensburg:wangen.im.allgau

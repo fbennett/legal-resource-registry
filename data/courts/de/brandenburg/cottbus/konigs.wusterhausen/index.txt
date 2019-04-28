@@ -1,0 +1,2 @@
+.. category:: Königs Wusterhausen
+   :category-id: de:brandenburg:cottbus:konigs.wusterhausen

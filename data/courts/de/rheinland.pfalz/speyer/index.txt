@@ -1,0 +1,2 @@
+.. category:: Speyer
+   :category-id: de:rheinland.pfalz:speyer

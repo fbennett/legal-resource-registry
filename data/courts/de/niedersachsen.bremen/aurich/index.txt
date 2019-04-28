@@ -1,0 +1,2 @@
+.. category:: Aurich
+   :category-id: de:niedersachsen.bremen:aurich

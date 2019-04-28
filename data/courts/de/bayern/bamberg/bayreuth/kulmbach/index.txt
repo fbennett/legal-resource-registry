@@ -1,0 +1,2 @@
+.. category:: Kulmbach
+   :category-id: de:bayern:bamberg:bayreuth:kulmbach

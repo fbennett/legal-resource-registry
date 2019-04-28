@@ -1,0 +1,2 @@
+.. category:: Greifswald
+   :category-id: de:mecklenburg.vorpommern:stralsund:greifswald

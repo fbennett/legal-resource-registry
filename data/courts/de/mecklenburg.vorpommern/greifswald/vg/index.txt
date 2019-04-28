@@ -1,0 +1,2 @@
+.. court:: Verwaltungsgericht
+   :court-id: de:mecklenburg.vorpommern:greifswald;vg

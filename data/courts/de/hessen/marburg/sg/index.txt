@@ -1,0 +1,2 @@
+.. court:: Sozialgericht
+   :court-id: de:hessen:marburg;sg

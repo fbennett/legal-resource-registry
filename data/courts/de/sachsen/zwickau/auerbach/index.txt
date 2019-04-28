@@ -1,0 +1,2 @@
+.. category:: Auerbach
+   :category-id: de:sachsen:zwickau:auerbach

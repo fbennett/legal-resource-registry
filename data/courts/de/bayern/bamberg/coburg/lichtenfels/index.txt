@@ -1,0 +1,2 @@
+.. category:: Lichtenfels
+   :category-id: de:bayern:bamberg:coburg:lichtenfels

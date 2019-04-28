@@ -1,0 +1,2 @@
+.. category:: Pankow/Weißensee
+   :category-id: de:berlin:pankow.weissensee

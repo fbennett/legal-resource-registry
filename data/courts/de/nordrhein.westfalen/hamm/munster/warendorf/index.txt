@@ -1,0 +1,2 @@
+.. category:: Warendorf
+   :category-id: de:nordrhein.westfalen:hamm:munster:warendorf

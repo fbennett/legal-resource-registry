@@ -1,0 +1,2 @@
+.. category:: Betzdorf
+   :category-id: de:rheinland.pfalz:koblenz:koblenz:betzdorf

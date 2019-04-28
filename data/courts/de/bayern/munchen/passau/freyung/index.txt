@@ -1,0 +1,2 @@
+.. category:: Freyung
+   :category-id: de:bayern:munchen:passau:freyung

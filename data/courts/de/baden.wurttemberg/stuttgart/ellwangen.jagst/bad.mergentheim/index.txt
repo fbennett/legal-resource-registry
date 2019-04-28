@@ -1,0 +1,2 @@
+.. category:: Bad Mergentheim
+   :category-id: de:baden.wurttemberg:stuttgart:ellwangen.jagst:bad.mergentheim

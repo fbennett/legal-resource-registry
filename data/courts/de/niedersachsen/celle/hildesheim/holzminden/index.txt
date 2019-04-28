@@ -1,0 +1,2 @@
+.. category:: Holzminden
+   :category-id: de:niedersachsen:celle:hildesheim:holzminden

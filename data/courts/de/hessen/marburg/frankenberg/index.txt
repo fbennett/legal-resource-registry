@@ -1,0 +1,2 @@
+.. category:: Frankenberg
+   :category-id: de:hessen:marburg:frankenberg

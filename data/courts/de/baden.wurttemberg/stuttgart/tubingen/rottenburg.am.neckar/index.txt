@@ -1,0 +1,2 @@
+.. category:: Rottenburg am Neckar
+   :category-id: de:baden.wurttemberg:stuttgart:tubingen:rottenburg.am.neckar

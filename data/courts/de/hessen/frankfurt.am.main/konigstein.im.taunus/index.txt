@@ -1,0 +1,2 @@
+.. category:: Königstein im Taunus
+   :category-id: de:hessen:frankfurt.am.main:konigstein.im.taunus

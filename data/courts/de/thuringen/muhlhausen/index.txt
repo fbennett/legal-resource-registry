@@ -1,0 +1,2 @@
+.. category:: Mühlhausen
+   :category-id: de:thuringen:muhlhausen

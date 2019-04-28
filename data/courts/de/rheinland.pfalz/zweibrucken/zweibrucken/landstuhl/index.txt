@@ -1,0 +1,2 @@
+.. category:: Landstuhl
+   :category-id: de:rheinland.pfalz:zweibrucken:zweibrucken:landstuhl

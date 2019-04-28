@@ -1,0 +1,2 @@
+.. category:: Bernburg
+   :category-id: de:sachsen.anhalt:magdeburg:bernburg

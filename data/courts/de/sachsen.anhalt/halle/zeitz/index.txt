@@ -1,0 +1,2 @@
+.. category:: Zeitz
+   :category-id: de:sachsen.anhalt:halle:zeitz

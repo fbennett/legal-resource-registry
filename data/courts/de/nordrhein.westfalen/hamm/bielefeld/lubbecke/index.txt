@@ -1,0 +1,2 @@
+.. category:: Lübbecke
+   :category-id: de:nordrhein.westfalen:hamm:bielefeld:lubbecke

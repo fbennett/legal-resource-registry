@@ -1,0 +1,2 @@
+.. category:: Ratingen
+   :category-id: de:nordrhein.westfalen:dusseldorf:dusseldorf:ratingen

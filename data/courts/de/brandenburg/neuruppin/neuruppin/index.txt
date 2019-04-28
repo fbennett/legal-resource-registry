@@ -1,0 +1,2 @@
+.. category:: Neuruppin
+   :category-id: de:brandenburg:neuruppin:neuruppin

@@ -1,0 +1,2 @@
+.. court:: Landesarbeitsgericht
+   :court-id: de:nordrhein.westfalen:hamm;lag

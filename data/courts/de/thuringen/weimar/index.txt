@@ -1,0 +1,2 @@
+.. category:: Weimar
+   :category-id: de:thuringen:weimar

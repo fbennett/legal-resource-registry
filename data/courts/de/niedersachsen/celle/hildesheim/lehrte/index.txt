@@ -1,0 +1,2 @@
+.. category:: Lehrte
+   :category-id: de:niedersachsen:celle:hildesheim:lehrte

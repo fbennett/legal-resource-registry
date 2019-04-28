@@ -1,0 +1,2 @@
+.. category:: Plauen
+   :category-id: de:sachsen:zwickau:plauen

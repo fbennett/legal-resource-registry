@@ -1,0 +1,2 @@
+.. category:: Thüringen
+   :category-id: de:thuringen

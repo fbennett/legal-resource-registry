@@ -1,0 +1,2 @@
+.. category:: Wismar
+   :category-id: de:mecklenburg.vorpommern:schwerin:wismar

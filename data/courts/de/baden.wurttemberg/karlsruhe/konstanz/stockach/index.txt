@@ -1,0 +1,2 @@
+.. category:: Stockach
+   :category-id: de:baden.wurttemberg:karlsruhe:konstanz:stockach

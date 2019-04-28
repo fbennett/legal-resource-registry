@@ -1,0 +1,2 @@
+.. category:: Halberstadt
+   :category-id: de:sachsen.anhalt:magdeburg:halberstadt

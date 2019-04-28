@@ -1,0 +1,2 @@
+.. category:: Rüdesheim am Rhein
+   :category-id: de:hessen:wiesbaden:rudesheim.am.rhein

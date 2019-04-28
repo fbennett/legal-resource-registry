@@ -1,0 +1,2 @@
+.. category:: Merseburg
+   :category-id: de:sachsen.anhalt:halle:merseburg

@@ -1,0 +1,2 @@
+.. court:: Amtsgericht
+   :court-id: de:baden.wurttemberg:stuttgart:stuttgart:esslingen.am.neckar;ag

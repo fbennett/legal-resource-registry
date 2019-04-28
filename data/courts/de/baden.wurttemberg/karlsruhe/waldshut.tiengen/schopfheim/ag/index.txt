@@ -1,0 +1,2 @@
+.. court:: Amtsgericht
+   :court-id: de:baden.wurttemberg:karlsruhe:waldshut.tiengen:schopfheim;ag

@@ -1,0 +1,2 @@
+.. category:: Eisenach
+   :category-id: de:thuringen:meiningen:eisenach

@@ -1,0 +1,2 @@
+.. category:: Weinheim
+   :category-id: de:baden.wurttemberg:karlsruhe:mannheim:weinheim

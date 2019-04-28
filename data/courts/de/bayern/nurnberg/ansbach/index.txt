@@ -1,0 +1,2 @@
+.. category:: Ansbach
+   :category-id: de:bayern:nurnberg:ansbach

@@ -1,0 +1,2 @@
+.. category:: Aue
+   :category-id: de:sachsen:chemnitz:aue

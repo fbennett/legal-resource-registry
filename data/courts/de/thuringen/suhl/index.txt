@@ -1,0 +1,2 @@
+.. category:: Suhl
+   :category-id: de:thuringen:suhl

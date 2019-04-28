@@ -1,0 +1,2 @@
+.. category:: Langenburg
+   :category-id: de:baden.wurttemberg:stuttgart:ellwangen.jagst:langenburg

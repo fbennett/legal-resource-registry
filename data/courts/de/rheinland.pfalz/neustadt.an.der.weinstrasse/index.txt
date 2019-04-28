@@ -1,0 +1,2 @@
+.. category:: Neustadt an der Weinstraße
+   :category-id: de:rheinland.pfalz:neustadt.an.der.weinstrasse

@@ -1,0 +1,2 @@
+.. category:: Kamenz
+   :category-id: de:sachsen:gorlitz:kamenz

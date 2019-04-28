@@ -1,0 +1,2 @@
+.. category:: Pfaffenhofen
+   :category-id: de:bayern:munchen:ingolstadt:pfaffenhofen

@@ -1,0 +1,2 @@
+.. category:: Schwerte
+   :category-id: de:nordrhein.westfalen:hamm:hagen:schwerte

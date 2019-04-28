@@ -1,0 +1,2 @@
+.. category:: Mecklenburg-Vorpommern
+   :category-id: de:mecklenburg.vorpommern

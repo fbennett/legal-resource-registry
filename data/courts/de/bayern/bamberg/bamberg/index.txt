@@ -1,0 +1,2 @@
+.. category:: Bamberg
+   :category-id: de:bayern:bamberg:bamberg

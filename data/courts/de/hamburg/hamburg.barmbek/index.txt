@@ -1,0 +1,2 @@
+.. category:: Hamburg Barmbek
+   :category-id: de:hamburg:hamburg.barmbek

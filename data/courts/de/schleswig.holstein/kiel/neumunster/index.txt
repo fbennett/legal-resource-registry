@@ -1,0 +1,2 @@
+.. category:: Neumünster
+   :category-id: de:schleswig.holstein:kiel:neumunster

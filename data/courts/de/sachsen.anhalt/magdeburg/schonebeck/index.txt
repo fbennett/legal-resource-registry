@@ -1,0 +1,2 @@
+.. category:: Schönebeck
+   :category-id: de:sachsen.anhalt:magdeburg:schonebeck

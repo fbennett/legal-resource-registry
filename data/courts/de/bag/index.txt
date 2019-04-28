@@ -1,0 +1,2 @@
+.. court:: Bundesarbeitsgericht
+   :court-id: de;bag

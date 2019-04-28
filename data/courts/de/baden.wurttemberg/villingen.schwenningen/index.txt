@@ -1,0 +1,2 @@
+.. category:: Villingen-Schwenningen
+   :category-id: de:baden.wurttemberg:villingen.schwenningen

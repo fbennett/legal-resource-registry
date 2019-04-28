@@ -1,0 +1,2 @@
+.. category:: Schönau
+   :category-id: de:baden.wurttemberg:karlsruhe:waldshut.tiengen:schonau

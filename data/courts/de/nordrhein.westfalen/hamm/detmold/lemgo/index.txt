@@ -1,0 +1,2 @@
+.. category:: Lemgo
+   :category-id: de:nordrhein.westfalen:hamm:detmold:lemgo

@@ -1,0 +1,2 @@
+.. category:: Bersenbrück
+   :category-id: de:niedersachsen:oldenburg:osnabruck:bersenbruck

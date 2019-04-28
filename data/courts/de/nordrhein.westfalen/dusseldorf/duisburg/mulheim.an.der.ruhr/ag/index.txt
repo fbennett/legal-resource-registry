@@ -1,0 +1,2 @@
+.. court:: Amtsgericht
+   :court-id: de:nordrhein.westfalen:dusseldorf:duisburg:mulheim.an.der.ruhr;ag

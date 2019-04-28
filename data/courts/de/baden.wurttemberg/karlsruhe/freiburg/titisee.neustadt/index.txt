@@ -1,0 +1,2 @@
+.. category:: Titisee-Neustadt
+   :category-id: de:baden.wurttemberg:karlsruhe:freiburg:titisee.neustadt

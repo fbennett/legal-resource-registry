@@ -1,0 +1,2 @@
+.. category:: Kiel
+   :category-id: de:schleswig.holstein:kiel:kiel

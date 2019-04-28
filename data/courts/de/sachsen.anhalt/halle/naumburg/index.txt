@@ -1,0 +1,2 @@
+.. category:: Naumburg
+   :category-id: de:sachsen.anhalt:halle:naumburg

@@ -1,0 +1,2 @@
+.. category:: Ettlingen
+   :category-id: de:baden.wurttemberg:karlsruhe:karlsruhe:ettlingen

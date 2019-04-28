@@ -1,0 +1,2 @@
+.. category:: Korbach
+   :category-id: de:hessen:kassel:korbach

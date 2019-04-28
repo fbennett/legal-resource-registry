@@ -1,0 +1,2 @@
+.. category:: Kirchheim unter Teck
+   :category-id: de:baden.wurttemberg:stuttgart:stuttgart:kirchheim.unter.teck

@@ -1,0 +1,2 @@
+.. category:: Stuttgart
+   :category-id: de:baden.wurttemberg:stuttgart

@@ -1,0 +1,2 @@
+.. category:: Büdingen
+   :category-id: de:hessen:giessen:budingen

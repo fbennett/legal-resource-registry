@@ -1,0 +1,2 @@
+.. category:: Nördlingen
+   :category-id: de:bayern:munchen:augsburg:nordlingen

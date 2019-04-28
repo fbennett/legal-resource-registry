@@ -1,0 +1,2 @@
+.. category:: Hattingen
+   :category-id: de:nordrhein.westfalen:hamm:essen:hattingen

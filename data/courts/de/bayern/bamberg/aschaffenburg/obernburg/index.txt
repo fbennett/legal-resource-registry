@@ -1,0 +1,2 @@
+.. category:: Obernburg am Main
+   :category-id: de:bayern:bamberg:aschaffenburg:obernburg

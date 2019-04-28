@@ -1,0 +1,2 @@
+.. category:: Wernigerode
+   :category-id: de:sachsen.anhalt:magdeburg:wernigerode

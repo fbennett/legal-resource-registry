@@ -1,4 +1,0 @@
-.. court:: Bundesgerichtshof
-   :court-id: de;bundesgerichtshof
-   :url: http://www.bundesgerichtshof.de/DE/Home/home_node.html
-   :en: Federal Court of Justice

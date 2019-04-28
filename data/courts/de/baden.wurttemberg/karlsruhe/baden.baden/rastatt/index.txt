@@ -1,0 +1,2 @@
+.. category:: Rastatt
+   :category-id: de:baden.wurttemberg:karlsruhe:baden.baden:rastatt

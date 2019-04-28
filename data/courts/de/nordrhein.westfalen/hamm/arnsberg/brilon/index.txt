@@ -1,0 +1,2 @@
+.. category:: Brilon
+   :category-id: de:nordrhein.westfalen:hamm:arnsberg:brilon

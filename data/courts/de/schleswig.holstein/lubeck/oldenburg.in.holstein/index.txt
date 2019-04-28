@@ -1,0 +1,2 @@
+.. category:: Oldenburg in Holstein
+   :category-id: de:schleswig.holstein:lubeck:oldenburg.in.holstein

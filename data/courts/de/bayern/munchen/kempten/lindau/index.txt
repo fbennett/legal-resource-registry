@@ -1,0 +1,2 @@
+.. category:: Lindau
+   :category-id: de:bayern:munchen:kempten:lindau

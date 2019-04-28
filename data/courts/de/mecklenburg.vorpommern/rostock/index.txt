@@ -1,0 +1,2 @@
+.. category:: Rostock
+   :category-id: de:mecklenburg.vorpommern:rostock

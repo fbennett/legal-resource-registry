@@ -1,0 +1,2 @@
+.. category:: Hanau
+   :category-id: de:hessen:hanau:hanau

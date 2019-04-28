@@ -1,0 +1,2 @@
+.. category:: Lahr
+   :category-id: de:baden.wurttemberg:karlsruhe:offenburg:lahr

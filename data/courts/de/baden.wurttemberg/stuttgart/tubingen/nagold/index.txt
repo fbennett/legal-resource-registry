@@ -1,0 +1,2 @@
+.. category:: Nagold
+   :category-id: de:baden.wurttemberg:stuttgart:tubingen:nagold

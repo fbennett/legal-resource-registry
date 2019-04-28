@@ -1,0 +1,2 @@
+.. category:: Singen
+   :category-id: de:baden.wurttemberg:karlsruhe:konstanz:singen

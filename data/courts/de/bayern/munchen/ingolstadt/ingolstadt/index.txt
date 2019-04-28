@@ -1,0 +1,2 @@
+.. category:: Ingolstadt
+   :category-id: de:bayern:munchen:ingolstadt:ingolstadt

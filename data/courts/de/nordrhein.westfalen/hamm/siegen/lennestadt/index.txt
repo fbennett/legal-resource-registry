@@ -1,0 +1,2 @@
+.. category:: Lennestadt
+   :category-id: de:nordrhein.westfalen:hamm:siegen:lennestadt

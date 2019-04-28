@@ -1,0 +1,2 @@
+.. category:: Altenkirchen
+   :category-id: de:rheinland.pfalz:koblenz:koblenz:altenkirchen

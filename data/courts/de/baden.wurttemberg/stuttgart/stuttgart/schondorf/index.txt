@@ -1,0 +1,2 @@
+.. category:: Schondorf
+   :category-id: de:baden.wurttemberg:stuttgart:stuttgart:schondorf

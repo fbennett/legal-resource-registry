@@ -1,0 +1,2 @@
+.. category:: Varel
+   :category-id: de:niedersachsen:oldenburg:oldenburg:varel

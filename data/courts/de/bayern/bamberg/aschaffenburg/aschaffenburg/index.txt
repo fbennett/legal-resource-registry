@@ -1,0 +1,2 @@
+.. category:: Aschaffenburg
+   :category-id: de:bayern:bamberg:aschaffenburg:aschaffenburg

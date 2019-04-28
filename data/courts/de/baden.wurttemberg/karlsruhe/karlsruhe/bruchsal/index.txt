@@ -1,0 +1,2 @@
+.. category:: Bruchsal
+   :category-id: de:baden.wurttemberg:karlsruhe:karlsruhe:bruchsal

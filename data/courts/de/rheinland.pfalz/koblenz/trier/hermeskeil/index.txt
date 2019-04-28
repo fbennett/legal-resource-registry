@@ -1,0 +1,2 @@
+.. category:: Hermeskeil
+   :category-id: de:rheinland.pfalz:koblenz:trier:hermeskeil

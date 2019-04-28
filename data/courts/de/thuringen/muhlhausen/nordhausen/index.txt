@@ -1,0 +1,2 @@
+.. category:: Nordhausen
+   :category-id: de:thuringen:muhlhausen:nordhausen

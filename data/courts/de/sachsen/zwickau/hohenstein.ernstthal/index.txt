@@ -1,0 +1,2 @@
+.. category:: Hohenstein-Ernstthal
+   :category-id: de:sachsen:zwickau:hohenstein.ernstthal

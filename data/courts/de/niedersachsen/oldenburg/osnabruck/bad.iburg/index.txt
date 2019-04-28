@@ -1,0 +1,2 @@
+.. category:: Bad Iburg
+   :category-id: de:niedersachsen:oldenburg:osnabruck:bad.iburg

@@ -1,0 +1,2 @@
+.. court:: Landessozialgericht
+   :court-id: de:bayern;lsg

@@ -1,0 +1,2 @@
+.. category:: Wolfach
+   :category-id: de:baden.wurttemberg:karlsruhe:offenburg:wolfach

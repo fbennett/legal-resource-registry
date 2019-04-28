@@ -1,0 +1,2 @@
+.. category:: Neumarkt
+   :category-id: de:bayern:nurnberg:neumarkt

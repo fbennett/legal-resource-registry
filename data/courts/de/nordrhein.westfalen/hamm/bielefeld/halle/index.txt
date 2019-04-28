@@ -1,0 +1,2 @@
+.. category:: Halle
+   :category-id: de:nordrhein.westfalen:hamm:bielefeld:halle

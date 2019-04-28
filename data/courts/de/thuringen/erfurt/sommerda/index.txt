@@ -1,0 +1,2 @@
+.. category:: Sömmerda
+   :category-id: de:thuringen:erfurt:sommerda

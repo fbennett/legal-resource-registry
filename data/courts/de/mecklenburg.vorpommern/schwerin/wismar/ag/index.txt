@@ -1,0 +1,2 @@
+.. court:: Amtsgericht
+   :court-id: de:mecklenburg.vorpommern:schwerin:wismar;ag

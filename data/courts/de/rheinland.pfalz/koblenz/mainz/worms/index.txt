@@ -1,0 +1,2 @@
+.. category:: Worms
+   :category-id: de:rheinland.pfalz:koblenz:mainz:worms

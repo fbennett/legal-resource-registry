@@ -1,0 +1,2 @@
+.. category:: Mannheim
+   :category-id: de:baden.wurttemberg:karlsruhe:mannheim

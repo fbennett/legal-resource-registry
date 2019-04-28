@@ -1,0 +1,2 @@
+.. category:: Künzelssau
+   :category-id: de:baden.wurttemberg:stuttgart:heilbronn:kunzelssau

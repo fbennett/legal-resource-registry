@@ -1,0 +1,2 @@
+.. category:: Schleswig
+   :category-id: de:schleswig.holstein:schleswig

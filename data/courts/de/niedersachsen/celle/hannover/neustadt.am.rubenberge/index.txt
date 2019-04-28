@@ -1,0 +1,2 @@
+.. category:: Neustadt am Rübenberge
+   :category-id: de:niedersachsen:celle:hannover:neustadt.am.rubenberge

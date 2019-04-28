@@ -1,0 +1,2 @@
+.. court:: Finanzgericht
+   :court-id: de:bayern:nurnberg;fg

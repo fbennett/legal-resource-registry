@@ -1,0 +1,2 @@
+.. category:: Goslar
+   :category-id: de:niedersachsen:braunschweig:braunschweig:goslar

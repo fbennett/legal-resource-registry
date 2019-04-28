@@ -1,0 +1,2 @@
+.. category:: Helmstedt
+   :category-id: de:niedersachsen:braunschweig:braunschweig:helmstedt

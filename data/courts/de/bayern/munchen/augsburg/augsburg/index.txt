@@ -1,0 +1,2 @@
+.. category:: Augsburg
+   :category-id: de:bayern:munchen:augsburg:augsburg

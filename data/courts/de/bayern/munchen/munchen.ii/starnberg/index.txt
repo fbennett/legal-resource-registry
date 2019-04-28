@@ -1,0 +1,2 @@
+.. category:: Starnberg
+   :category-id: de:bayern:munchen:munchen.ii:starnberg

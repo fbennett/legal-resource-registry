@@ -1,0 +1,2 @@
+.. category:: Sankt Goar
+   :category-id: de:rheinland.pfalz:koblenz:koblenz:sankt.goar

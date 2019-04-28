@@ -1,0 +1,2 @@
+.. category:: Idar-Oberstein
+   :category-id: de:rheinland.pfalz:koblenz:bad.kreuznach:idar.oberstein

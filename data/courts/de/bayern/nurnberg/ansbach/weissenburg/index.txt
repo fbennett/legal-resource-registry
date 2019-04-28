@@ -1,0 +1,2 @@
+.. category:: Weißenburg
+   :category-id: de:bayern:nurnberg:ansbach:weissenburg

@@ -1,0 +1,2 @@
+.. category:: Wildeshausen
+   :category-id: de:niedersachsen:oldenburg:oldenburg:wildeshausen

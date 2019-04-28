@@ -1,0 +1,2 @@
+.. category:: Burgdorf
+   :category-id: de:niedersachsen:celle:hildesheim:burgdorf

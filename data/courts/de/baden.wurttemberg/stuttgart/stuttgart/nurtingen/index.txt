@@ -1,0 +1,2 @@
+.. category:: Nürtingen
+   :category-id: de:baden.wurttemberg:stuttgart:stuttgart:nurtingen

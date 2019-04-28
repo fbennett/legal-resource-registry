@@ -1,0 +1,2 @@
+.. category:: Kelheim
+   :category-id: de:bayern:nurnberg:regensburg:kelheim
