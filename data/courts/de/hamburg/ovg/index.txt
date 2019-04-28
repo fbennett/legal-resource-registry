@@ -1,2 +1,2 @@
-.. court:: Obervervaltungsgericht
+.. court:: Oberverwaltungsgericht
    :court-id: de:hamburg;ovg

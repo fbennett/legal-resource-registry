@@ -1,2 +1,0 @@
-.. court:: Obervervaltungsgericht
-   :court-id: de:baden.wurttemberg;ovg

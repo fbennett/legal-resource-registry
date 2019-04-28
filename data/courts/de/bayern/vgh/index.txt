@@ -1,2 +1,2 @@
 .. court:: Verwaltungsgerichtshof
-   :court-id: de:bayern;vwgh
+   :court-id: de:bayern;vgh
