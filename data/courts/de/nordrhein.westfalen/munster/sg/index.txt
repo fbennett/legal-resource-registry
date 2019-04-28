@@ -1,0 +1,2 @@
+.. court:: Sozialgericht
+   :court-id: de:nordrhein.westfalen:munster;sg

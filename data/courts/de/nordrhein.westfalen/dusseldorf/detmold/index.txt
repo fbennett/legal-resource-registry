@@ -1,2 +1,0 @@
-.. category:: Detmold
-   :category-id: de:nordrhein.westfalen:dusseldorf:detmold

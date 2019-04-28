@@ -1,2 +1,0 @@
-.. category:: Aachen
-   :category-id: de:nordrhein.westfalen:dusseldorf:aachen
