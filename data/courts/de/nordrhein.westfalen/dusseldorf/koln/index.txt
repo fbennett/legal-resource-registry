@@ -1,2 +1,0 @@
-.. category:: Köln
-   :category-id: de:nordrhein.westfalen:dusseldorf:koln

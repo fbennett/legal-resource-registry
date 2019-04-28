@@ -1,2 +1,0 @@
-.. court:: Sozialgericht
-   :court-id: de:nordrhein.westfalen:dusseldorf:detmold;sg
