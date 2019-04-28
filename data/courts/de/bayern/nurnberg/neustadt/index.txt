@@ -1,2 +1,0 @@
-.. category:: Neustadt
-   :category-id: de:bayern:nurnberg:neustadt

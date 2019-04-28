@@ -1,0 +1,2 @@
+.. category:: Bad Urach
+   :category-id: de:baden.wurttemberg:stuttgart:tubingen:bad.urach

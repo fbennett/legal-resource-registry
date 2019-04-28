@@ -1,2 +1,0 @@
-.. category:: Schwabach
-   :category-id: de:bayern:nurnberg:schwabach

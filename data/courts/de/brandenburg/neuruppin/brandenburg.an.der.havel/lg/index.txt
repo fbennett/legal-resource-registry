@@ -1,2 +1,0 @@
-.. court:: Landgericht
-   :court-id: de:brandenburg:neuruppin:brandenburg.an.der.havel;lg

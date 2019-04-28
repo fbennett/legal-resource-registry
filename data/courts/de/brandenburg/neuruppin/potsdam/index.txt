@@ -1,2 +1,0 @@
-.. category:: Potsdam
-   :category-id: de:brandenburg:neuruppin:potsdam

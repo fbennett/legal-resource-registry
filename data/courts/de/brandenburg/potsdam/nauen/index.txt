@@ -1,0 +1,2 @@
+.. category:: Nauen
+   :category-id: de:brandenburg:potsdam:nauen
