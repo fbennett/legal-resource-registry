@@ -1,2 +1,2 @@
-.. category:: %%JURISDICTION_NAME%%
-   :category-id: at:wien:wiener.neustadt:neunkirchen:bg
+.. court:: Bezirksgericht
+   :court-id: at:wien:wiener.neustadt:neunkirchen;bg

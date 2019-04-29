@@ -1,2 +1,2 @@
-.. category:: %%JURISDICTION_NAME%%
-   :category-id: at:graz:graz:furstenfeld:bg
+.. court:: Bezirksgericht
+   :court-id: at:graz:graz:furstenfeld;bg

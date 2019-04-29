@@ -1,2 +1,2 @@
-.. category:: %%JURISDICTION_NAME%%
-   :category-id: at:niederosterreich:lvwg
+.. court:: Landesverwaltungsgericht
+   :court-id: at:niederosterreich;lvwg

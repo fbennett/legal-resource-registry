@@ -1,2 +1,2 @@
-.. category:: %%JURISDICTION_NAME%%
-   :category-id: at:linz:ried.im.innkreis:mattighofen:bg
+.. court:: Bezirksgericht
+   :court-id: at:linz:ried.im.innkreis:mattighofen;bg

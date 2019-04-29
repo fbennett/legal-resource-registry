@@ -1,2 +1,2 @@
-.. category:: %%JURISDICTION_NAME%%
-   :category-id: at:vwgh
+.. court:: Verwaltungsgerichtshof
+   :court-id: at;vwgh

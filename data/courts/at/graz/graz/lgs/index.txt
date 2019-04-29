@@ -1,2 +1,2 @@
-.. category:: %%JURISDICTION_NAME%%
-   :category-id: at:graz:graz:lgs
+.. court:: Landesgericht für Strafsachen
+   :court-id: at:graz:graz;lgs

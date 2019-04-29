@@ -1,2 +1,2 @@
-.. category:: %%JURISDICTION_NAME%%
-   :category-id: at:ogh
+.. court:: Oberster Gerichtshof
+   :court-id: at;ogh

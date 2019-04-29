@@ -1,2 +1,2 @@
-.. category:: %%JURISDICTION_NAME%%
-   :category-id: at:wien:vgwg
+.. court:: Verwaltungsgericht
+   :court-id: at:wien;vgwg

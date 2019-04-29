@@ -1,2 +1,2 @@
-.. category:: %%JURISDICTION_NAME%%
-   :category-id: at:tirol:lvwg
+.. court:: Landesverwaltungsgericht
+   :court-id: at:tirol;lvwg

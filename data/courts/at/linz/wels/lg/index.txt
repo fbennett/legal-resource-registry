@@ -1,2 +1,2 @@
-.. category:: %%JURISDICTION_NAME%%
-   :category-id: at:linz:wels:lg
+.. court:: Landesgericht
+   :court-id: at:linz:wels;lg

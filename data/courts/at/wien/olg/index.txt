@@ -1,2 +1,2 @@
-.. category:: %%JURISDICTION_NAME%%
-   :category-id: at:wien:olg
+.. court:: Oberlandesgericht
+   :court-id: at:wien;olg

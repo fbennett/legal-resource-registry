@@ -1,2 +1,2 @@
-.. category:: %%JURISDICTION_NAME%%
-   :category-id: at:linz:steyr:kirchdorf.an.der.krems:bg
+.. court:: Bezirksgericht
+   :court-id: at:linz:steyr:kirchdorf.an.der.krems;bg

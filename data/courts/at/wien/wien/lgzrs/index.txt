@@ -1,2 +1,2 @@
-.. category:: %%JURISDICTION_NAME%%
-   :category-id: at:wien:wien:lgzrs
+.. court:: Landesgericht für Zivilrechtssachen
+   :court-id: at:wien:wien;lgzrs

@@ -1,2 +1,2 @@
-.. category:: %%JURISDICTION_NAME%%
-   :category-id: at:wien:wien:asg
+.. court:: Arbeits- und Sozialgericht
+   :court-id: at:wien:wien;asg

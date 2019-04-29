@@ -1,2 +1,2 @@
-.. category:: %%JURISDICTION_NAME%%
-   :category-id: at:wien:krems.an.der.donau:horn:bg
+.. court:: Bezirksgericht
+   :court-id: at:wien:krems.an.der.donau:horn;bg

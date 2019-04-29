@@ -1,2 +1,2 @@
-.. category:: %%JURISDICTION_NAME%%
-   :category-id: at:burgenland:lvwg
+.. court:: Landesverwaltungsgericht
+   :court-id: at:burgenland;lvwg

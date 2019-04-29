@@ -1,2 +1,2 @@
-.. category:: %%JURISDICTION_NAME%%
-   :category-id: at:karnten:lvwg
+.. court:: Landesverwaltungsgericht
+   :court-id: at:karnten;lvwg

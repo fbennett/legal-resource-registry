@@ -1,2 +1,2 @@
-.. category:: %%JURISDICTION_NAME%%
-   :category-id: at:graz:klagenfurt:lg
+.. court:: Landesgericht
+   :court-id: at:graz:klagenfurt;lg

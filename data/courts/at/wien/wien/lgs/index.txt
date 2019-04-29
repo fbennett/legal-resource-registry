@@ -1,2 +1,2 @@
-.. category:: %%JURISDICTION_NAME%%
-   :category-id: at:wien:wien:lgs
+.. court:: Landesgericht für Strafsachen
+   :court-id: at:wien:wien;lgs

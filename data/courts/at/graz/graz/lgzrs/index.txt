@@ -1,2 +1,2 @@
-.. category:: %%JURISDICTION_NAME%%
-   :category-id: at:graz:graz:lgzrs
+.. court:: Landesgericht für Zivilrechtssachen
+   :court-id: at:graz:graz;lgzrs

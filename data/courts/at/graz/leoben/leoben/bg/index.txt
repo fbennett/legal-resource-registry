@@ -1,2 +1,2 @@
-.. category:: %%JURISDICTION_NAME%%
-   :category-id: at:graz:leoben:leoben:bg
+.. court:: Bezirksgericht
+   :court-id: at:graz:leoben:leoben;bg

@@ -1,2 +1,2 @@
-.. category:: %%JURISDICTION_NAME%%
-   :category-id: at:innsbruck:innsbruck:lg
+.. court:: Landesgericht
+   :court-id: at:innsbruck:innsbruck;lg

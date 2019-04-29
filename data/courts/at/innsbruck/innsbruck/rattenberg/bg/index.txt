@@ -1,2 +1,2 @@
-.. category:: %%JURISDICTION_NAME%%
-   :category-id: at:innsbruck:innsbruck:rattenberg:bg
+.. court:: Bezirksgericht
+   :court-id: at:innsbruck:innsbruck:rattenberg;bg

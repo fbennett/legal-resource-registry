@@ -1,2 +1,2 @@
-.. category:: %%JURISDICTION_NAME%%
-   :category-id: at:graz:klagenfurt:eisenkappel:bg
+.. court:: Bezirksgericht
+   :court-id: at:graz:klagenfurt:eisenkappel;bg

@@ -1,2 +1,2 @@
-.. category:: %%JURISDICTION_NAME%%
-   :category-id: at:linz:salzburg:oberndorf:bg
+.. court:: Bezirksgericht
+   :court-id: at:linz:salzburg:oberndorf;bg
