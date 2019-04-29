@@ -1,2 +1,2 @@
-.. court:: Truppendiensgericht Süd
+.. court:: Truppendienstgericht Süd
    :court-id: de;trdg.sud
