@@ -1,2 +1,2 @@
-.. court:: Truppendiensgericht Nord
+.. court:: Truppendienstgericht Nord
    :court-id: de;trdg.nord
