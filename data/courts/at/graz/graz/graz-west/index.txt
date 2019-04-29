@@ -1,0 +1,2 @@
+.. category:: Graz-West
+   :category-id: at:graz:graz:graz-west

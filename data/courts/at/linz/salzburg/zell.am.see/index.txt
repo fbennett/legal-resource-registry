@@ -1,0 +1,2 @@
+.. category:: Zell am See
+   :category-id: at:linz:salzburg:zell.am.see

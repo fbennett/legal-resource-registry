@@ -1,0 +1,2 @@
+.. category:: Klagenfurt
+   :category-id: at:graz:klagenfurt:klagenfurt

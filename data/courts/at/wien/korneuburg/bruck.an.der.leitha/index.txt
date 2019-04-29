@@ -1,0 +1,2 @@
+.. category:: Bruck an der Leitha
+   :category-id: at:wien:korneuburg:bruck.an.der.leitha

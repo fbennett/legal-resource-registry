@@ -1,0 +1,2 @@
+.. category:: Bludenz
+   :category-id: at:innsbruck:feldkirch:bludenz

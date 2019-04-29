@@ -1,0 +1,2 @@
+.. category:: Bad Ischl
+   :category-id: at:linz:wels:bad.ischl

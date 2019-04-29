@@ -1,0 +1,2 @@
+.. category:: Mattighofen
+   :category-id: at:linz:ried.im.innkreis:mattighofen

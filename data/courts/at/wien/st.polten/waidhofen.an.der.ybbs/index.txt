@@ -1,0 +1,2 @@
+.. category:: Waidhofen an der Ybbs
+   :category-id: at:wien:st.polten:waidhofen.an.der.ybbs

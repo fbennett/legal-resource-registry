@@ -1,0 +1,2 @@
+.. category:: Gmunden
+   :category-id: at:linz:wels:gmunden

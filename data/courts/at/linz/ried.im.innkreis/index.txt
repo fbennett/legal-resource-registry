@@ -1,0 +1,2 @@
+.. category:: Ried im Innkreis
+   :category-id: at:linz:ried.im.innkreis

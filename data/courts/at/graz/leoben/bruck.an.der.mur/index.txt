@@ -1,0 +1,2 @@
+.. category:: Bruck an der Mur
+   :category-id: at:graz:leoben:bruck.an.der.mur

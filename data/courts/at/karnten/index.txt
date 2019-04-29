@@ -1,0 +1,2 @@
+.. category:: Kärnten
+   :category-id: at:karnten

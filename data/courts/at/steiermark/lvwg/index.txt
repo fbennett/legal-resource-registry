@@ -1,0 +1,2 @@
+.. category:: %%JURISDICTION_NAME%%
+   :category-id: at:steiermark:lvwg

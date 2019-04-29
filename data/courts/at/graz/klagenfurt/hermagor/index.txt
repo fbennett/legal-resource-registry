@@ -1,0 +1,2 @@
+.. category:: Hermagor
+   :category-id: at:graz:klagenfurt:hermagor

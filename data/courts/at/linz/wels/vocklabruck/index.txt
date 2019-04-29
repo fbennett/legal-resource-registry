@@ -1,0 +1,2 @@
+.. category:: Vöcklabruck
+   :category-id: at:linz:wels:vocklabruck

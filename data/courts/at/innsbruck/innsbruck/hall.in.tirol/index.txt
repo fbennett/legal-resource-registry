@@ -1,0 +1,2 @@
+.. category:: Hall in Tirol
+   :category-id: at:innsbruck:innsbruck:hall.in.tirol

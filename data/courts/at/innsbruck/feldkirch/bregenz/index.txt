@@ -1,0 +1,2 @@
+.. category:: Bregenz
+   :category-id: at:innsbruck:feldkirch:bregenz

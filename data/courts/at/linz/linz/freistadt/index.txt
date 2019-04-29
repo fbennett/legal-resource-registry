@@ -1,0 +1,2 @@
+.. category:: Freistadt
+   :category-id: at:linz:linz:freistadt

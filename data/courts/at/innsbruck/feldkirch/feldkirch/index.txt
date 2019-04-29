@@ -1,0 +1,2 @@
+.. category:: Feldkirch
+   :category-id: at:innsbruck:feldkirch:feldkirch

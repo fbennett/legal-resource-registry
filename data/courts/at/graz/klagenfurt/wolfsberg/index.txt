@@ -1,0 +1,2 @@
+.. category:: Wolfsberg
+   :category-id: at:graz:klagenfurt:wolfsberg

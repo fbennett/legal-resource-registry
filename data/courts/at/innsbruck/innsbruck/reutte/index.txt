@@ -1,0 +1,2 @@
+.. category:: Reutte
+   :category-id: at:innsbruck:innsbruck:reutte

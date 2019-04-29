@@ -1,0 +1,2 @@
+.. category:: Voitsberg
+   :category-id: at:graz:graz:voitsberg

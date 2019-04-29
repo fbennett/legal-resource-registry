@@ -1,0 +1,2 @@
+.. category:: Judenburg
+   :category-id: at:graz:leoben:judenburg

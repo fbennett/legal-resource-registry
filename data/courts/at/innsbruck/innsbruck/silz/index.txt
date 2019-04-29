@@ -1,0 +1,2 @@
+.. category:: Silz
+   :category-id: at:innsbruck:innsbruck:silz

@@ -1,0 +1,2 @@
+.. category:: Gmünd in Niederösterreich
+   :category-id: at:wien:krems.an.der.donau:gmund.in.niederosterreich

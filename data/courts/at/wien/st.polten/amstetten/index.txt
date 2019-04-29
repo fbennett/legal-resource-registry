@@ -1,0 +1,2 @@
+.. category:: Amstetten
+   :category-id: at:wien:st.polten:amstetten

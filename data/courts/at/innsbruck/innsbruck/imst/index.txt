@@ -1,0 +1,2 @@
+.. category:: Imst
+   :category-id: at:innsbruck:innsbruck:imst

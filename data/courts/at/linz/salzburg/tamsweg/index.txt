@@ -1,0 +1,2 @@
+.. category:: Tamsweg
+   :category-id: at:linz:salzburg:tamsweg

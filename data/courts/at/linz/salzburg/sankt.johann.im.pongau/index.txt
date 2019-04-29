@@ -1,0 +1,2 @@
+.. category:: Sankt Johann im Pongau
+   :category-id: at:linz:salzburg:sankt.johann.im.pongau

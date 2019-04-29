@@ -1,0 +1,2 @@
+.. category:: Rattenberg
+   :category-id: at:innsbruck:innsbruck:rattenberg

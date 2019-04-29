@@ -1,0 +1,2 @@
+.. category:: Schärding
+   :category-id: at:linz:ried.im.innkreis:scharding

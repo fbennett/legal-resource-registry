@@ -1,0 +1,2 @@
+.. category:: Waidhofen an der Thaya
+   :category-id: at:wien:krems.an.der.donau:waidhofen.an.der.thaya

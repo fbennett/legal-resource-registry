@@ -1,0 +1,2 @@
+.. category:: %%JURISDICTION_NAME%%
+   :category-id: at:innsbruck:innsbruck:hall.in.tirol:bg

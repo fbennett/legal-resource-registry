@@ -1,0 +1,2 @@
+.. category:: Braunau am Inn
+   :category-id: at:linz:ried.im.innkreis:braunau.am.inn

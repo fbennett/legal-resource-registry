@@ -1,0 +1,2 @@
+.. category:: Sankt Veit an der Glan
+   :category-id: at:graz:klagenfurt:sankt.veit.an.der.glan

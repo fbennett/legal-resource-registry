@@ -1,0 +1,2 @@
+.. category:: Schladming
+   :category-id: at:graz:leoben:schladming

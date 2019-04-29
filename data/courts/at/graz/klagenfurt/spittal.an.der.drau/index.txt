@@ -1,0 +1,2 @@
+.. category:: Spittal an der Drau
+   :category-id: at:graz:klagenfurt:spittal.an.der.drau

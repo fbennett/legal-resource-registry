@@ -1,0 +1,2 @@
+.. category:: Lienz
+   :category-id: at:innsbruck:innsbruck:lienz

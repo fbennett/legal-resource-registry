@@ -1,0 +1,2 @@
+.. category:: Hallein
+   :category-id: at:linz:salzburg:hallein
