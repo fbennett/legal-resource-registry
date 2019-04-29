@@ -1,2 +1,0 @@
-.. court:: Amtsgericht
-   :court-id: de:baden.wurttemberg:karlsruhe:mannheim:schweitzingen;ag
