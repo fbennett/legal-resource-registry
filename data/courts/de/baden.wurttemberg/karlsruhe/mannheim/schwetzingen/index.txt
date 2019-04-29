@@ -1,0 +1,2 @@
+.. category:: Schwetzingen
+   :category-id: de:baden.wurttemberg:karlsruhe:mannheim:schwetzingen
