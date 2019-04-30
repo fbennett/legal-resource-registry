@@ -1,0 +1,3 @@
+.. category:: Πατρών
+   :category-id: gr:patron:patras
+   :en: Patras

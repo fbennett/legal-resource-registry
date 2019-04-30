@@ -1,0 +1,3 @@
+.. category:: Καστοριάς
+   :category-id: gr:dyt.macedonia:kastoria
+   :en: Kastoria

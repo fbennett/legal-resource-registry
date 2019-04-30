@@ -1,0 +1,3 @@
+.. category:: Κυπαρισσίας
+   :category-id: gr:kalamata:kyparissia
+   :en: Kyparissia

@@ -1,0 +1,3 @@
+.. category:: Λαμίας
+   :category-id: gr:lamia:lamia
+   :en: Lamia

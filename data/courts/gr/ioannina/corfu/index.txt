@@ -1,0 +1,3 @@
+.. category:: Κερκύρας
+   :category-id: gr:ioannina:corfu
+   :en: Corfu

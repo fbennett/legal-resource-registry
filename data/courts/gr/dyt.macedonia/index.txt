@@ -1,0 +1,3 @@
+.. category:: ΔΥΤ. ΜΑΚΕΔΟΝΙΑΣ (Κοζάνη)
+   :category-id: gr:dyt.macedonia
+   :en: Dyt. Macedonia (Kozani)

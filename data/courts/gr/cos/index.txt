@@ -1,0 +1,3 @@
+.. court:: Συμβούλιο της Επικρατείας
+   :court-id: gr;cos
+   :en: Council of State

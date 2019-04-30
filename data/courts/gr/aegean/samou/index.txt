@@ -1,0 +1,3 @@
+.. category:: Σάμου
+   :category-id: gr:aegean:samou
+   :en: Samou

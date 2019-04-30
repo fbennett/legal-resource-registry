@@ -1,0 +1,3 @@
+.. category:: Γυθείου
+   :category-id: gr:kalamata:gytheion
+   :en: Gytheion

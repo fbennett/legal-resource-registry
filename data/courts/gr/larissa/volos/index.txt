@@ -1,0 +1,3 @@
+.. category:: Βόλου
+   :category-id: gr:larissa:volos
+   :en: Volos

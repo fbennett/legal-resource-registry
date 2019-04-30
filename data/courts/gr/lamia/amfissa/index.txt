@@ -1,0 +1,3 @@
+.. category:: Άμφισσας
+   :category-id: gr:lamia:amfissa
+   :en: Amfissa

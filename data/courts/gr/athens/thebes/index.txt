@@ -1,0 +1,3 @@
+.. category:: Θηβών
+   :category-id: gr:athens:thebes
+   :en: Thebes

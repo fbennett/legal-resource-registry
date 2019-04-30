@@ -1,0 +1,3 @@
+.. category:: Άρτας
+   :category-id: gr:ioannina:arta
+   :en: Arta

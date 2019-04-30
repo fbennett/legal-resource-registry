@@ -1,0 +1,3 @@
+.. category:: Μεσολογγίου
+   :category-id: gr:patron:mesolongi
+   :en: Mesolongi

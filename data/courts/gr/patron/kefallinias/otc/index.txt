@@ -1,0 +1,3 @@
+.. court:: ΠΡΩΤΟΔΙΚΕΙΟ
+   :court-id: gr:patron:kefallinias;otc
+   :en: Ordinary Trial Court

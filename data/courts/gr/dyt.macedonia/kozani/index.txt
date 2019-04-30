@@ -1,0 +1,3 @@
+.. category:: Κοζάνης
+   :category-id: gr:dyt.macedonia:kozani
+   :en: Kozani

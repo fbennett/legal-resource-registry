@@ -1,0 +1,3 @@
+.. category:: Ξάνθης
+   :category-id: gr:thrace:xanthi
+   :en: Xanthi

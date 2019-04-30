@@ -1,0 +1,3 @@
+.. court:: ΔΙΟΙΚΗΤΙΚΑ ΠΡΩΤΟΔΙΚΕΙΑ
+   :court-id: gr:thessaloniki:thessaloniki;atc
+   :en: Administrative Trial Court

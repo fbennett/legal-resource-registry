@@ -1,0 +1,3 @@
+.. category:: ΘΡΑΚΗΣ (Κομοτηνή)
+   :category-id: gr:thrace
+   :en: Thrace (Komotini)

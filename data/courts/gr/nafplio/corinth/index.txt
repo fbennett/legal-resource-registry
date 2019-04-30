@@ -1,0 +1,3 @@
+.. category:: Κορίνθου
+   :category-id: gr:nafplio:corinth
+   :en: Corinth

@@ -1,0 +1,3 @@
+.. court:: ΔΙΟΙΚΗΤΙΚΑ ΠΡΩΤΟΔΙΚΕΙΑ
+   :court-id: gr:athens:athens;atc
+   :en: Administrative Trial Court

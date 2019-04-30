@@ -1,0 +1,3 @@
+.. court:: ΔΙΟΙΚΗΤΙΚΑ ΠΡΩΤΟΔΙΚΕΙΑ
+   :court-id: gr:piraeus:mytilene;atc
+   :en: Administrative Trial Court

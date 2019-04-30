@@ -1,0 +1,3 @@
+.. court:: ΔΙΟΙΚΗΤΙΚΑ ΕΦΕΤΕΙΑ
+   :court-id: gr:patron;aca
+   :en: Administrative Court of Appeal

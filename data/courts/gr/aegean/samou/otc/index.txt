@@ -1,0 +1,3 @@
+.. court:: ΠΡΩΤΟΔΙΚΕΙΟ
+   :court-id: gr:aegean:samou;otc
+   :en: Ordinary Trial Court

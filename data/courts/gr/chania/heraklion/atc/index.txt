@@ -1,0 +1,3 @@
+.. court:: ΔΙΟΙΚΗΤΙΚΑ ΠΡΩΤΟΔΙΚΕΙΑ
+   :court-id: gr:chania:heraklion;atc
+   :en: Administrative Trial Court

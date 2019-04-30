@@ -1,0 +1,3 @@
+.. category:: Σύρου
+   :category-id: gr:piraeus:syros
+   :en: Syros

@@ -1,0 +1,3 @@
+.. category:: Θεσπρωτίας
+   :category-id: gr:corfu:thesprotia
+   :en: Thesprotia

@@ -1,0 +1,3 @@
+.. court:: ΠΡΩΤΟΔΙΚΕΙΟ
+   :court-id: gr:dyt.macedonia:grevena;otc
+   :en: Ordinary Trial Court

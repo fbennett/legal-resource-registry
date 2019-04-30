@@ -1,0 +1,3 @@
+.. category:: Ροδόπης
+   :category-id: gr:thrace:rodopi
+   :en: Rodopi

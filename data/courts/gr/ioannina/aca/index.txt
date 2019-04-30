@@ -1,0 +1,3 @@
+.. court:: ΔΙΟΙΚΗΤΙΚΑ ΕΦΕΤΕΙΑ
+   :court-id: gr:ioannina;aca
+   :en: Administrative Court of Appeal

@@ -1,0 +1,3 @@
+.. category:: Γρεβενών
+   :category-id: gr:dyt.macedonia:grevena
+   :en: Grevena

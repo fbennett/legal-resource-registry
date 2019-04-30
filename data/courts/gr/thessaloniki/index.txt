@@ -1,0 +1,3 @@
+.. category:: ΘΕΣΣΑΛΟΝΙΚΗΣ
+   :category-id: gr:thessaloniki
+   :en: Thessaloniki

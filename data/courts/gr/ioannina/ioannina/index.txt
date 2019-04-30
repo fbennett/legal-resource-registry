@@ -1,0 +1,3 @@
+.. category:: Ιωαννίνων
+   :category-id: gr:ioannina:ioannina
+   :en: Ioannina

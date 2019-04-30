@@ -1,0 +1,3 @@
+.. court:: ΔΙΟΙΚΗΤΙΚΑ ΕΦΕΤΕΙΑ
+   :court-id: gr:chania;aca
+   :en: Administrative Court of Appeal

@@ -1,0 +1,3 @@
+.. category:: Καλαμάτας
+   :category-id: gr:kalamata:kalamata
+   :en: Kalamata

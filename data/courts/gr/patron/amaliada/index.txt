@@ -1,0 +1,3 @@
+.. category:: Αμαλιάδας
+   :category-id: gr:patron:amaliada
+   :en: Amaliada

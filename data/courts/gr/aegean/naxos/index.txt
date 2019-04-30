@@ -1,0 +1,3 @@
+.. category:: Νάξου
+   :category-id: gr:aegean:naxos
+   :en: Naxos

@@ -1,0 +1,3 @@
+.. category:: Σπάρτης
+   :category-id: gr:nafplio:sparta
+   :en: Sparta

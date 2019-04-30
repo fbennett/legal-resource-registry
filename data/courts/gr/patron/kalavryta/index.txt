@@ -1,0 +1,3 @@
+.. category:: Καλαβρύτων
+   :category-id: gr:patron:kalavryta
+   :en: Kalavryta

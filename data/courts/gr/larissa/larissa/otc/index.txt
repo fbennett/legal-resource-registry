@@ -1,0 +1,3 @@
+.. court:: ΠΡΩΤΟΔΙΚΕΙΟ
+   :court-id: gr:larissa:larissa;otc
+   :en: Ordinary Trial Court

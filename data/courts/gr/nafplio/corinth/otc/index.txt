@@ -1,0 +1,3 @@
+.. court:: ΠΡΩΤΟΔΙΚΕΙΟ
+   :court-id: gr:nafplio:corinth;otc
+   :en: Ordinary Trial Court

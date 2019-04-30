@@ -1,0 +1,3 @@
+.. category:: Ζακύνθου
+   :category-id: gr:patron:zakynthos
+   :en: Zakynthos

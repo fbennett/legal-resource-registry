@@ -1,0 +1,3 @@
+.. category:: Καρδίτσας
+   :category-id: gr:larissa:karditsa
+   :en: Karditsa

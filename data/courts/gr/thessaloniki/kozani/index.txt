@@ -1,0 +1,3 @@
+.. category:: Κοζάνης
+   :category-id: gr:thessaloniki:kozani
+   :en: Kozani

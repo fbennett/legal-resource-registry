@@ -1,0 +1,3 @@
+.. court:: ΔΙΟΙΚΗΤΙΚΑ ΕΦΕΤΕΙΑ
+   :court-id: gr:tripoleos;aca
+   :en: Administrative Court of Appeal

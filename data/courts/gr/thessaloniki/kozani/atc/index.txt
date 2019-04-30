@@ -1,0 +1,3 @@
+.. court:: ΔΙΟΙΚΗΤΙΚΑ ΠΡΩΤΟΔΙΚΕΙΑ
+   :court-id: gr:thessaloniki:kozani;atc
+   :en: Administrative Trial Court

@@ -1,0 +1,3 @@
+.. category:: ΚΟΜΟΤΗΝΗΣ
+   :category-id: gr:komotinis
+   :en: Komotinis

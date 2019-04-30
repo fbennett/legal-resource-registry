@@ -1,0 +1,3 @@
+.. category:: Κατερίνης
+   :category-id: gr:thessaloniki:katerini
+   :en: Katerini

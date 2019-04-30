@@ -1,0 +1,3 @@
+.. category:: Γιαννιτσών
+   :category-id: gr:thessaloniki:giannitson
+   :en: Giannitson

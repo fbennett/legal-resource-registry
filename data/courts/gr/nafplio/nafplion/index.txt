@@ -1,0 +1,3 @@
+.. category:: Ναυπλίου
+   :category-id: gr:nafplio:nafplion
+   :en: Nafplion

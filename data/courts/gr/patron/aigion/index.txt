@@ -1,0 +1,3 @@
+.. category:: Αιγίου
+   :category-id: gr:patron:aigion
+   :en: Aigion

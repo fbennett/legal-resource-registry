@@ -1,0 +1,3 @@
+.. category:: Τρικάλων
+   :category-id: gr:larissa:trikala
+   :en: Trikala

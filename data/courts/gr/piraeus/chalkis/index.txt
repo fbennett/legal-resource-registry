@@ -1,0 +1,3 @@
+.. category:: Χαλκίδας
+   :category-id: gr:piraeus:chalkis
+   :en: Chalkis

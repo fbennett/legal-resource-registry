@@ -1,0 +1,3 @@
+.. category:: Βέροιας
+   :category-id: gr:thessaloniki:veria
+   :en: Veria

@@ -1,0 +1,3 @@
+.. category:: Αγρινίου
+   :category-id: gr:patron:agrinion
+   :en: Agrinion

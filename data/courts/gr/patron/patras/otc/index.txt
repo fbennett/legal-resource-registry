@@ -1,0 +1,3 @@
+.. court:: ΠΡΩΤΟΔΙΚΕΙΟ
+   :court-id: gr:patron:patras;otc
+   :en: Ordinary Trial Court

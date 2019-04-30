@@ -1,0 +1,3 @@
+.. category:: Τριπόλεως
+   :category-id: gr:tripoleos:tripoli
+   :en: Tripoli

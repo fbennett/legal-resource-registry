@@ -1,0 +1,3 @@
+.. category:: ΑΙΓΑΙΟΥ (Σύρος)
+   :category-id: gr:aegean
+   :en: Aegean (Syros)

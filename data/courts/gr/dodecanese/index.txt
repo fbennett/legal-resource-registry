@@ -1,0 +1,3 @@
+.. category:: ΔΩΔΕΚΑΝΗΣΟΥ (Ρόδος)
+   :category-id: gr:dodecanese
+   :en: Dodecanese (Rhodes)

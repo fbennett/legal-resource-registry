@@ -1,0 +1,3 @@
+.. category:: Ευρυτανίας
+   :category-id: gr:lamia:evrytania
+   :en: Evrytania

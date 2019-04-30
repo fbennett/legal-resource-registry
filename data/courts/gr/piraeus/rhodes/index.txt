@@ -1,0 +1,3 @@
+.. category:: Ρόδου
+   :category-id: gr:piraeus:rhodes
+   :en: Rhodes

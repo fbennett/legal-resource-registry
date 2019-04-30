@@ -1,0 +1,3 @@
+.. category:: Ρεθύμνου
+   :category-id: gr:crete:rethymnon
+   :en: Rethymnon

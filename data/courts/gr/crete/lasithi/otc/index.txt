@@ -1,0 +1,3 @@
+.. court:: ΠΡΩΤΟΔΙΚΕΙΟ
+   :court-id: gr:crete:lasithi;otc
+   :en: Ordinary Trial Court

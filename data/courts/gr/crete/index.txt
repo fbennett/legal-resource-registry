@@ -1,0 +1,3 @@
+.. category:: ΚΡΗΤΗΣ (Χανιά)
+   :category-id: gr:crete
+   :en: Crete (Chania)

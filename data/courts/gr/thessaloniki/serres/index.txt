@@ -1,0 +1,3 @@
+.. category:: Σερρών
+   :category-id: gr:thessaloniki:serres
+   :en: Serres

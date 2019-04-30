@@ -1,0 +1,3 @@
+.. category:: Καβάλας
+   :category-id: gr:komotinis:kavala
+   :en: Kavala

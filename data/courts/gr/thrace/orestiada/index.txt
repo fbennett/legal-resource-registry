@@ -1,0 +1,3 @@
+.. category:: Ορεστιάδας
+   :category-id: gr:thrace:orestiada
+   :en: Orestiada

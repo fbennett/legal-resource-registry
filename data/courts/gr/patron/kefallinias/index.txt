@@ -1,0 +1,3 @@
+.. category:: Κεφαλληνίας
+   :category-id: gr:patron:kefallinias
+   :en: Kefallinias

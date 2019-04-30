@@ -1,0 +1,3 @@
+.. category:: Λασιθίου (Νεάπολη)
+   :category-id: gr:crete:lasithi
+   :en: Lasithi (Neapoli)

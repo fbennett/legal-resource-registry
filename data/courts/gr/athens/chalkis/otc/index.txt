@@ -1,0 +1,3 @@
+.. court:: ΠΡΩΤΟΔΙΚΕΙΟ
+   :court-id: gr:athens:chalkis;otc
+   :en: Ordinary Trial Court

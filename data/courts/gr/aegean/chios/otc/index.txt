@@ -1,0 +1,3 @@
+.. court:: ΠΡΩΤΟΔΙΚΕΙΟ
+   :court-id: gr:aegean:chios;otc
+   :en: Ordinary Trial Court

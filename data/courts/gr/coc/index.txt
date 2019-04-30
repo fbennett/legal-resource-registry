@@ -1,0 +1,3 @@
+.. court:: Άρειος Πάγος
+   :court-id: gr;coc
+   :en: Supreme Court

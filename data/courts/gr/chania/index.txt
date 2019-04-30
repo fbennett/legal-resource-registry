@@ -1,0 +1,3 @@
+.. category:: ΧΑΝΙΩΝ
+   :category-id: gr:chania
+   :en: Chania

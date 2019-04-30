@@ -1,0 +1,3 @@
+.. category:: ΚΕΡΚΥΡΑΣ
+   :category-id: gr:corfu
+   :en: Corfu

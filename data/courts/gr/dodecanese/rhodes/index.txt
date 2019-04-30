@@ -1,0 +1,3 @@
+.. category:: Ρόδου
+   :category-id: gr:dodecanese:rhodes
+   :en: Rhodes

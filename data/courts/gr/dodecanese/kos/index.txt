@@ -1,0 +1,3 @@
+.. category:: Κω
+   :category-id: gr:dodecanese:kos
+   :en: Kos

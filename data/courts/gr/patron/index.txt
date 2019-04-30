@@ -1,0 +1,3 @@
+.. category:: ΠΑΤΡΩΝ
+   :category-id: gr:patron
+   :en: Patron

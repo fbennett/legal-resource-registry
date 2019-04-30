@@ -1,0 +1,3 @@
+.. court:: ΠΡΩΤΟΔΙΚΕΙΟ
+   :court-id: gr:dodecanese:rhodes;otc
+   :en: Ordinary Trial Court

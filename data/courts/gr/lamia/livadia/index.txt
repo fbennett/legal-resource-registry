@@ -1,0 +1,3 @@
+.. category:: Λιβαδειάς
+   :category-id: gr:lamia:livadia
+   :en: Livadia

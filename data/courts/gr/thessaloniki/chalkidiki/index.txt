@@ -1,0 +1,3 @@
+.. category:: Χαλκιδικής
+   :category-id: gr:thessaloniki:chalkidiki
+   :en: Chalkidiki

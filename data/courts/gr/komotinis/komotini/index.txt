@@ -1,0 +1,3 @@
+.. category:: Κομοτηνής
+   :category-id: gr:komotinis:komotini
+   :en: Komotini
