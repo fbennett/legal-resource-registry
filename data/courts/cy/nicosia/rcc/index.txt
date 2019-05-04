@@ -1,0 +1,3 @@
+.. court:: Δικαστήριο Έλεγχου Ενοικιάσεων
+   :court-id: cy:nicosia;rcc
+   :en: Rent Control Court

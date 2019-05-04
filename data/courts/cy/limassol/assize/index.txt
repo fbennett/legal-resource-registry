@@ -1,0 +1,3 @@
+.. court:: Κακουργιοδικεία
+   :court-id: cy:limassol;assize
+   :en: Assize Court

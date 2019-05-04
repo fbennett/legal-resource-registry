@@ -1,0 +1,3 @@
+.. court:: Επαρχιακά Δικαστήρια
+   :court-id: cy:limassol;dc
+   :en: Disrict Court

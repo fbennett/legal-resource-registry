@@ -1,0 +1,3 @@
+.. court:: Δικαστήριο Εργατικών Διάφορων
+   :court-id: cy:larnaca;lc
+   :en: Labor Court

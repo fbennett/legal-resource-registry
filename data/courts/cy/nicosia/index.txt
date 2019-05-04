@@ -1,0 +1,3 @@
+.. category:: Λευκωσίας
+   :category-id: cy:nicosia
+   :en: Nicosia

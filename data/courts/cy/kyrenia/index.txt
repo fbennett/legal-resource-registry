@@ -1,0 +1,3 @@
+.. category:: Κερύνειας
+   :category-id: cy:kyrenia
+   :en: Kyrenia

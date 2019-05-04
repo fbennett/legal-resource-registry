@@ -1,0 +1,3 @@
+.. category:: Αμμοχώστου
+   :category-id: cy:famagusta
+   :en: Famagusta

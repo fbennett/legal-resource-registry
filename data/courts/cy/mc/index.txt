@@ -1,0 +1,3 @@
+.. court:: Στρατιωτικό Δικαστήριο
+   :court-id: cy;mc
+   :en: Military Court

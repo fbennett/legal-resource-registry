@@ -1,0 +1,3 @@
+.. category:: Πάφου
+   :category-id: cy:paphos
+   :en: Paphos

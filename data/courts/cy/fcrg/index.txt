@@ -1,0 +1,3 @@
+.. court:: Οικογενειακά Δικαστήρια θρησκευτικών ομάδων
+   :court-id: cy;fcrg
+   :en: Family Courts of Religious Groups

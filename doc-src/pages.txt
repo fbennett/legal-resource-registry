@@ -9,6 +9,7 @@ cs
 cn
 coe.int
 comesa.int
+cy
 de
 dk
 ec.int

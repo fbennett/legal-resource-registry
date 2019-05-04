@@ -1,0 +1,3 @@
+.. court:: Επαρχιακά Δικαστήρια
+   :court-id: cy:paphos;dc
+   :en: Disrict Court

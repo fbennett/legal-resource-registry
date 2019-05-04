@@ -1,0 +1,3 @@
+.. court:: Διοικητικό Δικαστήριο
+   :court-id: cy;ac
+   :en: Administrative Court

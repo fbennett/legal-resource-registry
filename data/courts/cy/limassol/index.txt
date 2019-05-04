@@ -1,0 +1,3 @@
+.. category:: Λεμεσού
+   :category-id: cy:limassol
+   :en: Limassol

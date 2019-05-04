@@ -1,0 +1,3 @@
+.. court:: Δικαστήριο Εργατικών Διάφορων
+   :court-id: cy:limassol;lc
+   :en: Labor Court
