@@ -1,0 +1,3 @@
+.. category:: Λεμεσού-Πάφου
+   :category-id: cy:limassol.paphos.
+   :en: Limassol-Paphos-

@@ -1,0 +1,3 @@
+.. category:: Λάρνακας-Αμμοχώστου
+   :category-id: cy:larnaca.famagusta
+   :en: Larnaca-Famagusta
