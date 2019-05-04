@@ -1,0 +1,2 @@
+.. category:: Innere Stadt Wien
+   :category-id: at:wien:wien:innere.stadt.wien
