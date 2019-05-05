@@ -1,0 +1,3 @@
+.. category:: Kujalleq
+   :category-id: dk:nuuk:kujalleq
+   :en: undefined

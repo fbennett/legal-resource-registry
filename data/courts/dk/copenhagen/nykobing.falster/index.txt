@@ -1,0 +1,3 @@
+.. category:: Nykøbing Falster
+   :category-id: dk:copenhagen:nykobing.falster
+   :en: undefined

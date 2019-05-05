@@ -1,0 +1,3 @@
+.. category:: Bornholm
+   :category-id: dk:copenhagen:bornholm
+   :en: undefined

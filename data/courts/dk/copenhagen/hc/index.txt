@@ -1,0 +1,3 @@
+.. court:: Landsret
+   :court-id: dk:copenhagen;hc
+   :en: High Court

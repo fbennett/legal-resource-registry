@@ -1,0 +1,3 @@
+.. court:: Kredsret
+   :court-id: dk:nuuk:sermersooq;cc
+   :en: Circuit Court

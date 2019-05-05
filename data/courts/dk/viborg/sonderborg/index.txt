@@ -1,0 +1,3 @@
+.. category:: Sønderborg
+   :category-id: dk:viborg:sonderborg
+   :en: undefined

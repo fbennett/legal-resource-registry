@@ -1,0 +1,3 @@
+.. court:: Tinglysningsretten
+   :court-id: dk;lrc
+   :en: Land Registration Court

@@ -1,0 +1,3 @@
+.. court:: Byret
+   :court-id: dk:copenhagen:glostrup;dc
+   :en: District Court

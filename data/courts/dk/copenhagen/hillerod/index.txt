@@ -1,0 +1,3 @@
+.. category:: Hillerød
+   :category-id: dk:copenhagen:hillerod
+   :en: undefined

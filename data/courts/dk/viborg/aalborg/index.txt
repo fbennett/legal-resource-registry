@@ -1,0 +1,3 @@
+.. category:: Aalborg
+   :category-id: dk:viborg:aalborg
+   :en: undefined

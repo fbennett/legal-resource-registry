@@ -1,0 +1,3 @@
+.. category:: Hjørring
+   :category-id: dk:viborg:hjorring
+   :en: undefined

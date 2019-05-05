@@ -1,0 +1,3 @@
+.. category:: Lyngby
+   :category-id: dk:copenhagen:lyngby
+   :en: undefined

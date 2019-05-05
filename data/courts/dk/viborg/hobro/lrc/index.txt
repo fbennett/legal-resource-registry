@@ -1,0 +1,3 @@
+.. court:: Tinglysningsretten
+   :court-id: dk:viborg:hobro;lrc
+   :en: Land Registration Court

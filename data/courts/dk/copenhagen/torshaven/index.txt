@@ -1,0 +1,3 @@
+.. category:: Tórshaven
+   :category-id: dk:copenhagen:torshaven
+   :en: undefined

@@ -1,0 +1,3 @@
+.. category:: Herning
+   :category-id: dk:viborg:herning
+   :en: undefined

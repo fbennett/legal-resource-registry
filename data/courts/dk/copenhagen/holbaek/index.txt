@@ -1,0 +1,3 @@
+.. category:: Holbæk
+   :category-id: dk:copenhagen:holbaek
+   :en: undefined

@@ -1,0 +1,3 @@
+.. court:: Højesteret
+   :court-id: dk;sc
+   :en: Supreme Court

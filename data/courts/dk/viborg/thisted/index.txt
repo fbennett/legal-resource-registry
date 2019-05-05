@@ -1,0 +1,3 @@
+.. category:: Thisted
+   :category-id: dk:viborg:thisted
+   :en: undefined

@@ -1,0 +1,3 @@
+.. court:: Kredsret
+   :court-id: dk:nuuk:qeqqa;cc
+   :en: Circuit Court

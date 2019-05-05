@@ -1,0 +1,3 @@
+.. category:: Qaasuitsoq
+   :category-id: dk:nuuk:qaasuitsoq
+   :en: undefined

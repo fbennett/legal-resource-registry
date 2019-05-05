@@ -1,0 +1,3 @@
+.. category:: Svendborg
+   :category-id: dk:copenhagen:svendborg
+   :en: undefined

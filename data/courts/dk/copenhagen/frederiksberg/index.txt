@@ -1,0 +1,3 @@
+.. category:: Frederiksberg
+   :category-id: dk:copenhagen:frederiksberg
+   :en: undefined

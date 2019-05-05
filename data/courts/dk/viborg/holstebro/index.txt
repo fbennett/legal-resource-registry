@@ -1,0 +1,3 @@
+.. category:: Holstebro
+   :category-id: dk:viborg:holstebro
+   :en: undefined

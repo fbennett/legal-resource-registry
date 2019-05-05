@@ -1,0 +1,3 @@
+.. category:: Haderslev
+   :category-id: dk:viborg:haderslev
+   :en: undefined

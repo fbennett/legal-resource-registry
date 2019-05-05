@@ -1,0 +1,3 @@
+.. category:: Copenhagen
+   :category-id: dk:copenhagen
+   :en: undefined

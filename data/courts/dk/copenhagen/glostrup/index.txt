@@ -1,0 +1,3 @@
+.. category:: Glostrup
+   :category-id: dk:copenhagen:glostrup
+   :en: undefined

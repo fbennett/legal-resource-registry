@@ -1,0 +1,3 @@
+.. category:: Qeqqa
+   :category-id: dk:nuuk:qeqqa
+   :en: undefined

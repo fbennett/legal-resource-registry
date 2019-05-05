@@ -1,0 +1,3 @@
+.. category:: Elsinore
+   :category-id: dk:copenhagen:elsinore
+   :en: undefined

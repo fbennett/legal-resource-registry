@@ -1,0 +1,3 @@
+.. court:: Sø- og Handelsretten
+   :court-id: dk:copenhagen;mcc
+   :en: Maritime and Commercial Court

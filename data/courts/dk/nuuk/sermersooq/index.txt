@@ -1,0 +1,3 @@
+.. category:: Sermersooq
+   :category-id: dk:nuuk:sermersooq
+   :en: undefined

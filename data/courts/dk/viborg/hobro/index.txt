@@ -1,0 +1,3 @@
+.. category:: Hobro
+   :category-id: dk:viborg:hobro
+   :en: undefined
