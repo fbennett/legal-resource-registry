@@ -1,0 +1,3 @@
+.. court:: Nederlandstalige Arbeidsrechtbank
+   :court-id: be:brussels:brussels;lc.nl
+   :en: Dutch-speaking Labor Court

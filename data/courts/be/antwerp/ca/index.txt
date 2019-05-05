@@ -1,0 +1,3 @@
+.. court:: Cour d'appel/Hof van Beroep
+   :court-id: be:antwerp;ca
+   :en: Court of Appeal

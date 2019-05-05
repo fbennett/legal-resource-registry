@@ -1,0 +1,3 @@
+.. category:: Namur
+   :category-id: be:liege:namur
+   :en: undefined

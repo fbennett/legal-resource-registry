@@ -1,0 +1,3 @@
+.. court:: Tribunal de l'entreprise/Ondernemingsrechtbank
+   :court-id: be:brussels:leuven;cc
+   :en: Commercial Court

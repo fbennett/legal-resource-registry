@@ -1,0 +1,3 @@
+.. court:: Cour d'assises/Hof van assisen
+   :court-id: be:antwerp:antwerp;assize
+   :en: Court of Assizes

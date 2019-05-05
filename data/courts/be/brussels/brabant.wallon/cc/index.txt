@@ -1,0 +1,3 @@
+.. court:: Tribunal de l'entreprise/Ondernemingsrechtbank
+   :court-id: be:brussels:brabant.wallon;cc
+   :en: Commercial Court

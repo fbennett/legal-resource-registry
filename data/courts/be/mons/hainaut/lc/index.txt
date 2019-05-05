@@ -1,0 +1,3 @@
+.. court:: Tribunal du travail/Arbeidsrechtbank
+   :court-id: be:mons:hainaut;lc
+   :en: Labor Court

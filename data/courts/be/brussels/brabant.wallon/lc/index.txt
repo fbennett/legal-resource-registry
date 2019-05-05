@@ -1,0 +1,3 @@
+.. court:: Tribunal du travail/Arbeidsrechtbank
+   :court-id: be:brussels:brabant.wallon;lc
+   :en: Labor Court

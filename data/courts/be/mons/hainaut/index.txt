@@ -1,0 +1,3 @@
+.. category:: Hainaut
+   :category-id: be:mons:hainaut
+   :en: undefined

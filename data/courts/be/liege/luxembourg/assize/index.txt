@@ -1,0 +1,3 @@
+.. court:: Cour d'assises/Hof van assisen
+   :court-id: be:liege:luxembourg;assize
+   :en: Court of Assizes

@@ -1,0 +1,3 @@
+.. court:: Tribunal du travail Francophone
+   :court-id: be:brussels:brussels;lc.fr
+   :en: French-speaking Labor Court
