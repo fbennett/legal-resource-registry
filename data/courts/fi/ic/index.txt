@@ -1,0 +1,3 @@
+.. court:: Vakuutusoikeus
+   :court-id: fi;ic
+   :en: Insurance Court

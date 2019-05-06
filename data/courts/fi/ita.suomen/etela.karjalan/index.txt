@@ -1,0 +1,3 @@
+.. category:: Etelä-Karjalan
+   :category-id: fi:ita.suomen:etela.karjalan
+   :en: undefined

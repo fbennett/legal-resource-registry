@@ -1,0 +1,3 @@
+.. category:: Vaasa
+   :category-id: fi:vaasa
+   :en: undefined

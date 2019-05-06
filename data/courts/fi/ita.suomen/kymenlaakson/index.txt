@@ -1,0 +1,3 @@
+.. category:: Kymenlaakson
+   :category-id: fi:ita.suomen:kymenlaakson
+   :en: undefined

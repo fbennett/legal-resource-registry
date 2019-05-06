@@ -1,0 +1,3 @@
+.. category:: Itä-Suomen
+   :category-id: fi:ita.suomen
+   :en: undefined

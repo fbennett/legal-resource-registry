@@ -1,0 +1,3 @@
+.. category:: Pohjois-Savon
+   :category-id: fi:ita.suomen:pohjois.savon
+   :en: undefined

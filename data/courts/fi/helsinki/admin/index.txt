@@ -1,0 +1,3 @@
+.. court:: Hallinto-oikeus
+   :court-id: fi:helsinki;admin
+   :en: Administrative Court

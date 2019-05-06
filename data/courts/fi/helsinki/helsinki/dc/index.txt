@@ -1,0 +1,3 @@
+.. court:: Käräjäoikeus
+   :court-id: fi:helsinki:helsinki;dc
+   :en: District Court

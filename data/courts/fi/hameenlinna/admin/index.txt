@@ -1,0 +1,3 @@
+.. court:: Hallinto-oikeus
+   :court-id: fi:hameenlinna;admin
+   :en: Administrative Court

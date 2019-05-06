@@ -1,0 +1,3 @@
+.. court:: Valtakunnanoikeus
+   :court-id: fi;impeachment
+   :en: Court of Impeachment

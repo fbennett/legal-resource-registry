@@ -1,0 +1,3 @@
+.. category:: Hämeenlinna
+   :category-id: fi:hameenlinna
+   :en: undefined

@@ -1,0 +1,3 @@
+.. court:: Hallinto-oikeus
+   :court-id: fi:aland;admin
+   :en: Administrative Court
