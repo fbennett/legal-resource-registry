@@ -1,0 +1,3 @@
+.. category:: Pirkanmaa
+   :category-id: fi:turku:pirkanmaa
+   :en: Pirkanmaa

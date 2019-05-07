@@ -1,0 +1,3 @@
+.. category:: Kymenlaakso
+   :category-id: fi:ita.suomi:kymenlaakso
+   :en: Kymenlaakso

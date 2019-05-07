@@ -1,0 +1,3 @@
+.. category:: Satakunna
+   :category-id: fi:vaasa:satakunna
+   :en: Satakunna

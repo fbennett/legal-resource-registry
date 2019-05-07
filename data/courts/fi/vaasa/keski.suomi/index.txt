@@ -1,0 +1,3 @@
+.. category:: Keski-Suomi
+   :category-id: fi:vaasa:keski.suomi
+   :en: Keski-Suomi

@@ -1,0 +1,3 @@
+.. court:: Käräjäoikeus
+   :court-id: fi:vaasa:etela.pohjanmaa;dc
+   :en: District Court

@@ -1,0 +1,3 @@
+.. category:: Itä-Suomi
+   :category-id: fi:ita.suomi
+   :en: Itä-Suomi

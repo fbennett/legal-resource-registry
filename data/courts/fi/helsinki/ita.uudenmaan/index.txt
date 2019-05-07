@@ -1,3 +1,0 @@
-.. category:: Itä-Uudenmaan
-   :category-id: fi:helsinki:ita.uudenmaan
-   :en: undefined

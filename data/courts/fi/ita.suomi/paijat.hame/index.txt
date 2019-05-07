@@ -1,0 +1,3 @@
+.. category:: Päijät-Häme
+   :category-id: fi:ita.suomi:paijat.hame
+   :en: Päijät-Häme

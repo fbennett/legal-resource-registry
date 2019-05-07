@@ -1,3 +1,0 @@
-.. court:: Käräjäoikeus
-   :court-id: fi:ita.suomen:paijat.hameen;dc
-   :en: District Court

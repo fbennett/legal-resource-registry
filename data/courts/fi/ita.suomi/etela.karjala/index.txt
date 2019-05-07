@@ -1,0 +1,3 @@
+.. category:: Etelä-Karjala
+   :category-id: fi:ita.suomi:etela.karjala
+   :en: Etelä-Karjala

@@ -1,0 +1,3 @@
+.. court:: Käräjäoikeus
+   :court-id: fi:helsinki:lansi.uudenmaa;dc
+   :en: District Court

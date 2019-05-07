@@ -1,0 +1,3 @@
+.. court:: Hallinto-oikeus
+   :court-id: fi:ita.suomi;admin
+   :en: Administrative Court

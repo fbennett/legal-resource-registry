@@ -1,0 +1,3 @@
+.. category:: Kanta-Häme
+   :category-id: fi:turku:kanta.hame
+   :en: Kanta-Häme

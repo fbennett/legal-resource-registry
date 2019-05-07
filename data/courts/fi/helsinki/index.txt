@@ -1,3 +1,3 @@
 .. category:: Helsinki
    :category-id: fi:helsinki
-   :en: undefined
+   :en: Helsinki

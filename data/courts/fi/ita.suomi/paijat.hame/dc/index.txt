@@ -1,0 +1,3 @@
+.. court:: Käräjäoikeus
+   :court-id: fi:ita.suomi:paijat.hame;dc
+   :en: District Court

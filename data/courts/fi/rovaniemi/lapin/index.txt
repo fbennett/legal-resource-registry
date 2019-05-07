@@ -1,0 +1,3 @@
+.. category:: Lapin
+   :category-id: fi:rovaniemi:lapin
+   :en: Lapin

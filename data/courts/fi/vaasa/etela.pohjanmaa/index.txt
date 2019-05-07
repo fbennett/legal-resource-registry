@@ -1,0 +1,3 @@
+.. category:: Etelä-Pohjanmaa
+   :category-id: fi:vaasa:etela.pohjanmaa
+   :en: Etelä-Pohjanmaa

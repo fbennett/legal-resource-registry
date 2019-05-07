@@ -1,0 +1,3 @@
+.. court:: Käräjäoikeus
+   :court-id: fi:ita.suomi:kymenlaakso;dc
+   :en: District Court

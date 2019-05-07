@@ -1,3 +1,0 @@
-.. court:: Käräjäoikeus
-   :court-id: fi:ita.suomen:pohjois.karjalan;dc
-   :en: District Court

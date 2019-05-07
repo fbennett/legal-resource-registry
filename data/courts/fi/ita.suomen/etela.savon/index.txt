@@ -1,3 +1,0 @@
-.. category:: Etelä-Savon
-   :category-id: fi:ita.suomen:etela.savon
-   :en: undefined

@@ -1,3 +1,0 @@
-.. category:: Åland
-   :category-id: fi:aland
-   :en: undefined

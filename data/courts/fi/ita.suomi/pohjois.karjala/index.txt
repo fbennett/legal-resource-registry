@@ -1,0 +1,3 @@
+.. category:: Pohjois-Karjala
+   :category-id: fi:ita.suomi:pohjois.karjala
+   :en: Pohjois-Karjala

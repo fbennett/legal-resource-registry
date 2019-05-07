@@ -1,0 +1,3 @@
+.. category:: Varsinais-Suomi
+   :category-id: fi:turku:varsinais.suomi
+   :en: Varsinais-Suomi

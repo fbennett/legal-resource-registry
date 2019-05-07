@@ -1,0 +1,3 @@
+.. category:: Ahvenanmaa
+   :category-id: fi:ahvenanmaa
+   :en: Åland

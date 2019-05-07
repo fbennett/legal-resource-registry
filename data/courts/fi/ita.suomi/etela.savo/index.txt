@@ -1,0 +1,3 @@
+.. category:: Etelä-Savo
+   :category-id: fi:ita.suomi:etela.savo
+   :en: Etelä-Savo

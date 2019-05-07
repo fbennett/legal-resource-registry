@@ -1,0 +1,3 @@
+.. court:: Käräjäoikeus
+   :court-id: fi:turku:pirkanmaa;dc
+   :en: District Court

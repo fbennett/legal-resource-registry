@@ -1,3 +1,0 @@
-.. court:: Käräjäoikeus
-   :court-id: fi:ita.suomen:etela.karjalan;dc
-   :en: District Court

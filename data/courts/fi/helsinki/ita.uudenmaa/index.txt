@@ -1,0 +1,3 @@
+.. category:: Itä-Uudenmaa
+   :category-id: fi:helsinki:ita.uudenmaa
+   :en: Itä-Uudenmaa

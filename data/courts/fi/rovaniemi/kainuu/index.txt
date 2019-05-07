@@ -1,0 +1,3 @@
+.. category:: Kainuu
+   :category-id: fi:rovaniemi:kainuu
+   :en: Kainuu

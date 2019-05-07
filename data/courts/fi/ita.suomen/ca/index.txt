@@ -1,3 +1,0 @@
-.. court:: Hovioikeus
-   :court-id: fi:ita.suomen;ca
-   :en: Court of Appeal
