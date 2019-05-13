@@ -1,3 +1,3 @@
 .. court:: Cour de Cassation|3e chambre civile
-   :court-id: fr;cass|civ3
+   :court-id: fr;cass~civ3
    :en: Court of Cassation|3rd Civil Chamber

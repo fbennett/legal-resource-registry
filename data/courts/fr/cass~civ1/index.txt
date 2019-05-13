@@ -1,3 +1,3 @@
 .. court:: Cour de Cassation|1re chambre civile
-   :court-id: fr;cass|civ1
+   :court-id: fr;cass~civ1
    :en: Court of Cassation|1st Civil Chamber
