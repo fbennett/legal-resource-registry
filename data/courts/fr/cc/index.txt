@@ -1,0 +1,3 @@
+.. court:: Conseil Constitutionelle
+   :court-id: fr;cc
+   :en: Constitutional Council

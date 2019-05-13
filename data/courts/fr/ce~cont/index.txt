@@ -1,0 +1,3 @@
+.. court:: Conseil d'Etat au Contintentieux
+   :court-id: fr;ce~cont
+   :en: Supreme Administrative Court Litigation Section
