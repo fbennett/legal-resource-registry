@@ -1,5 +1,0 @@
-.. court:: chambre criminelle
-   :court-id: fr;cour.de.cassation.chambre.criminelle
-   :url: https://en.wikipedia.org/wiki/Court_of_Cassation_%28France%29#Judges_and_divisions
-   :en: Criminal Division
-

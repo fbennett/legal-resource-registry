@@ -1,0 +1,3 @@
+.. court:: Cour National du Droit d'Asile
+   :court-id: fr;cnda
+   :en: National Court of the Right of Asylum

@@ -1,3 +1,3 @@
 .. category:: Pau
    :category-id: fr:pau
-
+   :en: Pau

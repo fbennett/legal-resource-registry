@@ -1,5 +1,0 @@
-.. court:: première chambre civile
-   :court-id: fr;cour.de.cassation.premiere.chambre.civile
-   :url: https://en.wikipedia.org/wiki/Court_of_Cassation_%28France%29#Judges_and_divisions
-   :en: First Civil Division
-

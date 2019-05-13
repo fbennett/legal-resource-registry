@@ -1,0 +1,3 @@
+.. category:: Saint-Denis
+   :category-id: fr:saint.denis
+   :en: Saint-Denis

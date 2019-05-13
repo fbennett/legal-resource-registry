@@ -1,0 +1,3 @@
+.. court:: Cour de Cassation|Chambre sociale
+   :court-id: fr;cass|soc
+   :en: Court of Cassation|Social Chamber

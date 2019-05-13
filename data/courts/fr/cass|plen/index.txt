@@ -1,0 +1,3 @@
+.. court:: Cour de Cassation|Assemblée plénière
+   :court-id: fr;cass|plen
+   :en: Court of Cassation|Plenary Assembly

@@ -1,3 +1,3 @@
 .. category:: Chambéry
    :category-id: fr:chambery
-
+   :en: Chambéry

@@ -1,3 +1,0 @@
-.. category:: Mayotte
-   :category-id: fr:mayotte
-

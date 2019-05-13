@@ -1,3 +1,0 @@
-.. category:: Nouvelle-Calédonie
-   :category-id: fr:nouvelle.caledonie
-

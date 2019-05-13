@@ -1,0 +1,3 @@
+.. category:: Aix-en-Provence
+   :category-id: fr:aix.en.provence
+   :en: Aix-en-Provence

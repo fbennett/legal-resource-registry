@@ -1,0 +1,3 @@
+.. court:: Cour d'appel
+   :court-id: fr:fort.france;ca
+   :en: Court of Appeal

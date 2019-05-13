@@ -1,0 +1,3 @@
+.. court:: Cour de Cassation
+   :court-id: fr;cass
+   :en: Court of Cassation

@@ -1,0 +1,3 @@
+.. category:: Cayenne
+   :category-id: fr:cayenne
+   :en: Cayenne

@@ -1,0 +1,3 @@
+.. court:: Cour d'appel
+   :court-id: fr:paris;ca
+   :en: Court of Appeal

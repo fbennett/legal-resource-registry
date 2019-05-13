@@ -1,0 +1,3 @@
+.. court:: Cour de Cassation|Chambre commerciale, financière et économique
+   :court-id: fr;cass|fin
+   :en: Court of Cassation|Commercial, Financial, and Economic Chamber

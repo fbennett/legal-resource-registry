@@ -1,5 +1,0 @@
-.. court:: chambre commerciale, financière et économique
-   :court-id: fr;cour.de.cassation.chambre.commerciale.financiere.et.economique
-   :url: https://en.wikipedia.org/wiki/Court_of_Cassation_%28France%29#Judges_and_divisions
-   :en: First Civil Division
-

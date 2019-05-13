@@ -1,5 +1,0 @@
-.. court:: chambre sociale
-   :court-id: fr;cour.de.cassation.chambre.sociale
-   :url: https://en.wikipedia.org/wiki/Court_of_Cassation_%28France%29#Judges_and_divisions
-   :en: Labor Division
-

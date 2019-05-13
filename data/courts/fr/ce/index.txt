@@ -1,0 +1,3 @@
+.. court:: Conseil d'Etat
+   :court-id: fr;ce
+   :en: Supreme Administrative Court

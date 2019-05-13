@@ -1,3 +1,3 @@
 .. category:: Nancy
    :category-id: fr:nancy
-
+   :en: Nancy

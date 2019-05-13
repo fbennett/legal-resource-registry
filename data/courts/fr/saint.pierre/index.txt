@@ -1,0 +1,3 @@
+.. category:: Saint-Pierre
+   :category-id: fr:saint.pierre
+   :en: Saint-Pierre
