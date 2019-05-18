@@ -1,0 +1,3 @@
+.. category:: Legnica
+   :category-id: pl:wroclaw:legnica:legnica
+   :en: Legnica

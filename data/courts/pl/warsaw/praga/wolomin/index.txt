@@ -1,0 +1,3 @@
+.. category:: Wołomin
+   :category-id: pl:warsaw:praga:wolomin
+   :en: Wołomin

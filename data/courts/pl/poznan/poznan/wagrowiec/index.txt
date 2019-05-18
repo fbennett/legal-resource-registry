@@ -1,0 +1,3 @@
+.. category:: Wągrowiec
+   :category-id: pl:poznan:poznan:wagrowiec
+   :en: Wągrowiec

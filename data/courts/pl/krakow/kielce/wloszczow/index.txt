@@ -1,0 +1,3 @@
+.. category:: Włoszczów
+   :category-id: pl:krakow:kielce:wloszczow
+   :en: Włoszczów

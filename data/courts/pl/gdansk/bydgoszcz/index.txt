@@ -1,0 +1,3 @@
+.. category:: Bydgoszcz
+   :category-id: pl:gdansk:bydgoszcz
+   :en: Bydgoszcz

@@ -1,0 +1,3 @@
+.. category:: Łomża
+   :category-id: pl:bialystok:lomza
+   :en: Łomża

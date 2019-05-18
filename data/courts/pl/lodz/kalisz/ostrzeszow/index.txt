@@ -1,0 +1,3 @@
+.. category:: Ostrzeszów
+   :category-id: pl:lodz:kalisz:ostrzeszow
+   :en: Ostrzeszów

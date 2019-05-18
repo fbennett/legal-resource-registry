@@ -1,0 +1,3 @@
+.. court:: Sąd Rejonowy
+   :court-id: pl:lodz:plock:plonsk;sr
+   :en: Regional Court

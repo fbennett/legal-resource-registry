@@ -1,0 +1,3 @@
+.. court:: Sąd Okręgowy
+   :court-id: pl:lublin:siedlce;so
+   :en: District Court

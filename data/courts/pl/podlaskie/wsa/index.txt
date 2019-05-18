@@ -1,0 +1,3 @@
+.. court:: Woj. Sąd Administracyjny
+   :court-id: pl:podlaskie;wsa
+   :en: Administrative Court

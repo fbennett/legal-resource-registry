@@ -1,0 +1,3 @@
+.. category:: Katowice
+   :category-id: pl:katowice
+   :en: Katowice

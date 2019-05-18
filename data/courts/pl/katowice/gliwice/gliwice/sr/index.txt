@@ -1,0 +1,3 @@
+.. court:: Sąd Rejonowy
+   :court-id: pl:katowice:gliwice:gliwice;sr
+   :en: Regional Court

@@ -1,0 +1,3 @@
+.. category:: Kościerzyna
+   :category-id: pl:gdansk:gdansk:koscierzyna
+   :en: Kościerzyna

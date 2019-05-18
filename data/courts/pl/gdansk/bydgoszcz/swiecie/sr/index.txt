@@ -1,0 +1,3 @@
+.. court:: Sąd Rejonowy
+   :court-id: pl:gdansk:bydgoszcz:swiecie;sr
+   :en: Regional Court

@@ -1,0 +1,3 @@
+.. category:: Lidzbark Warmiński
+   :category-id: pl:bialystok:olsztyn:lidzbark.warminski
+   :en: Lidzbark Warmiński

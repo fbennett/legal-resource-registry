@@ -1,0 +1,3 @@
+.. category:: Sucha Beskidzka
+   :category-id: pl:krakow:krakow:sucha.beskidzka
+   :en: Sucha Beskidzka

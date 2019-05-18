@@ -1,0 +1,3 @@
+.. category:: Kościan
+   :category-id: pl:poznan:poznan:koscian
+   :en: Kościan

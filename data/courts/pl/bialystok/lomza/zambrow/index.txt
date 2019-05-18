@@ -1,0 +1,3 @@
+.. category:: Zambrów
+   :category-id: pl:bialystok:lomza:zambrow
+   :en: Zambrów

@@ -1,0 +1,3 @@
+.. court:: Sąd Rejonowy
+   :court-id: pl:gdansk:elblag:ilawa;sr
+   :en: Regional Court

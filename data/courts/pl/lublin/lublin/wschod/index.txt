@@ -1,0 +1,3 @@
+.. category:: Wschód
+   :category-id: pl:lublin:lublin:wschod
+   :en: Wschód

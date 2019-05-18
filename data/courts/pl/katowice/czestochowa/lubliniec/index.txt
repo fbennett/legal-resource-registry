@@ -1,0 +1,3 @@
+.. category:: Lubliniec
+   :category-id: pl:katowice:czestochowa:lubliniec
+   :en: Lubliniec

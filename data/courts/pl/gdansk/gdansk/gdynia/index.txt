@@ -1,0 +1,3 @@
+.. category:: Gdynia
+   :category-id: pl:gdansk:gdansk:gdynia
+   :en: Gdynia

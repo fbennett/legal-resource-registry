@@ -1,0 +1,3 @@
+.. category:: Lesko
+   :category-id: pl:rzeszow:krosno:lesko
+   :en: Lesko

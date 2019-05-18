@@ -1,0 +1,3 @@
+.. category:: Zgorzelec
+   :category-id: pl:wroclaw:jelenia.gora:zgorzelec
+   :en: Zgorzelec

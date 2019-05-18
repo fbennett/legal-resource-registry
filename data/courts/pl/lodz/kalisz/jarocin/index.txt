@@ -1,0 +1,3 @@
+.. category:: Jarocin
+   :category-id: pl:lodz:kalisz:jarocin
+   :en: Jarocin

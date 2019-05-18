@@ -1,0 +1,3 @@
+.. category:: Lubanie
+   :category-id: pl:wroclaw:jelenia.gora:lubanie
+   :en: Lubanie

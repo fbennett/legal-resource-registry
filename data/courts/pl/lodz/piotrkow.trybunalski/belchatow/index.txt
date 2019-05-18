@@ -1,0 +1,3 @@
+.. category:: Bełchatów
+   :category-id: pl:lodz:piotrkow.trybunalski:belchatow
+   :en: Bełchatów

@@ -1,0 +1,3 @@
+.. category:: Toruń
+   :category-id: pl:gdansk:torun
+   :en: Toruń

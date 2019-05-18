@@ -1,0 +1,3 @@
+.. category:: Kalisz
+   :category-id: pl:lodz:kalisz:kalisz
+   :en: Kalisz

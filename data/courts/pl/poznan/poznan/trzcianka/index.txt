@@ -1,0 +1,3 @@
+.. category:: Trzcianka
+   :category-id: pl:poznan:poznan:trzcianka
+   :en: Trzcianka

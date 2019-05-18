@@ -1,0 +1,3 @@
+.. category:: Wałcz
+   :category-id: pl:szczecin:koszalin:walcz
+   :en: Wałcz

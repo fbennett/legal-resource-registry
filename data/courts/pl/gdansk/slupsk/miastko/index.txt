@@ -1,0 +1,3 @@
+.. category:: Miastko
+   :category-id: pl:gdansk:slupsk:miastko
+   :en: Miastko

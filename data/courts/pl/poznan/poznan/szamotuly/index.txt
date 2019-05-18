@@ -1,0 +1,3 @@
+.. category:: Szamotuły
+   :category-id: pl:poznan:poznan:szamotuly
+   :en: Szamotuły

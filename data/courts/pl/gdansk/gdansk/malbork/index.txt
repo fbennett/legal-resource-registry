@@ -1,0 +1,3 @@
+.. category:: Malbork
+   :category-id: pl:gdansk:gdansk:malbork
+   :en: Malbork

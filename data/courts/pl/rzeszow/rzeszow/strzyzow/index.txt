@@ -1,0 +1,3 @@
+.. category:: Strzyżów
+   :category-id: pl:rzeszow:rzeszow:strzyzow
+   :en: Strzyżów

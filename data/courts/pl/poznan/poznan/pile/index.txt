@@ -1,0 +1,3 @@
+.. category:: Pile
+   :category-id: pl:poznan:poznan:pile
+   :en: Pile

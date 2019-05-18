@@ -1,0 +1,3 @@
+.. category:: Dąbrowa Górnicza
+   :category-id: pl:katowice:katowice:dabrowa.gornicza
+   :en: Dąbrowa Górnicza

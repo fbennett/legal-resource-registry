@@ -1,0 +1,3 @@
+.. category:: Chojnice
+   :category-id: pl:gdansk:slupsk:chojnice
+   :en: Chojnice

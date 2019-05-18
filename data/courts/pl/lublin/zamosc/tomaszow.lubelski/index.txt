@@ -1,0 +1,3 @@
+.. category:: Tomaszów Lubelski
+   :category-id: pl:lublin:zamosc:tomaszow.lubelski
+   :en: Tomaszów Lubelski

@@ -1,0 +1,3 @@
+.. category:: Augustów
+   :category-id: pl:bialystok:suwalki:augustow
+   :en: Augustów

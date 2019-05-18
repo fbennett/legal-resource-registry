@@ -1,0 +1,3 @@
+.. category:: Bielsko-Biała
+   :category-id: pl:katowice:bielsko.biala
+   :en: Bielsko-Biała

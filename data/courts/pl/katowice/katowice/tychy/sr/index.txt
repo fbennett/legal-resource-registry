@@ -1,0 +1,3 @@
+.. court:: Sąd Rejonowy
+   :court-id: pl:katowice:katowice:tychy;sr
+   :en: Regional Court

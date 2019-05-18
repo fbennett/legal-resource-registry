@@ -1,0 +1,3 @@
+.. category:: Koszalin
+   :category-id: pl:szczecin:koszalin
+   :en: Koszalin

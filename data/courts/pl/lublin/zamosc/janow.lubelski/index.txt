@@ -1,0 +1,3 @@
+.. category:: Janów Lubelski
+   :category-id: pl:lublin:zamosc:janow.lubelski
+   :en: Janów Lubelski

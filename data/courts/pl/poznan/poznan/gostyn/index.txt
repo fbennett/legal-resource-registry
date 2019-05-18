@@ -1,0 +1,3 @@
+.. category:: Gostyń
+   :category-id: pl:poznan:poznan:gostyn
+   :en: Gostyń

@@ -1,0 +1,3 @@
+.. category:: Leszno
+   :category-id: pl:poznan:poznan:leszno
+   :en: Leszno

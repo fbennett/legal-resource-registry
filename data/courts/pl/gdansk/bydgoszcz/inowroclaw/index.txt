@@ -1,0 +1,3 @@
+.. category:: Inowrocław
+   :category-id: pl:gdansk:bydgoszcz:inowroclaw
+   :en: Inowrocław

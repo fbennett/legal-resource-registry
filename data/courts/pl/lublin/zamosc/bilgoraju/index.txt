@@ -1,0 +1,3 @@
+.. category:: Biłgoraju
+   :category-id: pl:lublin:zamosc:bilgoraju
+   :en: Biłgoraju

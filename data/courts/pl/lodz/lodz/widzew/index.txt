@@ -1,0 +1,3 @@
+.. category:: Widzew
+   :category-id: pl:lodz:lodz:widzew
+   :en: Widzew

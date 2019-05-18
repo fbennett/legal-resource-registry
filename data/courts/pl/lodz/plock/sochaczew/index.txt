@@ -1,0 +1,3 @@
+.. category:: Sochaczew
+   :category-id: pl:lodz:plock:sochaczew
+   :en: Sochaczew

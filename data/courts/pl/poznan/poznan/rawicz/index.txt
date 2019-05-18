@@ -1,0 +1,3 @@
+.. category:: Rawicz
+   :category-id: pl:poznan:poznan:rawicz
+   :en: Rawicz

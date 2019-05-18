@@ -1,0 +1,3 @@
+.. court:: Sąd Rejonowy
+   :court-id: pl:krakow:kielce:skarzysko.kamienna;sr
+   :en: Regional Court

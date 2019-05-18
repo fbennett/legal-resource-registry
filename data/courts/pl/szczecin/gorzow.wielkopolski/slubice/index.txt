@@ -1,0 +1,3 @@
+.. category:: Słubice
+   :category-id: pl:szczecin:gorzow.wielkopolski:slubice
+   :en: Słubice

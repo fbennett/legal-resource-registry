@@ -1,0 +1,3 @@
+.. category:: Szubinie
+   :category-id: pl:gdansk:bydgoszcz:szubinie
+   :en: Szubinie

@@ -1,0 +1,3 @@
+.. category:: Gryfice
+   :category-id: pl:szczecin:szczecin:gryfice
+   :en: Gryfice

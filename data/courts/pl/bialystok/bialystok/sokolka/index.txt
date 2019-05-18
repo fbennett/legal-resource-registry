@@ -1,0 +1,3 @@
+.. category:: Sokółka
+   :category-id: pl:bialystok:bialystok:sokolka
+   :en: Sokółka

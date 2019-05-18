@@ -1,0 +1,3 @@
+.. category:: Myślenice
+   :category-id: pl:krakow:krakow:myslenice
+   :en: Myślenice

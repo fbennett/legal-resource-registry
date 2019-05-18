@@ -1,0 +1,3 @@
+.. category:: Sierpc
+   :category-id: pl:lodz:plock:sierpc
+   :en: Sierpc

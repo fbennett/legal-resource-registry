@@ -1,0 +1,3 @@
+.. category:: Gdańsk
+   :category-id: pl:gdansk
+   :en: Gdańsk

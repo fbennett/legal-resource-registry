@@ -1,0 +1,3 @@
+.. category:: Kwidzyn
+   :category-id: pl:gdansk:gdansk:kwidzyn
+   :en: Kwidzyn

@@ -1,0 +1,3 @@
+.. category:: Świebodzin
+   :category-id: pl:poznan:zielona.gora:swiebodzin
+   :en: Świebodzin

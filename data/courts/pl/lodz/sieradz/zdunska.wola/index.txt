@@ -1,0 +1,3 @@
+.. category:: Zduńska Wola
+   :category-id: pl:lodz:sieradz:zdunska.wola
+   :en: Zduńska Wola

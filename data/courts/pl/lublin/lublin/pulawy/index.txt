@@ -1,0 +1,3 @@
+.. category:: Puławy
+   :category-id: pl:lublin:lublin:pulawy
+   :en: Puławy

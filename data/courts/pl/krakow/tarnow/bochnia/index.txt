@@ -1,0 +1,3 @@
+.. category:: Bochnia
+   :category-id: pl:krakow:tarnow:bochnia
+   :en: Bochnia

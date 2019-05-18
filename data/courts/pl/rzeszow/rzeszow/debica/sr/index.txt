@@ -1,0 +1,3 @@
+.. court:: Sąd Rejonowy
+   :court-id: pl:rzeszow:rzeszow:debica;sr
+   :en: Regional Court

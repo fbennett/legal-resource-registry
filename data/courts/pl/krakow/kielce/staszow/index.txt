@@ -1,0 +1,3 @@
+.. category:: Staszów
+   :category-id: pl:krakow:kielce:staszow
+   :en: Staszów

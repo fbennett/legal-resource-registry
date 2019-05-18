@@ -1,0 +1,3 @@
+.. court:: Sąd Rejonowy
+   :court-id: pl:krakow:tarnow:bochnia;sr
+   :en: Regional Court

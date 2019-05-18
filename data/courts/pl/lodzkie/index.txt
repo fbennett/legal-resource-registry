@@ -1,0 +1,3 @@
+.. category:: Woj. Łódzkie
+   :category-id: pl:lodzkie
+   :en: Łódź

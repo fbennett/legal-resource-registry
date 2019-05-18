@@ -1,0 +1,3 @@
+.. category:: Busku-Zdrój
+   :category-id: pl:krakow:kielce:busku.zdroj
+   :en: Busku-Zdrój

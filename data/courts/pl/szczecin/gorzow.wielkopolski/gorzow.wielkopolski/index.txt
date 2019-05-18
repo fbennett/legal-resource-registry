@@ -1,0 +1,3 @@
+.. category:: Gorzów Wielkopolski
+   :category-id: pl:szczecin:gorzow.wielkopolski:gorzow.wielkopolski
+   :en: Gorzów Wielkopolski

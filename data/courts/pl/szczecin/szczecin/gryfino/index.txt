@@ -1,0 +1,3 @@
+.. category:: Gryfino
+   :category-id: pl:szczecin:szczecin:gryfino
+   :en: Gryfino

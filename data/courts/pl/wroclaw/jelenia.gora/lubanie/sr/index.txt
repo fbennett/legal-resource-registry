@@ -1,0 +1,3 @@
+.. court:: Sąd Rejonowy
+   :court-id: pl:wroclaw:jelenia.gora:lubanie;sr
+   :en: Regional Court

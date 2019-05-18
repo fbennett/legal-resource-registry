@@ -1,0 +1,3 @@
+.. category:: Siedlce
+   :category-id: pl:lublin:siedlce
+   :en: Siedlce

@@ -1,0 +1,3 @@
+.. category:: Chrzanów
+   :category-id: pl:krakow:krakow:chrzanow
+   :en: Chrzanów

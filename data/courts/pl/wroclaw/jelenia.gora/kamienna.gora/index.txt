@@ -1,0 +1,3 @@
+.. category:: Kamienna Góra
+   :category-id: pl:wroclaw:jelenia.gora:kamienna.gora
+   :en: Kamienna Góra

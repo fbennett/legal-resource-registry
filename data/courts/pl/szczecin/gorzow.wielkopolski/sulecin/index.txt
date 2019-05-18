@@ -1,0 +1,3 @@
+.. category:: Sulęcin
+   :category-id: pl:szczecin:gorzow.wielkopolski:sulecin
+   :en: Sulęcin

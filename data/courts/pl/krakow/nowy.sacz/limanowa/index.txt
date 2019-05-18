@@ -1,0 +1,3 @@
+.. category:: Limanowa
+   :category-id: pl:krakow:nowy.sacz:limanowa
+   :en: Limanowa

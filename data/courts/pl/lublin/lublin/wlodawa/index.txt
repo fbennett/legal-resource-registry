@@ -1,0 +1,3 @@
+.. category:: Włodawa
+   :category-id: pl:lublin:lublin:wlodawa
+   :en: Włodawa

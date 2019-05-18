@@ -1,0 +1,3 @@
+.. category:: Wodzisław Śląski
+   :category-id: pl:katowice:gliwice:wodzislaw.slaski
+   :en: Wodzisław Śląski

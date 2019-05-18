@@ -1,0 +1,3 @@
+.. court:: Sąd Rejonowy
+   :court-id: pl:katowice:czestochowa:myszkow;sr
+   :en: Regional Court

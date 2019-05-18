@@ -1,0 +1,3 @@
+.. category:: Nowe Miasto Lubawskie
+   :category-id: pl:gdansk:elblag:nowe.miasto.lubawskie
+   :en: Nowe Miasto Lubawskie

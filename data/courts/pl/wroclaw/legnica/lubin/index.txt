@@ -1,0 +1,3 @@
+.. category:: Lubin
+   :category-id: pl:wroclaw:legnica:lubin
+   :en: Lubin

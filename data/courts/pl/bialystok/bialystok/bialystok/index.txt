@@ -1,0 +1,3 @@
+.. category:: Białystok
+   :category-id: pl:bialystok:bialystok:bialystok
+   :en: Białystok

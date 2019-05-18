@@ -1,0 +1,3 @@
+.. category:: Goleniów
+   :category-id: pl:szczecin:szczecin:goleniow
+   :en: Goleniów

@@ -1,0 +1,3 @@
+.. category:: Lębork
+   :category-id: pl:gdansk:slupsk:lebork
+   :en: Lębork

@@ -1,0 +1,3 @@
+.. category:: Kętrzyn
+   :category-id: pl:bialystok:olsztyn:ketrzyn
+   :en: Kętrzyn

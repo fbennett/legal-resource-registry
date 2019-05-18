@@ -1,0 +1,3 @@
+.. category:: Hrubieszów
+   :category-id: pl:lublin:zamosc:hrubieszow
+   :en: Hrubieszów

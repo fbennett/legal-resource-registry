@@ -1,0 +1,3 @@
+.. category:: Dąbrowa Tarnowska
+   :category-id: pl:krakow:tarnow:dabrowa.tarnowska
+   :en: Dąbrowa Tarnowska

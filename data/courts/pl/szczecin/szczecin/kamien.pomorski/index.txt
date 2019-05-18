@@ -1,0 +1,3 @@
+.. category:: Kamien Pomorski
+   :category-id: pl:szczecin:szczecin:kamien.pomorski
+   :en: Kamien Pomorski

@@ -1,0 +1,3 @@
+.. category:: Ruda Śląska
+   :category-id: pl:katowice:gliwice:ruda.slaska
+   :en: Ruda Śląska

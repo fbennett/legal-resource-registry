@@ -1,0 +1,3 @@
+.. category:: Szczecinek
+   :category-id: pl:szczecin:koszalin:szczecinek
+   :en: Szczecinek

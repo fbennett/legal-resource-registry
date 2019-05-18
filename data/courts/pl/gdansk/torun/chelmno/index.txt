@@ -1,0 +1,3 @@
+.. category:: Chełmno
+   :category-id: pl:gdansk:torun:chelmno
+   :en: Chełmno

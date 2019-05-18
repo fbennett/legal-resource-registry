@@ -1,0 +1,3 @@
+.. category:: Legionowo
+   :category-id: pl:warsaw:praga:legionowo
+   :en: Legionowo

@@ -1,0 +1,3 @@
+.. category:: Jastrzębie-Zdrój
+   :category-id: pl:katowice:gliwice:jastrzebie.zdroj
+   :en: Jastrzębie-Zdrój

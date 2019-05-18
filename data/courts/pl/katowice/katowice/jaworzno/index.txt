@@ -1,0 +1,3 @@
+.. category:: Jaworzno
+   :category-id: pl:katowice:katowice:jaworzno
+   :en: Jaworzno

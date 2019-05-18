@@ -1,0 +1,3 @@
+.. category:: Jaworze
+   :category-id: pl:wroclaw:legnica:jaworze
+   :en: Jaworze

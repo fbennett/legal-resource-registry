@@ -1,0 +1,3 @@
+.. category:: Węgrów
+   :category-id: pl:lublin:siedlce:wegrow
+   :en: Węgrów

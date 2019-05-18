@@ -1,0 +1,3 @@
+.. category:: Krakow
+   :category-id: pl:krakow:krakow
+   :en: Krakow

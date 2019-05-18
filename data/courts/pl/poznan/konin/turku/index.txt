@@ -1,0 +1,3 @@
+.. category:: Turku
+   :category-id: pl:poznan:konin:turku
+   :en: Turku

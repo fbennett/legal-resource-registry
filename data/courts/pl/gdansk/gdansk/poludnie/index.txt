@@ -1,0 +1,3 @@
+.. category:: Południe
+   :category-id: pl:gdansk:gdansk:poludnie
+   :en: Południe

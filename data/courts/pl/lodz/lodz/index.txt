@@ -1,0 +1,3 @@
+.. category:: Łódź
+   :category-id: pl:lodz:lodz
+   :en: Łódź

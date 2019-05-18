@@ -1,0 +1,3 @@
+.. category:: Mielec
+   :category-id: pl:rzeszow:tarnobrzeg:mielec
+   :en: Mielec

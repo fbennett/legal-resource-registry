@@ -1,0 +1,3 @@
+.. category:: Pszczyna
+   :category-id: pl:katowice:katowice:pszczyna
+   :en: Pszczyna

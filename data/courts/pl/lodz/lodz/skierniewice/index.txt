@@ -1,0 +1,3 @@
+.. category:: Skierniewice
+   :category-id: pl:lodz:lodz:skierniewice
+   :en: Skierniewice

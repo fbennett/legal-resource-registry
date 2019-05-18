@@ -1,0 +1,3 @@
+.. category:: Kozienice
+   :category-id: pl:lublin:radom:kozienice
+   :en: Kozienice

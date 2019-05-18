@@ -1,0 +1,3 @@
+.. category:: Kołobrzeg
+   :category-id: pl:szczecin:koszalin:kolobrzeg
+   :en: Kołobrzeg

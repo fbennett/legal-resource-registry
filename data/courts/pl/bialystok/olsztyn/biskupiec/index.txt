@@ -1,0 +1,3 @@
+.. category:: Biskupiec
+   :category-id: pl:bialystok:olsztyn:biskupiec
+   :en: Biskupiec

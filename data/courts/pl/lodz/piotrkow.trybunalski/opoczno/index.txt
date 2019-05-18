@@ -1,0 +1,3 @@
+.. category:: Opoczno
+   :category-id: pl:lodz:piotrkow.trybunalski:opoczno
+   :en: Opoczno

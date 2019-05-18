@@ -1,0 +1,3 @@
+.. category:: Biała Podlaska
+   :category-id: pl:lublin:lublin:biala.podlaska
+   :en: Biała Podlaska

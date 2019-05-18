@@ -1,0 +1,3 @@
+.. category:: Tomaszów Mazowiecki
+   :category-id: pl:lodz:piotrkow.trybunalski:tomaszow.mazowiecki
+   :en: Tomaszów Mazowiecki

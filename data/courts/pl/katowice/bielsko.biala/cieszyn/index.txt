@@ -1,0 +1,3 @@
+.. category:: Cieszyn
+   :category-id: pl:katowice:bielsko.biala:cieszyn
+   :en: Cieszyn

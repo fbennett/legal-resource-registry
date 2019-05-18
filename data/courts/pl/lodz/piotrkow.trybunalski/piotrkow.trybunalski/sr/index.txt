@@ -1,0 +1,3 @@
+.. court:: Sąd Rejonowy
+   :court-id: pl:lodz:piotrkow.trybunalski:piotrkow.trybunalski;sr
+   :en: Regional Court

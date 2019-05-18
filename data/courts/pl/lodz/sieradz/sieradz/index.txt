@@ -1,0 +1,3 @@
+.. category:: Sieradz
+   :category-id: pl:lodz:sieradz:sieradz
+   :en: Sieradz

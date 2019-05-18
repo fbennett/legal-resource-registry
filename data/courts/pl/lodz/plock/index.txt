@@ -1,0 +1,3 @@
+.. category:: Płock
+   :category-id: pl:lodz:plock
+   :en: Płock

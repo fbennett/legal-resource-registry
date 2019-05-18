@@ -1,0 +1,3 @@
+.. category:: Przysusze
+   :category-id: pl:lublin:radom:przysusze
+   :en: Przysusze

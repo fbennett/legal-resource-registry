@@ -1,0 +1,3 @@
+.. category:: Lubaczów
+   :category-id: pl:rzeszow:przemysl:lubaczow
+   :en: Lubaczów

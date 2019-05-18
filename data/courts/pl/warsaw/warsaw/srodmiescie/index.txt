@@ -1,0 +1,3 @@
+.. category:: Śródmieście
+   :category-id: pl:warsaw:warsaw:srodmiescie
+   :en: Śródmieście

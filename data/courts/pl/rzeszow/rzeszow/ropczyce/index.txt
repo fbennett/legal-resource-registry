@@ -1,0 +1,3 @@
+.. category:: Ropczyce
+   :category-id: pl:rzeszow:rzeszow:ropczyce
+   :en: Ropczyce

@@ -1,0 +1,3 @@
+.. category:: Krasnystaw
+   :category-id: pl:lublin:zamosc:krasnystaw
+   :en: Krasnystaw

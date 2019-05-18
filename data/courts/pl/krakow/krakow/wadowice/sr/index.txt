@@ -1,0 +1,3 @@
+.. court:: Sąd Rejonowy
+   :court-id: pl:krakow:krakow:wadowice;sr
+   :en: Regional Court

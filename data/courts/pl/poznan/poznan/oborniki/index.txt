@@ -1,0 +1,3 @@
+.. category:: Oborniki
+   :category-id: pl:poznan:poznan:oborniki
+   :en: Oborniki

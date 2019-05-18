@@ -1,0 +1,3 @@
+.. category:: Praga-Północ
+   :category-id: pl:warsaw:praga:praga.polnoc
+   :en: Praga-Północ

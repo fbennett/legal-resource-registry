@@ -1,0 +1,3 @@
+.. category:: Choszczno
+   :category-id: pl:szczecin:szczecin:choszczno
+   :en: Choszczno

@@ -1,0 +1,3 @@
+.. category:: Szczytno
+   :category-id: pl:bialystok:olsztyn:szczytno
+   :en: Szczytno

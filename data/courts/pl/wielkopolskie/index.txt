@@ -1,0 +1,3 @@
+.. category:: Woj. Wielkopolskie
+   :category-id: pl:wielkopolskie
+   :en: Greater Poland

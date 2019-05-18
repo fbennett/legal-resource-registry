@@ -1,0 +1,3 @@
+.. category:: Stalowa Wola
+   :category-id: pl:rzeszow:tarnobrzeg:stalowa.wola
+   :en: Stalowa Wola

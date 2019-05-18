@@ -1,0 +1,3 @@
+.. category:: Starachowice
+   :category-id: pl:krakow:kielce:starachowice
+   :en: Starachowice

@@ -1,0 +1,3 @@
+.. category:: Bytów
+   :category-id: pl:gdansk:slupsk:bytow
+   :en: Bytów

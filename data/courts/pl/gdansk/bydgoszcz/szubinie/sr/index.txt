@@ -1,0 +1,3 @@
+.. court:: Sąd Rejonowy
+   :court-id: pl:gdansk:bydgoszcz:szubinie;sr
+   :en: Regional Court

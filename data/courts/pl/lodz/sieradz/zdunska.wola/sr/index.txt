@@ -1,0 +1,3 @@
+.. court:: Sąd Rejonowy
+   :court-id: pl:lodz:sieradz:zdunska.wola;sr
+   :en: Regional Court

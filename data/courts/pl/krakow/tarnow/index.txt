@@ -1,0 +1,3 @@
+.. category:: Tarnów
+   :category-id: pl:krakow:tarnow
+   :en: Tarnów

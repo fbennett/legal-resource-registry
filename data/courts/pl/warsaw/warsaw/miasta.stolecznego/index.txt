@@ -1,0 +1,3 @@
+.. category:: miasta stołecznego
+   :category-id: pl:warsaw:warsaw:miasta.stolecznego
+   :en: miasta stołecznego

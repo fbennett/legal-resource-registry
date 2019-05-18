@@ -1,0 +1,3 @@
+.. category:: Myszków
+   :category-id: pl:katowice:czestochowa:myszkow
+   :en: Myszków

@@ -1,0 +1,3 @@
+.. court:: Sąd Rejonowy
+   :court-id: pl:szczecin:szczecin:kamien.pomorski;sr
+   :en: Regional Court

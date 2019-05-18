@@ -1,0 +1,3 @@
+.. court:: Sąd Apelacyjny
+   :court-id: pl:warsaw;sa
+   :en: Court of Appeal

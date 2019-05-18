@@ -1,0 +1,3 @@
+.. category:: Pisz
+   :category-id: pl:bialystok:olsztyn:pisz
+   :en: Pisz

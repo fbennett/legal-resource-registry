@@ -1,0 +1,3 @@
+.. category:: Zabrze
+   :category-id: pl:katowice:gliwice:zabrze
+   :en: Zabrze

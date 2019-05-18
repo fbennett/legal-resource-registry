@@ -1,0 +1,3 @@
+.. court:: Sąd Rejonowy
+   :court-id: pl:warsaw:warsaw:miasta.stolecznego;sr
+   :en: Regional Court

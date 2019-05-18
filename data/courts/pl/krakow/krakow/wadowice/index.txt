@@ -1,0 +1,3 @@
+.. category:: Wadowice
+   :category-id: pl:krakow:krakow:wadowice
+   :en: Wadowice

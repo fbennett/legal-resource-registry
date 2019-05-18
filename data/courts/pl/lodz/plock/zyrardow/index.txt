@@ -1,0 +1,3 @@
+.. category:: Żyrardów
+   :category-id: pl:lodz:plock:zyrardow
+   :en: Żyrardów

@@ -1,0 +1,3 @@
+.. category:: Podgórze
+   :category-id: pl:krakow:krakow:podgorze
+   :en: Podgórze

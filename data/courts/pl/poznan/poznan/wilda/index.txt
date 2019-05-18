@@ -1,0 +1,3 @@
+.. category:: Wilda
+   :category-id: pl:poznan:poznan:wilda
+   :en: Wilda

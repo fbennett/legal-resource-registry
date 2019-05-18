@@ -1,0 +1,3 @@
+.. category:: Ciechanów
+   :category-id: pl:lodz:plock:ciechanow
+   :en: Ciechanów

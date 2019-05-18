@@ -1,0 +1,3 @@
+.. category:: Nowa Huta
+   :category-id: pl:krakow:krakow:nowa.huta
+   :en: Nowa Huta

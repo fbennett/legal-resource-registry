@@ -1,0 +1,3 @@
+.. category:: Łobzie
+   :category-id: pl:szczecin:szczecin:lobzie
+   :en: Łobzie

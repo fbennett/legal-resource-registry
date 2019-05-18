@@ -1,0 +1,3 @@
+.. category:: Kielce
+   :category-id: pl:krakow:kielce:kielce
+   :en: Kielce

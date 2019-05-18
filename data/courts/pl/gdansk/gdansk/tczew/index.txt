@@ -1,0 +1,3 @@
+.. category:: Tczew
+   :category-id: pl:gdansk:gdansk:tczew
+   :en: Tczew

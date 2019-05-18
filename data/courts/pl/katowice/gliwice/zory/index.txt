@@ -1,0 +1,3 @@
+.. category:: Żory
+   :category-id: pl:katowice:gliwice:zory
+   :en: Żory

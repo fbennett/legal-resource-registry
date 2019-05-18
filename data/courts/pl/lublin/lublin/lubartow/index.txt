@@ -1,0 +1,3 @@
+.. category:: Lubartów
+   :category-id: pl:lublin:lublin:lubartow
+   :en: Lubartów

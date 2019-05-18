@@ -1,0 +1,3 @@
+.. court:: Sąd Ochrony Konkurencji i Konsumentów
+   :court-id: pl;sokik
+   :en: Court of Competition and Consumer Protection

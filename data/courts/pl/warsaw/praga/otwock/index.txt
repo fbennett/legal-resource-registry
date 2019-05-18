@@ -1,0 +1,3 @@
+.. category:: Otwock
+   :category-id: pl:warsaw:praga:otwock
+   :en: Otwock

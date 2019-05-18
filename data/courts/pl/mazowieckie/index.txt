@@ -1,0 +1,3 @@
+.. category:: Woj. Mazowieckie
+   :category-id: pl:mazowieckie
+   :en: Masovia

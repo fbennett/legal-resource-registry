@@ -1,0 +1,3 @@
+.. category:: Słupsk
+   :category-id: pl:gdansk:slupsk:slupsk
+   :en: Słupsk

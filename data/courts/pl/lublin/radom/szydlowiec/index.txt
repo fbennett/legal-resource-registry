@@ -1,0 +1,3 @@
+.. category:: Szydłowiec
+   :category-id: pl:lublin:radom:szydlowiec
+   :en: Szydłowiec

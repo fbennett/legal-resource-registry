@@ -1,0 +1,3 @@
+.. category:: Brzeziny
+   :category-id: pl:lodz:lodz:brzeziny
+   :en: Brzeziny

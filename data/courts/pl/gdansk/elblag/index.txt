@@ -1,0 +1,3 @@
+.. category:: Elbląg
+   :category-id: pl:gdansk:elblag
+   :en: Elbląg

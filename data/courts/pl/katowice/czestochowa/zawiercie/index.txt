@@ -1,0 +1,3 @@
+.. category:: Zawiercie
+   :category-id: pl:katowice:czestochowa:zawiercie
+   :en: Zawiercie

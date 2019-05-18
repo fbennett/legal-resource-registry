@@ -1,0 +1,3 @@
+.. court:: Sąd Okręgowy
+   :court-id: pl:warsaw:praga;so
+   :en: District Court

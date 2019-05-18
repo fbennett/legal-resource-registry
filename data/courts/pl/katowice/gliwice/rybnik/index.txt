@@ -1,0 +1,3 @@
+.. category:: Rybnik
+   :category-id: pl:katowice:gliwice:rybnik
+   :en: Rybnik

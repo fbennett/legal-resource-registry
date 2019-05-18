@@ -1,0 +1,3 @@
+.. category:: Ostrów Mazowiecka
+   :category-id: pl:bialystok:ostrolece:ostrow.mazowiecka
+   :en: Ostrów Mazowiecka

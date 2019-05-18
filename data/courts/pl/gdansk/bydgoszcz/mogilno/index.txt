@@ -1,0 +1,3 @@
+.. category:: Mogilno
+   :category-id: pl:gdansk:bydgoszcz:mogilno
+   :en: Mogilno

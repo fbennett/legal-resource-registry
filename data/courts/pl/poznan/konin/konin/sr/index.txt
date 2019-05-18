@@ -1,0 +1,3 @@
+.. court:: Sąd Rejonowy
+   :court-id: pl:poznan:konin:konin;sr
+   :en: Regional Court

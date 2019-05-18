@@ -1,0 +1,3 @@
+.. category:: Kutno
+   :category-id: pl:lodz:lodz:kutno
+   :en: Kutno

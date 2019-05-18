@@ -1,0 +1,3 @@
+.. court:: Sąd Rejonowy
+   :court-id: pl:rzeszow:rzeszow:lezajsk;sr
+   :en: Regional Court

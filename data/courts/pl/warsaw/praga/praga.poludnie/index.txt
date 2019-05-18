@@ -1,0 +1,3 @@
+.. category:: Praga-Południe
+   :category-id: pl:warsaw:praga:praga.poludnie
+   :en: Praga-Południe

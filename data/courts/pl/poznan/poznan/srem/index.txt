@@ -1,0 +1,3 @@
+.. category:: Śrem
+   :category-id: pl:poznan:poznan:srem
+   :en: Śrem

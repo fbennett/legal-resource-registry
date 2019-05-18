@@ -1,0 +1,3 @@
+.. category:: Łowicz
+   :category-id: pl:lodz:lodz:lowicz
+   :en: Łowicz

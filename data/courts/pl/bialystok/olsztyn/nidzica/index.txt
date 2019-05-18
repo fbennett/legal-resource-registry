@@ -1,0 +1,3 @@
+.. category:: Nidzica
+   :category-id: pl:bialystok:olsztyn:nidzica
+   :en: Nidzica

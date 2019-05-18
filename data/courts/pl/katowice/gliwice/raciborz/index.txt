@@ -1,0 +1,3 @@
+.. category:: Racibórz
+   :category-id: pl:katowice:gliwice:raciborz
+   :en: Racibórz

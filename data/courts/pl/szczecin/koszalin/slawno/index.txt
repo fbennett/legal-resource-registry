@@ -1,0 +1,3 @@
+.. category:: Sławno
+   :category-id: pl:szczecin:koszalin:slawno
+   :en: Sławno

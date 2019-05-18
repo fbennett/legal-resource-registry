@@ -1,0 +1,3 @@
+.. category:: Radom
+   :category-id: pl:lublin:radom:radom
+   :en: Radom

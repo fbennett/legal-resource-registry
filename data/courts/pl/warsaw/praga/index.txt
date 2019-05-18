@@ -1,0 +1,3 @@
+.. category:: Praga
+   :category-id: pl:warsaw:praga
+   :en: Praga

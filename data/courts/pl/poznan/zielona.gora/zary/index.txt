@@ -1,0 +1,3 @@
+.. category:: Żary
+   :category-id: pl:poznan:zielona.gora:zary
+   :en: Żary

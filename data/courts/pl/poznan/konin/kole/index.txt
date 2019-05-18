@@ -1,0 +1,3 @@
+.. category:: Kole
+   :category-id: pl:poznan:konin:kole
+   :en: Kole

@@ -1,0 +1,3 @@
+.. category:: Gorlice
+   :category-id: pl:krakow:nowy.sacz:gorlice
+   :en: Gorlice

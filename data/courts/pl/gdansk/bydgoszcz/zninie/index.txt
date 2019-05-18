@@ -1,0 +1,3 @@
+.. category:: Żninie
+   :category-id: pl:gdansk:bydgoszcz:zninie
+   :en: Żninie

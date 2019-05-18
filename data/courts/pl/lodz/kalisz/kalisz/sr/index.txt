@@ -1,0 +1,3 @@
+.. court:: Sąd Rejonowy
+   :court-id: pl:lodz:kalisz:kalisz;sr
+   :en: Regional Court

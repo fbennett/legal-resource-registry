@@ -1,0 +1,3 @@
+.. category:: Ostróda
+   :category-id: pl:gdansk:elblag:ostroda
+   :en: Ostróda

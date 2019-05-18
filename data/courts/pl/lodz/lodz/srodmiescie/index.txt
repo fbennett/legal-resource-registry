@@ -1,0 +1,3 @@
+.. category:: Śródmieście
+   :category-id: pl:lodz:lodz:srodmiescie
+   :en: Śródmieście

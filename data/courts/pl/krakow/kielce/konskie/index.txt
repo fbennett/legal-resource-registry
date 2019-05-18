@@ -1,0 +1,3 @@
+.. category:: Końskie
+   :category-id: pl:krakow:kielce:konskie
+   :en: Końskie

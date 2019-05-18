@@ -1,0 +1,3 @@
+.. category:: Grudziądz
+   :category-id: pl:gdansk:torun:grudziadz
+   :en: Grudziądz

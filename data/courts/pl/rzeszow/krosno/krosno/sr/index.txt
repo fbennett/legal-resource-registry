@@ -1,0 +1,3 @@
+.. court:: Sąd Rejonowy
+   :court-id: pl:rzeszow:krosno:krosno;sr
+   :en: Regional Court

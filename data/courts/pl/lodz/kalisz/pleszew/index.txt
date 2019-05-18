@@ -1,0 +1,3 @@
+.. category:: Pleszew
+   :category-id: pl:lodz:kalisz:pleszew
+   :en: Pleszew

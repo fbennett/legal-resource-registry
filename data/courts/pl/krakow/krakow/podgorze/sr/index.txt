@@ -1,0 +1,3 @@
+.. court:: Sąd Rejonowy
+   :court-id: pl:krakow:krakow:podgorze;sr
+   :en: Regional Court

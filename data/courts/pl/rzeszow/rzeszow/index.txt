@@ -1,0 +1,3 @@
+.. category:: Rzeszów
+   :category-id: pl:rzeszow:rzeszow
+   :en: Rzeszów

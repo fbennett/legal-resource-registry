@@ -1,0 +1,3 @@
+.. category:: Chorzów
+   :category-id: pl:katowice:katowice:chorzow
+   :en: Chorzów

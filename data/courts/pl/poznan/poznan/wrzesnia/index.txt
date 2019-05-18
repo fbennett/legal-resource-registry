@@ -1,0 +1,3 @@
+.. category:: Września
+   :category-id: pl:poznan:poznan:wrzesnia
+   :en: Września

@@ -1,0 +1,3 @@
+.. category:: Grójec
+   :category-id: pl:lublin:radom:grojec
+   :en: Grójec

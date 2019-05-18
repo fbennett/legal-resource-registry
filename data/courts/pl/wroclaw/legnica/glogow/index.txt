@@ -1,0 +1,3 @@
+.. category:: Głogów
+   :category-id: pl:wroclaw:legnica:glogow
+   :en: Głogów

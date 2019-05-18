@@ -1,0 +1,3 @@
+.. court:: Najwyższy Sąd Administracyjny
+   :court-id: pl;nsa
+   :en: Supreme Administrative Court

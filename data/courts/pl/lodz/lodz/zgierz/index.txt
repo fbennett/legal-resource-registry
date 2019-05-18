@@ -1,0 +1,3 @@
+.. category:: Zgierz
+   :category-id: pl:lodz:lodz:zgierz
+   :en: Zgierz

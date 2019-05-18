@@ -1,0 +1,3 @@
+.. category:: Garwolin
+   :category-id: pl:lublin:siedlce:garwolin
+   :en: Garwolin

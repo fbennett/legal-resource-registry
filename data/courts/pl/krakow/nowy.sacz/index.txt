@@ -1,0 +1,3 @@
+.. category:: Nowy Sącz
+   :category-id: pl:krakow:nowy.sacz
+   :en: Nowy Sącz

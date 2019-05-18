@@ -1,0 +1,3 @@
+.. category:: Bartoszyce
+   :category-id: pl:bialystok:olsztyn:bartoszyce
+   :en: Bartoszyce

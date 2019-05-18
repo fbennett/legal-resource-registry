@@ -1,0 +1,3 @@
+.. category:: Płońsk
+   :category-id: pl:lodz:plock:plonsk
+   :en: Płońsk

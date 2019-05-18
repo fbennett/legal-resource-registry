@@ -1,0 +1,3 @@
+.. court:: Sąd Rejonowy
+   :court-id: pl:rzeszow:przemysl:przemysl;sr
+   :en: Regional Court

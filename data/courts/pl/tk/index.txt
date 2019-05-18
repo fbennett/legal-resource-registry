@@ -1,0 +1,3 @@
+.. court:: Trybunał Konstytucyjny
+   :court-id: pl;tk
+   :en: Constitutional Tribunal

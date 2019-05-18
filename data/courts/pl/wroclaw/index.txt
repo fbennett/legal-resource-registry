@@ -1,0 +1,3 @@
+.. category:: Wrocław
+   :category-id: pl:wroclaw
+   :en: Wrocław

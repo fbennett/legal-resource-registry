@@ -1,0 +1,3 @@
+.. category:: Kraśnik
+   :category-id: pl:lublin:lublin:krasnik
+   :en: Kraśnik

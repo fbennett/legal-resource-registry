@@ -1,0 +1,3 @@
+.. court:: Sąd Okręgowy
+   :court-id: pl:bialystok:bialystok;so
+   :en: District Court

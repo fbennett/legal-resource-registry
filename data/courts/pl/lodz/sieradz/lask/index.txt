@@ -1,0 +1,3 @@
+.. category:: Łask
+   :category-id: pl:lodz:sieradz:lask
+   :en: Łask

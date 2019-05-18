@@ -1,0 +1,3 @@
+.. category:: Międzyrzecz
+   :category-id: pl:szczecin:gorzow.wielkopolski:miedzyrzecz
+   :en: Międzyrzecz

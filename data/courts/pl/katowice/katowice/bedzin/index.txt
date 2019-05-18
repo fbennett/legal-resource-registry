@@ -1,0 +1,3 @@
+.. category:: Będzin
+   :category-id: pl:katowice:katowice:bedzin
+   :en: Będzin

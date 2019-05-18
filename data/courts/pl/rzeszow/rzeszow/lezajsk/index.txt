@@ -1,0 +1,3 @@
+.. category:: Leżajsk
+   :category-id: pl:rzeszow:rzeszow:lezajsk
+   :en: Leżajsk

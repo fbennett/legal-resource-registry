@@ -1,0 +1,3 @@
+.. court:: Sąd Rejonowy
+   :court-id: pl:bialystok:olsztyn:lidzbark.warminski;sr
+   :en: Regional Court

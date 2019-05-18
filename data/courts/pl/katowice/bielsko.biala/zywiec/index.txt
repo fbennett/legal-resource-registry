@@ -1,0 +1,3 @@
+.. category:: Żywiec
+   :category-id: pl:katowice:bielsko.biala:zywiec
+   :en: Żywiec

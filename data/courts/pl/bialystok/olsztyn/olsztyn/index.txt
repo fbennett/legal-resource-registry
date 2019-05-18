@@ -1,0 +1,3 @@
+.. category:: Olsztyn
+   :category-id: pl:bialystok:olsztyn:olsztyn
+   :en: Olsztyn

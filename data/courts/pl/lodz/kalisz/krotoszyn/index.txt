@@ -1,0 +1,3 @@
+.. category:: Krotoszyn
+   :category-id: pl:lodz:kalisz:krotoszyn
+   :en: Krotoszyn

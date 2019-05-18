@@ -1,0 +1,3 @@
+.. category:: Chełm
+   :category-id: pl:lublin:lublin:chelm
+   :en: Chełm

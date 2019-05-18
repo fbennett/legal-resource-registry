@@ -1,0 +1,3 @@
+.. category:: Zachód Mikołów
+   :category-id: pl:katowice:katowice:zachod.mikolow
+   :en: Zachód Mikołów

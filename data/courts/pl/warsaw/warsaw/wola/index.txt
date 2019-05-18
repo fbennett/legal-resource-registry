@@ -1,0 +1,3 @@
+.. category:: Wola
+   :category-id: pl:warsaw:warsaw:wola
+   :en: Wola

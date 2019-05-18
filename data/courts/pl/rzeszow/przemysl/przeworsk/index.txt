@@ -1,0 +1,3 @@
+.. category:: Przeworsk
+   :category-id: pl:rzeszow:przemysl:przeworsk
+   :en: Przeworsk

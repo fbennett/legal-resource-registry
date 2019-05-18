@@ -1,0 +1,3 @@
+.. category:: Sanok
+   :category-id: pl:rzeszow:krosno:sanok
+   :en: Sanok

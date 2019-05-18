@@ -1,0 +1,3 @@
+.. category:: Świecie
+   :category-id: pl:gdansk:bydgoszcz:swiecie
+   :en: Świecie

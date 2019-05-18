@@ -1,0 +1,3 @@
+.. category:: Ostrowiec Świętokrzyski
+   :category-id: pl:krakow:kielce:ostrowiec.swietokrzyski
+   :en: Ostrowiec Świętokrzyski

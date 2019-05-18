@@ -1,0 +1,3 @@
+.. category:: Grodzisk Mazowiecki
+   :category-id: pl:warsaw:warsaw:grodzisk.mazowiecki
+   :en: Grodzisk Mazowiecki

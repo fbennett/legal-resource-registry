@@ -1,0 +1,3 @@
+.. category:: Środa Wielkopolska
+   :category-id: pl:poznan:poznan:sroda.wielkopolska
+   :en: Środa Wielkopolska

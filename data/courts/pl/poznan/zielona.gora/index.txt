@@ -1,0 +1,3 @@
+.. category:: Zielona Góra
+   :category-id: pl:poznan:zielona.gora
+   :en: Zielona Góra

@@ -1,0 +1,3 @@
+.. category:: Wąbrzeźno
+   :category-id: pl:gdansk:torun:wabrzezno
+   :en: Wąbrzeźno

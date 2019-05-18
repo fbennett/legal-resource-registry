@@ -1,0 +1,3 @@
+.. court:: Sąd Okręgowy
+   :court-id: pl:gdansk:gdansk;so
+   :en: District Court

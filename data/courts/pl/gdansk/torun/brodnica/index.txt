@@ -1,0 +1,3 @@
+.. category:: Brodnica
+   :category-id: pl:gdansk:torun:brodnica
+   :en: Brodnica

@@ -1,0 +1,3 @@
+.. category:: Nowy Dwór Mazowiecki
+   :category-id: pl:warsaw:praga:nowy.dwor.mazowiecki
+   :en: Nowy Dwór Mazowiecki

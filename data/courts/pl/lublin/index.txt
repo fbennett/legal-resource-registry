@@ -1,0 +1,3 @@
+.. category:: Lublin
+   :category-id: pl:lublin
+   :en: Lublin

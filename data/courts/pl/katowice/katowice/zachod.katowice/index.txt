@@ -1,0 +1,3 @@
+.. category:: Zachód Katowice
+   :category-id: pl:katowice:katowice:zachod.katowice
+   :en: Zachód Katowice

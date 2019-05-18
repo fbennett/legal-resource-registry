@@ -1,0 +1,3 @@
+.. category:: Woj. Opolskie
+   :category-id: pl:opolskie
+   :en: Opole

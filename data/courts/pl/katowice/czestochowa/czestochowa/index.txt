@@ -1,0 +1,3 @@
+.. category:: Częstochowa
+   :category-id: pl:katowice:czestochowa:czestochowa
+   :en: Częstochowa

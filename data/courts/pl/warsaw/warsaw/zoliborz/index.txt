@@ -1,0 +1,3 @@
+.. category:: Żoliborz
+   :category-id: pl:warsaw:warsaw:zoliborz
+   :en: Żoliborz

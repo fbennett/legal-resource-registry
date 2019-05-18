@@ -1,0 +1,3 @@
+.. category:: Bytom
+   :category-id: pl:katowice:katowice:bytom
+   :en: Bytom

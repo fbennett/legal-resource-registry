@@ -1,0 +1,3 @@
+.. category:: Tychy
+   :category-id: pl:katowice:katowice:tychy
+   :en: Tychy

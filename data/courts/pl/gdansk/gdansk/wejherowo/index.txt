@@ -1,0 +1,3 @@
+.. category:: Wejherowo
+   :category-id: pl:gdansk:gdansk:wejherowo
+   :en: Wejherowo

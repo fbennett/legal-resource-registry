@@ -1,0 +1,3 @@
+.. category:: Dębica
+   :category-id: pl:rzeszow:rzeszow:debica
+   :en: Dębica

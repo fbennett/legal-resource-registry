@@ -1,0 +1,3 @@
+.. category:: Gostynin
+   :category-id: pl:lodz:plock:gostynin
+   :en: Gostynin

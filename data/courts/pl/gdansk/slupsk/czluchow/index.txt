@@ -1,0 +1,3 @@
+.. category:: Człuchów
+   :category-id: pl:gdansk:slupsk:czluchow
+   :en: Człuchów

@@ -1,0 +1,3 @@
+.. court:: Sąd Rejonowy
+   :court-id: pl:lodz:lodz:rawa.mazowiecka;sr
+   :en: Regional Court

@@ -1,0 +1,3 @@
+.. category:: Stare Miasto
+   :category-id: pl:poznan:poznan:stare.miasto
+   :en: Stare Miasto

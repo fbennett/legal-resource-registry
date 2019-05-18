@@ -1,0 +1,3 @@
+.. court:: Sąd Rejonowy
+   :court-id: pl:gdansk:slupsk:slupsk;sr
+   :en: Regional Court

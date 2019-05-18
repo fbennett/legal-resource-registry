@@ -1,0 +1,3 @@
+.. court:: Sąd Rejonowy
+   :court-id: pl:szczecin:gorzow.wielkopolski:miedzyrzecz;sr
+   :en: Regional Court

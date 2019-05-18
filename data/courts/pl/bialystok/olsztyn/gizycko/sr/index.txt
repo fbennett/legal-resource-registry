@@ -1,0 +1,3 @@
+.. court:: Sąd Rejonowy
+   :court-id: pl:bialystok:olsztyn:gizycko;sr
+   :en: Regional Court

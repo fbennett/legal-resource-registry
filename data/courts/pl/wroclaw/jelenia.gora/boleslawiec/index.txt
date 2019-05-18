@@ -1,0 +1,3 @@
+.. category:: Bolesławiec
+   :category-id: pl:wroclaw:jelenia.gora:boleslawiec
+   :en: Bolesławiec

@@ -1,0 +1,3 @@
+.. category:: Mińsk Mazowiecki
+   :category-id: pl:lublin:siedlce:minsk.mazowiecki
+   :en: Mińsk Mazowiecki

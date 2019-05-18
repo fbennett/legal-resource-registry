@@ -1,0 +1,3 @@
+.. category:: Pabianice
+   :category-id: pl:lodz:lodz:pabianice
+   :en: Pabianice

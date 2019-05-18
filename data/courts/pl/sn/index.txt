@@ -1,0 +1,3 @@
+.. court:: Sąd Najwyższy
+   :court-id: pl;sn
+   :en: Supreme Court

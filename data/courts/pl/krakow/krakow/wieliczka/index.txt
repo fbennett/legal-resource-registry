@@ -1,0 +1,3 @@
+.. category:: Wieliczka
+   :category-id: pl:krakow:krakow:wieliczka
+   :en: Wieliczka

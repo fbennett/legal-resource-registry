@@ -1,0 +1,3 @@
+.. category:: Gniezno
+   :category-id: pl:poznan:poznan:gniezno
+   :en: Gniezno

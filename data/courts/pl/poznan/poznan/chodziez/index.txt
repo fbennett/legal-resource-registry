@@ -1,0 +1,3 @@
+.. category:: Chodzież
+   :category-id: pl:poznan:poznan:chodziez
+   :en: Chodzież

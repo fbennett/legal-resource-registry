@@ -1,0 +1,3 @@
+.. category:: Brzesko
+   :category-id: pl:krakow:tarnow:brzesko
+   :en: Brzesko

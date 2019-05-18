@@ -1,0 +1,3 @@
+.. category:: Działdowo
+   :category-id: pl:gdansk:elblag:dzialdowo
+   :en: Działdowo

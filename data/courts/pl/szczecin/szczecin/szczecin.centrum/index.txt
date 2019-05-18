@@ -1,0 +1,3 @@
+.. category:: Szczecin-Centrum
+   :category-id: pl:szczecin:szczecin:szczecin.centrum
+   :en: Szczecin-Centrum

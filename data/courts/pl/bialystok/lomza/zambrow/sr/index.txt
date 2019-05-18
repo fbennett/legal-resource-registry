@@ -1,0 +1,3 @@
+.. court:: Sąd Rejonowy
+   :court-id: pl:bialystok:lomza:zambrow;sr
+   :en: Regional Court

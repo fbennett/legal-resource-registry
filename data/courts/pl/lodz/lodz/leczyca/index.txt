@@ -1,0 +1,3 @@
+.. category:: Łęczyca
+   :category-id: pl:lodz:lodz:leczyca
+   :en: Łęczyca

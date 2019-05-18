@@ -1,0 +1,3 @@
+.. category:: Grajewo
+   :category-id: pl:bialystok:lomza:grajewo
+   :en: Grajewo

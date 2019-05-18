@@ -1,0 +1,3 @@
+.. category:: Zamość
+   :category-id: pl:lublin:zamosc
+   :en: Zamość

@@ -1,0 +1,3 @@
+.. category:: Drawsko Pomorskie
+   :category-id: pl:szczecin:koszalin:drawsko.pomorskie
+   :en: Drawsko Pomorskie

@@ -1,0 +1,3 @@
+.. category:: Braniewo
+   :category-id: pl:gdansk:elblag:braniewo
+   :en: Braniewo

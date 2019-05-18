@@ -1,0 +1,3 @@
+.. category:: Woj. Śląskie
+   :category-id: pl:slaskie
+   :en: Silesia

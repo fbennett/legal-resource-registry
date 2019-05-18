@@ -1,0 +1,3 @@
+.. category:: Wysokie Mazowieckie
+   :category-id: pl:bialystok:lomza:wysokie.mazowieckie
+   :en: Wysokie Mazowieckie

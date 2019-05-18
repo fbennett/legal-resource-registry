@@ -1,0 +1,3 @@
+.. category:: Miechów
+   :category-id: pl:krakow:krakow:miechow
+   :en: Miechów

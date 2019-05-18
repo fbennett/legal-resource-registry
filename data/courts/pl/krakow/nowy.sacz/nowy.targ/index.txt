@@ -1,0 +1,3 @@
+.. category:: Nowy Targ
+   :category-id: pl:krakow:nowy.sacz:nowy.targ
+   :en: Nowy Targ

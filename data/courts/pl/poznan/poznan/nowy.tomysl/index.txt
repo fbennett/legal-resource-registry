@@ -1,0 +1,3 @@
+.. category:: Nowy Tomyśl
+   :category-id: pl:poznan:poznan:nowy.tomysl
+   :en: Nowy Tomyśl

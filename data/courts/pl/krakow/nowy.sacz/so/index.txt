@@ -1,0 +1,3 @@
+.. court:: Sąd Okręgowy
+   :court-id: pl:krakow:nowy.sacz;so
+   :en: District Court

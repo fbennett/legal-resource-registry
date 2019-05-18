@@ -1,0 +1,3 @@
+.. category:: Gliwice
+   :category-id: pl:katowice:gliwice:gliwice
+   :en: Gliwice

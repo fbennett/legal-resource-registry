@@ -1,0 +1,3 @@
+.. category:: Szczecin
+   :category-id: pl:szczecin:szczecin
+   :en: Szczecin

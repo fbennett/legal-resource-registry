@@ -1,0 +1,3 @@
+.. category:: Giżycko
+   :category-id: pl:bialystok:olsztyn:gizycko
+   :en: Giżycko

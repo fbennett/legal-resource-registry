@@ -1,0 +1,3 @@
+.. category:: Stargard
+   :category-id: pl:szczecin:szczecin:stargard
+   :en: Stargard

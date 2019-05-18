@@ -1,0 +1,3 @@
+.. category:: Poznań
+   :category-id: pl:poznan
+   :en: Poznań

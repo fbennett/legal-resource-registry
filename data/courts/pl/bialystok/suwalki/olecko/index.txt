@@ -1,0 +1,3 @@
+.. category:: Olecko
+   :category-id: pl:bialystok:suwalki:olecko
+   :en: Olecko

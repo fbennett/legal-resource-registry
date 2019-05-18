@@ -1,0 +1,3 @@
+.. category:: Kępno
+   :category-id: pl:lodz:kalisz:kepno
+   :en: Kępno

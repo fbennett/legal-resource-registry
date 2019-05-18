@@ -1,0 +1,3 @@
+.. category:: Zakopane
+   :category-id: pl:krakow:nowy.sacz:zakopane
+   :en: Zakopane

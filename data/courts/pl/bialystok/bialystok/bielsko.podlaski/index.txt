@@ -1,0 +1,3 @@
+.. category:: Bielsko Podlaski
+   :category-id: pl:bialystok:bialystok:bielsko.podlaski
+   :en: Bielsko Podlaski

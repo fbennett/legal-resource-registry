@@ -1,0 +1,3 @@
+.. category:: Sopot
+   :category-id: pl:gdansk:gdansk:sopot
+   :en: Sopot

@@ -1,0 +1,3 @@
+.. category:: Ostrow Wielkopolski
+   :category-id: pl:lodz:kalisz:ostrow.wielkopolski
+   :en: Ostrow Wielkopolski

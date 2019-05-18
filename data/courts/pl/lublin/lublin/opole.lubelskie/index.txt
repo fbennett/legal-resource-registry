@@ -1,0 +1,3 @@
+.. category:: Opole Lubelskie
+   :category-id: pl:lublin:lublin:opole.lubelskie
+   :en: Opole Lubelskie

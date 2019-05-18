@@ -1,0 +1,3 @@
+.. category:: Lipsk
+   :category-id: pl:lublin:radom:lipsk
+   :en: Lipsk

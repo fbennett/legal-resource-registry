@@ -1,0 +1,3 @@
+.. category:: Nowe Miasto
+   :category-id: pl:poznan:poznan:nowe.miasto
+   :en: Nowe Miasto

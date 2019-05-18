@@ -1,0 +1,3 @@
+.. category:: Konin
+   :category-id: pl:poznan:konin:konin
+   :en: Konin
