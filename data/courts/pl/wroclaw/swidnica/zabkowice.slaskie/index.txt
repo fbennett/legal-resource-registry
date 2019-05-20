@@ -1,0 +1,3 @@
+.. category:: w Ząbkowicach Śląskich
+   :category-id: pl:wroclaw:swidnica:zabkowice.slaskie
+   :en: w Ząbkowicach Śląskich

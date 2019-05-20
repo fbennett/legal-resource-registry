@@ -1,0 +1,3 @@
+.. category:: Poznań-Grunwald i Jeżyce w Poznaniu
+   :category-id: pl:poznan:poznan:grunwald.jezyce
+   :en: Poznań-Grunwald i Jeżyce w Poznaniu

@@ -1,0 +1,3 @@
+.. category:: w Strzelinie
+   :category-id: pl:wroclaw:wroclaw:strzelin
+   :en: w Strzelinie

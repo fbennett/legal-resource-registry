@@ -1,0 +1,3 @@
+.. category:: w Wałbrzychu
+   :category-id: pl:wroclaw:swidnica:walbrzych
+   :en: w Wałbrzychu

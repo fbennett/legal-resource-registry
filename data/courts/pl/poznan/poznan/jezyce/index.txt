@@ -1,3 +1,0 @@
-.. category:: Jeżyce
-   :category-id: pl:poznan:poznan:jezyce
-   :en: Jeżyce

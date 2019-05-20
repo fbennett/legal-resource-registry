@@ -1,3 +1,3 @@
-.. category:: Jasło
+.. category:: w Jaśle
    :category-id: pl:rzeszow:krosno:jaslo
-   :en: Jasło
+   :en: w Jaśle

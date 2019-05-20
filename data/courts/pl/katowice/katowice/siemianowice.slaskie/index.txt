@@ -1,3 +1,3 @@
-.. category:: Siemianowice Śląskie
+.. category:: w Siemianowicach Śląskich
    :category-id: pl:katowice:katowice:siemianowice.slaskie
-   :en: Siemianowice Śląskie
+   :en: w Siemianowicach Śląskich

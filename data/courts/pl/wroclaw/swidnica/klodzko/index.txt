@@ -1,0 +1,3 @@
+.. category:: w Kłodzku
+   :category-id: pl:wroclaw:swidnica:klodzko
+   :en: w Kłodzku

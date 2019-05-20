@@ -1,3 +1,3 @@
-.. category:: Tucholi
+.. category:: w Tucholi
    :category-id: pl:gdansk:bydgoszcz:tucholi
-   :en: Tucholi
+   :en: w Tucholi

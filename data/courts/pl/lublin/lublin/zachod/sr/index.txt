@@ -1,3 +1,0 @@
-.. court:: Sąd Rejonowy
-   :court-id: pl:lublin:lublin:zachod;sr
-   :en: Regional Court

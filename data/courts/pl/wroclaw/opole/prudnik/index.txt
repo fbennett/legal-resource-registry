@@ -1,0 +1,3 @@
+.. category:: w Prudniku
+   :category-id: pl:wroclaw:opole:prudnik
+   :en: w Prudniku

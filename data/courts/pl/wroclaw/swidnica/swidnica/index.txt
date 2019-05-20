@@ -1,0 +1,3 @@
+.. category:: w Świdnicy
+   :category-id: pl:wroclaw:swidnica:swidnica
+   :en: w Świdnicy

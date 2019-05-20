@@ -1,0 +1,3 @@
+.. category:: Katowice-Wschód w Katowicach
+   :category-id: pl:katowice:katowice:wschod.katowice
+   :en: Katowice-Wschód w Katowicach

@@ -1,3 +1,3 @@
-.. category:: Ostróda
+.. category:: w Ostródzie
    :category-id: pl:gdansk:elblag:ostroda
-   :en: Ostróda
+   :en: w Ostródzie

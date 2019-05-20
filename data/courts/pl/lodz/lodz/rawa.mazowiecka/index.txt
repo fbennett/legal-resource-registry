@@ -1,3 +1,3 @@
-.. category:: Rawa Mazowiecka
+.. category:: w Rawie Mazowieckiej
    :category-id: pl:lodz:lodz:rawa.mazowiecka
-   :en: Rawa Mazowiecka
+   :en: w Rawie Mazowieckiej

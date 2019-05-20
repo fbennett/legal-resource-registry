@@ -1,3 +1,3 @@
-.. category:: Pińczów
+.. category:: w Pińczowie
    :category-id: pl:krakow:kielce:pinczow
-   :en: Pińczów
+   :en: w Pińczowie

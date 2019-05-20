@@ -1,3 +1,3 @@
-.. category:: Tczew
+.. category:: w Tczewie
    :category-id: pl:gdansk:gdansk:tczew
-   :en: Tczew
+   :en: w Tczewie

@@ -1,3 +1,3 @@
-.. category:: Żoliborz
+.. category:: dla Warszawy-Żoliborza w Warszawie
    :category-id: pl:warsaw:warsaw:zoliborz
-   :en: Żoliborz
+   :en: dla Warszawy-Żoliborza w Warszawie

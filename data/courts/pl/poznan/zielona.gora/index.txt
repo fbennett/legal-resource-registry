@@ -1,3 +1,3 @@
-.. category:: Zielona Góra
+.. category:: w Zielonej Górze
    :category-id: pl:poznan:zielona.gora
-   :en: Zielona Góra
+   :en: w Zielonej Górze

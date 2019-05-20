@@ -1,0 +1,3 @@
+.. category:: w Wołowie
+   :category-id: pl:wroclaw:wroclaw:wolow
+   :en: w Wołowie

@@ -1,0 +1,3 @@
+.. court:: Sąd Rejonowy
+   :court-id: pl:wroclaw:opole:glubczyce;sr
+   :en: Regional Court

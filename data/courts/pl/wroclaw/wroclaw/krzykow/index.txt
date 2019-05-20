@@ -1,0 +1,3 @@
+.. category:: dla Wrocławia-Krzyków we Wrocławiu
+   :category-id: pl:wroclaw:wroclaw:krzykow
+   :en: dla Wrocławia-Krzyków we Wrocławiu

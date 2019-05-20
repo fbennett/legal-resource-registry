@@ -1,0 +1,3 @@
+.. category:: Poznań-Nowe Miasto i Wilda w Poznaniu
+   :category-id: pl:poznan:poznan:nowe.miasto.wilda
+   :en: Poznań-Nowe Miasto i Wilda w Poznaniu

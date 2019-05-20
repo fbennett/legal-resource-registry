@@ -1,3 +1,3 @@
-.. category:: Łańcut
+.. category:: w Łańcucie
    :category-id: pl:rzeszow:rzeszow:lancut
-   :en: Łańcut
+   :en: w Łańcucie

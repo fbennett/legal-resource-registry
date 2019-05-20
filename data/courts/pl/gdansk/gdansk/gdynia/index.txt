@@ -1,3 +1,3 @@
-.. category:: Gdynia
+.. category:: w Gdyni
    :category-id: pl:gdansk:gdansk:gdynia
-   :en: Gdynia
+   :en: w Gdyni

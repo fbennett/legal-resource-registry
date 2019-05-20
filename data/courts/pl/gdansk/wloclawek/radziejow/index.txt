@@ -1,3 +1,3 @@
-.. category:: Radziejów
+.. category:: w Radziejowie
    :category-id: pl:gdansk:wloclawek:radziejow
-   :en: Radziejów
+   :en: w Radziejowie

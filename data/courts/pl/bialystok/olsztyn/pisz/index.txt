@@ -1,3 +1,3 @@
-.. category:: Pisz
+.. category:: w Piszu
    :category-id: pl:bialystok:olsztyn:pisz
-   :en: Pisz
+   :en: w Piszu

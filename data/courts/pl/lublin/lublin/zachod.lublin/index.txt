@@ -1,0 +1,3 @@
+.. category:: Lublin-Zachód w Lublinie
+   :category-id: pl:lublin:lublin:zachod.lublin
+   :en: Lublin-Zachód w Lublinie

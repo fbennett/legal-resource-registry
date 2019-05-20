@@ -1,0 +1,3 @@
+.. court:: Sąd Rejonowy
+   :court-id: pl:wroclaw:swidnica:klodzko;sr
+   :en: Regional Court

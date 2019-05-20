@@ -1,3 +1,3 @@
-.. category:: Szczecin-Centrum
+.. category:: Szczecin-Centrum w Szczecinie
    :category-id: pl:szczecin:szczecin:szczecin.centrum
-   :en: Szczecin-Centrum
+   :en: Szczecin-Centrum w Szczecinie

@@ -1,3 +1,3 @@
-.. category:: Strzelce Krajeńskie
+.. category:: w Strzelcach Krajeńskich
    :category-id: pl:szczecin:gorzow.wielkopolski:strzelce.krajenskie
-   :en: Strzelce Krajeńskie
+   :en: w Strzelcach Krajeńskich

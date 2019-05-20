@@ -1,0 +1,3 @@
+.. category:: w Dzierżoniowie
+   :category-id: pl:wroclaw:swidnica:dzierzoniow
+   :en: w Dzierżoniowie

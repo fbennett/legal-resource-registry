@@ -1,0 +1,3 @@
+.. category:: w Oławie
+   :category-id: pl:wroclaw:wroclaw:olawa
+   :en: w Oławie

@@ -1,3 +1,3 @@
-.. category:: Sandomierz
+.. category:: w Sandomierzu
    :category-id: pl:krakow:kielce:sandomierz
-   :en: Sandomierz
+   :en: w Sandomierzu

@@ -1,3 +1,3 @@
-.. category:: Radzyń Podlaski
+.. category:: w Radzyniu Podlaskim
    :category-id: pl:lublin:lublin:radzyn.podlaski
-   :en: Radzyń Podlaski
+   :en: w Radzyniu Podlaskim

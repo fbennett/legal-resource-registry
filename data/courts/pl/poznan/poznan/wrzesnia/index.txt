@@ -1,3 +1,3 @@
-.. category:: Września
+.. category:: we Wrześni
    :category-id: pl:poznan:poznan:wrzesnia
-   :en: Września
+   :en: we Wrześni

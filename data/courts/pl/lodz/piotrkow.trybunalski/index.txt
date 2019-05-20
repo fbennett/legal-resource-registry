@@ -1,3 +1,3 @@
-.. category:: Piotrków Trybunalski
+.. category:: w Piotrkowie Trybunalskim
    :category-id: pl:lodz:piotrkow.trybunalski
-   :en: Piotrków Trybunalski
+   :en: w Piotrkowie Trybunalskim

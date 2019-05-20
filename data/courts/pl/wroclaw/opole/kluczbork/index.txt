@@ -1,0 +1,3 @@
+.. category:: w Kluczborku
+   :category-id: pl:wroclaw:opole:kluczbork
+   :en: w Kluczborku

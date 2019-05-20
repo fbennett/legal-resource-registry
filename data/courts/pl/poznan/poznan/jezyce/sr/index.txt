@@ -1,3 +1,0 @@
-.. court:: Sąd Rejonowy
-   :court-id: pl:poznan:poznan:jezyce;sr
-   :en: Regional Court

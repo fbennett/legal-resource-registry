@@ -1,3 +1,3 @@
-.. category:: Bydgoszcz
+.. category:: w Bydgoszczy
    :category-id: pl:gdansk:bydgoszcz:bydgoszcz
-   :en: Bydgoszcz
+   :en: w Bydgoszczy

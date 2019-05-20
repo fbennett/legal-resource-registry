@@ -1,3 +1,3 @@
-.. category:: Myślibórz
+.. category:: w Myśliborzu
    :category-id: pl:szczecin:szczecin:mysliborz
-   :en: Myślibórz
+   :en: w Myśliborzu

@@ -1,3 +1,3 @@
-.. category:: Jędrzejów
+.. category:: w Jędrzejowie
    :category-id: pl:krakow:kielce:jedrzejow
-   :en: Jędrzejów
+   :en: w Jędrzejowie

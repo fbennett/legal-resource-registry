@@ -1,3 +1,3 @@
-.. category:: Grodzisk Wielkopolski
+.. category:: w Grodzisku Wielkopolskim
    :category-id: pl:poznan:poznan:grodzisk.wielkopolski
-   :en: Grodzisk Wielkopolski
+   :en: w Grodzisku Wielkopolskim

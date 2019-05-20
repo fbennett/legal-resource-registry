@@ -1,0 +1,3 @@
+.. category:: Lublin-Wschód w Lublinie z siedzibą w Świdniku
+   :category-id: pl:lublin:lublin:wschod.lublin
+   :en: Lublin-Wschód w Lublinie z siedzibą w Świdniku

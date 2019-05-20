@@ -1,3 +1,3 @@
-.. category:: Złotor
+.. category:: w Złotoryi
    :category-id: pl:wroclaw:legnica:zlotor
-   :en: Złotor
+   :en: w Złotoryi

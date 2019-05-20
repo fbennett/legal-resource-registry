@@ -1,3 +1,0 @@
-.. court:: Sąd Rejonowy
-   :court-id: pl:szczecin:szczecin:zachod;sr
-   :en: Regional Court

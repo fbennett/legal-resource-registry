@@ -1,3 +1,3 @@
-.. category:: Mława
+.. category:: w Mławie
    :category-id: pl:lodz:plock:mlawa
-   :en: Mława
+   :en: w Mławie

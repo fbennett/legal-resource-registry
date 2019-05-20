@@ -1,3 +1,3 @@
-.. category:: Podgórze
+.. category:: dla Krakowa-Podgórza w Krakowie
    :category-id: pl:krakow:krakow:podgorze
-   :en: Podgórze
+   :en: dla Krakowa-Podgórza w Krakowie

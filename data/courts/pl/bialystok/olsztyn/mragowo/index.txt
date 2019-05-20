@@ -1,3 +1,3 @@
-.. category:: Mrągowo
+.. category:: w Mrągowie
    :category-id: pl:bialystok:olsztyn:mragowo
-   :en: Mrągowo
+   :en: w Mrągowie

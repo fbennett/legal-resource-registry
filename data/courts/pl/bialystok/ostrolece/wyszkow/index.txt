@@ -1,3 +1,3 @@
-.. category:: Wyszków
+.. category:: w Wyszkowie
    :category-id: pl:bialystok:ostrolece:wyszkow
-   :en: Wyszków
+   :en: w Wyszkowie

@@ -1,0 +1,3 @@
+.. category:: we Wrocławiu
+   :category-id: pl:wroclaw:wroclaw
+   :en: we Wrocławiu

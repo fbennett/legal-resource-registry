@@ -1,0 +1,3 @@
+.. category:: w Środzie Śląskiej
+   :category-id: pl:wroclaw:wroclaw:sroda.slaska
+   :en: w Środzie Śląskiej

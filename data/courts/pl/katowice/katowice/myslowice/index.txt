@@ -1,3 +1,3 @@
-.. category:: Mysłowice
+.. category:: w Mysłowicach
    :category-id: pl:katowice:katowice:myslowice
-   :en: Mysłowice
+   :en: w Mysłowicach

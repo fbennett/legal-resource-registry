@@ -1,3 +1,3 @@
-.. category:: Golub-Dobrzyń
+.. category:: w Golubiu-Dobrzyniu
    :category-id: pl:gdansk:torun:golub.dobrzyn
-   :en: Golub-Dobrzyń
+   :en: w Golubiu-Dobrzyniu

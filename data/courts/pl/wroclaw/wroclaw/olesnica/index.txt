@@ -1,0 +1,3 @@
+.. category:: w Oleśnicy
+   :category-id: pl:wroclaw:wroclaw:olesnica
+   :en: w Oleśnicy

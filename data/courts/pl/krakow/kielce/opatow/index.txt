@@ -1,3 +1,3 @@
-.. category:: Opatów
+.. category:: w Opatowie
    :category-id: pl:krakow:kielce:opatow
-   :en: Opatów
+   :en: w Opatowie

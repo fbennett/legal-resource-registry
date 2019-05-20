@@ -1,0 +1,3 @@
+.. category:: w Strzelcach Opolskich
+   :category-id: pl:wroclaw:opole:strzelce.opolski
+   :en: w Strzelcach Opolskich

@@ -1,3 +1,3 @@
-.. category:: Starogard Gdański
+.. category:: w Starogardzie Gdańskim
    :category-id: pl:gdansk:gdansk:starogard.gdanski
-   :en: Starogard Gdański
+   :en: w Starogardzie Gdańskim

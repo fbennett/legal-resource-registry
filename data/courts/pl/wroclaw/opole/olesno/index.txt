@@ -1,0 +1,3 @@
+.. category:: w Oleśnie
+   :category-id: pl:wroclaw:opole:olesno
+   :en: w Oleśnie

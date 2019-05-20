@@ -1,3 +1,3 @@
-.. category:: Sokółka
+.. category:: w Sokółce
    :category-id: pl:bialystok:bialystok:sokolka
-   :en: Sokółka
+   :en: w Sokółce

@@ -1,3 +1,3 @@
-.. category:: Ostrołęka
+.. category:: w Ostrołęce
    :category-id: pl:bialystok:ostrolece:ostroleka
-   :en: Ostrołęka
+   :en: w Ostrołęce

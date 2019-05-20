@@ -1,0 +1,3 @@
+.. category:: w Miliczu
+   :category-id: pl:wroclaw:wroclaw:milicz
+   :en: w Miliczu

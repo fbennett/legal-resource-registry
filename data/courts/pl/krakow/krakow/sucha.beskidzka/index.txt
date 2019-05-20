@@ -1,3 +1,3 @@
-.. category:: Sucha Beskidzka
+.. category:: w Suchej Beskidzkiej
    :category-id: pl:krakow:krakow:sucha.beskidzka
-   :en: Sucha Beskidzka
+   :en: w Suchej Beskidzkiej

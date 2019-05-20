@@ -1,0 +1,3 @@
+.. category:: dla Wrocławia-Fabrycznej we Wrocławiu
+   :category-id: pl:wroclaw:wroclaw:fabryczna
+   :en: dla Wrocławia-Fabrycznej we Wrocławiu

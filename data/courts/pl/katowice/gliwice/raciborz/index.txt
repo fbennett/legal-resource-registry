@@ -1,3 +1,3 @@
-.. category:: Racibórz
+.. category:: w Raciborzu
    :category-id: pl:katowice:gliwice:raciborz
-   :en: Racibórz
+   :en: w Raciborzu

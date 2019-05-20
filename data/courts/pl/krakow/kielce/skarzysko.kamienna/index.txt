@@ -1,3 +1,3 @@
-.. category:: Skarżysko-Kamienna
+.. category:: w Skarżysku-Kamiennej
    :category-id: pl:krakow:kielce:skarzysko.kamienna
-   :en: Skarżysko-Kamienna
+   :en: w Skarżysku-Kamiennej

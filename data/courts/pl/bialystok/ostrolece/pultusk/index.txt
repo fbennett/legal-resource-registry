@@ -1,3 +1,3 @@
-.. category:: Pułtusk
+.. category:: w Pułtusku
    :category-id: pl:bialystok:ostrolece:pultusk
-   :en: Pułtusk
+   :en: w Pułtusku

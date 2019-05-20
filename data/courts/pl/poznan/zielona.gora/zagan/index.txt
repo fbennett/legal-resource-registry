@@ -1,3 +1,3 @@
-.. category:: Żagań
+.. category:: w Żaganiu
    :category-id: pl:poznan:zielona.gora:zagan
-   :en: Żagań
+   :en: w Żaganiu

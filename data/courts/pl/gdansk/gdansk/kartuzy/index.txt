@@ -1,3 +1,3 @@
-.. category:: Kartuzy
+.. category:: w Kartuzach
    :category-id: pl:gdansk:gdansk:kartuzy
-   :en: Kartuzy
+   :en: w Kartuzach

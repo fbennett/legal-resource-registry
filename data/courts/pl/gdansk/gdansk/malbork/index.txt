@@ -1,3 +1,3 @@
-.. category:: Malbork
+.. category:: w Malborku
    :category-id: pl:gdansk:gdansk:malbork
-   :en: Malbork
+   :en: w Malborku

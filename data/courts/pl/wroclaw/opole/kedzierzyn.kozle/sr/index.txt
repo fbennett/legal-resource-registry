@@ -1,0 +1,3 @@
+.. court:: Sąd Rejonowy
+   :court-id: pl:wroclaw:opole:kedzierzyn.kozle;sr
+   :en: Regional Court

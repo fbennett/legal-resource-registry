@@ -1,3 +1,3 @@
-.. category:: Krosno
+.. category:: w Krośnie
    :category-id: pl:rzeszow:krosno
-   :en: Krosno
+   :en: w Krośnie

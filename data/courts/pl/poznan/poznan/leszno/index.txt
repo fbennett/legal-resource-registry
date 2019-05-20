@@ -1,3 +1,3 @@
-.. category:: Leszno
+.. category:: w Lesznie
    :category-id: pl:poznan:poznan:leszno
-   :en: Leszno
+   :en: w Lesznie

@@ -1,0 +1,3 @@
+.. category:: w Głubczycach
+   :category-id: pl:wroclaw:opole:glubczyce
+   :en: w Głubczycach

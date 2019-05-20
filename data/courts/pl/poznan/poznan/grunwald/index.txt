@@ -1,3 +1,0 @@
-.. category:: Grunwald
-   :category-id: pl:poznan:poznan:grunwald
-   :en: Grunwald

@@ -1,3 +1,3 @@
-.. category:: Suwałki
+.. category:: w Suwałkach
    :category-id: pl:bialystok:suwalki
-   :en: Suwałki
+   :en: w Suwałkach

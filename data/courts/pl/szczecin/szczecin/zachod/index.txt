@@ -1,3 +1,0 @@
-.. category:: Zachód
-   :category-id: pl:szczecin:szczecin:zachod
-   :en: Zachód

@@ -1,3 +1,0 @@
-.. court:: Sąd Rejonowy
-   :court-id: pl:katowice:katowice:wschod;sr
-   :en: Regional Court

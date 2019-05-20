@@ -1,0 +1,3 @@
+.. category:: w Nysie
+   :category-id: pl:wroclaw:opole:nysa
+   :en: w Nysie

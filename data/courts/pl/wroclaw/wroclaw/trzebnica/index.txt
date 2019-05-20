@@ -1,0 +1,3 @@
+.. category:: w Trzebnicy
+   :category-id: pl:wroclaw:wroclaw:trzebnica
+   :en: w Trzebnicy

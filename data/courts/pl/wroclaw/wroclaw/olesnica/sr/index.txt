@@ -1,0 +1,3 @@
+.. court:: Sąd Rejonowy
+   :court-id: pl:wroclaw:wroclaw:olesnica;sr
+   :en: Regional Court

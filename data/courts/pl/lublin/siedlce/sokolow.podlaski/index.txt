@@ -1,3 +1,3 @@
-.. category:: Sokołów Podlaski
+.. category:: w Sokołowie Podlaskim
    :category-id: pl:lublin:siedlce:sokolow.podlaski
-   :en: Sokołów Podlaski
+   :en: w Sokołowie Podlaskim

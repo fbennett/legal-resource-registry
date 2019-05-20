@@ -1,3 +1,3 @@
-.. category:: Szczecin
+.. category:: w Szczecinie
    :category-id: pl:szczecin:szczecin
-   :en: Szczecin
+   :en: w Szczecinie

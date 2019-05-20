@@ -1,3 +1,3 @@
-.. category:: Wadowice
+.. category:: w Wadowicach
    :category-id: pl:krakow:krakow:wadowice
-   :en: Wadowice
+   :en: w Wadowicach

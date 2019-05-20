@@ -1,3 +1,0 @@
-.. category:: Zachód
-   :category-id: pl:lublin:lublin:zachod
-   :en: Zachód

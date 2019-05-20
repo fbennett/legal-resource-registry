@@ -1,3 +1,3 @@
-.. category:: Kętrzyn
+.. category:: w Kętrzynie
    :category-id: pl:bialystok:olsztyn:ketrzyn
-   :en: Kętrzyn
+   :en: w Kętrzynie

@@ -1,3 +1,0 @@
-.. court:: Sąd Rejonowy
-   :court-id: pl:poznan:poznan:wilda;sr
-   :en: Regional Court

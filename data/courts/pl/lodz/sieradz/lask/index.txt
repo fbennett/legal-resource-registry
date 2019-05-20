@@ -1,3 +1,3 @@
-.. category:: Łask
+.. category:: w Łasku
    :category-id: pl:lodz:sieradz:lask
-   :en: Łask
+   :en: w Łasku

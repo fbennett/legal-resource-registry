@@ -1,0 +1,3 @@
+.. category:: w Mikołowie
+   :category-id: pl:katowice:katowice:mikolow
+   :en: w Mikołowie
