@@ -1,0 +1,3 @@
+.. category:: w Gorzowie Wielkopolskim
+   :category-id: pl:gorzow.wielkopolski
+   :en: w Gorzowie Wielkopolskim

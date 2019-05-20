@@ -1,3 +1,0 @@
-.. court:: Woj. Sąd Administracyjny
-   :court-id: pl:mazowieckie;wsa
-   :en: Administrative Court

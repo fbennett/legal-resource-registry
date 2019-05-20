@@ -1,3 +1,0 @@
-.. court:: Woj. Sąd Administracyjny
-   :court-id: pl:slaskie;wsa
-   :en: Administrative Court

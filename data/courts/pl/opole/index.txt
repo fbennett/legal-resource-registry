@@ -1,0 +1,3 @@
+.. category:: w Opolu
+   :category-id: pl:opole
+   :en: w Opolu

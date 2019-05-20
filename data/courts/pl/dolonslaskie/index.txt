@@ -1,3 +1,0 @@
-.. category:: Woj. Dolnośląskie
-   :category-id: pl:dolonslaskie
-   :en: Lower Silesia

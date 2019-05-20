@@ -1,0 +1,3 @@
+.. category:: w Kielcach
+   :category-id: pl:kielce
+   :en: w Kielcach

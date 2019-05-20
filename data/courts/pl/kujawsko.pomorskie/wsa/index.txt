@@ -1,3 +1,0 @@
-.. court:: Woj. Sąd Administracyjny
-   :court-id: pl:kujawsko.pomorskie;wsa
-   :en: Administrative Court

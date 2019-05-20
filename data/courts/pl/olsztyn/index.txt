@@ -1,0 +1,3 @@
+.. category:: w Olsztynie
+   :category-id: pl:olsztyn
+   :en: w Olsztynie

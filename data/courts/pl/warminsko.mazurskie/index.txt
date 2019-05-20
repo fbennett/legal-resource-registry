@@ -1,3 +1,0 @@
-.. category:: Woj. Warmińsko-mazurskie
-   :category-id: pl:warminsko.mazurskie
-   :en: Warmia-Masuria

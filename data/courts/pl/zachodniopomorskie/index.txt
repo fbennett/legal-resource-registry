@@ -1,3 +1,0 @@
-.. category:: Woj. Zachodniopomorski
-   :category-id: pl:zachodniopomorskie
-   :en: West Pomerania

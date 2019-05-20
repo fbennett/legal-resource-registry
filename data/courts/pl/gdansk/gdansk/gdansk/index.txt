@@ -1,0 +1,3 @@
+.. category:: w Gdańsku
+   :category-id: pl:gdansk:gdansk:gdansk
+   :en: w Gdańsku

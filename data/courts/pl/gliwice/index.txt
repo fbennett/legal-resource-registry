@@ -1,0 +1,3 @@
+.. category:: w Gliwicach
+   :category-id: pl:gliwice
+   :en: w Gliwicach

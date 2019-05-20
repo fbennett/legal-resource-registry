@@ -1,3 +1,0 @@
-.. category:: Woj. Pomorskie
-   :category-id: pl:pomorskie
-   :en: Pomerania

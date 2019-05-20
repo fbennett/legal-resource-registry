@@ -1,3 +1,0 @@
-.. category:: Woj. Podkarpackie
-   :category-id: pl:podkarpackie
-   :en: Podkarpackie

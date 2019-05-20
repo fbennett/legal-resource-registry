@@ -1,0 +1,3 @@
+.. category:: w Bydgoszczy
+   :category-id: pl:bydgoszcz
+   :en: w Bydgoszczy
