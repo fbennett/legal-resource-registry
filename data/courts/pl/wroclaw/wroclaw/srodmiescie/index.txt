@@ -1,3 +1,3 @@
 .. category:: dla Wrocławia-Śródmieścia we Wrocławiu
-   :category-id: pl:wroclaw:wroclaw:srodmiesci
+   :category-id: pl:wroclaw:wroclaw:srodmiescie
    :en: dla Wrocławia-Śródmieścia we Wrocławiu
