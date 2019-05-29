@@ -1,0 +1,3 @@
+.. category:: v Ostravě
+   :category-id: cz:praha:ostrava
+   :en: Ostrava
