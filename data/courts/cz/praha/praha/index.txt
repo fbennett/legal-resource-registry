@@ -1,0 +1,3 @@
+.. category:: v Praze
+   :category-id: cz:praha:praha
+   :en: Praha

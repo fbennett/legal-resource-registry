@@ -1,0 +1,3 @@
+.. court:: Městský soud
+   :court-id: cz:praha:praha.mestsky;mc
+   :en: Municipal Court

@@ -1,0 +1,3 @@
+.. category:: v Plzni
+   :category-id: cz:praha:plzen
+   :en: Plzen

@@ -1,0 +1,3 @@
+.. court:: Nejvyšší soud
+   :court-id: cz;sc
+   :en: Supreme Court

@@ -1,0 +1,3 @@
+.. court:: Rozhodčí soud
+   :court-id: cz;arbct
+   :en: Arbitration Court attached to the Economic Chamber of the Czech Republic
