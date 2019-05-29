@@ -1,3 +1,0 @@
-.. category:: v Brně
-   :category-id: cz:praha:brno
-   :en: Brno

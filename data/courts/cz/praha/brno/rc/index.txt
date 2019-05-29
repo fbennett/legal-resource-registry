@@ -1,3 +1,0 @@
-.. court:: Krajský soud
-   :court-id: cz:praha:brno;rc
-   :en: Regional Court

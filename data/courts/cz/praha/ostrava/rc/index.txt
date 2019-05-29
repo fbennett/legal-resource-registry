@@ -1,3 +1,0 @@
-.. court:: Krajský soud
-   :court-id: cz:praha:ostrava;rc
-   :en: Regional Court
