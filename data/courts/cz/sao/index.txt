@@ -1,3 +1,0 @@
-.. court:: Nejvyšší kontrolní úřad
-   :court-id: cz;sao
-   :en: Supreme Audit Office
