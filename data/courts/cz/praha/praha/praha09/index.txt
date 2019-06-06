@@ -1,3 +1,3 @@
-.. category:: Obvodní soud pro Prahu 9
+.. category:: pro Prahu 9
    :category-id: cz:praha:praha:praha09
-   :en: Ward Court Prahu 9
+   :en: Prahu 9

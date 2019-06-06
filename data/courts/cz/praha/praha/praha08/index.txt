@@ -1,3 +1,3 @@
-.. category:: Obvodní soud pro Prahu 8
+.. category:: pro Prahu 8
    :category-id: cz:praha:praha:praha08
-   :en: Ward Court Prahu 8
+   :en: Prahu 8

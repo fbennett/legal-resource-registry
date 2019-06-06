@@ -1,3 +1,3 @@
-.. category:: Obvodní soud pro Prahu 4
+.. category:: pro Prahu 4
    :category-id: cz:praha:praha:praha04
-   :en: Ward Court Prahu 4
+   :en: Prahu 4
