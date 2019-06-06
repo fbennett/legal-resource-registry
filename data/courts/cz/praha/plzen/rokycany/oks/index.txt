@@ -1,0 +1,3 @@
+.. court:: Okresní soud
+   :court-id: cz:praha:plzen:rokycany;oks
+   :en: District Court

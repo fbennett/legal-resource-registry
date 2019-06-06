@@ -1,0 +1,3 @@
+.. category:: ve Vsetíně
+   :category-id: cz:olomouc:ostrava:vsetin
+   :en: Vsetín

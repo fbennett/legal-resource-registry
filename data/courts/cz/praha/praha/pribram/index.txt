@@ -1,0 +1,3 @@
+.. category:: v Příbrami
+   :category-id: cz:praha:praha:pribram
+   :en: Příbram

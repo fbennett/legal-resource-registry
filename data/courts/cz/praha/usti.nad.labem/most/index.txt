@@ -1,0 +1,3 @@
+.. category:: v Mostě
+   :category-id: cz:praha:usti.nad.labem:most
+   :en: Most

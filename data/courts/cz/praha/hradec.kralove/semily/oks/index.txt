@@ -1,0 +1,3 @@
+.. court:: Okresní soud
+   :court-id: cz:praha:hradec.kralove:semily;oks
+   :en: District Court

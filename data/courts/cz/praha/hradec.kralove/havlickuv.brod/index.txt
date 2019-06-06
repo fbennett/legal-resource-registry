@@ -1,0 +1,3 @@
+.. category:: v Havlíčkově Brodu
+   :category-id: cz:praha:hradec.kralove:havlickuv.brod
+   :en: Havlíčkův Brod

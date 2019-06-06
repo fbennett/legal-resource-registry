@@ -1,0 +1,3 @@
+.. category:: v Děčíně
+   :category-id: cz:praha:usti.nad.labem:decin
+   :en: Děčín

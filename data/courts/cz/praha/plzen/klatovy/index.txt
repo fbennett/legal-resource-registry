@@ -1,0 +1,3 @@
+.. category:: v Klatovech
+   :category-id: cz:praha:plzen:klatovy
+   :en: Klatovy

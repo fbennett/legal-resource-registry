@@ -1,0 +1,3 @@
+.. category:: v Nymburku
+   :category-id: cz:praha:praha:nymburk
+   :en: Nymburk

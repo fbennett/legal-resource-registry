@@ -1,0 +1,3 @@
+.. court:: Okresní soud
+   :court-id: cz:praha:ceske.budejovice:cesky.krumlov;oks
+   :en: District Court

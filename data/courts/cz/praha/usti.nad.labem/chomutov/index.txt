@@ -1,0 +1,3 @@
+.. category:: v Chomutově
+   :category-id: cz:praha:usti.nad.labem:chomutov
+   :en: Chomutov

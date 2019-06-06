@@ -1,0 +1,3 @@
+.. court:: Obvodní soud
+   :court-id: cz:praha:praha:praha01;obs
+   :en: Ward Court

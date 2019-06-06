@@ -1,0 +1,3 @@
+.. category:: ve Zlíně
+   :category-id: cz:olomouc:brno:zlin
+   :en: Zlín

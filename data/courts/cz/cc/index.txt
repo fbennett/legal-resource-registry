@@ -1,3 +1,0 @@
-.. court:: Ústavní soud
-   :court-id: cz;cc
-   :en: Constitutional Court

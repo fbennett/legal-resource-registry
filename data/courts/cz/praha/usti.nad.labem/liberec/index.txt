@@ -1,0 +1,3 @@
+.. category:: v Liberci
+   :category-id: cz:praha:usti.nad.labem:liberec
+   :en: Liberec

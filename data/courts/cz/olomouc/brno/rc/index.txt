@@ -1,3 +1,0 @@
-.. court:: Krajský soud
-   :court-id: cz:olomouc:brno;rc
-   :en: Regional Court

@@ -1,0 +1,3 @@
+.. category:: v Náchodě
+   :category-id: cz:praha:hradec.kralove:nachod
+   :en: Náchod

@@ -1,0 +1,3 @@
+.. category:: Obvodní soud pro Prahu 10
+   :category-id: cz:praha:praha:praha10
+   :en: Ward Court Prahu 10

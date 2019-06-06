@@ -1,3 +1,0 @@
-.. court:: Krajský soud
-   :court-id: cz:praha:ceske.budejovice;rc
-   :en: Regional Court

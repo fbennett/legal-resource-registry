@@ -1,0 +1,3 @@
+.. court:: Nejvyšší správní soud
+   :court-id: cz;nss
+   :en: Supreme Administrative Court

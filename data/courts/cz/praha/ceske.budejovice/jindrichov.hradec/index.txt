@@ -1,0 +1,3 @@
+.. category:: v Jindřichově Hradci
+   :category-id: cz:praha:ceske.budejovice:jindrichov.hradec
+   :en: Jindřichov Hradec

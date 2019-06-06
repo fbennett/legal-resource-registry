@@ -1,0 +1,3 @@
+.. category:: ve Žďáru nad Sázavou
+   :category-id: cz:olomouc:brno:zdar.sazavou
+   :en: Žďár nad Sázavou

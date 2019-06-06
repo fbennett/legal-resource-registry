@@ -1,0 +1,3 @@
+.. category:: Obvodní soud pro Prahu 7
+   :category-id: cz:praha:praha:praha07
+   :en: Ward Court Prahu 7

@@ -1,0 +1,3 @@
+.. category:: v Rakovníku
+   :category-id: cz:praha:praha:rakovnik
+   :en: Rakovník

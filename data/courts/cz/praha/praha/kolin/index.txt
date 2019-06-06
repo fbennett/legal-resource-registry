@@ -1,0 +1,3 @@
+.. category:: v Kolíně
+   :category-id: cz:praha:praha:kolin
+   :en: Kolín

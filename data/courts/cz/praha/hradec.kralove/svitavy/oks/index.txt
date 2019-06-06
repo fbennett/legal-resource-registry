@@ -1,0 +1,3 @@
+.. court:: Okresní soud
+   :court-id: cz:praha:hradec.kralove:svitavy;oks
+   :en: District Court

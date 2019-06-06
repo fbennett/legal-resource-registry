@@ -1,3 +1,0 @@
-.. court:: Krajský soud
-   :court-id: cz:olomouc:ostrava;rc
-   :en: Regional Court

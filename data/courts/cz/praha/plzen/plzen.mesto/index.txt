@@ -1,0 +1,3 @@
+.. category:: Plzeň-město
+   :category-id: cz:praha:plzen:plzen.mesto
+   :en: Plzeň-město

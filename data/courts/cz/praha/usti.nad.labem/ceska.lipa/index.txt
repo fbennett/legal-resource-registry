@@ -1,0 +1,3 @@
+.. category:: v  České Lípě
+   :category-id: cz:praha:usti.nad.labem:ceska.lipa
+   :en: Česká Lípa

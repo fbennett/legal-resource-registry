@@ -1,0 +1,3 @@
+.. court:: Okresní soud
+   :court-id: cz:praha:praha:kladno;oks
+   :en: District Court

@@ -1,0 +1,3 @@
+.. category:: v Jablonci nad Nisou
+   :category-id: cz:praha:usti.nad.labem:jablonec.nad.nisou
+   :en: Jablonec nad Nisou

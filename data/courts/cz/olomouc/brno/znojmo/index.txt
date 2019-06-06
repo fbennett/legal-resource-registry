@@ -1,0 +1,3 @@
+.. category:: ve Znojmě
+   :category-id: cz:olomouc:brno:znojmo
+   :en: Znojmo

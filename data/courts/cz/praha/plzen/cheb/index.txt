@@ -1,0 +1,3 @@
+.. category:: v Chebu
+   :category-id: cz:praha:plzen:cheb
+   :en: Cheb

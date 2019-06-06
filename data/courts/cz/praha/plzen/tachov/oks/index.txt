@@ -1,0 +1,3 @@
+.. court:: Okresní soud
+   :court-id: cz:praha:plzen:tachov;oks
+   :en: District Court

@@ -1,0 +1,3 @@
+.. court:: Okresní soud
+   :court-id: cz:praha:hradec.kralove:nachod;oks
+   :en: District Court

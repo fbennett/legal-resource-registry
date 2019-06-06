@@ -1,0 +1,3 @@
+.. category:: ve Frýdku-Místku
+   :category-id: cz:olomouc:ostrava:frydek.mistek
+   :en: Frýdek-Místek

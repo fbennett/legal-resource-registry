@@ -1,0 +1,3 @@
+.. category:: v Ústí nad Labem
+   :category-id: cz:usti.nad.labem
+   :en: Ústí nad Labem

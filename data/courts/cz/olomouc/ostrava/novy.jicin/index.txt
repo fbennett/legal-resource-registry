@@ -1,0 +1,3 @@
+.. category:: v Novém Jičíně
+   :category-id: cz:olomouc:ostrava:novy.jicin
+   :en: Nový Jičín

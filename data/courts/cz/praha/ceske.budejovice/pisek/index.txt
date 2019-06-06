@@ -1,0 +1,3 @@
+.. category:: v Písku
+   :category-id: cz:praha:ceske.budejovice:pisek
+   :en: Pisek

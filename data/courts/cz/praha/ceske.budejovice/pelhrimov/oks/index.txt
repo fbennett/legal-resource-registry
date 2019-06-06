@@ -1,0 +1,3 @@
+.. court:: Okresní soud
+   :court-id: cz:praha:ceske.budejovice:pelhrimov;oks
+   :en: District Court

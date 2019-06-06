@@ -1,0 +1,3 @@
+.. category:: v Karlových Varech
+   :category-id: cz:praha:plzen:karlovy.vary
+   :en: Karlovy Vary

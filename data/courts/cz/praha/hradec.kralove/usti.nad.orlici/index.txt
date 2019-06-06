@@ -1,0 +1,3 @@
+.. category:: v Ústí nad Orlicí
+   :category-id: cz:praha:hradec.kralove:usti.nad.orlici
+   :en: Ústí nad Orlicí

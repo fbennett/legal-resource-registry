@@ -1,0 +1,3 @@
+.. category:: v Karviné
+   :category-id: cz:olomouc:ostrava:karvina
+   :en: Karviná

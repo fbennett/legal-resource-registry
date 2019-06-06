@@ -1,0 +1,3 @@
+.. category:: v Bruntále
+   :category-id: cz:olomouc:ostrava:bruntal
+   :en: Bruntál

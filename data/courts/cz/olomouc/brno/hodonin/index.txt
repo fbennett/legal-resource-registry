@@ -1,0 +1,3 @@
+.. category:: v Hodoníně
+   :category-id: cz:olomouc:brno:hodonin
+   :en: Hodonín

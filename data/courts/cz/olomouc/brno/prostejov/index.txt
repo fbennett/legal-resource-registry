@@ -1,0 +1,3 @@
+.. category:: v Prostějově
+   :category-id: cz:olomouc:brno:prostejov
+   :en: Prostějov

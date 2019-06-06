@@ -1,0 +1,3 @@
+.. category:: v Berouně
+   :category-id: cz:praha:praha:beroun
+   :en: Beroun

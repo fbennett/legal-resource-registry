@@ -1,0 +1,3 @@
+.. category:: v Uherském Hradišti
+   :category-id: cz:olomouc:brno:uherske.hradiste
+   :en: Uhersk Hradiště

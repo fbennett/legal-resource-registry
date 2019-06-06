@@ -1,0 +1,3 @@
+.. category:: ve Vyškově
+   :category-id: cz:olomouc:brno:vyskov
+   :en: Vyškov

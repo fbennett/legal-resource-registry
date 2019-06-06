@@ -1,0 +1,3 @@
+.. category:: v Sokolově
+   :category-id: cz:praha:plzen:sokolov
+   :en: Sokolov

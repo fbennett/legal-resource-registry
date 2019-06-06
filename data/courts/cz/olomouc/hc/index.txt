@@ -1,3 +1,0 @@
-.. court:: Vrchní soud
-   :court-id: cz:olomouc;hc
-   :en: High Court

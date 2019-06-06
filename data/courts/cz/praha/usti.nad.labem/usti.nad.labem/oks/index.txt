@@ -1,0 +1,3 @@
+.. court:: Okresní soud
+   :court-id: cz:praha:usti.nad.labem:usti.nad.labem;oks
+   :en: District Court

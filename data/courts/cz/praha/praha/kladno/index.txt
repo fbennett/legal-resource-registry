@@ -1,0 +1,3 @@
+.. category:: v  Kladně
+   :category-id: cz:praha:praha:kladno
+   :en: Kladno

@@ -1,0 +1,3 @@
+.. category:: v Brně
+   :category-id: cz:olomouc:brno:m.brno
+   :en: Brno

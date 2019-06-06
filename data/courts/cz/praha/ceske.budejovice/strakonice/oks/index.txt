@@ -1,0 +1,3 @@
+.. court:: Okresní soud
+   :court-id: cz:praha:ceske.budejovice:strakonice;oks
+   :en: District Court

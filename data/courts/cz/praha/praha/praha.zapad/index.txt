@@ -1,0 +1,3 @@
+.. category:: Praha-západ
+   :category-id: cz:praha:praha:praha.zapad
+   :en: Praha-západ

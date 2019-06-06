@@ -1,0 +1,3 @@
+.. category:: Plzeň-sever
+   :category-id: cz:praha:plzen:plzen.sever
+   :en: Plzeň-sever

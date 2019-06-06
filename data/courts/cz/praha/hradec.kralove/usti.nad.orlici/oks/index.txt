@@ -1,0 +1,3 @@
+.. court:: Okresní soud
+   :court-id: cz:praha:hradec.kralove:usti.nad.orlici;oks
+   :en: District Court

@@ -1,0 +1,3 @@
+.. category:: v Břeclavi
+   :category-id: cz:olomouc:brno:breclav
+   :en: Břeclav

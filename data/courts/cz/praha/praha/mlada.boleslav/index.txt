@@ -1,0 +1,3 @@
+.. category:: v Mladé Boleslavi
+   :category-id: cz:praha:praha:mlada.boleslav
+   :en: Mladá Boleslav

@@ -1,0 +1,3 @@
+.. category:: v Ostravě
+   :category-id: cz:olomouc:ostrava:ostava
+   :en: Ostrava

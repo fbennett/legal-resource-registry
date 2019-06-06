@@ -1,0 +1,3 @@
+.. category:: Obvodní soud pro Prahu 2
+   :category-id: cz:praha:praha:praha02
+   :en: Ward Court Prahu 2

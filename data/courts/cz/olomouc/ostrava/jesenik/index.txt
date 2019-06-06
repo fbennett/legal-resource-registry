@@ -1,0 +1,3 @@
+.. category:: v Jeseníku
+   :category-id: cz:olomouc:ostrava:jesenik
+   :en: Jeseník

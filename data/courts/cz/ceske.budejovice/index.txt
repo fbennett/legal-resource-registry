@@ -1,0 +1,3 @@
+.. category:: v Českých Budějovicích
+   :category-id: cz:ceske.budejovice
+   :en: Ceské Budejovice

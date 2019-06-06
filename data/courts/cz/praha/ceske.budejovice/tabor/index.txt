@@ -1,0 +1,3 @@
+.. category:: v Táboře
+   :category-id: cz:praha:ceske.budejovice:tabor
+   :en: Tábor

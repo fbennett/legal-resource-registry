@@ -1,0 +1,3 @@
+.. category:: v Prachaticích
+   :category-id: cz:praha:ceske.budejovice:prachatice
+   :en: Prachatice

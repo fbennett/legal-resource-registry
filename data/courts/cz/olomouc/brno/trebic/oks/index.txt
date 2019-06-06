@@ -1,0 +1,3 @@
+.. court:: Okresní soud
+   :court-id: cz:olomouc:brno:trebic;oks
+   :en: District Court

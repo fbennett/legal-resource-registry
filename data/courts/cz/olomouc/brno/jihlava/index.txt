@@ -1,0 +1,3 @@
+.. category:: v Jihlavě
+   :category-id: cz:olomouc:brno:jihlava
+   :en: Jihlava

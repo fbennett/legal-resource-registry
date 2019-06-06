@@ -1,0 +1,3 @@
+.. category:: v Hradci Králové
+   :category-id: cz:hradec.kralove
+   :en: Hradec Králové

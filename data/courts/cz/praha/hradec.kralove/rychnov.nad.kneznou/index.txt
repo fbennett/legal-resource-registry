@@ -1,0 +1,3 @@
+.. category:: v Rychnově nad Kněžnou
+   :category-id: cz:praha:hradec.kralove:rychnov.nad.kneznou
+   :en: Rychnov nad Kněžnou

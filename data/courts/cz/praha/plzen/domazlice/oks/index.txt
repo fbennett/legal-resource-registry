@@ -1,0 +1,3 @@
+.. court:: Okresní soud
+   :court-id: cz:praha:plzen:domazlice;oks
+   :en: District Court

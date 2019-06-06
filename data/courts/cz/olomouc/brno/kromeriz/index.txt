@@ -1,0 +1,3 @@
+.. category:: v Kroměříži
+   :category-id: cz:olomouc:brno:kromeriz
+   :en: Kroměříž

@@ -1,0 +1,3 @@
+.. court:: Krajský soud
+   :court-id: cz:hradec.kralove;ks
+   :en: Regional Court

@@ -1,0 +1,3 @@
+.. court:: Okresní soud
+   :court-id: cz:praha:praha:pribram;oks
+   :en: District Court

@@ -1,0 +1,3 @@
+.. category:: v Přerově
+   :category-id: cz:olomouc:ostrava:prerov
+   :en: Přerov

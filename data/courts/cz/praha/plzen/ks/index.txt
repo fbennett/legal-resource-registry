@@ -1,0 +1,3 @@
+.. court:: Krajský soud
+   :court-id: cz:praha:plzen;ks
+   :en: Regional Court

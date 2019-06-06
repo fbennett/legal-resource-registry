@@ -1,3 +1,0 @@
-.. court:: Krajský soud
-   :court-id: cz:praha:usti.nad.labem;rc
-   :en: Regional Court

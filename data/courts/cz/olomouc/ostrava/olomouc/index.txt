@@ -1,0 +1,3 @@
+.. category:: v Olomouci
+   :category-id: cz:olomouc:ostrava:olomouc
+   :en: Olomouc

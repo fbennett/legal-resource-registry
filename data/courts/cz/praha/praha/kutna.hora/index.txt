@@ -1,0 +1,3 @@
+.. category:: v Kutné Hoře
+   :category-id: cz:praha:praha:kutna.hora
+   :en: Kutná Hora

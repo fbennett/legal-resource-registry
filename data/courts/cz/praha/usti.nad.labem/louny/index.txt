@@ -1,0 +1,3 @@
+.. category:: v Lounech
+   :category-id: cz:praha:usti.nad.labem:louny
+   :en: Louny

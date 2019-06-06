@@ -1,0 +1,3 @@
+.. court:: Okresní soud
+   :court-id: cz:praha:usti.nad.labem:teplice;oks
+   :en: District Court

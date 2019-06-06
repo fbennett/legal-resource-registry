@@ -1,0 +1,3 @@
+.. category:: v Benešově
+   :category-id: cz:praha:praha:benesov
+   :en: Benešov

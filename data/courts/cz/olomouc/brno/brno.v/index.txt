@@ -1,0 +1,3 @@
+.. category:: Brno venkov
+   :category-id: cz:olomouc:brno:brno.v
+   :en: Brno

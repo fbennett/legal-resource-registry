@@ -1,0 +1,3 @@
+.. category:: v Tachově
+   :category-id: cz:praha:plzen:tachov
+   :en: Tachov

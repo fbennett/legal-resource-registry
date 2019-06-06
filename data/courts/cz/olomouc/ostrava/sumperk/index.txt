@@ -1,0 +1,3 @@
+.. category:: v  Šumperku
+   :category-id: cz:olomouc:ostrava:sumperk
+   :en: Šumperk

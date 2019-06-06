@@ -1,0 +1,3 @@
+.. category:: v Opavě
+   :category-id: cz:olomouc:ostrava:opava
+   :en: Opava

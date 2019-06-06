@@ -1,0 +1,3 @@
+.. court:: Okresní soud
+   :court-id: cz:olomouc:ostrava:bruntal;oks
+   :en: District Court

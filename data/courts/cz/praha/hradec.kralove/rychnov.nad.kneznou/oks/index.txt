@@ -1,0 +1,3 @@
+.. court:: Okresní soud
+   :court-id: cz:praha:hradec.kralove:rychnov.nad.kneznou;oks
+   :en: District Court

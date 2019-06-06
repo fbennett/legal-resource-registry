@@ -1,0 +1,3 @@
+.. category:: v Teplicích
+   :category-id: cz:praha:usti.nad.labem:teplice
+   :en: Teplice

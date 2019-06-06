@@ -1,0 +1,3 @@
+.. court:: Okresní soud
+   :court-id: cz:olomouc:ostrava:prerov;oks
+   :en: District Court

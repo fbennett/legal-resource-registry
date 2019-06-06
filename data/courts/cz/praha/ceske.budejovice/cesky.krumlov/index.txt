@@ -1,0 +1,3 @@
+.. category:: v Českém Krumlově
+   :category-id: cz:praha:ceske.budejovice:cesky.krumlov
+   :en: Český Krumlov
