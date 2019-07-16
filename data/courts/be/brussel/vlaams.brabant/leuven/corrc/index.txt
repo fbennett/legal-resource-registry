@@ -1,0 +1,3 @@
+.. court:: Correctionele rechtbank
+   :court-id: be:brussel:vlaams.brabant:leuven;corrc
+   :en: Correctional court

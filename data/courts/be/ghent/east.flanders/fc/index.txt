@@ -1,3 +1,0 @@
-.. court:: Tribunal de la famille/Familierechtbank
-   :court-id: be:ghent:east.flanders;fc
-   :en: Family Court

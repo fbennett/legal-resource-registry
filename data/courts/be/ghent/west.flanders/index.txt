@@ -1,3 +1,0 @@
-.. category:: West Flanders
-   :category-id: be:ghent:west.flanders
-   :en: undefined

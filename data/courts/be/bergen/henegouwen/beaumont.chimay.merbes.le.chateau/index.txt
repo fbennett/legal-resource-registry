@@ -1,0 +1,3 @@
+.. category:: Beaumont-Chimay-Merbes-le-Château
+   :category-id: be:bergen:henegouwen:beaumont.chimay.merbes.le.chateau
+   :en: Beaumont-Chimay-Merbes-le-Château

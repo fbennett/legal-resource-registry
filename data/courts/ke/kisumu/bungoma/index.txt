@@ -1,0 +1,3 @@
+.. category:: Bungoma
+   :category-id: ke:kisumu:bungoma
+   :en: Bungoma

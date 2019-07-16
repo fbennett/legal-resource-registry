@@ -1,0 +1,3 @@
+.. court:: Rechtbank van Koophandel
+   :court-id: be:brussel:waals.brabant:nijvel;cc
+   :en: Commercial Court

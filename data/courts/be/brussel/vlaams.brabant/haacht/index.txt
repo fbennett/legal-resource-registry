@@ -1,0 +1,3 @@
+.. category:: Haacht
+   :category-id: be:brussel:vlaams.brabant:haacht
+   :en: Haacht

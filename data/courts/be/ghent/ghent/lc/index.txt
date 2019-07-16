@@ -1,3 +1,0 @@
-.. court:: Tribunal du travail/Arbeidsrechtbank
-   :court-id: be:ghent:ghent;lc
-   :en: Labor Court

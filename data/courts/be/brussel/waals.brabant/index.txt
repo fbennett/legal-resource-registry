@@ -1,0 +1,3 @@
+.. category:: Waals-Brabant
+   :category-id: be:brussel:waals.brabant
+   :en: Waals-Brabant

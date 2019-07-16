@@ -1,0 +1,3 @@
+.. court:: Correctionele rechtbank
+   :court-id: be:bergen:henegouwen:bergen;corrc
+   :en: Correctional court

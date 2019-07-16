@@ -1,0 +1,3 @@
+.. category:: Limburg-Aubel
+   :category-id: be:antwerpen:limburg:limburg.aubel
+   :en: Limburg-Aubel

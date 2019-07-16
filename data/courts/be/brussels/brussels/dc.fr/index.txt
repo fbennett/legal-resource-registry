@@ -1,3 +1,0 @@
-.. court:: Tribunal de première instance francophone
-   :court-id: be:brussels:brussels;dc.fr
-   :en: French-speaking Court of First Instance

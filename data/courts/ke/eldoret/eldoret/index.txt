@@ -1,0 +1,3 @@
+.. category:: Eldoret
+   :category-id: ke:eldoret:eldoret
+   :en: Eldoret

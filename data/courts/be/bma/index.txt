@@ -1,0 +1,3 @@
+.. court:: Belgische Mededingingsautoriteit
+   :court-id: be;bma
+   :en: Belgian competition authority

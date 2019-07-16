@@ -1,0 +1,3 @@
+.. category:: Wezet
+   :category-id: be:luik:luik:wezet
+   :en: Wezet

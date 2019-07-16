@@ -1,0 +1,3 @@
+.. category:: Kakamega
+   :category-id: ke:kisumu:kakamega
+   :en: Kakamega

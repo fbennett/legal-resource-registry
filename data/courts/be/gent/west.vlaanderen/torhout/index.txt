@@ -1,0 +1,3 @@
+.. category:: Torhout
+   :category-id: be:gent:west.vlaanderen:torhout
+   :en: Torhout

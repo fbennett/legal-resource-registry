@@ -1,0 +1,3 @@
+.. court:: Krijgsraad
+   :court-id: be;mc
+   :en: Martial court

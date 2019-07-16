@@ -1,0 +1,3 @@
+.. court:: Beslagrechter
+   :court-id: be:bergen:henegouwen:charleroi;br
+   :en: Attachement judge

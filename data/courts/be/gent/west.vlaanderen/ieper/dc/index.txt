@@ -1,0 +1,3 @@
+.. court:: Vredegerecht
+   :court-id: be:gent:west.vlaanderen:ieper;dc
+   :en: Justice of the Peace

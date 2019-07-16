@@ -1,0 +1,3 @@
+.. category:: Bergen
+   :category-id: be:bergen
+   :en: Mons

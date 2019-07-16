@@ -1,0 +1,3 @@
+.. category:: Tienen
+   :category-id: be:brussel:vlaams.brabant:tienen
+   :en: Tienen

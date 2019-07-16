@@ -1,0 +1,3 @@
+.. category:: Châtelet
+   :category-id: be:bergen:henegouwen:chatelet
+   :en: Châtelet

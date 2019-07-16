@@ -1,3 +1,0 @@
-.. category:: Leuven
-   :category-id: be:brussels:leuven
-   :en: undefined

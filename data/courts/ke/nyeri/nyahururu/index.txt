@@ -1,0 +1,3 @@
+.. category:: Nyahururu
+   :category-id: ke:nyeri:nyahururu
+   :en: Nyahururu

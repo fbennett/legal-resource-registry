@@ -1,0 +1,3 @@
+.. category:: Marche-en-Famenne
+   :category-id: be:luik:luxumburg:marche.en.famenne
+   :en: Marche-en-Famenne

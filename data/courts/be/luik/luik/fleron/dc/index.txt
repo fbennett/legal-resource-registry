@@ -1,0 +1,3 @@
+.. court:: Vredegerecht
+   :court-id: be:luik:luik:fleron;dc
+   :en: Justice of the Peace

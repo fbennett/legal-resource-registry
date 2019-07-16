@@ -1,0 +1,3 @@
+.. category:: Dendermonde-Hamme
+   :category-id: be:gent:oost.vlaanderen:dendermonde.hamme
+   :en: Dendermonde-Hamme

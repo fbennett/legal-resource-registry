@@ -1,0 +1,3 @@
+.. court:: Rechtbank van Koophandel
+   :court-id: be:bergen:henegouwen:charleroi;cc
+   :en: Commercial Court

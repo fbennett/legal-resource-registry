@@ -1,0 +1,3 @@
+.. court:: Correctionele rechtbank
+   :court-id: be:bergen:henegouwen:charleroi;corrc
+   :en: Correctional court

@@ -1,0 +1,3 @@
+.. court:: Franstalige politierechtbank
+   :court-id: be:brussel;pc.fr
+   :en: French-speaking Police Court

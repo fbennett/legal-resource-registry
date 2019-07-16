@@ -1,0 +1,3 @@
+.. court:: Familierechtbank
+   :court-id: be:luik:luxumburg:marche.en.famenne;famc
+   :en: Family court

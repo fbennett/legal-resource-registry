@@ -1,0 +1,3 @@
+.. category:: Ieper
+   :category-id: be:gent:west.vlaanderen:ieper
+   :en: Ieper

@@ -1,0 +1,3 @@
+.. court:: Arbeidsrechtbank
+   :court-id: be:gent:oost.vlaanderen:dendermonde;lc
+   :en: Labor Court

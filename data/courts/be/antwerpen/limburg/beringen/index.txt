@@ -1,0 +1,3 @@
+.. category:: Beringen
+   :category-id: be:antwerpen:limburg:beringen
+   :en: Beringen

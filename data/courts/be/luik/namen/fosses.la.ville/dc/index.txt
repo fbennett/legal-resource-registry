@@ -1,0 +1,3 @@
+.. court:: Vredegerecht
+   :court-id: be:luik:namen:fosses.la.ville;dc
+   :en: Justice of the Peace

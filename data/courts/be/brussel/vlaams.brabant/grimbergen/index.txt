@@ -1,0 +1,3 @@
+.. category:: Grimbergen
+   :category-id: be:brussel:vlaams.brabant:grimbergen
+   :en: Grimbergen

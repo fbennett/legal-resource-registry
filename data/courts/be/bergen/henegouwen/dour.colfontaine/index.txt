@@ -1,0 +1,3 @@
+.. category:: Dour-Colfontaine
+   :category-id: be:bergen:henegouwen:dour.colfontaine
+   :en: Dour-Colfontaine

@@ -1,0 +1,3 @@
+.. court:: Court of Appeal
+   :court-id: ke:eldoret;ca
+   :en: Court of Appeal

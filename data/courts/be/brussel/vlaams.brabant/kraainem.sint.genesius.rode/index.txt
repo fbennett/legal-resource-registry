@@ -1,0 +1,3 @@
+.. category:: Kraainem-Sint-Genesius-Rode
+   :category-id: be:brussel:vlaams.brabant:kraainem.sint.genesius.rode
+   :en: Kraainem-Sint-Genesius-Rode

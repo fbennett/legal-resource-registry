@@ -1,0 +1,3 @@
+.. category:: Vilvoorde
+   :category-id: be:brussel:vlaams.brabant:vilvoorde
+   :en: Vilvoorde

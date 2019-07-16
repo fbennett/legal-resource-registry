@@ -1,0 +1,3 @@
+.. court:: Vredegerecht
+   :court-id: be:brussel:waals.brabant:eigenbrakel;dc
+   :en: Justice of the Peace

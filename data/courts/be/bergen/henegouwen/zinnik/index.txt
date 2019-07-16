@@ -1,0 +1,3 @@
+.. category:: Zinnik
+   :category-id: be:bergen:henegouwen:zinnik
+   :en: Zinnik

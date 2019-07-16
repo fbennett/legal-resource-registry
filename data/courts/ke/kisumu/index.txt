@@ -1,2 +1,3 @@
 .. category:: Kisumu
    :category-id: ke:kisumu
+   :en: Kisumu

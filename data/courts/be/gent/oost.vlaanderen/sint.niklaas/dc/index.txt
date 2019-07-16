@@ -1,0 +1,3 @@
+.. court:: Vredegerecht
+   :court-id: be:gent:oost.vlaanderen:sint.niklaas;dc
+   :en: Justice of the Peace

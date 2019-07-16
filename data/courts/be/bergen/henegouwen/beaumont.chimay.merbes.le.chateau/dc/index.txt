@@ -1,0 +1,3 @@
+.. court:: Vredegerecht
+   :court-id: be:bergen:henegouwen:beaumont.chimay.merbes.le.chateau;dc
+   :en: Justice of the Peace

@@ -1,0 +1,3 @@
+.. category:: Narok
+   :category-id: ke:nakuru:narok
+   :en: Narok

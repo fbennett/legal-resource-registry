@@ -1,0 +1,3 @@
+.. category:: Limburg
+   :category-id: be:antwerpen:limburg
+   :en: Limburg

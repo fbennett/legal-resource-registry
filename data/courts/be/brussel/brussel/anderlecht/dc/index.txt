@@ -1,0 +1,3 @@
+.. court:: Vredegerecht
+   :court-id: be:brussel:brussel:anderlecht;dc
+   :en: Justice of the Peace

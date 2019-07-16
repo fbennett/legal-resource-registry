@@ -1,0 +1,3 @@
+.. category:: Kisii
+   :category-id: ke:kisumu:kisii
+   :en: Kisii

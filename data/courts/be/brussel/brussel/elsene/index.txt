@@ -1,0 +1,3 @@
+.. category:: Elsene
+   :category-id: be:brussel:brussel:elsene
+   :en: Elsene

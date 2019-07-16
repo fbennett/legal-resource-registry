@@ -1,2 +1,0 @@
-.. court:: Interim Independent Constitutional Dispute Resolution Court
-   :court-id: ke;iicdrc

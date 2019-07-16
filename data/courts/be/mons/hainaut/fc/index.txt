@@ -1,3 +1,0 @@
-.. court:: Tribunal de la famille/Familierechtbank
-   :court-id: be:mons:hainaut;fc
-   :en: Family Court

@@ -1,0 +1,3 @@
+.. court:: Arbeidsrechtbank
+   :court-id: be:gent:west.vlaanderen:ieper;lc
+   :en: Labor Court

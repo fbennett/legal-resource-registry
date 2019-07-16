@@ -1,0 +1,3 @@
+.. court:: High Court
+   :court-id: ke:kisumu:migori;hc
+   :en: High Court

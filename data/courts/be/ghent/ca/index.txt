@@ -1,3 +1,0 @@
-.. court:: Cour d'appel/Hof van Beroep
-   :court-id: be:ghent;ca
-   :en: Court of Appeal

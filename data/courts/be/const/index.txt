@@ -1,0 +1,3 @@
+.. court:: Grondwettelijk Hof
+   :court-id: be;const
+   :en: Constitutional Court

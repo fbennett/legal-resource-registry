@@ -1,0 +1,3 @@
+.. court:: Familierechtbank
+   :court-id: be:gent:west.vlaanderen:veurne;famc
+   :en: Family court

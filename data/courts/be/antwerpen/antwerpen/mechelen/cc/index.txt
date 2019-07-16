@@ -1,0 +1,3 @@
+.. court:: Rechtbank van Koophandel
+   :court-id: be:antwerpen:antwerpen:mechelen;cc
+   :en: Commercial Court

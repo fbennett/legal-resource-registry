@@ -1,0 +1,3 @@
+.. court:: Beslagrechter
+   :court-id: be:gent:west.vlaanderen:veurne;br
+   :en: Attachement judge

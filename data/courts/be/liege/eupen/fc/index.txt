@@ -1,3 +1,0 @@
-.. court:: Tribunal de la famille/Familierechtbank
-   :court-id: be:liege:eupen;fc
-   :en: Family Court

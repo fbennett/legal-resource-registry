@@ -1,0 +1,3 @@
+.. court:: Raad voor betwistingen inzake studievoortgangsbeslissingen
+   :court-id: be;educ
+   :en: Council for disputes concerning study progress decisions

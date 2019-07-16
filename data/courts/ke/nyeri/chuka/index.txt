@@ -1,0 +1,3 @@
+.. category:: Chuka
+   :category-id: ke:nyeri:chuka
+   :en: Chuka

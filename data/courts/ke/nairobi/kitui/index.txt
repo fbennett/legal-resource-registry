@@ -1,0 +1,3 @@
+.. category:: Kitui
+   :category-id: ke:nairobi:kitui
+   :en: Kitui

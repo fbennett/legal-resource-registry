@@ -1,0 +1,3 @@
+.. category:: Migori
+   :category-id: ke:kisumu:migori
+   :en: Migori

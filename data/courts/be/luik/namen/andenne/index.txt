@@ -1,0 +1,3 @@
+.. category:: Andenne
+   :category-id: be:luik:namen:andenne
+   :en: Andenne

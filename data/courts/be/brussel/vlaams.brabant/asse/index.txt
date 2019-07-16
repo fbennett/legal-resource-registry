@@ -1,0 +1,3 @@
+.. category:: Asse
+   :category-id: be:brussel:vlaams.brabant:asse
+   :en: Asse

@@ -1,0 +1,3 @@
+.. category:: Doornik
+   :category-id: be:bergen:henegouwen:doornik
+   :en: Doornik

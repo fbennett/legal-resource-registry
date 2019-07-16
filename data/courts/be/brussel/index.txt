@@ -1,0 +1,3 @@
+.. category:: Brussel
+   :category-id: be:brussel
+   :en: Brussels

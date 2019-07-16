@@ -1,0 +1,3 @@
+.. category:: Aarlen-Messancy
+   :category-id: be:luik:luxumburg:aarlen.messancy
+   :en: Aarlen-Messancy

@@ -1,0 +1,3 @@
+.. category:: Herne-Sint-Pieters-Leeuw
+   :category-id: be:brussel:vlaams.brabant:herne.sint.pieters.leeuw
+   :en: Herne-Sint-Pieters-Leeuw

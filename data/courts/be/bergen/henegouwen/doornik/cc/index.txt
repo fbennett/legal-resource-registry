@@ -1,0 +1,3 @@
+.. court:: Rechtbank van Koophandel
+   :court-id: be:bergen:henegouwen:doornik;cc
+   :en: Commercial Court

@@ -1,0 +1,3 @@
+.. category:: Harelbeke
+   :category-id: be:gent:west.vlaanderen:harelbeke
+   :en: Harelbeke

@@ -1,0 +1,3 @@
+.. category:: Lokeren
+   :category-id: be:gent:oost.vlaanderen:lokeren
+   :en: Lokeren

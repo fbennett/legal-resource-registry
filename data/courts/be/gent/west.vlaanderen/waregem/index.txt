@@ -1,0 +1,3 @@
+.. category:: Waregem
+   :category-id: be:gent:west.vlaanderen:waregem
+   :en: Waregem

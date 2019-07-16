@@ -1,0 +1,3 @@
+.. category:: Bilzen
+   :category-id: be:antwerpen:limburg:bilzen
+   :en: Bilzen

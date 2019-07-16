@@ -1,0 +1,3 @@
+.. court:: Jeugdrechtbank
+   :court-id: be:bergen:henegouwen:bergen;juvc
+   :en: Juvenile court

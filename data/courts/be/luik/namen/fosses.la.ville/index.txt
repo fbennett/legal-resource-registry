@@ -1,0 +1,3 @@
+.. category:: Fosses-la-Ville
+   :category-id: be:luik:namen:fosses.la.ville
+   :en: Fosses-la-Ville

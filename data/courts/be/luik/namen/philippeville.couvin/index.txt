@@ -1,0 +1,3 @@
+.. category:: Philippeville-Couvin
+   :category-id: be:luik:namen:philippeville.couvin
+   :en: Philippeville-Couvin

@@ -1,0 +1,3 @@
+.. category:: Wervik
+   :category-id: be:gent:west.vlaanderen:wervik
+   :en: Wervik

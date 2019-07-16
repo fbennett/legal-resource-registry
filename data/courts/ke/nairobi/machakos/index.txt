@@ -1,0 +1,3 @@
+.. category:: Machakos
+   :category-id: ke:nairobi:machakos
+   :en: Machakos

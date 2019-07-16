@@ -1,0 +1,3 @@
+.. court:: Environment & Land Court
+   :court-id: ke:eldoret:eldoret;elc
+   :en: Environment & Land Court

@@ -1,0 +1,3 @@
+.. category:: Gembloux-Eghezée
+   :category-id: be:luik:namen:gembloux.eghezee
+   :en: Gembloux-Eghezée

@@ -1,0 +1,3 @@
+.. category:: Borgworm
+   :category-id: be:luik:luik:borgworm
+   :en: Borgworm

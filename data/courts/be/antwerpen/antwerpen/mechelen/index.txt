@@ -1,0 +1,3 @@
+.. category:: Mechelen
+   :category-id: be:antwerpen:antwerpen:mechelen
+   :en: Mechelen

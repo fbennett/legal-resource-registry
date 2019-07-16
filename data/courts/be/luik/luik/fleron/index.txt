@@ -1,0 +1,3 @@
+.. category:: Fléron
+   :category-id: be:luik:luik:fleron
+   :en: Fléron

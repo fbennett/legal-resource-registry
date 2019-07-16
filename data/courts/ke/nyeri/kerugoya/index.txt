@@ -1,0 +1,3 @@
+.. category:: Kerugoya
+   :category-id: ke:nyeri:kerugoya
+   :en: Kerugoya

@@ -1,0 +1,3 @@
+.. category:: Menen
+   :category-id: be:gent:west.vlaanderen:menen
+   :en: Menen

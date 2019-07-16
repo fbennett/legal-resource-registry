@@ -1,0 +1,3 @@
+.. category:: Tubeke
+   :category-id: be:brussel:waals.brabant:tubeke
+   :en: Tubeke

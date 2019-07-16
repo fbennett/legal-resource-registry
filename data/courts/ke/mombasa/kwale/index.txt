@@ -1,0 +1,3 @@
+.. category:: Kwale
+   :category-id: ke:mombasa:kwale
+   :en: Kwale

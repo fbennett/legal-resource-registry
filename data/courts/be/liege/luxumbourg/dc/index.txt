@@ -1,3 +1,0 @@
-.. court:: Tribunal de première instance/Rechtbank van eerste aanleg
-   :court-id: be:liege:luxumbourg;dc
-   :en: Court of First Instance

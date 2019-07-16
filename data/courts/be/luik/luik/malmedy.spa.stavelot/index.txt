@@ -1,0 +1,3 @@
+.. category:: Malmédy-Spa-Stavelot
+   :category-id: be:luik:luik:malmedy.spa.stavelot
+   :en: Malmédy-Spa-Stavelot

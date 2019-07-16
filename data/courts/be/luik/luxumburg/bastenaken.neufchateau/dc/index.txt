@@ -1,0 +1,3 @@
+.. court:: Vredegerecht
+   :court-id: be:luik:luxumburg:bastenaken.neufchateau;dc
+   :en: Justice of the Peace

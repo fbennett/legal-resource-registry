@@ -1,0 +1,3 @@
+.. category:: Marsabit
+   :category-id: ke:nyeri:marsabit
+   :en: Marsabit

@@ -1,0 +1,3 @@
+.. category:: Kortrijk
+   :category-id: be:gent:west.vlaanderen:kortrijk
+   :en: Kortrijk

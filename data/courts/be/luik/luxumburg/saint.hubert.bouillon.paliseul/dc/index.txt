@@ -1,0 +1,3 @@
+.. court:: Vredegerecht
+   :court-id: be:luik:luxumburg:saint.hubert.bouillon.paliseul;dc
+   :en: Justice of the Peace

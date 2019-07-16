@@ -1,0 +1,3 @@
+.. court:: Rechtbank van eerste aanleg
+   :court-id: be:luik:luxumburg:neufchateau;cfi
+   :en: Court of First Instance

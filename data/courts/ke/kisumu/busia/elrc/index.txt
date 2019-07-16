@@ -1,0 +1,3 @@
+.. court:: Employment & Labor Relations Court
+   :court-id: ke:kisumu:busia;elrc
+   :en: Employment & Labor Relations Court

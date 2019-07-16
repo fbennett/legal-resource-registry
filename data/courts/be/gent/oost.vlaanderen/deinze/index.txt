@@ -1,0 +1,3 @@
+.. category:: Deinze
+   :category-id: be:gent:oost.vlaanderen:deinze
+   :en: Deinze

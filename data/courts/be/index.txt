@@ -1,3 +1,3 @@
-.. category:: Belgium
+.. category:: België
    :category-id: be
-   :en: undefined
+   :en: Belgium

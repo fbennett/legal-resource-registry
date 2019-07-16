@@ -1,2 +1,0 @@
-.. court:: Business Premises Rent Tribunal
-   :court-id: ke;bprt

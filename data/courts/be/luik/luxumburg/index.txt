@@ -1,0 +1,3 @@
+.. category:: Luxumburg
+   :category-id: be:luik:luxumburg
+   :en: Luxumbourg

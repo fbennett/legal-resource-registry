@@ -1,2 +1,0 @@
-.. court:: Rent Restriction Tribunal
-   :court-id: ke;rrt

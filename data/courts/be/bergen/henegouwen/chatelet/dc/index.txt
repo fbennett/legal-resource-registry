@@ -1,0 +1,3 @@
+.. court:: Vredegerecht
+   :court-id: be:bergen:henegouwen:chatelet;dc
+   :en: Justice of the Peace

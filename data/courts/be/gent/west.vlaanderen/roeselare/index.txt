@@ -1,0 +1,3 @@
+.. category:: Roeselare
+   :category-id: be:gent:west.vlaanderen:roeselare
+   :en: Roeselare

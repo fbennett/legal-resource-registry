@@ -1,3 +1,0 @@
-.. court:: Tribunal de l'entreprise Francophone
-   :court-id: be:brussels:brussels;cc.fr
-   :en: French-speaking Commercial Court

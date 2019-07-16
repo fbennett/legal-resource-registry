@@ -1,0 +1,3 @@
+.. court:: Beslagrechter
+   :court-id: be:luik:namen:dinant;br
+   :en: Attachement judge

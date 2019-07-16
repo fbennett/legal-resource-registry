@@ -1,0 +1,3 @@
+.. category:: Vielsalm-La Roche en Ardenne-Houffalize
+   :category-id: be:luik:luxumburg:vielsalm.la.roche.en.ardenne.houffalize
+   :en: Vielsalm-La Roche en Ardenne-Houffalize

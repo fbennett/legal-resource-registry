@@ -1,0 +1,3 @@
+.. court:: Arbeidsrechtbank
+   :court-id: be:bergen:henegouwen:doornik;lc
+   :en: Labor Court

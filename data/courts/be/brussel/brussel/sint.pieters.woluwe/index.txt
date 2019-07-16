@@ -1,0 +1,3 @@
+.. category:: Sint-Pieters-Woluwe
+   :category-id: be:brussel:brussel:sint.pieters.woluwe
+   :en: Sint-Pieters-Woluwe

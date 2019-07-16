@@ -1,0 +1,3 @@
+.. category:: Nijvel
+   :category-id: be:brussel:waals.brabant:nijvel
+   :en: Nijvel

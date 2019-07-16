@@ -1,3 +1,0 @@
-.. court:: Tribunal de la famille/Familierechtbank
-   :court-id: be:brussels:leuven;fc
-   :en: Family Court

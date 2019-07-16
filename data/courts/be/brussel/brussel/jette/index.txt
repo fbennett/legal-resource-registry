@@ -1,0 +1,3 @@
+.. category:: Jette
+   :category-id: be:brussel:brussel:jette
+   :en: Jette

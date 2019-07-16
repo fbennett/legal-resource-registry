@@ -1,0 +1,3 @@
+.. category:: Kitale
+   :category-id: ke:kisumu:kitale
+   :en: Kitale

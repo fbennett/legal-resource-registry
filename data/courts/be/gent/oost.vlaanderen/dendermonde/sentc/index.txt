@@ -1,0 +1,3 @@
+.. court:: Strafuitvoeringsrechtbank
+   :court-id: be:gent:oost.vlaanderen:dendermonde;sentc
+   :en: Sentencing court

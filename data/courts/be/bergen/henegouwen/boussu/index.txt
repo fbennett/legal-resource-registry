@@ -1,0 +1,3 @@
+.. category:: Boussu
+   :category-id: be:bergen:henegouwen:boussu
+   :en: Boussu

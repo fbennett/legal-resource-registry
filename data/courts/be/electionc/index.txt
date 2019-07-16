@@ -1,0 +1,3 @@
+.. court:: Raad voor Verkiezingsbetwistingen
+   :court-id: be;electionc
+   :en: Council for Election disputes

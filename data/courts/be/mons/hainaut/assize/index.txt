@@ -1,3 +1,0 @@
-.. court:: Cour d'assises/Hof van assisen
-   :court-id: be:mons:hainaut;assize
-   :en: Court of Assizes

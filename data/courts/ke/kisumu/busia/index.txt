@@ -1,0 +1,3 @@
+.. category:: Busia
+   :category-id: ke:kisumu:busia
+   :en: Busia

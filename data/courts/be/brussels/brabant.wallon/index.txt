@@ -1,3 +1,0 @@
-.. category:: Brabant Wallon
-   :category-id: be:brussels:brabant.wallon
-   :en: undefined

@@ -1,0 +1,3 @@
+.. category:: Namen
+   :category-id: be:luik:namen:namen
+   :en: Namen

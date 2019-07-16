@@ -1,0 +1,3 @@
+.. court:: Arbeidshof
+   :court-id: be:antwerpen;lca
+   :en: Labor Court of Appeal

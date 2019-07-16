@@ -1,0 +1,3 @@
+.. category:: Hoogstraten
+   :category-id: be:antwerpen:antwerpen:hoogstraten
+   :en: Hoogstraten

@@ -1,0 +1,3 @@
+.. category:: Moeskroen
+   :category-id: be:bergen:henegouwen:moeskroen
+   :en: Moeskroen

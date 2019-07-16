@@ -1,0 +1,3 @@
+.. category:: Geraardsbergen-Brakel
+   :category-id: be:gent:oost.vlaanderen:geraardsbergen.brakel
+   :en: Geraardsbergen-Brakel

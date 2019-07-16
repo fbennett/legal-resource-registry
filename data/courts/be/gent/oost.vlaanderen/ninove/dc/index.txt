@@ -1,0 +1,3 @@
+.. court:: Vredegerecht
+   :court-id: be:gent:oost.vlaanderen:ninove;dc
+   :en: Justice of the Peace

@@ -1,0 +1,3 @@
+.. court:: Voorzitter
+   :court-id: be:luik:luik:eupen;pres
+   :en: President

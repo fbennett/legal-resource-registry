@@ -1,0 +1,3 @@
+.. court:: Vredegerecht
+   :court-id: be:antwerpen:limburg:maaseik;dc
+   :en: Justice of the Peace

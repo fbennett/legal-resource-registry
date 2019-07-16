@@ -1,0 +1,3 @@
+.. court:: Arbeidsrechtbank
+   :court-id: be:brussel:waals.brabant:waver;lc
+   :en: Labor Court

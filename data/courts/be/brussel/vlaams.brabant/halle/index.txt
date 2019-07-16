@@ -1,0 +1,3 @@
+.. category:: Halle
+   :category-id: be:brussel:vlaams.brabant:halle
+   :en: Halle

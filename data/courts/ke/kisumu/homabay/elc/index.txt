@@ -1,0 +1,3 @@
+.. court:: Environment & Land Court
+   :court-id: ke:kisumu:homabay;elc
+   :en: Environment & Land Court

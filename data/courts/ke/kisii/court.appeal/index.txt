@@ -1,2 +1,0 @@
-.. court:: Court of Appeal
-   :court-id: ke:kisii;court.appeal

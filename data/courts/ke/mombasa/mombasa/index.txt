@@ -1,0 +1,3 @@
+.. category:: Mombasa
+   :category-id: ke:mombasa:mombasa
+   :en: Mombasa

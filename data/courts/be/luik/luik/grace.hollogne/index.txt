@@ -1,0 +1,3 @@
+.. category:: Grâce-Hollogne
+   :category-id: be:luik:luik:grace.hollogne
+   :en: Grâce-Hollogne

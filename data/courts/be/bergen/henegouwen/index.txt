@@ -1,0 +1,3 @@
+.. category:: Henegouwen
+   :category-id: be:bergen:henegouwen
+   :en: Hainault

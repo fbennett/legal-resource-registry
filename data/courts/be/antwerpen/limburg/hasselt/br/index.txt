@@ -1,0 +1,3 @@
+.. court:: Beslagrechter
+   :court-id: be:antwerpen:limburg:hasselt;br
+   :en: Attachement judge

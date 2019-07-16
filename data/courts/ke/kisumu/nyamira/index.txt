@@ -1,0 +1,3 @@
+.. category:: Nyamira
+   :category-id: ke:kisumu:nyamira
+   :en: Nyamira

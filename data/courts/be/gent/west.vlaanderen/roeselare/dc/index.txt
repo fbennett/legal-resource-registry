@@ -1,0 +1,3 @@
+.. court:: Vredegerecht
+   :court-id: be:gent:west.vlaanderen:roeselare;dc
+   :en: Justice of the Peace

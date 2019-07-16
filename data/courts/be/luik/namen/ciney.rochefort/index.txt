@@ -1,0 +1,3 @@
+.. category:: Ciney-Rochefort
+   :category-id: be:luik:namen:ciney.rochefort
+   :en: Ciney-Rochefort

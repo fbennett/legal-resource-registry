@@ -1,0 +1,3 @@
+.. category:: Eupen
+   :category-id: be:luik:luik:eupen
+   :en: Eupen

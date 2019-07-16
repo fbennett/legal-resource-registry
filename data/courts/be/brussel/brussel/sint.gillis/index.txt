@@ -1,0 +1,3 @@
+.. category:: Sint-Gillis
+   :category-id: be:brussel:brussel:sint.gillis
+   :en: Sint-Gillis

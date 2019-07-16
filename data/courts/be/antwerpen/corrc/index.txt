@@ -1,0 +1,3 @@
+.. court:: Correctionele rechtbank
+   :court-id: be:antwerpen;corrc
+   :en: Correctional court

@@ -1,3 +1,0 @@
-.. category:: Flemish Brabant
-   :category-id: be:brussels:flemish.brabant
-   :en: undefined

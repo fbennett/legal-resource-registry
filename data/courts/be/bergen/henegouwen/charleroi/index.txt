@@ -1,0 +1,3 @@
+.. category:: Charleroi
+   :category-id: be:bergen:henegouwen:charleroi
+   :en: Charleroi

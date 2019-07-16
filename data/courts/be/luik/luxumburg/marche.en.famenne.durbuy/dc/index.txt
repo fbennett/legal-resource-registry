@@ -1,0 +1,3 @@
+.. court:: Vredegerecht
+   :court-id: be:luik:luxumburg:marche.en.famenne.durbuy;dc
+   :en: Justice of the Peace

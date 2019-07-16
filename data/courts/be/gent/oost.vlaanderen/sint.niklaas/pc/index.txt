@@ -1,0 +1,3 @@
+.. court:: Politierechtbank
+   :court-id: be:gent:oost.vlaanderen:sint.niklaas;pc
+   :en: Supreme Court

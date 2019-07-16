@@ -1,2 +1,0 @@
-.. category:: Kisii
-   :category-id: ke:kisii

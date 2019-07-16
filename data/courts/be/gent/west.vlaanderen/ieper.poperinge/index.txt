@@ -1,0 +1,3 @@
+.. category:: Ieper-Poperinge
+   :category-id: be:gent:west.vlaanderen:ieper.poperinge
+   :en: Ieper-Poperinge

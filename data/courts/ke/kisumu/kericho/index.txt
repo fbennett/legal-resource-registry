@@ -1,0 +1,3 @@
+.. category:: Kericho
+   :category-id: ke:kisumu:kericho
+   :en: Kericho

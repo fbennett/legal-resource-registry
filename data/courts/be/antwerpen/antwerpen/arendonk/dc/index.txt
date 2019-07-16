@@ -1,0 +1,3 @@
+.. court:: Vredegerecht
+   :court-id: be:antwerpen:antwerpen:arendonk;dc
+   :en: Justice of the Peace

@@ -1,0 +1,3 @@
+.. court:: Rechtbank van eerste aanleg
+   :court-id: be:antwerpen:antwerpen:mechelen;cfi
+   :en: Court of First Instance

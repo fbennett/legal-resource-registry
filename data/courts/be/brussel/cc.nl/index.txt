@@ -1,0 +1,3 @@
+.. court:: Nederlandstalige rechtbank van koophandel
+   :court-id: be:brussel;cc.nl
+   :en: Dutch-speaking Commercial Court

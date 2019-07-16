@@ -1,0 +1,3 @@
+.. category:: Waver
+   :category-id: be:brussel:waals.brabant:waver
+   :en: Waver

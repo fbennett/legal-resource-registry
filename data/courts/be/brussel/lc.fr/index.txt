@@ -1,0 +1,3 @@
+.. court:: Franstalige arbeidsrechtbank Brussel
+   :court-id: be:brussel;lc.fr
+   :en: French-speaking Labor Court

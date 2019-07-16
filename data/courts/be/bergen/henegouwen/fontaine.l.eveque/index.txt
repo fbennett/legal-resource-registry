@@ -1,0 +1,3 @@
+.. category:: Fontaine-l'Evêque
+   :category-id: be:bergen:henegouwen:fontaine.l.eveque
+   :en: Fontaine-l'Evêque

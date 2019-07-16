@@ -1,0 +1,3 @@
+.. category:: Aarschot
+   :category-id: be:brussel:vlaams.brabant:aarschot
+   :en: Aarschot

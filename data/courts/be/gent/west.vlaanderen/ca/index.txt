@@ -1,0 +1,3 @@
+.. court:: Hof van Beroep
+   :court-id: be:gent:west.vlaanderen;ca
+   :en: Court of Appeal

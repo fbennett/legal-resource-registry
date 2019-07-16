@@ -1,0 +1,3 @@
+.. court:: Rechtbank van Koophandel
+   :court-id: be:luik:luxumburg:aarlen;cc
+   :en: Commercial Court

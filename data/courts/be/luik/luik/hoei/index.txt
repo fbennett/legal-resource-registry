@@ -1,0 +1,3 @@
+.. category:: Hoei
+   :category-id: be:luik:luik:hoei
+   :en: Hoei

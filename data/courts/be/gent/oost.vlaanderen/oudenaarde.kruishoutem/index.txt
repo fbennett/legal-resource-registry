@@ -1,0 +1,3 @@
+.. category:: Oudenaarde-Kruishoutem
+   :category-id: be:gent:oost.vlaanderen:oudenaarde.kruishoutem
+   :en: Oudenaarde-Kruishoutem

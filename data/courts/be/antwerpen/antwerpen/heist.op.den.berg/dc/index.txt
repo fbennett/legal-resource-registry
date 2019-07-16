@@ -1,0 +1,3 @@
+.. court:: Vredegerecht
+   :court-id: be:antwerpen:antwerpen:heist.op.den.berg;dc
+   :en: Justice of the Peace

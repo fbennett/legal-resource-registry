@@ -1,3 +1,0 @@
-.. court:: Tribunal de la famille/Familierechtbank
-   :court-id: be:liege:namur;fc
-   :en: Family Court

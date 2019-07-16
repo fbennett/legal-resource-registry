@@ -1,0 +1,3 @@
+.. court:: Correctionele rechtbank
+   :court-id: be:gent:west.vlaanderen:veurne;corrc
+   :en: Correctional court

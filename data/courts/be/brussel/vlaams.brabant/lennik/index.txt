@@ -1,0 +1,3 @@
+.. category:: Lennik
+   :category-id: be:brussel:vlaams.brabant:lennik
+   :en: Lennik

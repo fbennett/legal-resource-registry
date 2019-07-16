@@ -1,0 +1,3 @@
+.. court:: Vredegerecht
+   :court-id: be:brussel:vlaams.brabant:kraainem.sint.genesius.rode;dc
+   :en: Justice of the Peace

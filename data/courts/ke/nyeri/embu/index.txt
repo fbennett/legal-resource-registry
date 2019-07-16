@@ -1,0 +1,3 @@
+.. category:: Embu
+   :category-id: ke:nyeri:embu
+   :en: Embu

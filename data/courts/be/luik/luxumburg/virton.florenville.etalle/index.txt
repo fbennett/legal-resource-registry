@@ -1,0 +1,3 @@
+.. category:: Virton-Florenville-Etalle
+   :category-id: be:luik:luxumburg:virton.florenville.etalle
+   :en: Virton-Florenville-Etalle

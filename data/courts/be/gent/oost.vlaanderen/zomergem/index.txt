@@ -1,0 +1,3 @@
+.. category:: Zomergem
+   :category-id: be:gent:oost.vlaanderen:zomergem
+   :en: Zomergem

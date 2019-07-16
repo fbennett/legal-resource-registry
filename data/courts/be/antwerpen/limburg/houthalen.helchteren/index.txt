@@ -1,0 +1,3 @@
+.. category:: Houthalen-Helchteren
+   :category-id: be:antwerpen:limburg:houthalen.helchteren
+   :en: Houthalen-Helchteren

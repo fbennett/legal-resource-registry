@@ -1,0 +1,3 @@
+.. category:: Vorst
+   :category-id: be:brussel:brussel:vorst
+   :en: Vorst

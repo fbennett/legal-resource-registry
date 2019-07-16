@@ -1,0 +1,3 @@
+.. court:: Strafuitvoeringsrechtbank
+   :court-id: be:bergen:henegouwen:bergen;sentc
+   :en: Sentencing court

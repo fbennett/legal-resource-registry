@@ -1,0 +1,3 @@
+.. court:: Arbeidsrechtbank
+   :court-id: be:luik:luxumburg:aarlen;lc
+   :en: Labor Court

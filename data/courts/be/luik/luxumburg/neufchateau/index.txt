@@ -1,0 +1,3 @@
+.. category:: Neufchâteau
+   :category-id: be:luik:luxumburg:neufchateau
+   :en: Neufchâteau

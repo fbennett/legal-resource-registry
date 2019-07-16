@@ -1,3 +1,0 @@
-.. court:: Cour d'assises/Hof van assisen
-   :court-id: be:ghent:east.flanders;assize
-   :en: Court of Assizes

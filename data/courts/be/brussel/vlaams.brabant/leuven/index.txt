@@ -1,0 +1,3 @@
+.. category:: Leuven
+   :category-id: be:brussel:vlaams.brabant:leuven
+   :en: Leuven

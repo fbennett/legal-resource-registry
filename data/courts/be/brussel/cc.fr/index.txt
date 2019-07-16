@@ -1,0 +1,3 @@
+.. court:: Franstalige rechtbank van koophandel
+   :court-id: be:brussel;cc.fr
+   :en: French-speaking Commercial Court

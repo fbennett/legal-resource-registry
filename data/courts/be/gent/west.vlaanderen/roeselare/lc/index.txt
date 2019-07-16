@@ -1,0 +1,3 @@
+.. court:: Arbeidsrechtbank
+   :court-id: be:gent:west.vlaanderen:roeselare;lc
+   :en: Labor Court

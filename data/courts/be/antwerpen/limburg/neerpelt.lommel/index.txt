@@ -1,0 +1,3 @@
+.. category:: Neerpelt-Lommel
+   :category-id: be:antwerpen:limburg:neerpelt.lommel
+   :en: Neerpelt-Lommel

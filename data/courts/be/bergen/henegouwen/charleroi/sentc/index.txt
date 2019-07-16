@@ -1,0 +1,3 @@
+.. court:: Strafuitvoeringsrechtbank
+   :court-id: be:bergen:henegouwen:charleroi;sentc
+   :en: Sentencing court

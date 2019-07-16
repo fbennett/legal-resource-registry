@@ -1,0 +1,3 @@
+.. category:: Saint-Nicolas-lez-Liège
+   :category-id: be:luik:luik:saint.nicolas.lez.liege
+   :en: Saint-Nicolas-lez-Liège

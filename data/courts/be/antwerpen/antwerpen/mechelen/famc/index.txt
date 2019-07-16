@@ -1,0 +1,3 @@
+.. court:: Familierechtbank
+   :court-id: be:antwerpen:antwerpen:mechelen;famc
+   :en: Family court

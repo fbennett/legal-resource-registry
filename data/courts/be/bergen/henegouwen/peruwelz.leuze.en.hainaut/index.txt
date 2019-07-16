@@ -1,0 +1,3 @@
+.. category:: Péruwelz-Leuze en Hainaut
+   :category-id: be:bergen:henegouwen:peruwelz.leuze.en.hainaut
+   :en: Péruwelz-Leuze en Hainaut

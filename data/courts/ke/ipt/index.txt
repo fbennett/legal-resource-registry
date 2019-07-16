@@ -1,2 +1,0 @@
-.. court:: Industrial Property Tribunal
-   :court-id: ke;ipt

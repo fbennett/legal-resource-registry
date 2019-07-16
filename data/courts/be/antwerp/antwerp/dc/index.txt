@@ -1,3 +1,0 @@
-.. court:: Tribunal de première instance/Rechtbank van eerste aanleg
-   :court-id: be:antwerp:antwerp;dc
-   :en: Court of First Instance

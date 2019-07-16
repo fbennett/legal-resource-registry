@@ -1,0 +1,3 @@
+.. court:: Arbeidsrechtbank
+   :court-id: be:luik:luxumburg:marche.en.famenne;lc
+   :en: Labor Court

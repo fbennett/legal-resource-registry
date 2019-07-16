@@ -1,0 +1,3 @@
+.. category:: Merelbeke
+   :category-id: be:gent:oost.vlaanderen:merelbeke
+   :en: Merelbeke

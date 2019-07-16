@@ -1,3 +1,0 @@
-.. court:: Tribunal de la famille Francophone
-   :court-id: be:brussels:brussels;fc.fr
-   :en: French-speaking Family Court

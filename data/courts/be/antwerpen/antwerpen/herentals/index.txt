@@ -1,0 +1,3 @@
+.. category:: Herentals
+   :category-id: be:antwerpen:antwerpen:herentals
+   :en: Herentals

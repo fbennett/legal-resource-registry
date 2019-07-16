@@ -1,2 +1,0 @@
-.. category:: Busia
-   :category-id: ke:busia

@@ -1,0 +1,3 @@
+.. category:: Maasmechelen
+   :category-id: be:antwerpen:limburg:maasmechelen
+   :en: Maasmechelen

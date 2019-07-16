@@ -1,2 +1,3 @@
 .. category:: Nairobi
    :category-id: ke:nairobi
+   :en: Nairobi

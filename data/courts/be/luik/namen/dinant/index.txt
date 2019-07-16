@@ -1,0 +1,3 @@
+.. category:: Dinant
+   :category-id: be:luik:namen:dinant
+   :en: Dinant

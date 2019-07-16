@@ -1,0 +1,3 @@
+.. category:: Meru
+   :category-id: ke:nyeri:meru
+   :en: Meru

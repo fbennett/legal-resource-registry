@@ -1,0 +1,3 @@
+.. category:: Moeskroen-Komen-Waasten
+   :category-id: be:bergen:henegouwen:moeskroen.komen.waasten
+   :en: Moeskroen-Komen-Waasten

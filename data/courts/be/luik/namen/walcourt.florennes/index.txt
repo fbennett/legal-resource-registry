@@ -1,0 +1,3 @@
+.. category:: Walcourt-Florennes
+   :category-id: be:luik:namen:walcourt.florennes
+   :en: Walcourt-Florennes

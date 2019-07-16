@@ -1,0 +1,3 @@
+.. category:: Oudenaarde
+   :category-id: be:gent:oost.vlaanderen:oudenaarde
+   :en: Oudenaarde

@@ -1,0 +1,3 @@
+.. court:: Vredegerecht
+   :court-id: be:luik:luxumburg:virton.florenville.etalle;dc
+   :en: Justice of the Peace

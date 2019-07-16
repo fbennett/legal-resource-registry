@@ -1,3 +1,0 @@
-.. court:: Nederlandstalige Familierechtbank
-   :court-id: be:brussels:brussels;fc.nl
-   :en: Dutch-speaking Family Court

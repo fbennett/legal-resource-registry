@@ -1,0 +1,3 @@
+.. court:: Milieuhandhavingscollege
+   :court-id: be;envc
+   :en: Environmental enforcement college

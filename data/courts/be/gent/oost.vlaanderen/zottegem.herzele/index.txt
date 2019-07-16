@@ -1,0 +1,3 @@
+.. category:: Zottegem-Herzele
+   :category-id: be:gent:oost.vlaanderen:zottegem.herzele
+   :en: Zottegem-Herzele

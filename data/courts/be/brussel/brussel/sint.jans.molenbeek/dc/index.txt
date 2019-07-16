@@ -1,0 +1,3 @@
+.. court:: Vredegerecht
+   :court-id: be:brussel:brussel:sint.jans.molenbeek;dc
+   :en: Justice of the Peace

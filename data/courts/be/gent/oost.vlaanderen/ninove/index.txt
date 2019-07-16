@@ -1,0 +1,3 @@
+.. category:: Ninove
+   :category-id: be:gent:oost.vlaanderen:ninove
+   :en: Ninove

@@ -1,0 +1,3 @@
+.. category:: Kiambu
+   :category-id: ke:nairobi:kiambu
+   :en: Kiambu

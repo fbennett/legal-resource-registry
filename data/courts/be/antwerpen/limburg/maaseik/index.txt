@@ -1,0 +1,3 @@
+.. category:: Maaseik
+   :category-id: be:antwerpen:limburg:maaseik
+   :en: Maaseik

@@ -1,0 +1,3 @@
+.. category:: Izegem
+   :category-id: be:gent:west.vlaanderen:izegem
+   :en: Izegem

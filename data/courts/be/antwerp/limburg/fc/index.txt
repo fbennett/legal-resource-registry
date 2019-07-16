@@ -1,3 +1,0 @@
-.. court:: Tribunal de la famille/Familierechtbank
-   :court-id: be:antwerp:limburg;fc
-   :en: Family Court

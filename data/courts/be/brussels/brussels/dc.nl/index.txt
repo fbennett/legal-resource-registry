@@ -1,3 +1,0 @@
-.. court:: Nederlandstalige rechtbank van eerste aanleg
-   :court-id: be:brussels:brussels;dc.nl
-   :en: Dutch-speaking Court of First Instance

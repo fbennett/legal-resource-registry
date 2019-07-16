@@ -1,0 +1,3 @@
+.. court:: Familierechtbank
+   :court-id: be:brussel:vlaams.brabant:leuven;famc
+   :en: Family court

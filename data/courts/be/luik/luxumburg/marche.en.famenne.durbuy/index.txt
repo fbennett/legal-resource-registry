@@ -1,0 +1,3 @@
+.. category:: Marche-en-Famenne-Durbuy
+   :category-id: be:luik:luxumburg:marche.en.famenne.durbuy
+   :en: Marche-en-Famenne-Durbuy

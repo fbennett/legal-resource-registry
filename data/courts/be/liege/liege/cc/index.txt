@@ -1,3 +1,0 @@
-.. court:: Tribunal de l'entreprise/Ondernemingsrechtbank
-   :court-id: be:liege:liege;cc
-   :en: Commercial Court

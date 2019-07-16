@@ -1,0 +1,3 @@
+.. court:: Raad voor Vergunningsbetwistingen
+   :court-id: be;permitc
+   :en: Council for Permit disputes

@@ -1,0 +1,3 @@
+.. category:: Meise
+   :category-id: be:brussel:vlaams.brabant:meise
+   :en: Meise

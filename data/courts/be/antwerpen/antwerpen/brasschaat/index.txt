@@ -1,0 +1,3 @@
+.. category:: Brasschaat
+   :category-id: be:antwerpen:antwerpen:brasschaat
+   :en: Brasschaat

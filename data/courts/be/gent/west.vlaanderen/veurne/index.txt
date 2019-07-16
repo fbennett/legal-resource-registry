@@ -1,0 +1,3 @@
+.. category:: Veurne
+   :category-id: be:gent:west.vlaanderen:veurne
+   :en: Veurne

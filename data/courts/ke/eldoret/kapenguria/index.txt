@@ -1,0 +1,3 @@
+.. category:: Kapenguria
+   :category-id: ke:eldoret:kapenguria
+   :en: Kapenguria

@@ -1,0 +1,3 @@
+.. category:: Kontich
+   :category-id: be:antwerpen:antwerpen:kontich
+   :en: Kontich

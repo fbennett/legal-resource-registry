@@ -1,0 +1,3 @@
+.. category:: Tielt
+   :category-id: be:gent:west.vlaanderen:tielt
+   :en: Tielt

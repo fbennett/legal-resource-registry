@@ -1,0 +1,3 @@
+.. category:: Borgloon
+   :category-id: be:antwerpen:limburg:borgloon
+   :en: Borgloon

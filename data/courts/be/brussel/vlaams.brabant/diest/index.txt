@@ -1,0 +1,3 @@
+.. category:: Diest
+   :category-id: be:brussel:vlaams.brabant:diest
+   :en: Diest

@@ -1,0 +1,3 @@
+.. court:: Strafuitvoeringsrechtbank
+   :court-id: be:gent:west.vlaanderen:kortrijk;sentc
+   :en: Sentencing court

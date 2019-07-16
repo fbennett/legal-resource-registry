@@ -1,0 +1,3 @@
+.. category:: Seneffe
+   :category-id: be:bergen:henegouwen:seneffe
+   :en: Seneffe

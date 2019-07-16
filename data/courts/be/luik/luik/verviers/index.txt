@@ -1,0 +1,3 @@
+.. category:: Verviers
+   :category-id: be:luik:luik:verviers
+   :en: Verviers

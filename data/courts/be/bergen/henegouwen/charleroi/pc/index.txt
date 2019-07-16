@@ -1,0 +1,3 @@
+.. court:: Politierechtbank
+   :court-id: be:bergen:henegouwen:charleroi;pc
+   :en: Supreme Court

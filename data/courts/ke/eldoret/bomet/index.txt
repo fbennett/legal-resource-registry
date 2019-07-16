@@ -1,0 +1,3 @@
+.. category:: Bomet
+   :category-id: ke:eldoret:bomet
+   :en: Bomet

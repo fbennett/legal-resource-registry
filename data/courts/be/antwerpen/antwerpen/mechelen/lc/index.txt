@@ -1,0 +1,3 @@
+.. court:: Arbeidsrechtbank
+   :court-id: be:antwerpen:antwerpen:mechelen;lc
+   :en: Labor Court

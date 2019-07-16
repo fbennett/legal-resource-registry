@@ -1,0 +1,3 @@
+.. court:: Arbeidshof
+   :court-id: be:luik:luxumburg:neufchateau;lca
+   :en: Labor Court of Appeal

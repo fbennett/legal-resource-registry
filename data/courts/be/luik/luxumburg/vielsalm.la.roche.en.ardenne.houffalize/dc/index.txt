@@ -1,0 +1,3 @@
+.. court:: Vredegerecht
+   :court-id: be:luik:luxumburg:vielsalm.la.roche.en.ardenne.houffalize;dc
+   :en: Justice of the Peace

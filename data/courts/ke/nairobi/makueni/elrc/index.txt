@@ -1,0 +1,3 @@
+.. court:: Employment & Labor Relations Court
+   :court-id: ke:nairobi:makueni;elrc
+   :en: Employment & Labor Relations Court

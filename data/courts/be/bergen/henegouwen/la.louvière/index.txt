@@ -1,0 +1,3 @@
+.. category:: La Louvière
+   :category-id: be:bergen:henegouwen:la.louvière
+   :en: La Louvière

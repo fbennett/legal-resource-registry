@@ -1,0 +1,3 @@
+.. court:: Vredegerecht
+   :court-id: be:gent:oost.vlaanderen:zottegem.herzele;dc
+   :en: Justice of the Peace

@@ -1,0 +1,3 @@
+.. court:: Politierechtbank
+   :court-id: be:gent:west.vlaanderen:kortrijk;pc
+   :en: Supreme Court

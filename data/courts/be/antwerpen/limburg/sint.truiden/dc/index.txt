@@ -1,0 +1,3 @@
+.. court:: Vredegerecht
+   :court-id: be:antwerpen:limburg:sint.truiden;dc
+   :en: Justice of the Peace

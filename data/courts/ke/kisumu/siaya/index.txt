@@ -1,0 +1,3 @@
+.. category:: Siaya
+   :category-id: ke:kisumu:siaya
+   :en: Siaya

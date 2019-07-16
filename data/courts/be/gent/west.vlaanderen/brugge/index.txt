@@ -1,0 +1,3 @@
+.. category:: Brugge
+   :category-id: be:gent:west.vlaanderen:brugge
+   :en: Brugge

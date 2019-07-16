@@ -1,0 +1,3 @@
+.. category:: Genk
+   :category-id: be:antwerpen:limburg:genk
+   :en: Genk

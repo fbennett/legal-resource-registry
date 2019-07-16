@@ -1,3 +1,0 @@
-.. court:: Cour du travail/Arbeidshof
-   :court-id: be:liege;lca
-   :en: Labor Court of Appeal

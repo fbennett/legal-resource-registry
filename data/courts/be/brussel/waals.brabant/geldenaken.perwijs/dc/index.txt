@@ -1,0 +1,3 @@
+.. court:: Vredegerecht
+   :court-id: be:brussel:waals.brabant:geldenaken.perwijs;dc
+   :en: Justice of the Peace

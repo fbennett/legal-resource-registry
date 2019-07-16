@@ -1,0 +1,3 @@
+.. category:: Landen-Zoutleeuw
+   :category-id: be:brussel:vlaams.brabant:landen.zoutleeuw
+   :en: Landen-Zoutleeuw

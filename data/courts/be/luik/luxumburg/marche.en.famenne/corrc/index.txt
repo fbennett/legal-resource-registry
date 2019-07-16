@@ -1,0 +1,3 @@
+.. court:: Correctionele rechtbank
+   :court-id: be:luik:luxumburg:marche.en.famenne;corrc
+   :en: Correctional court

@@ -1,0 +1,3 @@
+.. category:: Tongeren-Voeren
+   :category-id: be:antwerpen:limburg:tongeren.voeren
+   :en: Tongeren-Voeren

@@ -1,0 +1,3 @@
+.. category:: Beveren
+   :category-id: be:gent:oost.vlaanderen:beveren
+   :en: Beveren

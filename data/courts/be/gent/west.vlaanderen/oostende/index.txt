@@ -1,0 +1,3 @@
+.. category:: Oostende
+   :category-id: be:gent:west.vlaanderen:oostende
+   :en: Oostende

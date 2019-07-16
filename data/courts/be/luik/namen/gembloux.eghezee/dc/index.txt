@@ -1,0 +1,3 @@
+.. court:: Vredegerecht
+   :court-id: be:luik:namen:gembloux.eghezee;dc
+   :en: Justice of the Peace

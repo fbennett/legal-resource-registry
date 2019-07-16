@@ -1,0 +1,3 @@
+.. court:: Familierechtbank
+   :court-id: be:bergen:henegouwen:doornik;famc
+   :en: Family court

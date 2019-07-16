@@ -1,0 +1,3 @@
+.. category:: Sint-Truiden
+   :category-id: be:antwerpen:limburg:sint.truiden
+   :en: Sint-Truiden

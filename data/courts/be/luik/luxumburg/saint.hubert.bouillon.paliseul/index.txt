@@ -1,0 +1,3 @@
+.. category:: Saint-Hubert-Bouillon-Paliseul
+   :category-id: be:luik:luxumburg:saint.hubert.bouillon.paliseul
+   :en: Saint-Hubert-Bouillon-Paliseul

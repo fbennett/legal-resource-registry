@@ -1,0 +1,3 @@
+.. category:: Veurne-Nieuwpoort
+   :category-id: be:gent:west.vlaanderen:veurne.nieuwpoort
+   :en: Veurne-Nieuwpoort

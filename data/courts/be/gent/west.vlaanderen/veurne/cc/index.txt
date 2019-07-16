@@ -1,0 +1,3 @@
+.. court:: Rechtbank van Koophandel
+   :court-id: be:gent:west.vlaanderen:veurne;cc
+   :en: Commercial Court

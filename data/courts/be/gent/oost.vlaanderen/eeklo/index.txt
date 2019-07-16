@@ -1,0 +1,3 @@
+.. category:: Eeklo
+   :category-id: be:gent:oost.vlaanderen:eeklo
+   :en: Eeklo

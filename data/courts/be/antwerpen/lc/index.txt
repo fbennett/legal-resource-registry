@@ -1,0 +1,3 @@
+.. court:: Arbeidsrechtbank
+   :court-id: be:antwerpen;lc
+   :en: Labor Court

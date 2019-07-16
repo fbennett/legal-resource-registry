@@ -1,0 +1,3 @@
+.. category:: Sprimont
+   :category-id: be:luik:luik:sprimont
+   :en: Sprimont

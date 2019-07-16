@@ -1,0 +1,3 @@
+.. category:: Sint-Niklaas
+   :category-id: be:gent:oost.vlaanderen:sint.niklaas
+   :en: Sint-Niklaas

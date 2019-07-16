@@ -1,0 +1,3 @@
+.. court:: Hof van assisen
+   :court-id: be:antwerpen:limburg;coass
+   :en: Court of assizes

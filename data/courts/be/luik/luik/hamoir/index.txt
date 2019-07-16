@@ -1,0 +1,3 @@
+.. category:: Hamoir
+   :category-id: be:luik:luik:hamoir
+   :en: Hamoir

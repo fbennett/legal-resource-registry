@@ -1,0 +1,3 @@
+.. category:: Herstal
+   :category-id: be:luik:luik:herstal
+   :en: Herstal

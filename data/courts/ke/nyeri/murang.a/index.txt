@@ -1,0 +1,3 @@
+.. category:: Murang’a
+   :category-id: ke:nyeri:murang.a
+   :en: Murang’a

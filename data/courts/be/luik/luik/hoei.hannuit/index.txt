@@ -1,0 +1,3 @@
+.. category:: Hoei-Hannuit
+   :category-id: be:luik:luik:hoei.hannuit
+   :en: Hoei-Hannuit

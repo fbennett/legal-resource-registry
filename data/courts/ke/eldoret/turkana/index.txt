@@ -1,0 +1,3 @@
+.. category:: Turkana
+   :category-id: ke:eldoret:turkana
+   :en: Turkana

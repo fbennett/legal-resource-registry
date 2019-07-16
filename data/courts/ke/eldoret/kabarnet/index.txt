@@ -1,0 +1,3 @@
+.. category:: Kabarnet
+   :category-id: ke:eldoret:kabarnet
+   :en: Kabarnet

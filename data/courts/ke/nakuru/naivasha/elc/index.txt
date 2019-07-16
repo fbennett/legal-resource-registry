@@ -1,0 +1,3 @@
+.. court:: Environment & Land Court
+   :court-id: ke:nakuru:naivasha;elc
+   :en: Environment & Land Court

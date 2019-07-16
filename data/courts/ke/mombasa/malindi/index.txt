@@ -1,0 +1,3 @@
+.. category:: Malindi
+   :category-id: ke:mombasa:malindi
+   :en: Malindi

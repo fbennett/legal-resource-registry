@@ -1,0 +1,3 @@
+.. category:: Tongeren
+   :category-id: be:antwerpen:limburg:tongeren
+   :en: Tongeren

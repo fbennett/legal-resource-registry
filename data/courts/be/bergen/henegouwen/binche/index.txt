@@ -1,0 +1,3 @@
+.. category:: Binche
+   :category-id: be:bergen:henegouwen:binche
+   :en: Binche

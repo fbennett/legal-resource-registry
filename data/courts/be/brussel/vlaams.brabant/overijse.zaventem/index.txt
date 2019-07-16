@@ -1,0 +1,3 @@
+.. category:: Overijse-Zaventem
+   :category-id: be:brussel:vlaams.brabant:overijse.zaventem
+   :en: Overijse-Zaventem

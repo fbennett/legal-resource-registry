@@ -1,0 +1,3 @@
+.. category:: Aat-Lessen
+   :category-id: be:bergen:henegouwen:aat.lessen
+   :en: Aat-Lessen

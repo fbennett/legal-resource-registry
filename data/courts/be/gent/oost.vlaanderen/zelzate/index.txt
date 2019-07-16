@@ -1,0 +1,3 @@
+.. category:: Zelzate
+   :category-id: be:gent:oost.vlaanderen:zelzate
+   :en: Zelzate

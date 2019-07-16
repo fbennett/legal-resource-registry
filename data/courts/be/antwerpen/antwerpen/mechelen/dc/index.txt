@@ -1,0 +1,3 @@
+.. court:: Vredegerecht
+   :court-id: be:antwerpen:antwerpen:mechelen;dc
+   :en: Justice of the Peace

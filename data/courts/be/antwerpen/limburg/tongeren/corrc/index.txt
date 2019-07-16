@@ -1,0 +1,3 @@
+.. court:: Correctionele rechtbank
+   :court-id: be:antwerpen:limburg:tongeren;corrc
+   :en: Correctional court

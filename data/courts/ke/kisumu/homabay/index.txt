@@ -1,0 +1,3 @@
+.. category:: Homabay
+   :category-id: ke:kisumu:homabay
+   :en: Homabay

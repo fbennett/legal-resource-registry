@@ -1,2 +1,3 @@
 .. category:: Nyeri
    :category-id: ke:nyeri
+   :en: Nyeri

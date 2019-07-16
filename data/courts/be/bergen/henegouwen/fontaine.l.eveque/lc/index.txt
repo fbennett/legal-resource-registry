@@ -1,0 +1,3 @@
+.. court:: Arbeidsrechtbank
+   :court-id: be:bergen:henegouwen:fontaine.l.eveque;lc
+   :en: Labor Court

@@ -1,0 +1,3 @@
+.. category:: Kajiado
+   :category-id: ke:nairobi:kajiado
+   :en: Kajiado

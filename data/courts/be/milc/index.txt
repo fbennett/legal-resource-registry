@@ -1,0 +1,3 @@
+.. court:: Militair Gerechtshof
+   :court-id: be;milc
+   :en: Military court

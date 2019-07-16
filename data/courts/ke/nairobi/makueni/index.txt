@@ -1,0 +1,3 @@
+.. category:: Makueni
+   :category-id: ke:nairobi:makueni
+   :en: Makueni
