@@ -1,0 +1,5 @@
+.. court:: High Court|Family Division
+   :court-id: sg;hc.family
+   :url: https://www.familyjusticecourts.gov.sg/
+   :en: Family Division
+   :zh-cn: 高等法庭家事处

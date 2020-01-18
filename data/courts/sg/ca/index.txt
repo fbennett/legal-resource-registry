@@ -1,0 +1,7 @@
+.. court:: Court of Appeal
+   :court-id: sg;ca
+   :url: https://www.supremecourt.gov.sg
+   :en: Court of Appeal
+   :zh-cn: 最高法庭
+   :ms: 
+   :ta: 

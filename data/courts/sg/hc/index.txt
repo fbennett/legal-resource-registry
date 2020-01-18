@@ -1,4 +1,7 @@
 .. court:: High Court
    :court-id: sg;hc
-   :url: http://supremecourt.gov/
-
+   :url: https://www.supremecourt.gov.sg
+   :en: High Court
+   :zh-cn: 高等法庭
+   :ms:
+   :ta: 
