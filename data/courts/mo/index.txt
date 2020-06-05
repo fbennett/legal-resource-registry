@@ -1,0 +1,2 @@
+.. category:: Macau
+   :category-id: mo

@@ -1,0 +1,4 @@
+.. court:: Tribunal Judicial de Base|Juízos Criminais
+   :court-id: mo;tjb.jc
+   :en: Criminal Division
+   :zh-tw: 刑事法庭

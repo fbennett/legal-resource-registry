@@ -1,0 +1,4 @@
+.. court:: Tribunal de Segunda Instância
+   :court-id: mo;tsi
+   :en: Court of Second Instance
+   :zh-tw: 中級法院
